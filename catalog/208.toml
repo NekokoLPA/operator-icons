@@ -24,6 +24,8 @@ gid1 = "0407ffff"
 gid2 = "ffffffff"
 profile_provider_names = ["Holafly"]
 profile_names = ["Holafly"]
+icon = "holafly"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "536e617065"

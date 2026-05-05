@@ -277,7 +277,7 @@ gid1 = "0407ffffffffffffffff"
 gid2 = "0407ffffffffffffffff"
 profile_provider_names = ["Holafly"]
 profile_names = ["CMLink GDS"]
-icon = "3"
+icon = "holafly"
 icon_scope = "worldwide"
 
 [[operators.gids]]

@@ -174,7 +174,7 @@ gid1 = "0507"
 gid2 = "0507"
 profile_provider_names = ["Holafly"]
 profile_names = ["Holafly"]
-icon = "3"
+icon = "holafly"
 icon_scope = "worldwide"
 
 [[operators.gids]]
