@@ -9,6 +9,14 @@ plmn = "41701"
 operator = "Syriatel Mobile Telecom"
 brand = "Syriatel"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+icon = "syriatel"
+icon_scope = "417"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Syriatel"]
+profile_names = ["profilename", "HBSYST020026_Syria_Syriatel_eSIM"]
 
 [[operators]]
 mnc = "02"
@@ -17,12 +25,14 @@ operator = "MTN Syria"
 brand = "MTN"
 tadig = "SYRSP"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+icon = "mtn"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffff"
 gid2 = "ffffffff"
 profile_provider_names = ["MTN"]
-profile_names = []
+profile_names = ["MTN_HBSYMT020024_PROFILE_41702"]
 
 [[operators]]
 mnc = "09"

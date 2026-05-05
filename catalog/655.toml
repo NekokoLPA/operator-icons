@@ -10,12 +10,14 @@ operator = "Vodacom"
 brand = "Vodacom"
 tadig = "ZAFVC"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / LTE 5200 / LTE 5800"
+icon = "vodafone"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ff"
 gid2 = "ff"
 profile_provider_names = []
-profile_names = []
+profile_names = ["Vodacom eSim"]
 
 [[operators]]
 mnc = "02"
@@ -24,12 +26,14 @@ operator = "Telkom SA SOC Ltd"
 brand = "Telkom"
 tadig = "ZAFJT"
 bands = "GSM 1800 / UMTS 2100 / LTE 1800 / TD-LTE 2300"
+icon = "telkom"
+icon_scope = "655"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["Telkom South Africa"]
-profile_names = []
+profile_names = ["TelkomSA eSIM"]
 
 [[operators]]
 mnc = "04"
@@ -56,18 +60,14 @@ operator = "Cell C (Pty) Ltd"
 brand = "Cell C"
 tadig = "ZAFCC"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / LTE 1800 / LTE 2100"
+icon = "cell-c"
+icon_scope = "655"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
-profile_provider_names = ["CellC_CLLC_6.1.1"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["ME&YOU"]
-profile_names = []
+profile_provider_names = ["CellC_CLLC_6.1.1", "ME&YOU"]
+profile_names = ["Cell C", "ME&YOU Profile", "AR_CLC_ZAF_B2C_0002"]
 
 [[operators]]
 mnc = "10"
@@ -76,6 +76,14 @@ operator = "MTN Group"
 brand = "MTN"
 tadig = "ZAFMN"
 bands = "GSM 900 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100"
+icon = "mtn"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Melon Mobile", "MTN SA", "AirMobile", "MegsApp"]
+profile_names = ["MTN-SA", "VAL_eSIM_AIRM_p", "Air Mobile", "VAL_eSIM_p"]
 
 [[operators]]
 mnc = "11"

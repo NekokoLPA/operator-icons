@@ -10,6 +10,14 @@ operator = "Telenor Serbia"
 brand = "Telenor"
 tadig = "YUGMT"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800"
+icon = "telenor"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Yettel eSIM"]
+profile_names = ["Yettel SRB"]
 
 [[operators]]
 mnc = "02"
@@ -24,18 +32,20 @@ plmn = "22003"
 operator = "Telekom Srbija"
 brand = "mts"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / TETRA"
+icon = "mts"
+icon_scope = "220"
 
 [[operators.gids]]
 gid1 = "ffffffff"
 gid2 = "ffffffff"
 profile_provider_names = ["mts"]
-profile_names = []
+profile_names = ["mts"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["Globaltel"]
-profile_names = []
+profile_names = ["Globaltel"]
 
 [[operators]]
 mnc = "04"
@@ -51,6 +61,14 @@ operator = "VIP Mobile"
 brand = "VIP"
 tadig = "SRBNO"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800"
+icon = "one"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["A1 SRB"]
+profile_names = ["A1RS Prepaid eSIM", "Procescom_MultiIMSI"]
 
 [[operators]]
 mnc = "07"

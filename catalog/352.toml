@@ -17,3 +17,9 @@ operator = "Cable & Wireless Grenada Ltd."
 brand = "FLOW"
 tadig = "GRDCW"
 bands = "GSM 850 / LTE"
+
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = []
+profile_names = ["89010177031900013124", "89010177031800057445"]

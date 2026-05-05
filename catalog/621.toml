@@ -17,6 +17,14 @@ operator = "Bharti Airtel Limited"
 brand = "Airtel"
 tadig = "NGAET"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+icon = "airtel"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Airtel Nigeria", "AirTel Nigeria"]
+profile_names = ["Nigeria_VoLTE_v3", "Nokia6", "Airtel_Nigeria_Consumer"]
 
 [[operators]]
 mnc = "22"
@@ -60,12 +68,20 @@ operator = "MTN Nigeria Communications Limited"
 brand = "MTN"
 tadig = "NGAMN"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 2600 / TD-LTE 3500"
+icon = "mtn"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["MTN Nigeria"]
+profile_names = ["MTN Nigeria"]
 
 [[operators.gids]]
 gid1 = "ff"
 gid2 = ""
 profile_provider_names = ["MTN Nigeria"]
-profile_names = []
+profile_names = ["MTN_NG_ESIM_GD"]
 
 [[operators]]
 mnc = "40"
@@ -82,12 +98,14 @@ operator = "Globacom Ltd"
 brand = "Glo"
 tadig = "NGAGM"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 700"
+icon = "glo"
+icon_scope = "621"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["Glo Nigeria"]
-profile_names = []
+profile_names = ["GLON0013.01_eSIM_20240626_USIM4GProduct_without_CX"]
 
 [[operators]]
 mnc = "60"
@@ -96,3 +114,16 @@ operator = "Emerging Markets Telecommunication Services Ltd."
 brand = "9mobile"
 tadig = "NGAEM"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+
+[[operators]]
+mnc = "74"
+plmn = "62174"
+brand = "Vitel"
+icon = "vitel"
+icon_scope = "621"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Vitel"]
+profile_names = ["Vitel 01"]

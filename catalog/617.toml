@@ -17,7 +17,7 @@ icon_scope = "617"
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["my.t"]
-profile_names = []
+profile_names = ["MyT_Mauritius_eSIM_Consumer_Prepaid_v02.00.00", "MyT_Mauritius_eSIM_Consumer_Postpaid_v02.01.00"]
 
 [[operators]]
 mnc = "02"
@@ -41,3 +41,11 @@ operator = "Emtel Ltd."
 brand = "Emtel"
 tadig = "MUSEM"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+icon = "emtel"
+icon_scope = "617"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["EMTEL"]
+profile_names = []

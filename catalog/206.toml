@@ -16,84 +16,50 @@ operator = "Belgacom Mobile"
 brand = "Proximus"
 tadig = "BELTB"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+icon = "proximus"
+icon_scope = "206"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Carrier", "Roamic", "Redtea Mobile", "Travel", "EIOTCLUB", "Slick", "RedteaGO", "AVOAPP", "Talk2all", "Vacay"]
+profile_names = ["DXY-BICS", "Slick", "ESIM_ACCESS_CARRIER", "EIOTCLUB", "Klook_app", "Roamic_APP", "SmartTraveller", "Telcovillage-XAAX-206-01", "RedteaGO"]
 
 [[operators.gids]]
 gid1 = "0409"
 gid2 = "0409"
 profile_provider_names = ["Proximus"]
-profile_names = []
+profile_names = ["P_Proximus_1.0"]
 
 [[operators.gids]]
 gid1 = "0409"
 gid2 = "ffff"
-profile_provider_names = ["eSIM Go"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "0409"
-gid2 = "ffff"
-profile_provider_names = ["ACMeSIM"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "0409"
-gid2 = "ffff"
-profile_provider_names = ["Pocket eSIM"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "0409"
-gid2 = "ffff"
-profile_provider_names = ["nextSiM EU"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "0409"
-gid2 = "ffff"
-profile_provider_names = ["Esimatic"]
-profile_names = []
+profile_provider_names = ["eSIM Go", "ACMeSIM", "Pocket eSIM", "nextSiM EU", "Esimatic"]
+profile_names = ["eSIM Go"]
 
 [[operators.gids]]
 gid1 = "4d2e3f1a6b7c8d9e"
 gid2 = "5a6b7c8d9e0f1a2b"
 profile_provider_names = ["Roamless"]
-profile_names = []
+profile_names = ["Roamless", "Roamless_Turkey_DI_v01.02.00"]
 
 [[operators.gids]]
 gid1 = "505258524553ffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["Proximus"]
-profile_names = []
+profile_names = ["Proximus_eSIM_20.01"]
 
 [[operators.gids]]
 gid1 = "ffffffffff"
 gid2 = "ffffffffff"
 profile_provider_names = ["Mobile Vikings"]
-profile_names = []
+profile_names = ["eSIM MV"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
-profile_provider_names = ["Firsty"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["BICS"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["NOMAD"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["ORBITMOBILE"]
-profile_names = []
+profile_provider_names = ["Firsty", "BICS", "NOMAD", "ORBITMOBILE"]
+profile_names = ["Firsty", "BICS", "NOMAD", "ORBITMOBILE", "Kite"]
 
 [[operators]]
 mnc = "02"
@@ -108,6 +74,12 @@ plmn = "20605"
 operator = "Telenet"
 brand = "Telenet"
 bands = "MVNO"
+
+[[operators.gids]]
+gid1 = "a7ffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = []
+profile_names = ["Telenet eSIM"]
 
 [[operators]]
 mnc = "06"
@@ -143,12 +115,27 @@ operator = "Orange S.A."
 brand = "Orange Belgium"
 tadig = "BELMO"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+icon = "orange"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffff"
 gid2 = "ffffffff"
 profile_provider_names = ["Orange Belgium"]
-profile_names = []
+profile_names = ["Orange BE", "UNDO_04_D3.00A"]
+
+[[operators]]
+mnc = "12"
+plmn = "20612"
+brand = "Digi BE"
+icon = "meo"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = ["Digi BE"]
+profile_names = ["Digi BE"]
 
 [[operators]]
 mnc = "15"
@@ -169,30 +156,26 @@ operator = "Telenet"
 brand = "Base"
 tadig = "BELKO"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800"
+icon = "base"
+icon_scope = "206"
 
 [[operators.gids]]
-gid1 = "0000000000000000"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["BASE"]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["LycaMobile"]
 profile_names = []
 
 [[operators.gids]]
 gid1 = "0000000000000000"
 gid2 = "ffffffffffffffff"
-profile_provider_names = ["Telenet"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "0000000000000000"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["Airalo"]
-profile_names = []
+profile_provider_names = ["BASE", "Telenet", "Airalo"]
+profile_names = ["BASE eSIM", "TLN BE Fleet eSIM", "Airalo"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = ""
 profile_provider_names = ["LycaMobile"]
-profile_names = []
+profile_names = ["LycaMobile"]
 
 [[operators]]
 mnc = "25"
@@ -205,61 +188,33 @@ bands = "TD-LTE 2600"
 mnc = "28"
 plmn = "20628"
 operator = "BICS"
-brand = ""
+brand = "BICS"
+icon = "bics"
+icon_scope = "206"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Carrier", "Redtea Mobile", "RedteaGO", "Slick", "Travel"]
+profile_names = ["RTG_Android", "Access_Jetfi", "ESIM_ACCESS_CARRIER", "Roamic_APP", "BICS"]
 
 [[operators.gids]]
 gid1 = "0409"
 gid2 = "0409"
 profile_provider_names = ["BICS"]
-profile_names = []
+profile_names = ["P_BICS_1.0"]
 
 [[operators.gids]]
 gid1 = "0409"
 gid2 = "ffff"
-profile_provider_names = ["eSIM Go"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "0409"
-gid2 = "ffff"
-profile_provider_names = ["PayPoint"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "0409"
-gid2 = "ffff"
-profile_provider_names = ["esimcard.com"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "0409"
-gid2 = "ffff"
-profile_provider_names = ["TraveleSIM"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "0409"
-gid2 = "ffff"
-profile_provider_names = ["Esimatic"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "0409"
-gid2 = "ffff"
-profile_provider_names = ["data2go.mobi"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "0409"
-gid2 = "ffff"
-profile_provider_names = ["PayPoint eSIM"]
-profile_names = []
+profile_provider_names = ["eSIM Go", "PayPoint", "esimcard.com", "TraveleSIM", "Esimatic", "data2go.mobi", "PayPoint eSIM"]
+profile_names = ["eSIM Go"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["BICS"]
-profile_names = []
+profile_names = ["BICS", "Firsty"]
 
 [[operators]]
 mnc = "30"

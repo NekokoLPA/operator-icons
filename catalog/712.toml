@@ -10,12 +10,14 @@ operator = "Instituto Costarricense de Electricidad"
 brand = "Kölbi ICE"
 tadig = "CRICR"
 bands = "GSM 1800 / UMTS 850 / LTE 1800 / LTE 2600"
+icon = "k-lbi-ice"
+icon_scope = "712"
 
 [[operators.gids]]
 gid1 = "ffffffff"
 gid2 = "ffffffff"
 profile_provider_names = ["Kolbi ICE"]
-profile_names = []
+profile_names = ["Perfil eSIM masivo para celulares"]
 
 [[operators]]
 mnc = "02"
@@ -31,6 +33,14 @@ operator = "Claro CR Telecomunicaciones (Aló)"
 brand = "Claro"
 tadig = "CRICL"
 bands = "GSM 1800 / UMTS 2100 / LTE 1800"
+icon = "claro"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["claroCENAMcostarica", "Claro"]
+profile_names = []
 
 [[operators]]
 mnc = "04"
@@ -39,12 +49,14 @@ operator = "Telefónica Móviles Costa Rica"
 brand = "movistar"
 tadig = "CRITC"
 bands = "GSM 1800 / UMTS 850 / UMTS 2100 / LTE 1800"
+icon = "movistar"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "00"
 gid2 = ""
 profile_provider_names = ["Liberty CR"]
-profile_names = []
+profile_names = ["8950604508412850026F", "8950604508502480213F", "8950604508502496441F"]
 
 [[operators]]
 mnc = "20"

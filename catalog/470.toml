@@ -10,12 +10,14 @@ operator = "Grameenphone Ltd."
 brand = "Grameenphone"
 tadig = "BGDGP"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+icon = "grameenphone"
+icon_scope = "470"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["Grameenphone"]
-profile_names = []
+profile_names = ["Grameenphone"]
 
 [[operators]]
 mnc = "02"
@@ -23,12 +25,14 @@ plmn = "47002"
 operator = "Axiata Bangladesh Ltd."
 brand = "Robi"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800"
+icon = "robi"
+icon_scope = "470"
 
 [[operators.gids]]
 gid1 = "ffffffff"
 gid2 = "ffffffff"
 profile_provider_names = ["Robi"]
-profile_names = []
+profile_names = ["Robi eSIM"]
 
 [[operators]]
 mnc = "03"
@@ -37,12 +41,14 @@ operator = "Banglalink Digital Communications Ltd."
 brand = "Banglalink"
 tadig = "BGDBL"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+icon = "banglalink"
+icon_scope = "470"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["Banglalink"]
-profile_names = []
+profile_names = ["Profile_Banglalink_47003_002", "Profile_Banglalink_47003_001", "Banglalink"]
 
 [[operators]]
 mnc = "04"
@@ -50,12 +56,20 @@ plmn = "47004"
 operator = "Teletalk Bangladesh Limited"
 brand = "TeleTalk"
 bands = "GSM 900 / UMTS 2100 / LTE 1800"
+icon = "teletalk"
+icon_scope = "470"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Teletalk"]
+profile_names = ["Teletalk General 01"]
 
 [[operators.gids]]
 gid1 = "ffffffff"
 gid2 = "ffffffff"
 profile_provider_names = ["Teletalk"]
-profile_names = []
+profile_names = ["Teletalk General 02"]
 
 [[operators]]
 mnc = "05"
@@ -70,12 +84,14 @@ plmn = "47007"
 operator = "Bharti Airtel Bangladesh Ltd."
 brand = "Airtel"
 bands = "GSM 900 / GSM 1800 / UMTS 2100"
+icon = "airtel"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffff"
 gid2 = "ffffffff"
 profile_provider_names = ["Airtel"]
-profile_names = []
+profile_names = ["Airtel eSIM"]
 
 [[operators]]
 mnc = "09"

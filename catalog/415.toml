@@ -18,12 +18,14 @@ operator = "MIC 2"
 brand = "Touch"
 tadig = "LBNLC"
 bands = "GSM 900 / UMTS 2100 / LTE 800 / LTE 1800"
+icon = "touch"
+icon_scope = "415"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = ""
 profile_provider_names = ["touch"]
-profile_names = []
+profile_names = ["profilename"]
 
 [[operators]]
 mnc = "05"

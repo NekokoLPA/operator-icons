@@ -14,112 +14,58 @@ icon = "singtel"
 icon_scope = "525"
 
 [[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Singtel", "Vacay", "ByteSIM", "DJB", "yoho"]
+profile_names = ["Singtel", "RTG_Android", "RedteaGO", "Klook_app", "ESIM_ACCESS_CARRIER", "Roamic_APP", "89320420000203704778", "2034_1729496083759"]
+
+[[operators.gids]]
 gid1 = "45736b696d6f"
 gid2 = "ffffffffffff"
 profile_provider_names = ["Eskimo"]
-profile_names = []
+profile_names = ["Eskimo"]
 
 [[operators.gids]]
 gid1 = "4745544e4f4d4144"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["Nomad"]
-profile_names = []
+profile_names = ["4F7065726174696F6E616C2050726F66696C65204E616D652031", "Nomad", "Nomad_001"]
 
 [[operators.gids]]
 gid1 = "636f6e6e65637431ffffffffffffff"
 gid2 = "636f6e6e65637432ffffffffffffff"
 profile_provider_names = ["Connect"]
-profile_names = []
+profile_names = ["Telna_MI27_connect_SPN_GID_GP1_v02.17.01.01"]
 
 [[operators.gids]]
 gid1 = "647463706179ffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["dtcpay"]
-profile_names = []
+profile_names = ["4F7065726174696F6E616C2050726F66696C65204E616D652031", "Dtcpay_001"]
 
 [[operators.gids]]
 gid1 = "ffffffff"
 gid2 = "ffffffff"
-profile_provider_names = ["-"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffff"
-gid2 = "ffffffff"
-profile_provider_names = ["Eskimo"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffff"
-gid2 = "ffffffff"
-profile_provider_names = ["Singtel"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffff"
-gid2 = "ffffffff"
-profile_provider_names = ["CMLink"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffff"
-gid2 = "ffffffff"
-profile_provider_names = ["Zero1"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffff"
-gid2 = "ffffffff"
-profile_provider_names = ["VIVIFI"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffff"
-gid2 = "ffffffff"
-profile_provider_names = ["Airalo"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffff"
-gid2 = "ffffffff"
-profile_provider_names = ["Connect"]
-profile_names = []
+profile_provider_names = ["-", "Eskimo", "Singtel", "CMLink", "Zero1", "VIVIFI", "Airalo", "Connect"]
+profile_names = ["Eskimo", "Singtel", "Zero1", "CMLink", "Airalo", "-", "VIVIFI", "5G GOMO", "Heya 5G", "Connect"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
-profile_provider_names = ["Singtel"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["Zero1"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["VIVIFI"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["-"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["Travelgoogoo"]
-profile_names = []
+profile_provider_names = ["Singtel", "Zero1", "VIVIFI", "-", "Travelgoogoo"]
+profile_names = ["Firsty", "4F7065726174696F6E616C2050726F66696C65204E616D652031", "Singtel", "Zero1", "BillionConnect", "VIVIFI", "GOMO", "Roamify", "TGGDualIMSI_001", "MRGeneric_001", "eSIMNEXT"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["SCT"]
-profile_names = []
+profile_names = ["HongKongSCT"]
+
+[[operators.gids]]
+gid1 = "none"
+gid2 = "none"
+profile_provider_names = []
+profile_names = ["Singtel"]
 
 [[operators]]
 mnc = "02"
@@ -136,30 +82,20 @@ operator = "M1 Limited"
 brand = "M1"
 tadig = "SGPM1"
 bands = "UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2600"
+icon = "m1"
+icon_scope = "525"
 
 [[operators.gids]]
 gid1 = "ffff"
 gid2 = "ffff"
 profile_provider_names = ["M1"]
-profile_names = []
+profile_names = ["M1", "ESIM-A1-R2(PP)"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
-profile_provider_names = ["CIRCLEASIA"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["Circles"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["MyRepublic"]
-profile_names = []
+profile_provider_names = ["CIRCLEASIA", "Circles", "MyRepublic"]
+profile_names = ["CIRCLEASIA", "Circles", "MyRepublic"]
 
 [[operators]]
 mnc = "05"
@@ -168,90 +104,68 @@ operator = "StarHub Mobile"
 brand = "StarHub"
 tadig = "SGPSH"
 bands = "UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2100 / LTE 2600 / TD-LTE 2500"
+icon = "starhub"
+icon_scope = "525"
 
 [[operators.gids]]
 gid1 = "4442"
 gid2 = "ffff"
 profile_provider_names = ["giga"]
-profile_names = []
+profile_names = ["giga"]
 
 [[operators.gids]]
 gid1 = "616972616c6f31"
 gid2 = "616972616c6f32"
 profile_provider_names = ["airalo"]
-profile_names = []
+profile_names = ["SI10_52505_airalo_SPN_GID_CP_ND_v01.04.03"]
 
 [[operators.gids]]
 gid1 = "616972616c6f31ffffffffffffffff"
 gid2 = "616972616c6f32ffffffffffffffff"
 profile_provider_names = ["airalo"]
-profile_names = []
+profile_names = ["MI10_airalo_SPN_GID_CP_GP1_v02.18.03"]
 
 [[operators.gids]]
 gid1 = "616c6f73696d31ffffffffffffffff"
 gid2 = "616c6f73696d32ffffffffffffffff"
 profile_provider_names = ["aloSIM"]
-profile_names = []
+profile_names = ["Telna_MI10_aloSIM_SPN_GID_CP_v02.18.04"]
 
 [[operators.gids]]
 gid1 = "626e6573696d31ffffffffffffffff"
 gid2 = "626e6573696d32ffffffffffffffff"
 profile_provider_names = ["BNE SIM"]
-profile_names = []
+profile_names = ["Telna_MI10_BNE_SIM_SPN_GID_GP1_v02.18.01"]
 
 [[operators.gids]]
 gid1 = "636f6e6e65637431"
 gid2 = "636f6e6e65637432"
 profile_provider_names = ["connect"]
-profile_names = []
+profile_names = ["Telna_SI10_52505_connect_SPN_GID_ND_v01.04.04"]
 
 [[operators.gids]]
 gid1 = "636f6e6e65637431ffffffffffffff"
 gid2 = "636f6e6e65637432ffffffffffffff"
-profile_provider_names = ["Connect"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "636f6e6e65637431ffffffffffffff"
-gid2 = "636f6e6e65637432ffffffffffffff"
-profile_provider_names = ["GlobalYO"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "636f6e6e65637431ffffffffffffff"
-gid2 = "636f6e6e65637432ffffffffffffff"
-profile_provider_names = ["Jetpac"]
-profile_names = []
+profile_provider_names = ["Connect", "GlobalYO", "Jetpac"]
+profile_names = ["Telna_MI10_Connect_SPN_GID_v02.18.05"]
 
 [[operators.gids]]
 gid1 = "ffffffff"
 gid2 = "ffffffff"
-profile_provider_names = ["eight"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffff"
-gid2 = "ffffffff"
-profile_provider_names = ["StarHub"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffff"
-gid2 = "ffffffff"
-profile_provider_names = ["giga"]
-profile_names = []
+profile_provider_names = ["eight", "StarHub", "giga"]
+profile_names = ["eight", "Starhub Profile"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["MyRepublic"]
-profile_names = []
+profile_names = ["MyRepublic"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["UNICOM SG"]
-profile_names = []
+profile_names = ["UNICOM SG"]
 
 [[operators]]
 mnc = "06"
@@ -283,8 +197,10 @@ bands = "MVNO"
 mnc = "10"
 plmn = "52510"
 operator = "TPG Telecom Pte Ltd"
-brand = ""
+brand = "SIMBA"
 bands = "LTE 900 / TD-LTE 2300"
+icon = "simba"
+icon_scope = "525"
 
 [[operators.gids]]
 gid1 = "00000000"
@@ -296,7 +212,7 @@ profile_names = []
 gid1 = "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
 gid2 = "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
 profile_provider_names = ["SIMBA"]
-profile_names = []
+profile_names = ["Simba_Telecom_Singapore_MI_5G_AP_v01.04.01"]
 
 [[operators]]
 mnc = "11"
@@ -310,3 +226,14 @@ plmn = "52512"
 operator = "GRID Communications Pte Ltd."
 brand = "Grid"
 bands = "iDEN 800"
+
+[[operators]]
+mnc = "016"
+plmn = "525016"
+brand = "eSIM.sm"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["eSIM.sm"]
+profile_names = []

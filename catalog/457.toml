@@ -10,12 +10,14 @@ operator = "Lao Telecom"
 brand = "LaoTel"
 tadig = "LAOTC"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 2600"
+icon = "laotel"
+icon_scope = "457"
 
 [[operators.gids]]
 gid1 = "ffffffff"
 gid2 = "ffffffff"
 profile_provider_names = ["Lao Telecom"]
-profile_names = []
+profile_names = ["Profile Name"]
 
 [[operators]]
 mnc = "02"
@@ -32,11 +34,32 @@ operator = "Star Telecom Co., Ltd"
 brand = "Unitel"
 tadig = "LAOAS"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE"
+icon = "unitel"
+icon_scope = "457"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Unitel"]
+profile_names = ["Unitel_Default"]
 
 [[operators.gids]]
 gid1 = "000000a2"
 gid2 = "00000000"
 profile_provider_names = ["UNITEL"]
+profile_names = ["UNI 22.1"]
+
+[[operators]]
+mnc = "07"
+plmn = "45707"
+brand = "BEST"
+icon = "best"
+icon_scope = "457"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["BEST"]
 profile_names = []
 
 [[operators]]
@@ -46,6 +69,8 @@ operator = "VimpelCom Lao Ltd"
 brand = "Beeline"
 tadig = "LAOTL"
 bands = "GSM 900 / GSM 1800 / UMTS 2100"
+icon = "beeline"
+icon_scope = "457"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"

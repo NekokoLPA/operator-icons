@@ -70,14 +70,14 @@ brand = ""
 [[operators]]
 mnc = "100"
 plmn = "313100"
-operator = "700 MHz Public Safety Broadband"
+operator = "700 MHz Public Safety Broadband"
 brand = "FirstNet"
 bands = "LTE 700"
 
 [[operators]]
 mnc = "110"
 plmn = "313110"
-operator = "700 MHz Public Safety Broadband"
+operator = "700 MHz Public Safety Broadband"
 brand = "FirstNet"
 bands = "LTE"
 
@@ -209,6 +209,12 @@ operator = "Altice USA Wireless, Inc."
 brand = ""
 bands = "MVNO"
 
+[[operators.gids]]
+gid1 = "11ffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = []
+profile_names = ["Optimum Mobile"]
+
 [[operators]]
 mnc = "400"
 plmn = "313400"
@@ -243,8 +249,16 @@ brand = ""
 mnc = "460"
 plmn = "313460"
 operator = "Mobi, Inc."
-brand = ""
+brand = "Mobi"
 bands = "MVNO"
+icon = "mobi"
+icon_scope = "313"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["mobi"]
+profile_names = ["mobi PROD RiPSIM v1.1", "mobi PROD RiPSIM v1.1_unique_QR"]
 
 [[operators]]
 mnc = "470"
@@ -300,3 +314,16 @@ mnc = "560"
 plmn = "313560"
 operator = "Transit Wireless LLC"
 brand = ""
+
+[[operators]]
+mnc = "790"
+plmn = "313790"
+brand = "Liberty PR"
+icon = "liberty-pr"
+icon_scope = "313"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Liberty PR"]
+profile_names = ["Liberty", "89017901028902840163", "89017901028903214277", "89017901028903599958", "89017901028902325876", "89017901028903597267", "89017901028902722650", "89017901028903571791", "89017901028905688080", "89017901028905710371", "89017901028905832449", "89017901028905640156", "89017901028905741988", "89017901028905779301", "89017901028903090677", "89017901028905904180", "89017901028906204234", "89017901028905865076", "89017901028904025656", "89017901028906102644", "89017901028906075279", "89017901028903423969"]

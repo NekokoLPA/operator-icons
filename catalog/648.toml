@@ -25,9 +25,11 @@ operator = "Econet Wireless"
 brand = "Econet"
 tadig = "ZWEET"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+icon = "econet"
+icon_scope = "648"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["ECONET"]
-profile_names = []
+profile_names = ["Econet_Zimbabwe_ND_Generic_QR_Code_v01.02.00"]

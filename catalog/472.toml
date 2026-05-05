@@ -10,6 +10,14 @@ operator = "Dhivehi Raajjeyge Gulhun"
 brand = "Dhiraagu"
 tadig = "MDV01"
 bands = "GSM 900 / UMTS 2100 / LTE 1800 / LTE 2600 / 5G 3500"
+icon = "dhiraagu"
+icon_scope = "472"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Dhiraagu"]
+profile_names = ["Dhiraagu_48h", "Dhiraagu_365"]
 
 [[operators]]
 mnc = "02"
@@ -18,9 +26,11 @@ operator = "Wataniya Telecom Maldives"
 brand = "Ooredoo"
 tadig = "MDVWM"
 bands = "GSM 900 / UMTS 2100 / LTE 2600"
+icon = "ooredoo"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffff"
 gid2 = "ffffffff"
 profile_provider_names = ["Ooredoo"]
-profile_names = []
+profile_names = ["profilename"]

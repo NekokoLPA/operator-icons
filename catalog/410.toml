@@ -10,6 +10,8 @@ operator = "Mobilink-PMCL"
 brand = "Jazz"
 tadig = "PAKMK"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800"
+icon = "jazz"
+icon_scope = "410"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
@@ -31,6 +33,14 @@ operator = "Pakistan Telecommunication Mobile Ltd"
 brand = "Ufone"
 tadig = "PAKUF"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800"
+icon = "ufone"
+icon_scope = "410"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Onic"]
+profile_names = ["eSIM_Onic"]
 
 [[operators]]
 mnc = "04"
@@ -38,6 +48,14 @@ plmn = "41004"
 operator = "China Mobile"
 brand = "Zong"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100"
+icon = "zong"
+icon_scope = "410"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["ZONG"]
+profile_names = ["cmpak"]
 
 [[operators]]
 mnc = "05"
@@ -53,6 +71,12 @@ operator = "Telenor Pakistan"
 brand = "Telenor"
 tadig = "PAKTP"
 bands = "GSM 900 / GSM 1800 / UMTS 850 / UMTS 2100 / LTE 850 / LTE 1800"
+
+[[operators.gids]]
+gid1 = "ffffff"
+gid2 = "ffffff"
+profile_provider_names = []
+profile_names = ["Telenor"]
 
 [[operators]]
 mnc = "07"

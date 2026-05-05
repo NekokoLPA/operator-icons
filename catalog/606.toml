@@ -10,6 +10,12 @@ operator = "Libyana"
 brand = "Libyana"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
 
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = []
+profile_names = ["Libyana eSIM"]
+
 [[operators]]
 mnc = "01"
 plmn = "60601"
@@ -17,6 +23,12 @@ operator = "Al-Madar Al-Jadeed"
 brand = "Madar"
 tadig = "LBY01"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = ""
+profile_provider_names = []
+profile_names = ["Almadar Aljadid"]
 
 [[operators]]
 mnc = "02"

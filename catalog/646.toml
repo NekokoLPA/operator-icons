@@ -18,6 +18,12 @@ operator = "Orange Madagascar S.A."
 brand = "Orange"
 bands = "GSM 900 / UMTS 2100 / LTE 1800"
 
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = []
+profile_names = ["Orange MG eSIM"]
+
 [[operators]]
 mnc = "03"
 plmn = "64603"
@@ -32,6 +38,12 @@ operator = "Telma Mobile S.A."
 brand = "Telma"
 tadig = "MDGTM"
 bands = "GSM 900 / UMTS 2100 / LTE 1800"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = []
+profile_names = ["profilename"]
 
 [[operators]]
 mnc = "05"

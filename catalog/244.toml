@@ -31,7 +31,7 @@ icon_scope = "244"
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["Elisa"]
-profile_names = []
+profile_names = ["YA"]
 
 [[operators]]
 mnc = "06"
@@ -344,12 +344,14 @@ operator = "Telia Finland Oyj"
 brand = "Telia"
 tadig = "FINTF"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 700 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500"
+icon = "telia"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "01ffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["Telia FI"]
-profile_names = []
+profile_names = ["Telia FI"]
 
 [[operators]]
 mnc = "92"

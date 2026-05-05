@@ -24,12 +24,14 @@ operator = "Speednet Communications Limited"
 brand = "SMART"
 tadig = "BLZSC"
 bands = "CDMA2000 850 / UMTS 850 / LTE 700"
+icon = "smart"
+icon_scope = "702"
 
 [[operators.gids]]
 gid1 = "ffffff"
 gid2 = "ffffff"
 profile_provider_names = ["Smart!"]
-profile_names = []
+profile_names = ["profilename"]
 
 [[operators]]
 mnc = "99"

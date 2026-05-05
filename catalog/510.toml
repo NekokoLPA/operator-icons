@@ -17,6 +17,14 @@ operator = "PT Indonesian Satellite Corporation Tbk (INDOSAT)"
 brand = "Indosat Ooredoo"
 tadig = "IDNSL"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800"
+icon = "3"
+icon_scope = "510"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["INDOSAT", "IOH"]
+profile_names = ["Indosat_eSIM", "CITIC_PROFILE_51001"]
 
 [[operators]]
 mnc = "03"
@@ -46,6 +54,14 @@ plmn = "51009"
 operator = "PT Smartfren Telecom"
 brand = "Smartfren"
 bands = "LTE 850 / TD-LTE 2300"
+icon = "smartfren"
+icon_scope = "510"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Smartfren"]
+profile_names = ["Smartfren", "Profile Name"]
 
 [[operators]]
 mnc = "10"
@@ -54,6 +70,14 @@ operator = "PT Telekomunikasi Selular"
 brand = "Telkomsel"
 tadig = "IDNTS"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / TD-LTE 2300"
+icon = "telkomsel"
+icon_scope = "510"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["TELKOMSEL"]
+profile_names = ["profilename", "Telkomsel_default"]
 
 [[operators]]
 mnc = "11"
@@ -62,12 +86,14 @@ operator = "PT XL Axiata Tbk"
 brand = "XL"
 tadig = "IDNEX"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800"
+icon = "xl"
+icon_scope = "510"
 
 [[operators.gids]]
 gid1 = "ffffffff"
 gid2 = "ffffffff"
 profile_provider_names = ["XL Axiata"]
-profile_names = []
+profile_names = ["XL Postpaid eSIM", "XL Prepaid eSIM"]
 
 [[operators]]
 mnc = "20"
@@ -119,6 +145,14 @@ operator = "PT Hutchison CP Telecommunications"
 brand = "3"
 tadig = "IDN89"
 bands = "GSM 1800 / UMTS 2100 / LTE 1800"
+icon = "3"
+icon_scope = "510"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["3SinyalKuatHemat"]
+profile_names = ["3_eSIM"]
 
 [[operators]]
 mnc = "99"

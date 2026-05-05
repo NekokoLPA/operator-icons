@@ -10,12 +10,14 @@ operator = "Orange Slovensko"
 brand = "Orange"
 tadig = "SVKGT"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 2600"
+icon = "orange"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffff"
 gid2 = "ffffffff"
 profile_provider_names = ["Orange"]
-profile_names = []
+profile_names = ["Orange eSIM"]
 
 [[operators]]
 mnc = "02"
@@ -24,12 +26,14 @@ operator = "Slovak Telekom"
 brand = "Telekom"
 tadig = "SVKET"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / TD-LTE 3700"
+icon = "t-mobile"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffff"
 gid2 = ""
 profile_provider_names = ["Telekom SK"]
-profile_names = []
+profile_names = ["T-Mobile SK"]
 
 [[operators]]
 mnc = "03"
@@ -37,12 +41,14 @@ plmn = "23103"
 operator = "SWAN Mobile, a.s."
 brand = "4ka"
 bands = "LTE 1800 / TD-LTE 3500 / TD-LTE 3700"
+icon = "4ka"
+icon_scope = "231"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["4KA"]
-profile_names = []
+profile_names = ["Swan eSIM"]
 
 [[operators]]
 mnc = "04"
@@ -65,18 +71,14 @@ operator = "O2 Slovakia"
 brand = "O2"
 tadig = "SVKO2"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / TD-LTE 3500 / TD-LTE 3700"
+icon = "o2"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["Radost"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["O2 SK"]
-profile_names = []
+profile_provider_names = ["Radost", "O2 SK"]
+profile_names = ["O2 SK eSIM"]
 
 [[operators]]
 mnc = "07"

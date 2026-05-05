@@ -42,6 +42,12 @@ brand = "Vodafone India"
 tadig = "INDF1"
 bands = "GSM 900"
 
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = []
+profile_names = ["VIL_PR_PROD_GND_GJ_2"]
+
 [[operators]]
 mnc = "07"
 plmn = "40407"
@@ -49,6 +55,8 @@ operator = "Andhra Pradesh and Telangana"
 brand = "IDEA"
 tadig = "IND07"
 bands = "GSM 900"
+icon = "vi"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ff"
@@ -71,6 +79,12 @@ brand = "AirTel"
 tadig = "INDAT"
 bands = "GSM 900"
 
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = []
+profile_names = ["8991102277717119260F"]
+
 [[operators]]
 mnc = "11"
 plmn = "40411"
@@ -78,6 +92,12 @@ operator = "Delhi & NCR"
 brand = "Vodafone India"
 tadig = "INDE1"
 bands = "GSM 900 / GSM 1800"
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = []
+profile_names = ["VIL_PR_PROD_GND_DL_1"]
 
 [[operators]]
 mnc = "12"
@@ -93,12 +113,14 @@ plmn = "40413"
 operator = "Andhra Pradesh and Telangana"
 brand = "Vodafone India"
 bands = "GSM 1800"
+icon = "vodafone"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ff"
 gid2 = "ff"
 profile_provider_names = ["Vi"]
-profile_names = []
+profile_names = ["VIL_PR_PROD_GND_AP_1"]
 
 [[operators]]
 mnc = "14"
@@ -114,6 +136,8 @@ plmn = "40415"
 operator = "Uttar Pradesh (East)"
 brand = "Vodafone India"
 bands = "GSM 900"
+icon = "vodafone"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ff"
@@ -151,6 +175,8 @@ operator = "Kerala"
 brand = "IDEA"
 tadig = "INDEK"
 bands = "GSM 900 / GSM 1800"
+icon = "vi"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ff"
@@ -166,6 +192,12 @@ brand = "Vodafone India"
 tadig = "INDHM"
 bands = "GSM 900 / UMTS 2100"
 
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = []
+profile_names = ["VIL_PO_PROD_GND_MU_4"]
+
 [[operators]]
 mnc = "21"
 plmn = "40421"
@@ -180,12 +212,14 @@ operator = "Maharashtra & Goa"
 brand = "IDEA"
 tadig = "INDBO"
 bands = "GSM 900"
+icon = "vi"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ff"
 gid2 = "ff"
 profile_provider_names = ["Vi"]
-profile_names = []
+profile_names = ["ID_PR_PROD_GND_MH_1"]
 
 [[operators]]
 mnc = "24"
@@ -210,6 +244,8 @@ operator = "Maharashtra & Goa"
 brand = "Vodafone India"
 tadig = "INDBM"
 bands = "GSM 900"
+icon = "vodafone"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ff"
@@ -240,6 +276,12 @@ operator = "Kolkata"
 brand = "Vodafone India"
 tadig = "INDCC"
 bands = "GSM 900 / GSM 1800"
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = []
+profile_names = ["VIL_PR_PROD_GND_KOL_1"]
 
 [[operators]]
 mnc = "31"
@@ -291,12 +333,14 @@ plmn = "40440"
 operator = "Chennai"
 brand = "AirTel"
 tadig = "INDSC"
+icon = "airtel"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = []
-profile_names = []
+profile_names = ["8991402277705690907F"]
 
 [[operators]]
 mnc = "41"
@@ -321,6 +365,8 @@ operator = "Tamil Nadu"
 brand = "Vodafone India"
 tadig = "INDBT"
 bands = "GSM 900"
+icon = "vodafone"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ff"
@@ -343,12 +389,14 @@ operator = "Karnataka"
 brand = "Airtel"
 tadig = "INDJ8"
 bands = "GSM / TD-LTE 2300"
+icon = "airtel"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = []
-profile_names = []
+profile_names = ["8991452277722353173F"]
 
 [[operators]]
 mnc = "46"
@@ -357,6 +405,8 @@ operator = "Kerala"
 brand = "Vodafone India"
 tadig = "INDBK"
 bands = "GSM 900"
+icon = "vodafone"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ff"
@@ -378,12 +428,14 @@ operator = "Andhra Pradesh and Telangana"
 brand = "Airtel"
 tadig = "INDJH"
 bands = "GSM 900"
+icon = "airtel"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = []
-profile_names = []
+profile_names = ["8991492277710451403F"]
 
 [[operators]]
 mnc = "50"
@@ -447,7 +499,7 @@ mnc = "58"
 plmn = "40458"
 operator = "Madhya Pradesh & Chhattisgarh"
 brand = "cellone"
-bands = "GSM 900  / UMTS 2100"
+bands = "GSM 900 / UMTS 2100"
 
 [[operators]]
 mnc = "59"
@@ -462,6 +514,8 @@ plmn = "40460"
 operator = "Rajasthan"
 brand = "Vodafone India"
 bands = "GSM 900"
+icon = "vodafone"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ff"
@@ -520,12 +574,14 @@ plmn = "40470"
 operator = "Rajasthan"
 brand = "AirTel"
 tadig = "INDH1"
+icon = "airtel"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = []
-profile_names = []
+profile_names = ["8991702277704386835F", "8991702277705269758F"]
 
 [[operators]]
 mnc = "71"
@@ -584,12 +640,14 @@ operator = "Madhya Pradesh & Chattishgarh"
 brand = "IDEA"
 tadig = "INDMP"
 bands = "GSM 900 / UMTS 2100"
+icon = "vi"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ff"
 gid2 = "ff"
 profile_provider_names = ["Vi"]
-profile_names = []
+profile_names = ["ID_PR_PROD_GND_MP_1"]
 
 [[operators]]
 mnc = "79"
@@ -633,6 +691,12 @@ operator = "Chennai"
 brand = "Vodafone India"
 bands = "GSM 1800"
 
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = []
+profile_names = ["VIL_PR_PROD_GND_CHN_1"]
+
 [[operators]]
 mnc = "85"
 plmn = "40485"
@@ -646,6 +710,8 @@ plmn = "40486"
 operator = "Karnataka"
 brand = "Vodafone India"
 bands = "GSM 900 / UMTS 2100 / LTE 1800"
+icon = "vodafone"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ff"
@@ -665,12 +731,14 @@ plmn = "40487"
 operator = "Rajasthan"
 brand = "IDEA"
 tadig = "INDIR"
+icon = "vi"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ff"
 gid2 = "ff"
 profile_provider_names = ["Vi"]
-profile_names = []
+profile_names = ["ID_PR_PROD_GND_RJ_1"]
 
 [[operators]]
 mnc = "88"
@@ -684,6 +752,8 @@ plmn = "40489"
 operator = "Uttar Pradesh (East)"
 brand = "IDEA"
 tadig = "INDIU"
+icon = "vi"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ff"
@@ -698,12 +768,14 @@ operator = "Maharashtra"
 brand = "AirTel"
 tadig = "INDA2"
 bands = "GSM 1800"
+icon = "airtel"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = []
-profile_names = []
+profile_names = ["8991902277707060690F"]
 
 [[operators]]
 mnc = "91"
@@ -720,12 +792,14 @@ operator = "Mumbai"
 brand = "AirTel"
 tadig = "INDA1"
 bands = "GSM 1800 / UMTS 2100"
+icon = "airtel"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = []
-profile_names = []
+profile_names = ["8991922277705599414F"]
 
 [[operators]]
 mnc = "93"
@@ -734,12 +808,14 @@ operator = "Madhya Pradesh"
 brand = "AirTel"
 tadig = "INDA8"
 bands = "GSM 1800"
+icon = "airtel"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = []
-profile_names = []
+profile_names = ["8991932277708771984F", "8991932277708900070F", "8991932277708826945F"]
 
 [[operators]]
 mnc = "94"
@@ -764,18 +840,26 @@ brand = "AirTel"
 tadig = "INDA5"
 bands = "GSM 1800"
 
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = []
+profile_names = ["8991962277703275778F"]
+
 [[operators]]
 mnc = "97"
 plmn = "40497"
 operator = "Uttar Pradesh (West)"
 brand = "AirTel"
 tadig = "INDA6"
+icon = "airtel"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = []
-profile_names = []
+profile_names = ["8991972177701698930F", "8991972277702110412F", "8991972177701851521F", "8991972177701520258F"]
 
 [[operators]]
 mnc = "98"
@@ -783,3 +867,9 @@ plmn = "40498"
 operator = "Gujarat"
 brand = "AirTel"
 tadig = "INDA3"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = []
+profile_names = ["8991982277706376017F"]

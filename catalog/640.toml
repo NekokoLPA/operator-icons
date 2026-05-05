@@ -17,12 +17,14 @@ operator = "MIC Tanzania Limited"
 brand = "tiGO"
 tadig = "TZAMB"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800"
+icon = "tigo"
+icon_scope = "640"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
-profile_provider_names = ["Yas "]
-profile_names = []
+profile_provider_names = ["Yas"]
+profile_names = ["profilename"]
 
 [[operators]]
 mnc = "03"

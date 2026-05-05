@@ -21,7 +21,6 @@ bands = "GSM 900 / GSM 1800 / UMTS 2100"
 [[operators]]
 mnc = "03"
 plmn = "63203"
-operator = ""
 brand = "Orange"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE"
 

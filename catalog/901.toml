@@ -4,9 +4,22 @@ iso = "UN"
 region = "Worldwide"
 
 [[operators]]
+mnc = "01"
+plmn = "90101"
+operator = "Webbing"
+brand = "Webbing"
+icon = "webbing"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Redtea Mobile", "RedteaGO", "Carrier", "Travel", "RedteaMobile"]
+profile_names = ["Klook_app", "Roamic_APP", "ESIM_ACCESS_CARRIER", "RTG_Android", "RedteaGO", "SmartTraveller"]
+
+[[operators]]
 mnc = "03"
 plmn = "90103"
-operator = ""
 brand = "Iridium"
 bands = "Satellite"
 
@@ -28,14 +41,12 @@ bands = "Satellite"
 [[operators]]
 mnc = "10"
 plmn = "90110"
-operator = ""
 brand = "ACeS"
 bands = "Satellite"
 
 [[operators]]
 mnc = "11"
 plmn = "90111"
-operator = ""
 brand = "Inmarsat"
 bands = "Satellite"
 
@@ -149,7 +160,6 @@ bands = "Roaming SIM"
 [[operators]]
 mnc = "29"
 plmn = "90129"
-operator = ""
 brand = "Telenor"
 
 [[operators]]
@@ -197,32 +207,34 @@ bands = "GSM 1800"
 mnc = "37"
 plmn = "90137"
 operator = "Transatel"
-brand = ""
+brand = "Transatel"
 bands = "MVNO"
+icon = "transatel"
+icon_scope = "901"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Ubigi"]
+profile_names = ["TSL_0303"]
 
 [[operators.gids]]
 gid1 = "cc11"
 gid2 = ""
 profile_provider_names = ["Wonet"]
-profile_names = []
+profile_names = ["Wonet"]
 
 [[operators.gids]]
 gid1 = "cc11"
 gid2 = "ffffffff"
 profile_provider_names = ["USIMS"]
-profile_names = []
+profile_names = ["TSL_0271"]
 
 [[operators.gids]]
 gid1 = "ffffffff"
 gid2 = "ffffffff"
-profile_provider_names = ["Ubigi"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffff"
-gid2 = "ffffffff"
-profile_provider_names = ["eSIM"]
-profile_names = []
+profile_provider_names = ["Ubigi", "eSIM"]
+profile_names = ["TSL_0210", "TSL_0264", "TSL_0213", "TSL_0211", "TSL_0263", "TSL_0302", "TSL_0328"]
 
 [[operators]]
 mnc = "38"
@@ -427,7 +439,36 @@ operator = "Legos"
 brand = ""
 
 [[operators]]
+mnc = "70"
+plmn = "90170"
+brand = "CCC Events"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["CCC Events"]
+profile_names = ["CCC_Events"]
+
+[[operators]]
 mnc = "88"
 plmn = "90188"
 operator = "UN Office for the Coordination of Humanitarian Affairs (OCHA)"
 brand = ""
+
+[[operators]]
+mnc = "98"
+plmn = "90198"
+brand = ""
+
+[[operators]]
+mnc = "99"
+plmn = "90199"
+brand = "Roamless"
+icon = "roamless"
+icon_scope = "901"
+
+[[operators.gids]]
+gid1 = "4d2e3f1a6b7c8d9e"
+gid2 = "5a6b7c8d9e0f1a2b"
+profile_provider_names = ["Roamless"]
+profile_names = ["Roamless_Turkey_DI_v01.01.00"]

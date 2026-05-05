@@ -25,6 +25,8 @@ operator = "Telecom Liechtenstein AG"
 brand = "FL1"
 tadig = "LIEMK"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800"
+icon = "fl1"
+icon_scope = "295"
 
 [[operators.gids]]
 gid1 = "616972616c6f31"
@@ -36,12 +38,12 @@ profile_names = []
 gid1 = "626e6573696d31ffffffffffffffff"
 gid2 = "626e6573696d32ffffffffffffffff"
 profile_provider_names = ["BNESIM"]
-profile_names = []
+profile_names = ["Telna_MI14_BNESIM_SPN_GID_GP1_v02.07.01.01"]
 
 [[operators.gids]]
 gid1 = "ffffff"
 gid2 = "ffffff"
-profile_provider_names = ["\n        "]
+profile_provider_names = []
 profile_names = []
 
 [[operators]]

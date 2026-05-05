@@ -1,7 +1,6 @@
 mcc = "314"
 country = "United States of America"
 iso = "US"
-region = ""
 
 [[operators]]
 mnc = "100"

@@ -10,12 +10,14 @@ operator = "Orange Egypt"
 brand = "Orange"
 tadig = "EGYAR"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+icon = "orange"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffff"
 gid2 = "ffffffff"
 profile_provider_names = ["Orange"]
-profile_names = []
+profile_names = ["orange"]
 
 [[operators]]
 mnc = "02"
@@ -24,6 +26,14 @@ operator = "Vodafone Egypt"
 brand = "Vodafone"
 tadig = "EGYMS"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+icon = "vodafone"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["vodafone"]
+profile_names = ["vodafone"]
 
 [[operators]]
 mnc = "03"
@@ -32,12 +42,14 @@ operator = "Etisalat Egypt"
 brand = "Etisalat"
 tadig = "EGYEM"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+icon = "etisalat"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["e& Egypt"]
-profile_names = []
+profile_names = ["e& Egypt"]
 
 [[operators]]
 mnc = "04"
@@ -45,9 +57,11 @@ plmn = "60204"
 operator = "Telecom Egypt"
 brand = "WE"
 bands = "LTE 1800"
+icon = "we"
+icon_scope = "602"
 
 [[operators.gids]]
 gid1 = "e1ffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["we"]
-profile_names = []
+profile_names = ["we"]

@@ -10,6 +10,14 @@ operator = "Mobile TeleSystems"
 brand = "MTS"
 tadig = "RUS01"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / TD-LTE 2600"
+icon = "mts"
+icon_scope = "250"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["MTS RUS"]
+profile_names = ["MTS RUS"]
 
 [[operators]]
 mnc = "02"
@@ -18,12 +26,14 @@ operator = "MegaFon PJSC"
 brand = "MegaFon"
 tadig = "RUSNW"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+icon = "megafon"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["MegaFon"]
-profile_names = []
+profile_names = ["25719", "06728", "02118", "02252", "060585", "79660", "06024", "48284", "79305", "11739", "15479", "02126", "02388", "02583", "11519", "79476", "02482", "469649", "02677", "02544", "02549", "02182", "06219", "13182", "79541", "154787", "02221", "469230", "11577", "278113", "01924", "15459", "11376", "11411", "11345", "06037", "11648", "15480", "06882", "02488", "48280", "06598", "059016", "06176", "02421", "13121", "79445", "02390", "26985", "023249", "06846", "469610", "06293", "06700", "79536", "46944", "06666", "79665", "27928", "02657", "02383", "47115", "05865", "79302", "06151", "0599850", "47177", "06625", "02502", "26961", "38878", "02536", "06601", "11333", "46977", "02785", "11176", "02493", "02408", "11181", "11303", "063840", "118839", "02682", "132775", "01786", "01668", "79481", "0255308", "01864", "02656", "02836", "11950"]
 
 [[operators]]
 mnc = "03"
@@ -87,17 +97,18 @@ plmn = "25011"
 operator = "Scartel"
 brand = "Yota"
 bands = "MVNO"
+icon = "yota"
+icon_scope = "250"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["YOTA"]
-profile_names = []
+profile_names = ["26260", "26341", "26175", "26350", "26345", "26204", "26207", "26184", "26336", "26199", "26187", "26212", "26376", "26214", "26328", "259995", "26386", "26189", "264050", "26400"]
 
 [[operators]]
 mnc = "12"
 plmn = "25012"
-operator = ""
 brand = "Akos"
 bands = "GSM 1800"
 
@@ -139,7 +150,6 @@ bands = "GSM 900 / GSM 1800"
 [[operators]]
 mnc = "18"
 plmn = "25018"
-operator = ""
 brand = "Osnova Telecom"
 bands = "TD-LTE 2300"
 
@@ -149,12 +159,14 @@ plmn = "25019"
 operator = "INDIGO"
 brand = "INDIGO"
 bands = "GSM 1800"
+icon = "indigo"
+icon_scope = "250"
 
 [[operators.gids]]
 gid1 = "fa1307ff"
 gid2 = "ffff"
 profile_provider_names = ["Alfa"]
-profile_names = []
+profile_names = ["0049", "0003", "0043", "0002", "0021", "0009", "0119"]
 
 [[operators]]
 mnc = "20"
@@ -163,18 +175,14 @@ operator = "Tele2"
 brand = "Tele2"
 tadig = "RUST2"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 450 / LTE 1800 / LTE 2600"
+icon = "tele2"
+icon_scope = "250"
 
 [[operators.gids]]
 gid1 = "ffff"
 gid2 = "ffff"
-profile_provider_names = ["t2"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffff"
-gid2 = "ffff"
-profile_provider_names = ["Rostelecom"]
-profile_names = []
+profile_provider_names = ["t2", "Rostelecom"]
+profile_names = ["t2", "Tele2", "Tele2_b2c_eSIM", "Rostelecom"]
 
 [[operators]]
 mnc = "21"
@@ -196,6 +204,19 @@ plmn = "25023"
 operator = "GTNT"
 brand = "Thuraya"
 bands = "Satellite MVNO"
+
+[[operators]]
+mnc = "26"
+plmn = "25026"
+brand = "VTB"
+icon = "vtb"
+icon_scope = "250"
+
+[[operators.gids]]
+gid1 = "ffff"
+gid2 = "ffff"
+profile_provider_names = ["VTB"]
+profile_names = ["0127_VTB", "0253_VTB", "0255_VTB", "0262_VTB", "0058_VTB", "0061_VTB", "0066_VTB"]
 
 [[operators]]
 mnc = "27"
@@ -224,12 +245,14 @@ plmn = "25032"
 operator = "K-Telecom"
 brand = "Win Mobile"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+icon = "k-telecom"
+icon_scope = "250"
 
 [[operators.gids]]
 gid1 = "ffff"
 gid2 = "ffff"
 profile_provider_names = ["WIN-Mobile"]
-profile_names = []
+profile_names = ["WIN-Mobile"]
 
 [[operators]]
 mnc = "33"
@@ -274,17 +297,45 @@ operator = "Stavtelesot / North Caucasian GSM"
 brand = ""
 
 [[operators]]
+mnc = "45"
+plmn = "25045"
+brand = "GPB Mobile"
+icon = "gpb-mobile"
+icon_scope = "250"
+
+[[operators.gids]]
+gid1 = "ffff"
+gid2 = "ffff"
+profile_provider_names = ["GPB Mobile"]
+profile_names = ["2044_GPB", "2045_GPB", "1904_GPB", "2009_GPB", "2013_GPB", "1996_GPB", "2024_GPB", "1909_GPB", "2042_GPB", "2146_GPB", "2005_GPB", "1912_GPB", "2014_GPB", "1805_GPB", "2403_GPB", "2154_GPB", "2068_GPB", "2054_GPB", "2142_GPB", "1911_GPB"]
+
+[[operators]]
+mnc = "47"
+plmn = "25047"
+brand = "Next Mobile"
+icon = "next-mobile"
+icon_scope = "250"
+
+[[operators.gids]]
+gid1 = "ffff"
+gid2 = "ffff"
+profile_provider_names = ["Next Mobile"]
+profile_names = ["0017"]
+
+[[operators]]
 mnc = "50"
 plmn = "25050"
 operator = "Bezlimitno.ru"
 brand = "MTS"
 bands = "MVNO"
+icon = "bezlimitnoru"
+icon_scope = "250"
 
 [[operators.gids]]
 gid1 = "fa3207ffffffffffffff"
 gid2 = "ffff"
 profile_provider_names = ["SberMobile"]
-profile_names = []
+profile_names = ["00131_04", "00290_01", "00157_15", "00266_05", "00148_05", "00288_04", "00252_01", "00148_11", "00288_06", "00274_11", "00246_01", "00274_15", "00288_05", "00131_23", "00274_06", "00128_05", "00175_04", "00223_03", "00302_03", "00266_03", "00268_03", "00275_01", "00251_01", "00170_08", "00268_02", "00209_04", "00148_08", "00246_04", "00096_29", "00170_12", "00140_01", "00163_07", "00302_01", "00260_04", "00170_09", "00157_02", "00274_02", "00148_02", "00158_01", "00131_29", "00268_01", "00157_18", "00300_03", "00163_08", "00131_19", "00148_07", "00157_07", "00200_03", "00309_04", "00142_09", "00170_01", "00130_01", "00131_42", "00163_04", "00300_05", "00311_01", "00253_02", "00096_30"]
 
 [[operators]]
 mnc = "54"
@@ -292,11 +343,26 @@ plmn = "25054"
 operator = "Tattelecom"
 brand = "TTK"
 bands = "LTE 1800"
+icon = "ttk"
+icon_scope = "250"
 
 [[operators.gids]]
 gid1 = "ffff"
 gid2 = "ffff"
 profile_provider_names = ["MIRANDA"]
+profile_names = ["MIRANDA"]
+
+[[operators]]
+mnc = "57"
+plmn = "25057"
+brand = "Matrix"
+icon = "matrix"
+icon_scope = "250"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Matrix"]
 profile_names = []
 
 [[operators]]
@@ -305,18 +371,20 @@ plmn = "25060"
 operator = "KTK Telecom"
 brand = "Volna mobile"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+icon = "ktk-telecom"
+icon_scope = "250"
 
 [[operators.gids]]
 gid1 = "8adaf735e0bd60ff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["Volna Mobile"]
-profile_names = []
+profile_names = ["Volna Mobile"]
 
 [[operators.gids]]
 gid1 = "ffff"
 gid2 = "ffff"
 profile_provider_names = ["Volna Mobile"]
-profile_names = []
+profile_names = ["Volna Mobile"]
 
 [[operators]]
 mnc = "61"
@@ -331,25 +399,14 @@ plmn = "25062"
 operator = "Tinkoff Mobile"
 brand = "Tinkoff Mobile"
 bands = "MVNO"
+icon = "tinkoff-mobile"
+icon_scope = "250"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffffff"
-profile_provider_names = ["T-Mobile"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffffff"
-profile_provider_names = ["Tinkoff"]
-profile_names = []
-
-[[operators]]
-mnc = "811"
-plmn = "250811"
-operator = "Votek Mobile"
-brand = ""
-bands = "AMPS / DAMPS / GSM 1800"
+profile_provider_names = ["T-Mobile", "Tinkoff"]
+profile_names = ["02330", "02442", "02723", "02440", "02483", "02570", "02727", "02325", "02719", "02301", "02722", "02484", "02573", "02726", "02720", "02481", "02725", "02335", "02578", "02575", "02721", "02296", "02571", "02439", "02724", "02728", "02233", "02297", "02338", "02298", "02572", "02340", "02479", "02336", "02312", "02577", "02234", "02569", "02482", "02315", "02485", "02317", "02334", "02773", "02769", "02438", "02337", "02313", "02574", "02239", "02294", "02772", "02478", "02767", "02770", "02314", "02774", "02768", "02765", "02326", "02237", "02230", "01830", "02576", "02766", "02771", "02785", "02300", "02783", "02782"]
 
 [[operators]]
 mnc = "91"
@@ -371,9 +428,74 @@ operator = "Telecom XXI"
 brand = ""
 
 [[operators]]
+mnc = "94"
+plmn = "25094"
+brand = "MirTelecom"
+icon = "mirtelecom"
+icon_scope = "250"
+
+[[operators.gids]]
+gid1 = "ffff"
+gid2 = "ffff"
+profile_provider_names = ["MirTelecom"]
+profile_names = ["MirTelecom"]
+
+[[operators]]
+mnc = "96"
+plmn = "25096"
+brand = "+7Telecom"
+icon = "plus-7telecom"
+icon_scope = "250"
+
+[[operators.gids]]
+gid1 = "ffff"
+gid2 = "ffff"
+profile_provider_names = ["7Telecom", "WIN-Mobile"]
+profile_names = ["7Telecom", "WIN-Mobile"]
+
+[[operators]]
+mnc = "97"
+plmn = "25097"
+brand = ""
+
+[[operators.gids]]
+gid1 = "ffff"
+gid2 = "ffff"
+profile_provider_names = []
+profile_names = ["Phoenix"]
+
+[[operators]]
+mnc = "98"
+plmn = "25098"
+brand = "MCS"
+icon = "mcs"
+icon_scope = "250"
+
+[[operators.gids]]
+gid1 = "ffff"
+gid2 = "ffff"
+profile_provider_names = ["MCS"]
+profile_names = ["MCS"]
+
+[[operators]]
 mnc = "99"
 plmn = "25099"
 operator = "OJSC Vimpel-Communications"
 brand = "Beeline"
 tadig = "RUSBD"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+icon = "beeline"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["beeline"]
+profile_names = ["00466", "00613", "00518", "00528", "00598", "00588", "00270", "00566", "00491", "00580", "00272", "00621", "00647", "00681", "00520", "00312", "00629", "00684", "00257", "00640", "00606", "00668", "00612", "00679", "00536", "00685", "00507", "00623", "00594", "00534", "00294", "00255", "00234", "00651", "00295", "00619", "00597", "00638", "00242", "00631", "00262", "00527", "00542", "00648", "00659", "00230", "00620", "00245", "00596", "00703", "00271", "00611", "00643", "00654", "00671", "00630", "00571", "00670", "00672", "00565", "00626", "00301", "00546", "00627", "00250", "00683", "00610", "00558", "00289", "00564", "00601", "00589", "00650", "00305", "00632", "00625", "00498", "00605", "00510", "00600", "00508", "00617", "00590", "00665", "00667", "00666", "00639", "00260", "00300", "00637", "00265", "00633", "00696", "00501", "00653", "00695", "00587", "00628", "00615", "00236", "00691", "00622", "00675", "00634", "00645", "00238", "00673", "00505", "00493", "00655", "00550", "00644", "00641", "00517", "00290", "00578", "00516", "00709", "00514", "00693", "00657", "00642", "00710", "00686", "00618", "Beeline", "00682", "00697", "00680", "00591", "00082_AOS0040.02", "00278", "00607", "00711", "00636", "00687"]
+
+[[operators]]
+mnc = "811"
+plmn = "250811"
+operator = "Votek Mobile"
+brand = ""
+bands = "AMPS / DAMPS / GSM 1800"

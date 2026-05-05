@@ -10,6 +10,14 @@ operator = "Vodafone Malta"
 brand = "Vodafone"
 tadig = "MLTTL"
 bands = "GSM 900 / UMTS 2100 / LTE 1800"
+icon = "vodafone"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Epic Communications Limited"]
+profile_names = []
 
 [[operators]]
 mnc = "11"
@@ -28,6 +36,12 @@ bands = "GSM 900 / UMTS 2100 / LTE 800 / LTE 1800"
 icon = "go"
 icon_scope = "278"
 
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["gomobile"]
+profile_names = ["GO eSIM"]
+
 [[operators]]
 mnc = "30"
 plmn = "27830"
@@ -40,3 +54,11 @@ plmn = "27877"
 operator = "Melita"
 brand = "Melita"
 bands = "UMTS 900 / UMTS 2100 / LTE 800 / LTE 2100"
+icon = "melita"
+icon_scope = "278"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Melita"]
+profile_names = ["MTMELI005889V2.00"]

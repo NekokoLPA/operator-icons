@@ -10,12 +10,14 @@ operator = "Latvian Mobile Telephone"
 brand = "LMT"
 tadig = "LVALM"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2600"
+icon = "lmt"
+icon_scope = "247"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["LMT"]
-profile_names = []
+profile_names = ["LMT"]
 
 [[operators]]
 mnc = "02"
@@ -24,6 +26,14 @@ operator = "Tele2"
 brand = "Tele2"
 tadig = "LVABC"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500"
+icon = "tele2"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Zelta Zivtina"]
+profile_names = ["T2_LV_Pre", "T2_LV_Ico", "T2_LV_Pos"]
 
 [[operators]]
 mnc = "03"
@@ -31,6 +41,12 @@ plmn = "24703"
 operator = "Telekom Baltija"
 brand = "TRIATEL"
 bands = "CDMA 450"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["eSIMhub", "NUMERO"]
+profile_names = ["eSIMhub TO spec 247_1"]
 
 [[operators]]
 mnc = "04"
@@ -44,6 +60,14 @@ plmn = "24705"
 operator = "Bite Latvija"
 brand = "Bite"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+icon = "bit"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["BITE"]
+profile_names = []
 
 [[operators]]
 mnc = "06"

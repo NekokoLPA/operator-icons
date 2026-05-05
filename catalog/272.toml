@@ -10,12 +10,14 @@ operator = "Vodafone Ireland"
 brand = "Vodafone"
 tadig = "IRLEC"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / 5G 3500"
+icon = "vodafone"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ff"
 gid2 = "ff"
 profile_provider_names = ["Vodafone IE"]
-profile_names = []
+profile_names = ["Vodafone IE eSIM"]
 
 [[operators]]
 mnc = "02"
@@ -24,6 +26,14 @@ operator = "Hutchison 3G Ireland limited"
 brand = "3"
 tadig = "IRLDF"
 bands = "GSM 900 / GSM 1800 / UMTS 2100"
+icon = "3"
+icon_scope = "272"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Three Ireland"]
+profile_names = ["Three Ireland"]
 
 [[operators]]
 mnc = "03"
@@ -32,24 +42,14 @@ operator = "Eir Group plc"
 brand = "Eir"
 tadig = "IRLME"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / 5G 3500"
+icon = "eir"
+icon_scope = "272"
 
 [[operators.gids]]
 gid1 = "ff"
 gid2 = "ff"
-profile_provider_names = ["eir"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ff"
-gid2 = "ff"
-profile_provider_names = ["GoMoWorld"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ff"
-gid2 = "ff"
-profile_provider_names = ["GoMo"]
-profile_names = []
+profile_provider_names = ["eir", "GoMoWorld", "GoMo"]
+profile_names = ["GoMoWorld", "eir", "GoMo"]
 
 [[operators]]
 mnc = "04"
@@ -97,12 +97,20 @@ plmn = "27213"
 operator = "Lycamobile"
 brand = "Lycamobile"
 bands = "MVNO"
+icon = "lycamobile"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["LycaMobile"]
+profile_names = ["LYC40087_5K_GEN_IRL_V1.0_V1.9.0_DI_SMENU_SIMFILES_20250814", "LYC39922_5K_GEN_IRL_V1.0_V1.9.0_DI_SMENU_SIMFILES_20250702", "LYC39301_5K_GEN_IRL_V1.0_V1.8.0_DI_SMENU_SIMFILES_20250311", "LYC40324_5K_GEN_IRL_V1.0_V1.9.0_DI_SMENU_SIMFILES_20250819", "LYC39499_5K_GEN_IRL_V1.0_V1.9.0_DI_SMENU_SIMFILES_20250429", "LYC38279_5K_GEN_IRL_V1.0_V1.8.0_DI_SMENU_SIMFILES_20240503", "LYC38721_2K_GEN_IRL_V1.0_V1.8.0_DI_SMENU_SIMFILES_20240912"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = ""
 profile_provider_names = ["LycaMobile"]
-profile_names = []
+profile_names = ["LycaMobile"]
 
 [[operators]]
 mnc = "15"
@@ -137,3 +145,27 @@ plmn = "27221"
 operator = "Net Feasa Limited"
 brand = ""
 bands = "MVNO"
+
+[[operators]]
+mnc = "25"
+plmn = "27225"
+brand = "Sky IE"
+icon = "sky"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = "0d"
+gid2 = "ff"
+profile_provider_names = ["Sky IE"]
+profile_names = ["Sky IE"]
+
+[[operators]]
+mnc = "68"
+plmn = "27268"
+brand = "NLLP"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["NLLP"]
+profile_names = []

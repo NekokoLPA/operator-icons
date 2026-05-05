@@ -13,7 +13,6 @@ bands = "GSM 900 / GSM 1800 / GSM 1900 / LTE 700"
 [[operators]]
 mnc = "100"
 plmn = "360100"
-operator = ""
 brand = "Cingular Wireless"
 bands = "GSM 850"
 

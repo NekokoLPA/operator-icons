@@ -16,6 +16,19 @@ plmn = "46706"
 operator = "Cheo Technology Jv Company"
 brand = "Koryolink"
 bands = "UMTS 2100"
+icon = "koryolink"
+icon_scope = "467"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["eSIM"]
+profile_names = []
+
+[[operators]]
+mnc = "89"
+plmn = "46789"
+brand = ""
 
 [[operators]]
 mnc = "193"

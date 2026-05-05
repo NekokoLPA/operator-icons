@@ -14,40 +14,22 @@ icon = "mobifone"
 icon_scope = "452"
 
 [[operators.gids]]
-gid1 = "ffffffff"
-gid2 = "ffffffff"
-profile_provider_names = ["Mobifone"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffff"
-gid2 = "ffffffff"
-profile_provider_names = ["MobifonePlus"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffff"
-gid2 = "ffffffff"
+gid1 = ""
+gid2 = ""
 profile_provider_names = ["VNSKY"]
 profile_names = []
 
 [[operators.gids]]
 gid1 = "ffffffff"
 gid2 = "ffffffff"
-profile_provider_names = ["FPT"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffff"
-gid2 = "ffffffff"
-profile_provider_names = ["Saymee"]
-profile_names = []
+profile_provider_names = ["Mobifone", "MobifonePlus", "VNSKY", "FPT", "Saymee"]
+profile_names = ["Mobifone", "VNSKY_v1.2", "MobifonePlusv2", "SKYFII_Consumer_eSIM"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["Local"]
-profile_names = []
+profile_names = ["ASIM_Mobifone_Vietnam_eSIM_Consumer_v01.01.00"]
 
 [[operators]]
 mnc = "02"
@@ -56,24 +38,26 @@ operator = "Vietnam Telecom Services Company"
 brand = "Vinaphone"
 tadig = "VNMVI"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800"
+icon = "vinaphone"
+icon_scope = "452"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["VNPT", "Vacay", "ByteSIM"]
+profile_names = ["VNPT", "JOYTEL_BLANK_QRCODE_appletV4", "CITIC_45202App", "CITIC_45202", "ESIM"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
-profile_provider_names = ["BillionConnect"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["Trip"]
-profile_names = []
+profile_provider_names = ["BillionConnect", "Trip"]
+profile_names = ["BillionConnect", "Vinaphone", "Dosirak", "AsiaCentralTelecom", "uCloudlink"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["VINAPHONE"]
-profile_names = []
+profile_names = ["VNPT eSIM 01"]
 
 [[operators]]
 mnc = "03"
@@ -89,12 +73,20 @@ operator = "Viettel Telecom"
 brand = "Viettel Mobile"
 tadig = "VNMVT"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+icon = "viettel-mobile"
+icon_scope = "452"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["eSIM"]
+profile_names = ["JOYTEL_BLANK_QRCODE_appletV4"]
 
 [[operators.gids]]
 gid1 = "00000000"
 gid2 = "00000000"
 profile_provider_names = ["Viettel"]
-profile_names = []
+profile_names = ["VTT 26.0", "Viettel_EC", "Viettel"]
 
 [[operators]]
 mnc = "05"
@@ -103,12 +95,14 @@ operator = "Hanoi Telecom"
 brand = "Vietnamobile"
 tadig = "VNMVM"
 bands = "GSM 900 / UMTS 2100"
+icon = "vietnamobile"
+icon_scope = "452"
 
 [[operators.gids]]
 gid1 = "ffffffff"
 gid2 = "ffffffff"
 profile_provider_names = ["Vietnamobile"]
-profile_names = []
+profile_names = ["profilename", "Vietnamobile", "KGVNVM020002_VietnaMobile KG eSIM"]
 
 [[operators]]
 mnc = "06"
@@ -130,9 +124,30 @@ plmn = "45208"
 operator = "Indochina Telecom"
 brand = "I-Telecom"
 bands = "WiMAX"
+icon = "i-telecom"
+icon_scope = "452"
 
 [[operators.gids]]
 gid1 = "ffff"
 gid2 = "ffff"
 profile_provider_names = ["iTel"]
-profile_names = []
+profile_names = ["profilename"]
+
+[[operators]]
+mnc = "09"
+plmn = "45209"
+brand = "Wintel"
+icon = "wintel"
+icon_scope = "452"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Wintel"]
+profile_names = ["Mobicast_default", "WINTEL"]
+
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = ["Wintel"]
+profile_names = ["Mobicast_Vietnam_Wintel_SPN_AD_v02.01.02"]

@@ -10,110 +10,68 @@ operator = "Orange S.A."
 brand = "Orange"
 tadig = "FRAF1"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 2600"
-icon = "orange"
+icon = "orange-france"
 icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Roamic", "eSIM", "VOCOM", "Webbing", "ESIM", "Sooty", "BONDIO", "Global", "Telwel", "Manet Travel", "ROAMIC", "Yolla"]
+profile_names = ["Roamic_APP", "JOYTEL_CSL_appletV4", "160_1707095421548", "Addevice-TOB2wApp6", "Orange", "JOYTEL_BLANK_QRCODE_appletV4", "RakutenPhase3Profile", "WEBBING", "ONF_SP2_Single", "19_1716862260386", "ESIM", "Bytetravel-20801", "1ESIM-Anex-Reuse_1", "Global1SIM_Single_SP05", "ESIM_ACCESS_CARRIER", "Centup", "Quantek_LP_TOB1", "Yolla_Reuse_208_01", "RTG_Android"]
 
 [[operators.gids]]
 gid1 = "0407ffff"
 gid2 = "ffffffff"
 profile_provider_names = ["Holafly"]
-profile_names = []
+profile_names = ["Holafly"]
 
 [[operators.gids]]
 gid1 = "536e617065"
 gid2 = ""
-profile_provider_names = ["Airalo"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "536e617065"
-gid2 = ""
-profile_provider_names = ["Flexiroam"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "536e617065"
-gid2 = ""
-profile_provider_names = ["Voye"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "536e617065"
-gid2 = ""
-profile_provider_names = ["Webbing"]
-profile_names = []
+profile_provider_names = ["Airalo", "Flexiroam", "Voye", "Webbing"]
+profile_names = ["WEBBING"]
 
 [[operators.gids]]
 gid1 = "536e617065"
 gid2 = "536e617065000012"
 profile_provider_names = ["Saily"]
-profile_names = []
+profile_names = ["WEBBING"]
 
 [[operators.gids]]
 gid1 = "536e617065"
 gid2 = "536e617065000014"
 profile_provider_names = ["Voye"]
-profile_names = []
+profile_names = ["WEBBING"]
 
 [[operators.gids]]
 gid1 = "536e617065"
 gid2 = "536e617065000015"
 profile_provider_names = ["Flexiroam"]
-profile_names = []
+profile_names = ["WEBBING"]
 
 [[operators.gids]]
 gid1 = "536e617065"
 gid2 = "ffffffffffffffff"
-profile_provider_names = ["Airalo"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "536e617065"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["Webbing"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "536e617065"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["Truely"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "536e617065"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["Connect"]
-profile_names = []
+profile_provider_names = ["Airalo", "Webbing", "Truely", "Connect"]
+profile_names = ["WEBBING"]
 
 [[operators.gids]]
 gid1 = "ffffffff"
 gid2 = "ffffffff"
-profile_provider_names = ["Orange F"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffff"
-gid2 = "ffffffff"
-profile_provider_names = ["Mobile"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffff"
-gid2 = "ffffffff"
-profile_provider_names = ["Orange"]
-profile_names = []
+profile_provider_names = ["Orange F", "Mobile", "Orange"]
+profile_names = ["Mobile", "Orange F", "Orange"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["H3"]
-profile_names = []
+profile_names = ["H3", "single_imsi_dynamic"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["SCT"]
-profile_names = []
+profile_names = ["HongKongSCT"]
 
 [[operators]]
 mnc = "02"
@@ -170,24 +128,20 @@ plmn = "20809"
 operator = "Altice"
 brand = "SFR"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+icon = "sfr"
+icon_scope = "208"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["SFR", "Vacay", "MicroEsim"]
+profile_names = ["SFR", "I_SFR_20809", "Klook_app"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
-profile_provider_names = ["NOMAD"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["Trip"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["ZTSim"]
-profile_names = []
+profile_provider_names = ["NOMAD", "Trip", "ZTSim"]
+profile_names = ["NOMAD", "BICS", "BillionConnect"]
 
 [[operators]]
 mnc = "10"
@@ -196,18 +150,26 @@ operator = "Altice"
 brand = "SFR"
 tadig = "FRAF2"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 LTE 2600"
+icon = "sfr"
+icon_scope = "208"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["SFR France"]
+profile_names = ["SFR_PROD"]
 
 [[operators.gids]]
 gid1 = "13"
 gid2 = ""
 profile_provider_names = ["Prixtel"]
-profile_names = []
+profile_names = ["Prixtel"]
 
 [[operators.gids]]
 gid1 = "ae"
 gid2 = ""
 profile_provider_names = ["RégloMobile"]
-profile_names = []
+profile_names = ["REGLO Mobile"]
 
 [[operators]]
 mnc = "11"
@@ -244,12 +206,14 @@ operator = "Iliad"
 brand = "Free Mobile"
 tadig = "FRAFM"
 bands = "UMTS 900 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2600"
+icon = "iliad"
+icon_scope = "208"
 
 [[operators.gids]]
 gid1 = "ffffffff"
 gid2 = "ffffffff"
 profile_provider_names = ["Free"]
-profile_names = []
+profile_names = ["Free Mobile"]
 
 [[operators]]
 mnc = "16"
@@ -285,18 +249,20 @@ operator = "Bouygues Telecom"
 brand = "Bouygues"
 tadig = "FRAF3"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 700 / LTE 800 / LTE 1800 / LTE 2600"
+icon = "bouygues"
+icon_scope = "208"
 
 [[operators.gids]]
 gid1 = "4e524a31"
 gid2 = "ffffffff"
 profile_provider_names = ["Bouygues Telecom"]
-profile_names = []
+profile_names = ["Bouygues Telecom"]
 
 [[operators.gids]]
 gid1 = "ffffffff"
 gid2 = "ffffffff"
 profile_provider_names = ["Bouygues Telecom"]
-profile_names = []
+profile_names = ["Bouygues Telecom"]
 
 [[operators]]
 mnc = "21"
@@ -332,12 +298,20 @@ plmn = "20825"
 operator = "LycaMobile"
 brand = "LycaMobile"
 bands = "MVNO"
+icon = "lycamobile"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["LycaMobile"]
+profile_names = ["LYC39296_10K_GEN_FRA_V1.0_V1.8.0_DI_SMENU_SIMFILES_20250325"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = ""
 profile_provider_names = ["LycaMobile"]
-profile_names = []
+profile_names = ["LycaMobile"]
 
 [[operators]]
 mnc = "26"
@@ -358,6 +332,12 @@ mnc = "28"
 plmn = "20828"
 operator = "Airbus Defence and Space SAS"
 brand = ""
+
+[[operators.gids]]
+gid1 = "4e524a31ffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = []
+profile_names = ["Airmob_OAS0015_15K_DualIMSI_eSIM"]
 
 [[operators]]
 mnc = "29"
@@ -399,6 +379,20 @@ plmn = "20834"
 operator = "Cellhire France"
 brand = ""
 bands = "MVNO"
+
+[[operators]]
+mnc = "38"
+plmn = "20838"
+operator = "Lebara"
+brand = "Lebara"
+icon = "lebara"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Lebara"]
+profile_names = ["Lebara"]
 
 [[operators]]
 mnc = "50"

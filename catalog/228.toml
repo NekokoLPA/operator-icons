@@ -10,12 +10,14 @@ operator = "Swisscom AG"
 brand = "Swisscom"
 tadig = "CHEC1"
 bands = "GSM 900 / UMTS 900 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 2100 / 5G 3500"
+icon = "swisscom"
+icon_scope = "228"
 
 [[operators.gids]]
 gid1 = "ff"
 gid2 = "ff"
 profile_provider_names = ["Swisscom"]
-profile_names = []
+profile_names = ["CHSWIC153891V2.01", "CHSWIC169891V2.00 (Dynamic Data)"]
 
 [[operators]]
 mnc = "02"
@@ -24,6 +26,14 @@ operator = "Sunrise Communications AG"
 brand = "Sunrise"
 tadig = "CHEDX"
 bands = "GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 3500"
+icon = "sunrise"
+icon_scope = "228"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["yallo eSIM", "Sunrise", "Lebara eSIM", "DR eSIM", "TalkTalk eSIM", "Swype eSIM", "ALDI", "Galaxus"]
+profile_names = ["yallo Prepaid eSIM", "Lebara Prepaid eSIM", "Sunrise eSIM 5G", "Sunrise eSIM", "yallo Postpaid eSIM", "ALDI", "DR eSIM", "TalkTalk Postpaid eSIM", "GMVNE eSIM", "Swype eSIM", "Galaxus", "TalkTalk Prepaid eSIM", "Lebara Postpaid eSIM"]
 
 [[operators]]
 mnc = "03"
@@ -32,6 +42,14 @@ operator = "Salt Mobile SA"
 brand = "Salt"
 tadig = "CHEOR"
 bands = "GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600"
+icon = "salt"
+icon_scope = "228"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Salt"]
+profile_names = ["Salt-eSIM"]
 
 [[operators]]
 mnc = "05"
@@ -117,12 +135,20 @@ plmn = "22854"
 operator = "Lycamobile AG"
 brand = "Lycamobile"
 bands = "MVNO"
+icon = "lycamobile"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["LycaMobile"]
+profile_names = ["LYC39300_5K_GEN_CHE_V1.0_V1.8.0_DI_SMENU_SIMFILES_20250225", "LYC39823_3K_GEN_CHE_V1.0_V1.9.0_DI_SMENU_SIMFILES_20250617"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = ""
 profile_provider_names = ["LycaMobile"]
-profile_names = []
+profile_names = ["LycaMobile"]
 
 [[operators]]
 mnc = "55"
@@ -148,6 +174,8 @@ plmn = "22858"
 operator = "Beeone Communications SA"
 brand = "beeone"
 bands = "MVNO"
+icon = "beeone"
+icon_scope = "228"
 
 [[operators.gids]]
 gid1 = "4d5543484f"
@@ -193,6 +221,30 @@ plmn = "22864"
 operator = "Nth AG"
 brand = ""
 bands = "MVNO"
+
+[[operators]]
+mnc = "65"
+plmn = "22865"
+brand = ""
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = []
+profile_names = ["0007_Nexphone_v01.01.00"]
+
+[[operators]]
+mnc = "71"
+plmn = "22871"
+brand = "spusu"
+icon = "spusu-international"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = "0052"
+gid2 = ""
+profile_provider_names = ["spusu"]
+profile_names = ["spusu eSIM"]
 
 [[operators]]
 mnc = "99"

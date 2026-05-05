@@ -17,6 +17,8 @@ operator = "Digicel (Trinidad & Tobago) Limited"
 brand = "Digicel"
 tadig = "TTODL"
 bands = "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 700 / LTE 1700 / LTE 1900"
+icon = "digicel"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"

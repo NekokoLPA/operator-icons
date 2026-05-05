@@ -9,12 +9,14 @@ plmn = "28967"
 operator = "Aquafon JSC"
 brand = "Aquafon"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800"
+icon = "aquafon"
+icon_scope = "289"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["AQUAFON"]
-profile_names = []
+profile_names = ["AQF000521"]
 
 [[operators]]
 mnc = "88"
@@ -22,3 +24,11 @@ plmn = "28988"
 operator = "A-Mobile LLSC"
 brand = "A-Mobile"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800"
+icon = "a-mobile"
+icon_scope = "289"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["A-Mobile"]
+profile_names = ["A-Mobile"]

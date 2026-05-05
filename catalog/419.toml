@@ -10,12 +10,14 @@ operator = "Zain Kuwait"
 brand = "zain KW"
 tadig = "KWTMT"
 bands = "GSM 900 / UMTS 2100 / LTE 1800 / 5G 3500"
+icon = "zain"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["Zain Kuwait"]
-profile_names = []
+profile_names = ["Prod"]
 
 [[operators]]
 mnc = "03"
@@ -24,6 +26,14 @@ operator = "National Mobile Telecommunications"
 brand = "K.S.C Ooredoo"
 tadig = "KWTNM"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / 5G 3500"
+icon = "ooredoo"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Ooredoo"]
+profile_names = ["Phone_Profile"]
 
 [[operators]]
 mnc = "04"
@@ -32,9 +42,11 @@ operator = "Saudi Telecom Company"
 brand = "STC"
 tadig = "KWTKT"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / 5G 3500"
+icon = "stc"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffff"
 gid2 = "ffffffff"
 profile_provider_names = ["stc KW"]
-profile_names = []
+profile_names = ["stc KW"]

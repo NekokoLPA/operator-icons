@@ -10,6 +10,14 @@ operator = "Telenor Montenegro"
 brand = "Telenor"
 tadig = "MNEPM"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+icon = "telenor"
+icon_scope = "297"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["One"]
+profile_names = ["One"]
 
 [[operators]]
 mnc = "02"
@@ -17,12 +25,14 @@ plmn = "29702"
 operator = "T-Mobile Montenegro LLC"
 brand = "T-Mobile"
 bands = "GSM 900 / UMTS 2100 / LTE 1800"
+icon = "t-mobile"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ff"
 gid2 = "ff"
 profile_provider_names = ["T-Mobile ME"]
-profile_names = []
+profile_names = ["T-Mobile ME"]
 
 [[operators]]
 mnc = "03"
@@ -31,9 +41,11 @@ operator = "MTEL CG"
 brand = "m:tel CG"
 tadig = "MNEMT"
 bands = "GSM 900 / GSM 1800 / UMTS 2100"
+icon = "mtel-cg"
+icon_scope = "297"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["m:tel"]
-profile_names = []
+profile_names = ["m:tel eSIM"]

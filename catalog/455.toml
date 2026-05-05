@@ -18,36 +18,26 @@ operator = "Companhia de Telecomunicações de Macau, S.A.R.L."
 brand = "CTM"
 tadig = "MACCT"
 bands = "LTE 1800"
+icon = "ctm"
+icon_scope = "455"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["CTM", "Vacay", "eSIM", "AIRSIMe", "ESIM"]
+profile_names = ["CTM", "JOYTEL_CMI_appletV4", "urocom_test_applet_qdc", "HQ_CN_HK_appletV4", "CITIC_PROFILE_SAIMING_45501", "ESIM"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
-profile_provider_names = ["CTM"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["BillionConnect"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["Trip"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["AIRSIMe"]
-profile_names = []
+profile_provider_names = ["CTM", "BillionConnect", "Trip", "AIRSIMe"]
+profile_names = ["CTM_1.0.5", "BillionConnect", "AIRSIMe"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffff"
 gid2 = "ffffffffffffffffff"
 profile_provider_names = ["CITIC Telecom"]
-profile_names = []
+profile_names = ["CITIC Telecom"]
 
 [[operators]]
 mnc = "02"
@@ -91,3 +81,11 @@ plmn = "45507"
 operator = "China Telecom (Macau) Limitada"
 brand = "China Telecom"
 bands = "LTE 1800"
+icon = "china-telecom"
+icon_scope = "455"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["ChinaTelecom_Macau"]
+profile_names = ["ChinaTelecom_Macau"]

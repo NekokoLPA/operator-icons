@@ -10,24 +10,20 @@ operator = "Oman Telecommunications Company"
 brand = "Omantel"
 tadig = "OMNGT"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / LTE 1800 / TD-LTE 2300"
+icon = "omantel"
+icon_scope = "422"
 
 [[operators.gids]]
 gid1 = "ff"
 gid2 = "00"
 profile_provider_names = ["Omantel"]
-profile_names = []
+profile_names = ["Omantel"]
 
 [[operators.gids]]
 gid1 = "ffffffff"
 gid2 = "00ffffff"
-profile_provider_names = ["Renna Mobile"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffff"
-gid2 = "00ffffff"
-profile_provider_names = ["Red Bull MOBILE"]
-profile_names = []
+profile_provider_names = ["Renna Mobile", "Red Bull MOBILE"]
+profile_names = ["Renna_ESIM"]
 
 [[operators]]
 mnc = "03"
@@ -36,6 +32,8 @@ operator = "Omani Qatari Telecommunications Company SAOC"
 brand = "ooredoo"
 tadig = "OMNNT"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / LTE 800 / LTE 1800 / TD-LTE 2300"
+icon = "ooredoo"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
@@ -48,3 +46,16 @@ mnc = "04"
 plmn = "42204"
 operator = "Oman Telecommunications Company"
 brand = "Omantel"
+
+[[operators]]
+mnc = "06"
+plmn = "42206"
+brand = "Vodafone Oman"
+icon = "vodafone"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Vodafone Oman"]
+profile_names = ["Vodafone Oman esim supporting SPM", "Vodafone Oman esim"]

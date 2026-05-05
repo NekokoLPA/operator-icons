@@ -10,12 +10,14 @@ operator = "Faroese Telecom"
 brand = "Faroese Telecom"
 tadig = "FROFT"
 bands = "GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800"
+icon = "faroese-telecom"
+icon_scope = "288"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["Foroya Tele"]
-profile_names = []
+profile_names = ["FROFT_02_T01"]
 
 [[operators]]
 mnc = "02"

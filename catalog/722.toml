@@ -4,17 +4,32 @@ iso = "AR"
 region = "South and Central America"
 
 [[operators]]
+mnc = "07"
+plmn = "72207"
+brand = "Movistar Argentina"
+icon = "movistar"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = "01"
+gid2 = ""
+profile_provider_names = ["Movistar Argentina"]
+profile_names = ["Hercules"]
+
+[[operators]]
 mnc = "010"
 plmn = "722010"
 operator = "Telefónica Móviles Argentina S.A."
 brand = "Movistar"
 bands = "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 700 / LTE 1700 / LTE 2600"
+icon = "movistar"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "01"
 gid2 = ""
 profile_provider_names = ["Tuenti Argentina"]
-profile_names = []
+profile_names = ["Hercules"]
 
 [[operators]]
 mnc = "020"
@@ -49,6 +64,14 @@ operator = "AMX Argentina S.A."
 brand = "Claro"
 tadig = "ARGCM"
 bands = "GSM 1900"
+icon = "claro"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Claro"]
+profile_names = ["B11.60"]
 
 [[operators]]
 mnc = "320"

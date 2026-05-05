@@ -18,6 +18,14 @@ operator = "Vodafone Albania"
 brand = "Vodafone"
 tadig = "ALBVF"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2600"
+icon = "vodafone"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["VODAFONE AL"]
+profile_names = []
 
 [[operators]]
 mnc = "03"

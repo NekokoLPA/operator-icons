@@ -17,3 +17,9 @@ operator = "Green Com S.A."
 brand = "Muni"
 tadig = "GNQHT"
 bands = "GSM 900 / GSM 1800 / UMTS 900"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = []
+profile_names = ["MUNI_62703_003"]

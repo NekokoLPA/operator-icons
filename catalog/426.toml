@@ -18,12 +18,14 @@ operator = "Zain Bahrain"
 brand = "zain BH"
 tadig = "BHRMV"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+icon = "zain"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffffffffffffffff"
 gid2 = "ffffffffffffffffffffffffffffffff"
 profile_provider_names = ["ZAIN"]
-profile_names = []
+profile_names = ["Prod"]
 
 [[operators]]
 mnc = "03"
@@ -37,12 +39,14 @@ plmn = "42604"
 operator = "STC Bahrain"
 brand = "STC"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / 5G 3500"
+icon = "stc"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff00a1"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["stc"]
-profile_names = []
+profile_names = ["STC_Bahrain_eSIM_2.0_v001.01", "STC_Bahrain_eSIM_2.0_v002"]
 
 [[operators]]
 mnc = "05"

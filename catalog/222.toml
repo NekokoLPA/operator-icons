@@ -10,60 +10,59 @@ operator = "Telecom Italia S.p.A"
 brand = "TIM"
 tadig = "ITASI"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1500 / LTE 1800 / LTE 2600"
+icon = "tim"
+icon_scope = "222"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Roamic", "TIM", "Nomad", "Bondio", "Narayana", "thirr.com", "VOCOM", "Carrier"]
+profile_names = ["lambda_default", "160_1706687154922", "Roamic_APP", "LotusFlare-22201-app", "Thirr-22201", "Emirates", "TIM", "Telcovillage-XAAX-222-01", "loveSIM", "Bytetravel-22201"]
 
 [[operators.gids]]
 gid1 = "4b656e6101ffffffff"
 gid2 = "ffffffffffffffff04"
 profile_provider_names = ["Kena Mobile"]
-profile_names = []
+profile_names = ["Kena Mobile"]
 
 [[operators.gids]]
 gid1 = "6764ffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["Airalo"]
-profile_names = []
+profile_names = ["Cloud9_Global_Airalo"]
 
 [[operators.gids]]
 gid1 = "ffffff00ffffffffff"
 gid2 = "ffffffffffffffff00"
 profile_provider_names = ["I TIM"]
-profile_names = []
+profile_names = ["TIM"]
 
 [[operators.gids]]
 gid1 = "ffffff00ffffffffff"
 gid2 = "ffffffffffffffff04"
 profile_provider_names = ["I TIM"]
-profile_names = []
+profile_names = ["TIM"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
-profile_provider_names = ["Bondio"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["H3"]
-profile_names = []
+profile_provider_names = ["Bondio", "H3"]
+profile_names = ["H3", "Cloud9_Global_Airalo", "lambda_dynamic", "single_imsi_dynamic"]
 
 [[operators]]
 mnc = "02"
 plmn = "22202"
-operator = ""
 brand = "Elsacom"
 bands = "Satellite (Globalstar)"
 
 [[operators]]
 mnc = "04"
 plmn = "22204"
-operator = ""
 brand = "Intermatica"
 
 [[operators]]
 mnc = "05"
 plmn = "22205"
-operator = ""
 brand = "Telespazio"
 
 [[operators]]
@@ -86,12 +85,14 @@ plmn = "22208"
 operator = "Fastweb S.p.A."
 brand = "Fastweb"
 bands = "MVNO"
+icon = "fastweb"
+icon_scope = "222"
 
 [[operators.gids]]
 gid1 = "d8ffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["Fastweb"]
-profile_names = []
+profile_names = ["Fastweb"]
 
 [[operators]]
 mnc = "10"
@@ -99,13 +100,21 @@ plmn = "22210"
 operator = "Vodafone Italia S.p.A."
 brand = "Vodafone"
 tadig = "ITAOM"
-bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800  / LTE 1500 / LTE 1800 / LTE 2100 / LTE 2600"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1500 / LTE 1800 / LTE 2100 / LTE 2600"
+icon = "vodafone"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["1Mobile", "Vodafone IT"]
+profile_names = ["eSIM 1Mobile", "eSIM Vodafone"]
 
 [[operators.gids]]
 gid1 = "20"
 gid2 = "20"
 profile_provider_names = ["ho.Mobile"]
-profile_names = []
+profile_names = ["eSIM ho.Mobile"]
 
 [[operators]]
 mnc = "30"
@@ -134,12 +143,20 @@ plmn = "22235"
 operator = "Lycamobile"
 brand = "Lycamobile"
 bands = "MVNO"
+icon = "lycamobile"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["LycaMobile"]
+profile_names = ["LYC40268_5K_GEN_ITA_V1.0_V1.9.0_DI_SMENU_SIMFILES_20250912", "LYC37665_10K_GEN_ITA_V1.0_V1.6.0_DI_SMENU_SIMFILES_20230112", "LYC38892_3K_GEN_ITA_V1.0_V1.8.0_DI_SMENU_SIMFILES_20250108"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = ""
 profile_provider_names = ["LycaMobile"]
-profile_names = []
+profile_names = ["LycaMobile"]
 
 [[operators]]
 mnc = "36"
@@ -193,12 +210,14 @@ plmn = "22249"
 operator = "Welcome Italia S.p.A."
 brand = "Vianova"
 bands = "MVNO"
+icon = "vianova"
+icon_scope = "222"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["Vianova"]
-profile_names = []
+profile_names = ["Vianova_eSIM"]
 
 [[operators]]
 mnc = "50"
@@ -207,12 +226,14 @@ operator = "Iliad Italia"
 brand = "Iliad"
 tadig = "ITAFM"
 bands = "UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2600"
+icon = "iliad"
+icon_scope = "222"
 
 [[operators.gids]]
 gid1 = "f003"
 gid2 = "ffffffff"
 profile_provider_names = ["Iliad Italy"]
-profile_names = []
+profile_names = ["iliad", "iliadbusiness eSIM"]
 
 [[operators]]
 mnc = "53"
@@ -220,17 +241,18 @@ plmn = "22253"
 operator = "COOP Voce"
 brand = "COOP Voce"
 bands = "MVNO"
+icon = "coop-voce"
+icon_scope = "222"
 
 [[operators.gids]]
 gid1 = "434f4f50ffffffffff"
 gid2 = "ffffffffffffffffff"
 profile_provider_names = ["CoopVoce"]
-profile_names = []
+profile_names = ["eSIM CoopVoce"]
 
 [[operators]]
 mnc = "54"
 plmn = "22254"
-operator = ""
 brand = "Plintron"
 bands = "MVNO"
 
@@ -240,23 +262,24 @@ plmn = "22256"
 operator = "Mass Response GMBH"
 brand = "Unknown"
 bands = "MVNO"
+icon = "spusu"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "0040"
 gid2 = ""
 profile_provider_names = ["spusu"]
-profile_names = []
+profile_names = ["spusu eSIM"]
 
 [[operators.gids]]
 gid1 = "c7ff"
 gid2 = ""
 profile_provider_names = ["spusu"]
-profile_names = []
+profile_names = ["spusu eSIM"]
 
 [[operators]]
 mnc = "77"
 plmn = "22277"
-operator = ""
 brand = "IPSE 2000"
 bands = "UMTS 2100"
 
@@ -267,18 +290,20 @@ operator = "Wind Tre"
 brand = "Wind"
 tadig = "ITAWI"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600"
+icon = "wind"
+icon_scope = "222"
 
 [[operators.gids]]
 gid1 = "0000000099"
 gid2 = "0000000000"
 profile_provider_names = ["Very"]
-profile_names = []
+profile_names = ["VERY mobile"]
 
 [[operators.gids]]
 gid1 = "ffffffffff"
 gid2 = "0000000000"
 profile_provider_names = ["Windtre"]
-profile_names = []
+profile_names = ["W3 GA", "W3 SOST"]
 
 [[operators]]
 mnc = "98"

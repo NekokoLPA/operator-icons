@@ -10,12 +10,14 @@ operator = "The Bahamas Telecommunications Company Ltd (BaTelCo)"
 brand = "BTC"
 tadig = "BHSBH"
 bands = "GSM 850 / GSM 1900 / UMTS 850 / LTE 700 / LTE 1700"
+icon = "btc"
+icon_scope = "364"
 
 [[operators.gids]]
 gid1 = "ffffffff"
 gid2 = "ffffffff"
 profile_provider_names = ["Liberty BTC"]
-profile_names = []
+profile_names = ["8901391290001789887F", "8901391290001519151F"]
 
 [[operators]]
 mnc = "49"

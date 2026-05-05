@@ -10,12 +10,14 @@ operator = "A1 Belarus"
 brand = "A1"
 tadig = "BLRMD"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100"
+icon = "one"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["A1BY"]
-profile_names = []
+profile_names = ["A1 Belarus"]
 
 [[operators]]
 mnc = "02"
@@ -24,6 +26,14 @@ operator = "Mobile TeleSystems"
 brand = "MTS"
 tadig = "BLR02"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100"
+icon = "mts"
+icon_scope = "257"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["MTS.BY"]
+profile_names = ["MTS.BY"]
 
 [[operators]]
 mnc = "03"
@@ -38,6 +48,14 @@ plmn = "25704"
 operator = "Belarusian Telecommunications Network"
 brand = "life:)"
 bands = "GSM 900 / GSM 1800 / UMTS 2100"
+icon = "life"
+icon_scope = "257"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Life"]
+profile_names = ["Life BLR LTE COMM 01", "Life BLR LTE COMM 02"]
 
 [[operators]]
 mnc = "05"

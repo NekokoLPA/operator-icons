@@ -21,7 +21,6 @@ bands = "GSM 900"
 [[operators]]
 mnc = "08"
 plmn = "41808"
-operator = ""
 brand = "SanaTel"
 bands = "GSM 900"
 
@@ -31,12 +30,14 @@ plmn = "41820"
 operator = "Zain Iraq"
 brand = "Zain"
 bands = "GSM 900 / GSM 1800"
+icon = "zain"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["ZAIN"]
-profile_names = []
+profile_names = ["Mass production profile", "Mass Production Profile"]
 
 [[operators]]
 mnc = "30"
@@ -65,6 +66,17 @@ plmn = "41862"
 operator = "Itisaluna Wireless CO."
 brand = "Itisaluna"
 bands = "CDMA 800 / CDMA 1900"
+
+[[operators]]
+mnc = "66"
+plmn = "41866"
+brand = ""
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = []
+profile_names = ["Fastlink"]
 
 [[operators]]
 mnc = "92"

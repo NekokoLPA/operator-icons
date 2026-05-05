@@ -10,6 +10,14 @@ operator = "China Mobile"
 brand = "China Mobile"
 tadig = "CHNCT"
 bands = "GSM 900 / GSM 1800 / TD-SCDMA 1900 / TD-SCDMA 2000 / TD-LTE 1900 / TD-LTE 2300 / TD-LTE 2500 / 5G 2500"
+icon = "china-mobile"
+icon_scope = "460"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["eSIM", "中国移动"]
+profile_names = ["89000000000000000001", "20260318_recycle_1"]
 
 [[operators.gids]]
 gid1 = "ff"
@@ -30,12 +38,20 @@ operator = "China Unicom"
 brand = "China Unicom"
 tadig = "CHNCU"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800 / TD-LTE 2300 / TD-LTE 2500 / 5G 3500"
+icon = "china-unicom"
+icon_scope = "460"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["eSIM", "中国联通"]
+profile_names = ["NekoMobile", "89860117838016800801", "89860123801147041564", "GJC Test 01"]
 
 [[operators.gids]]
 gid1 = "ff"
 gid2 = "ff"
 profile_provider_names = ["CHINAUNICOM"]
-profile_names = []
+profile_names = ["89860120331580010473.der", "89860124817000436617", "89860121003600007131.der", "89860124818000328697"]
 
 [[operators]]
 mnc = "02"
@@ -44,12 +60,20 @@ operator = "China Mobile"
 brand = "China Mobile"
 tadig = "CHNCM"
 bands = "GSM 900 / GSM 1800 / TD-SCDMA 1900 / TD-SCDMA 2000 / TD-LTE 1900 / TD-LTE 2300 / TD-LTE 2500"
+icon = "china-mobile"
+icon_scope = "460"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["eSIM", "中国移动"]
+profile_names = []
 
 [[operators.gids]]
 gid1 = "ffffffff"
 gid2 = "ffffffff"
 profile_provider_names = ["CMCC"]
-profile_names = []
+profile_names = ["PROFILE_LOW_END"]
 
 [[operators]]
 mnc = "03"
@@ -57,6 +81,14 @@ plmn = "46003"
 operator = "China Telecom"
 brand = "China Telecom"
 bands = "CDMA2000 800 / LTE 850 / LTE 1800 / LTE 2100 / TD-LTE 2300 / TD-LTE 2500 / 5G 3500"
+icon = "china-telecom"
+icon_scope = "460"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["SakiMobi"]
+profile_names = []
 
 [[operators]]
 mnc = "04"
@@ -97,12 +129,20 @@ mnc = "09"
 plmn = "46009"
 operator = "China Unicom"
 brand = "China Unicom"
+icon = "china-unicom"
+icon_scope = "460"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["eSIM"]
+profile_names = []
 
 [[operators.gids]]
 gid1 = "ff"
 gid2 = "ff"
 profile_provider_names = ["CHINAUNICOM"]
-profile_names = []
+profile_names = ["89860921031880090677.der", "89860125874000466390"]
 
 [[operators]]
 mnc = "11"
@@ -110,6 +150,14 @@ plmn = "46011"
 operator = "China Telecom"
 brand = "China Telecom"
 tadig = "CHNDX"
+icon = "china-telecom"
+icon_scope = "460"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["eSIM", "Simlessly"]
+profile_names = []
 
 [[operators]]
 mnc = "20"

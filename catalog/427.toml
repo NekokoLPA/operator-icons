@@ -10,12 +10,20 @@ operator = "ooredoo"
 brand = "ooredoo"
 tadig = "QATQT"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+icon = "ooredoo"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Ooredoo"]
+profile_names = ["OREDO_RT_ED_01"]
 
 [[operators.gids]]
 gid1 = "ff"
 gid2 = "ff"
 profile_provider_names = ["Ooredoo"]
-profile_names = []
+profile_names = ["OoredooeSIM"]
 
 [[operators]]
 mnc = "02"
@@ -24,18 +32,14 @@ operator = "Vodafone Qatar"
 brand = "Vodafone"
 tadig = "QATB1"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500"
+icon = "vodafone"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ff"
 gid2 = "ff"
-profile_provider_names = ["Vodafone Qatar"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ff"
-gid2 = "ff"
-profile_provider_names = ["Vodafone"]
-profile_names = []
+profile_provider_names = ["Vodafone Qatar", "Vodafone"]
+profile_names = ["Vodafone Qatar e-Sim", "Vodafone e-Sim"]
 
 [[operators]]
 mnc = "05"

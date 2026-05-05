@@ -10,24 +10,14 @@ operator = "T-Mobile Czech Republic"
 brand = "T-Mobile"
 tadig = "CZERM"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600"
+icon = "t-mobile"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ff"
 gid2 = "ff"
-profile_provider_names = ["Mobil.cz"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ff"
-gid2 = "ff"
-profile_provider_names = ["T-Mobile CZ"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ff"
-gid2 = "ff"
-profile_provider_names = ["KAKTUS"]
-profile_names = []
+profile_provider_names = ["Mobil.cz", "T-Mobile CZ", "KAKTUS"]
+profile_names = ["T-Mobile CZ", "Mobil.cz", "KAKTUS"]
 
 [[operators]]
 mnc = "02"
@@ -36,18 +26,14 @@ operator = "O2 Czech Republic"
 brand = "O2"
 tadig = "CZEET"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+icon = "o2"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["O2CZ"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["O2 CZ"]
-profile_names = []
+profile_provider_names = ["O2CZ", "O2 CZ"]
+profile_names = ["O2 CZ eSIM PrP CZ", "O2 CZ", "O2 CZ 5G eSIM prod", "O2 CZ eSIM"]
 
 [[operators]]
 mnc = "03"
@@ -56,18 +42,14 @@ operator = "Vodafone Czech Republic"
 brand = "Vodafone"
 tadig = "CZECM"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600"
+icon = "vodafone"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ff"
 gid2 = "ff"
-profile_provider_names = ["SAZKAmobil"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ff"
-gid2 = "ff"
-profile_provider_names = ["Vodafone CZ"]
-profile_names = []
+profile_provider_names = ["SAZKAmobil", "Vodafone CZ"]
+profile_names = ["SAZKAmobil eSIM", "Vodafone CZ eSIM"]
 
 [[operators]]
 mnc = "04"

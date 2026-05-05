@@ -1,6 +1,6 @@
 mcc = "310"
-country = "Bermuda"
-iso = "BM"
+country = "United States of America"
+iso = "US"
 region = "North America and the Caribbean"
 
 [[operators]]
@@ -44,7 +44,6 @@ brand = "Verizon"
 [[operators]]
 mnc = "014"
 plmn = "310014"
-operator = ""
 brand = ""
 
 [[operators]]
@@ -74,6 +73,8 @@ operator = "Union Telephone Company"
 brand = "Union Wireless"
 tadig = "USAUN"
 bands = "GSM 850 / GSM 1900 / UMTS"
+icon = "union-wireless"
+icon_scope = "310"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
@@ -142,6 +143,12 @@ operator = "Alltel US"
 brand = ""
 
 [[operators]]
+mnc = "59"
+plmn = "31059"
+brand = "Cellular One"
+bands = "CDMA"
+
+[[operators]]
 mnc = "060"
 plmn = "310060"
 operator = "Consolidated Telcom"
@@ -168,6 +175,25 @@ plmn = "310080"
 operator = "AT&T Mobility"
 brand = "AT&T"
 bands = "GSM 1900"
+
+[[operators]]
+mnc = "84"
+plmn = "31084"
+brand = "telna Mobile"
+icon = "telna-mobile"
+icon_scope = "310"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Redtea Mobile", "RedteaGO"]
+profile_names = ["RTG_Android", "RedteaGO"]
+
+[[operators.gids]]
+gid1 = "636f6e6e65637431"
+gid2 = "636f6e6e65637432"
+profile_provider_names = ["Carrier", "Redtea Mobile", "RedteaGO", "Roamic", "22SIM"]
+profile_names = ["RedteaGO", "Roamic_APP", "ESIM_ACCESS_CARRIER", "SmartTraveller", "RTG_Android"]
 
 [[operators]]
 mnc = "090"
@@ -212,6 +238,8 @@ plmn = "310140"
 operator = "Teleguam Holdings, LLC"
 brand = "GTA Wireless"
 bands = "GSM 850 / GSM 1900 / UMTS 850 / LTE 1700"
+icon = "gta-wireless"
+icon_scope = "310"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
@@ -225,12 +253,14 @@ plmn = "310150"
 operator = "AT&T Mobility"
 brand = "AT&T"
 bands = "GSM 850 / UMTS 850 / UMTS 1900"
+icon = "at-and-t"
+icon_scope = "310"
 
 [[operators.gids]]
 gid1 = "63ff"
 gid2 = "ffff"
 profile_provider_names = ["Cricket"]
-profile_names = []
+profile_names = ["Cricket"]
 
 [[operators]]
 mnc = "160"
@@ -292,7 +322,7 @@ bands = "GSM 1900"
 mnc = "240"
 plmn = "310240"
 operator = "T-Mobile"
-brand = ""
+brand = "T-Mobile"
 bands = "GSM 1900"
 icon = "t-mobile"
 icon_scope = "worldwide"
@@ -301,67 +331,51 @@ icon_scope = "worldwide"
 gid1 = "354d"
 gid2 = ""
 profile_provider_names = ["Ultra Mobile"]
-profile_names = []
+profile_names = ["Ultra Mobile"]
 
 [[operators.gids]]
 gid1 = "4276"
 gid2 = ""
 profile_provider_names = ["Google Fi"]
-profile_names = []
+profile_names = ["Google"]
 
 [[operators.gids]]
 gid1 = "6132"
 gid2 = ""
 profile_provider_names = ["PLUM"]
-profile_names = []
+profile_names = ["PLUM"]
 
 [[operators.gids]]
 gid1 = "6901"
 gid2 = ""
-profile_provider_names = ["PWG"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "6901"
-gid2 = ""
-profile_provider_names = ["Infimobile "]
-profile_names = []
+profile_provider_names = ["PWG", "Infimobile"]
+profile_names = ["PWG", "Infimobile"]
 
 [[operators.gids]]
 gid1 = "6902"
 gid2 = ""
-profile_provider_names = ["T-Mobile"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "6902"
-gid2 = ""
-profile_provider_names = ["Plintron eSIM"]
-profile_names = []
+profile_provider_names = ["T-Mobile", "Plintron eSIM"]
+profile_names = ["PLINTVSIM5GQR"]
 
 [[operators.gids]]
 gid1 = "6903"
 gid2 = ""
-profile_provider_names = ["Wireless"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "6903"
-gid2 = ""
-profile_provider_names = ["Flash Mobile"]
-profile_names = []
+profile_provider_names = ["Wireless", "Flash Mobile"]
+profile_names = ["Wireless"]
 
 [[operators.gids]]
 gid1 = "6907"
 gid2 = ""
 profile_provider_names = ["Helium"]
-profile_names = []
+profile_names = ["Helium"]
+icon = "t-mobile"
+icon_scope = "310"
 
 [[operators.gids]]
 gid1 = "6910"
 gid2 = ""
 profile_provider_names = ["Wireless"]
-profile_names = []
+profile_names = ["Wireless"]
 
 [[operators.gids]]
 gid1 = "6911"
@@ -373,7 +387,7 @@ profile_names = []
 gid1 = "6913"
 gid2 = ""
 profile_provider_names = ["REALLY"]
-profile_names = []
+profile_names = ["REALLY"]
 
 [[operators.gids]]
 gid1 = "6916"
@@ -385,19 +399,19 @@ profile_names = []
 gid1 = "6941"
 gid2 = ""
 profile_provider_names = ["Tello"]
-profile_names = []
+profile_names = ["Tello"]
 
 [[operators.gids]]
 gid1 = "6c79ffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["LycaMobile"]
-profile_names = []
+profile_names = ["LycaMobile"]
 
 [[operators.gids]]
 gid1 = "756d"
 gid2 = ""
 profile_provider_names = ["Mint Mobile"]
-profile_names = []
+profile_names = ["Mint Mobile"]
 
 [[operators]]
 mnc = "250"
@@ -413,18 +427,20 @@ operator = "T-Mobile USA"
 brand = "T-Mobile"
 tadig = "USAW6"
 bands = "GSM 1900 / UMTS 1900 / UMTS 1700 / LTE 850 / LTE 700 / LTE 1900 / LTE 1700 / 5G 600"
+icon = "t-mobile"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "544d"
 gid2 = ""
 profile_provider_names = ["T-Mobile"]
-profile_names = []
+profile_names = ["CONVSIM5G_Adaptive", "CONVSIM5G", "T-Mobile", "8901260444723803504"]
 
 [[operators.gids]]
 gid1 = "6d38"
 gid2 = ""
 profile_provider_names = ["Metro by T-Mobile"]
-profile_names = []
+profile_names = ["METROVSIM5G_Adaptive"]
 
 [[operators]]
 mnc = "270"
@@ -445,38 +461,8 @@ icon_scope = "310"
 [[operators.gids]]
 gid1 = "20ff"
 gid2 = "ffff"
-profile_provider_names = ["YO"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "20ff"
-gid2 = "ffff"
-profile_provider_names = ["US Mobile"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "20ff"
-gid2 = "ffff"
-profile_provider_names = ["Wireless Provider"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "20ff"
-gid2 = "ffff"
-profile_provider_names = ["LycaMobile"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "20ff"
-gid2 = "ffff"
-profile_provider_names = ["AT&T"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "20ff"
-gid2 = "ffff"
-profile_provider_names = ["Mobile"]
-profile_names = []
+profile_provider_names = ["YO", "US Mobile", "Wireless Provider", "LycaMobile", "AT&T", "Mobile"]
+profile_names = ["YO eSIM", "USM Virtual Profile", "AIRVqrcode", "LycaMobile", "me eSIM", "R020qrcode", "R020Klarna", "r021apple", "Gigs ATT_p11_1", "ztarqrcode"]
 
 [[operators.gids]]
 gid1 = "4102"
@@ -487,26 +473,10 @@ profile_names = []
 [[operators.gids]]
 gid1 = "4201"
 gid2 = "ffff"
-profile_provider_names = ["RedPocket"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "4201"
-gid2 = "ffff"
-profile_provider_names = ["FreedomPop"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "4201"
-gid2 = "ffff"
-profile_provider_names = ["Red Pocket"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "4201"
-gid2 = "ffff"
-profile_provider_names = ["MyWireless"]
-profile_names = []
+profile_provider_names = ["RedPocket", "FreedomPop", "Red Pocket", "MyWireless"]
+profile_names = ["I320_RedPocket", "I320_FreedomPop"]
+icon = "redpocket"
+icon_scope = "310"
 
 [[operators.gids]]
 gid1 = "44ff"
@@ -518,7 +488,7 @@ profile_names = []
 gid1 = "ffff"
 gid2 = "ffff"
 profile_provider_names = ["AT&T"]
-profile_names = []
+profile_names = ["AT&T"]
 
 [[operators]]
 mnc = "290"
@@ -597,12 +567,14 @@ plmn = "310380"
 operator = "AT&T Mobility"
 brand = "AT&T"
 bands = "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900"
+icon = "at-and-t"
+icon_scope = "310"
 
 [[operators.gids]]
 gid1 = "6fffff"
 gid2 = "ffffff"
 profile_provider_names = ["GigSky"]
-profile_names = []
+profile_names = ["IPPv6.1c_Prod"]
 
 [[operators]]
 mnc = "390"
@@ -625,6 +597,8 @@ operator = "AT&T Mobility"
 brand = "AT&T"
 tadig = "USACG"
 bands = "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900"
+icon = "at-and-t"
+icon_scope = "310"
 
 [[operators.gids]]
 gid1 = "2ac9"
@@ -636,7 +610,7 @@ profile_names = []
 gid1 = "ffff"
 gid2 = "ffff"
 profile_provider_names = ["AT&T"]
-profile_names = []
+profile_names = ["AT&T"]
 
 [[operators]]
 mnc = "420"
@@ -756,13 +730,6 @@ brand = ""
 bands = "CDMA2000"
 
 [[operators]]
-mnc = "59"
-plmn = "31059"
-operator = ""
-brand = "Cellular One"
-bands = "CDMA"
-
-[[operators]]
 mnc = "590"
 plmn = "310590"
 operator = "Verizon Wireless"
@@ -813,7 +780,6 @@ bands = "MVNO"
 [[operators]]
 mnc = "660"
 plmn = "310660"
-operator = ""
 brand = "T-Mobile"
 bands = "GSM 1900"
 
@@ -938,120 +904,38 @@ plmn = "310840"
 operator = "Telecom North America Mobile, Inc."
 brand = "telna Mobile"
 bands = "MVNO"
+icon = "telna-mobile"
+icon_scope = "310"
 
 [[operators.gids]]
 gid1 = "616972616c6f31ffffffffffffffff"
 gid2 = "616972616c6f32ffffffffffffffff"
-profile_provider_names = ["airalo"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "616972616c6f31ffffffffffffffff"
-gid2 = "616972616c6f32ffffffffffffffff"
-profile_provider_names = ["Airalo"]
-profile_names = []
+profile_provider_names = ["airalo", "Airalo"]
+profile_names = ["Telna_MI2_airalo_SPN_GID_CP_v02.06.06", "Telna_MI2_Airalo_Multi_2_7_25_29_v03.06.36"]
 
 [[operators.gids]]
 gid1 = "616c6f73696d31ffffffffffffffff"
 gid2 = "616c6f73696d32ffffffffffffffff"
 profile_provider_names = ["aloSIM"]
-profile_names = []
+profile_names = ["Telna_MI2_aloSIM_SPN_CP_GID_GP1_v02.06.04"]
 
 [[operators.gids]]
 gid1 = "626e6573696d31ffffffffffffffff"
 gid2 = "626e6573696d32ffffffffffffffff"
-profile_provider_names = ["BNE SIM"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "626e6573696d31ffffffffffffffff"
-gid2 = "626e6573696d32ffffffffffffffff"
-profile_provider_names = ["BNESIM"]
-profile_names = []
+profile_provider_names = ["BNE SIM", "BNESIM"]
+profile_names = ["Telna_MI2_BNESIM_SPN_GID_GP1_v02.06.01.01", "Telna_MI2_Connect_SPN_GID_CP_v02.06.07"]
 
 [[operators.gids]]
 gid1 = "636f6e6e65637431"
 gid2 = "636f6e6e65637432"
-profile_provider_names = ["Carrier"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "636f6e6e65637431"
-gid2 = "636f6e6e65637432"
-profile_provider_names = ["Roamic"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "636f6e6e65637431"
-gid2 = "636f6e6e65637432"
-profile_provider_names = ["Slick"]
-profile_names = []
+profile_provider_names = ["Carrier", "Roamic", "Slick"]
+profile_names = ["ESIM_ACCESS_CARRIER", "Roamic_APP", "Klook_app", "Centup"]
 
 [[operators.gids]]
 gid1 = "636f6e6e65637431ffffffffffffff"
 gid2 = "636f6e6e65637432ffffffffffffff"
-profile_provider_names = ["Connect"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "636f6e6e65637431ffffffffffffff"
-gid2 = "636f6e6e65637432ffffffffffffff"
-profile_provider_names = ["Jetpac"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "636f6e6e65637431ffffffffffffff"
-gid2 = "636f6e6e65637432ffffffffffffff"
-profile_provider_names = ["Nomad"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "636f6e6e65637431ffffffffffffff"
-gid2 = "636f6e6e65637432ffffffffffffff"
-profile_provider_names = ["GlobalYO"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "636f6e6e65637431ffffffffffffff"
-gid2 = "636f6e6e65637432ffffffffffffff"
-profile_provider_names = ["Hubby eSIM"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "636f6e6e65637431ffffffffffffff"
-gid2 = "636f6e6e65637432ffffffffffffff"
-profile_provider_names = ["esimcard.com"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "636f6e6e65637431ffffffffffffff"
-gid2 = "636f6e6e65637432ffffffffffffff"
-profile_provider_names = ["Maya Mobile"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "636f6e6e65637431ffffffffffffff"
-gid2 = "636f6e6e65637432ffffffffffffff"
-profile_provider_names = ["BNE SIM"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "636f6e6e65637431ffffffffffffff"
-gid2 = "636f6e6e65637432ffffffffffffff"
-profile_provider_names = ["Truely"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "636f6e6e65637431ffffffffffffff"
-gid2 = "636f6e6e65637432ffffffffffffff"
-profile_provider_names = ["eSIM Wholesale"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "636f6e6e65637431ffffffffffffff"
-gid2 = "636f6e6e65637432ffffffffffffff"
-profile_provider_names = ["US Mobile"]
-profile_names = []
+profile_provider_names = ["Connect", "Jetpac", "Nomad", "GlobalYO", "Hubby eSIM", "esimcard.com", "Maya Mobile", "BNE SIM", "Truely", "eSIM Wholesale", "US Mobile"]
+profile_names = ["Telna_Multi_Circles_SPN_GID_CP_v03.06.13", "Telna_WZ-BNE-MI-2-7-22-25-26_v03_06_37", "Telna_WZ-Mi-Gid-BNE_2_7_22_25_26-ES-v22-0_v03.06.41", "Telna_MI2_Connect_SPN_GID_CP_v02.06.07", "Telna_MobiMatter_Redownload_Different_Devices_v04.06.04", "Telna_Connect_PPO_eSIMPLIFIED_Multi_v03.06.34", "Telna_MI2_Connect_Regular_PPO_Multi_v03.06.29", "Telna_MI2_Connect_SPN_GID_CP_v03.06.11", "Telna_WZ-Mi-YO_2_10_25_26-ES-v22-0_v03.06.40", "Telna_Bcengi_Custom_Multi IMSI_v04.06.70", "Telna_Connect_YOMobile_Multi_IMSI_v03.06.30", "Telna_Connect_eSIMPLIFIED_IMSI2_v03.06.32", "Telna_MI2_WZ-Si-YO_2-ES-v22-0_v03.06.35", "Telna_MI_SurfRoam_Connect_SPN_GID_GP1_v02.22.01", "Telna_MI2_Numero_SPN_GID_CP_GP1_v02.06.03", "Telna_MI2_Connect_SPN_GID_CP_v03.06.27", "Telna_WZ-Mi-MAYA_2_21_22_25-SPN-ES-v22-0_v4", "Telna_Connect_Multi_2_7_25_29_v03.06.43", "TEST_Telna_EU_IMAGE_2_7_29_v07.02.01", "Telna_Jetpac_V22026_v07.06.02", "Telna_MI2_connect_SPN_GID_GP1_v02.06.02.01", "Telna_WZ-Mi-MAYA_2_21_22_25-ES-v22-0_v04.06.03"]
 
 [[operators]]
 mnc = "850"

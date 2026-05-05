@@ -10,32 +10,26 @@ operator = "CSL Limited"
 brand = "1O1O / One2Free / New World Mobility / SUNMobile"
 tadig = "HKGTC"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2600"
-icon = "1o1o-one2free-new-world-mobility-sunmobile"
+icon = "csl"
 icon_scope = "454"
 
 [[operators.gids]]
-gid1 = "01010000ffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["1010"]
-profile_names = []
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["eSIM", "Redtea Mobile", "RedteaGO", "Bondio", "JetFi Mobile", "Lucky2", "Carrier", "ESIM", "AIRSIMe", "Lucky HK", "Travel", "CSL", "EIOTCLUB", "Slick", "Vacay"]
+profile_names = ["Lucky2", "Access_Jetfi", "RTG_Android", "Klook_app", "RedteaGO", "JOYTEL_CSL_Common_LF_Dualsign", "xi_default", "Lucky HK", "JOYTEL_CSL_Common_LF", "ESIM", "SmartTraveller", "ESIM_ACCESS_CARRIER", "JOYTEL_BLANK_QRCODE_appletV4", "RT_F19_TR", "45400_QC_PLMN_List", "NEWARE_CSL_V003", "CE_CSL_45400", "89852000261093998819", "8985200008911455090", "CTG_GG_ESIM"]
 
 [[operators.gids]]
 gid1 = "01010000ffffffff"
 gid2 = "ffffffffffffffff"
-profile_provider_names = ["5G profile"]
-profile_names = []
+profile_provider_names = ["1010", "5G profile"]
+profile_names = ["5G profile", "1010"]
 
 [[operators.gids]]
 gid1 = "01020000ffffffff"
 gid2 = "ffffffffffffffff"
-profile_provider_names = ["csl"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "01020000ffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["csl 5G"]
-profile_names = []
+profile_provider_names = ["csl", "csl 5G"]
+profile_names = ["csl 5G", "csl"]
 
 [[operators.gids]]
 gid1 = "01030000ffffffff"
@@ -46,92 +40,62 @@ profile_names = []
 [[operators.gids]]
 gid1 = "01050000ffffffff"
 gid2 = "ffffffffffffffff"
-profile_provider_names = ["Club"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "01050000ffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["Club Sim"]
-profile_names = []
+profile_provider_names = ["Club", "Club Sim"]
+profile_names = ["Club"]
 
 [[operators.gids]]
 gid1 = "02020001ffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["csl."]
-profile_names = []
+profile_names = ["csl."]
 
 [[operators.gids]]
 gid1 = "02040003ffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["MORE Mobile"]
-profile_names = []
+profile_names = ["MORE Mobile"]
 
 [[operators.gids]]
 gid1 = "4454413532303035"
 gid2 = ""
 profile_provider_names = ["UPeSIM"]
-profile_names = []
+profile_names = ["UPeSIM_1698307894247"]
 
 [[operators.gids]]
 gid1 = "636f6e6e65637431ffffffffffffff"
 gid2 = "636f6e6e65637432ffffffffffffff"
 profile_provider_names = ["Connect"]
-profile_names = []
+profile_names = ["Telna_MI26_connect_SPN_GID_GP1_v02.12.01", "Telna_MI26_Connect_SPN_GID_v02.12.07"]
 
 [[operators.gids]]
 gid1 = "ff"
 gid2 = "ff"
 profile_provider_names = ["tgt"]
-profile_names = []
+profile_names = ["infra", "TUGE"]
 
 [[operators.gids]]
 gid1 = "ffff"
 gid2 = "ffff"
 profile_provider_names = ["eSIM Internet"]
-profile_names = []
+profile_names = ["Top_Connect_eSIM"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
-profile_provider_names = ["Bondio"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["BillionConnect"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["Celitech"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["LPAe-Bootrap"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["SCT"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["eSIMo"]
-profile_names = []
+profile_provider_names = ["Bondio", "BillionConnect", "Celitech", "LPAe-Bootrap", "SCT", "eSIMo"]
+profile_names = ["single_imsi_dynamic", "BillionConnect", "SeedLink", "Celitech", "HK Mobile", "GlobalData"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["SCT"]
 profile_names = []
+
+[[operators.gids]]
+gid1 = "none"
+gid2 = "none"
+profile_provider_names = []
+profile_names = ["RTG_Android", "Lucky2"]
 
 [[operators]]
 mnc = "01"
@@ -158,82 +122,34 @@ icon = "3"
 icon_scope = "454"
 
 [[operators.gids]]
-gid1 = "0404ffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["3 Hong Kong"]
-profile_names = []
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Redtea Mobile", "eSIM", "Carrier", "RedteaGO", "Vacay", "ESIM", "MB", "Travel", "Roamic", "3HK", "JetFi Mobile", "fedafone"]
+profile_names = ["JOYTEL_BLANK_QRCODE_appletV4", "RTG_Android", "RedteaGO", "MB45403_20250909_2", "19_1726626421347", "Klook_app", "ESIM_ACCESS_CARRIER", "JOY_3HK_applet_V4", "Roamic_APP", "MB45403_20250520", "SmartTraveller", "ESIM", "3HK", "MB45403_20250909", "MB_3HK_SP_45403_applet_v0023", "2034_1729496083759", "TSIM_45403", "Metablox_APP", "MB454031073_20250627", "RT_F163_TR", "MB_45403", "RoaminRabbit", "Redex", "JOY_3HK_applet_UL_V4", "HelloRoam", "199_1732075960742", "Vacay"]
 
 [[operators.gids]]
 gid1 = "0404ffffffffffff"
 gid2 = "ffffffffffffffff"
-profile_provider_names = ["3"]
-profile_names = []
+profile_provider_names = ["3 Hong Kong", "3"]
+profile_names = ["3 Hong Kong", "3HK_prepaid_eSIM_01"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
-profile_provider_names = ["H3"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["BillionConnect"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["uhuibao"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["Trip"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["3"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["uCloudlink"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["Roamify"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["USIMSA"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["Travelkon"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["Dosirak"]
-profile_names = []
+profile_provider_names = ["H3", "BillionConnect", "uhuibao", "Trip", "3", "uCloudlink", "Roamify", "USIMSA", "Travelkon", "Dosirak"]
+profile_names = ["H3", "uhuibao_45403_003", "BillionConnect", "uCloudlink", "Roamify", "3", "Travelkon", "USIMSA", "OpenRoam", "eSIMNEXT", "Gohub", "AsiaCentralTelecom", "Hongtu_45412_001"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["SCT"]
-profile_names = []
+profile_names = ["HongKongSCT"]
+
+[[operators.gids]]
+gid1 = "none"
+gid2 = "none"
+profile_provider_names = []
+profile_names = ["RTG_Android"]
 
 [[operators]]
 mnc = "04"
@@ -257,12 +173,20 @@ operator = "SmarTone Mobile Communications Limited"
 brand = "SmarTone"
 tadig = "HKGSM"
 bands = "GSM 900 / GSM 1800 / UMTS 850 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600"
+icon = "smartone"
+icon_scope = "454"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Birdie", "SmarTone HK", "SMC", "eSIM", "MB", "Carrier", "ESIM", "Vacay"]
+profile_names = ["SmarTone", "ESIM_ACCESS_CARRIER", "ESIM", "MB45406_20250520", "Roamic_APP", "19_1725524949878", "2034_1729496083759", "SMC"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["SCT"]
-profile_names = []
+profile_names = ["HongKongSCT"]
 
 [[operators]]
 mnc = "07"
@@ -270,60 +194,38 @@ plmn = "45407"
 operator = "China Unicom (Hong Kong) Limited"
 brand = "China Unicom"
 bands = "MVNO"
+icon = "china-unicom"
+icon_scope = "454"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["eSIM", "ChinaUnicom", "ESIM", "AIRSIMe", "Unicom HK", "Talk2all", "GSMA", "ByteSIM", "CUniq", "ARISIMe"]
+profile_names = ["19_1730273584977", "SPN_M8_45407_QC_PLMN_List", "NEWARE_45407_QC_V001", "ESIM", "ChinaUnicom", "45407_QC_PLMN_List", "CUniq", "eSIM", "JOYTEL_CSL_Common_LF", "19_1724232695757", "CUHK_45407New", "RT_F18_TR", "19_1730259151398", "JOYTEL_CMI_appletV4", "2034_1729496083759", "Unicom HK", "NEWARE_45407_PS_V002", "GSMA"]
 
 [[operators.gids]]
 gid1 = "ff"
 gid2 = "ff"
-profile_provider_names = ["Unicom_Global"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ff"
-gid2 = "ff"
-profile_provider_names = ["CUniq JP"]
-profile_names = []
+profile_provider_names = ["Unicom_Global", "CUniq JP"]
+profile_names = ["Uniq_go", "CUniq JP"]
 
 [[operators.gids]]
 gid1 = "ffffffff"
 gid2 = "ffffffff"
 profile_provider_names = ["rspmanager_tester2"]
-profile_names = []
+profile_names = ["5ber-Upgrade_2024-00A9-2_2", "5ber-Upgrade_2024-00A9-2_3"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
-profile_provider_names = ["BillionConnect"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["iFREE"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["  "]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["SCT"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["CUHK"]
-profile_names = []
+profile_provider_names = ["BillionConnect", "iFREE", "SCT", "CUHK"]
+profile_names = ["BillionConnect", "LF.Z02_45407_116", "iFREE", "GlobalData"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["SCT"]
-profile_names = []
+profile_names = ["HongKongSCT"]
 
 [[operators]]
 mnc = "08"
@@ -365,64 +267,30 @@ icon = "cmcc-hk"
 icon_scope = "454"
 
 [[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Redtea Mobile", "CMLINK", "CMHK", "Carrier", "ESIM", "MB", "RedteaGO", "eSIM", "test_OTA_Refresh_App_uicc", "5G-SUCI", "AIRSIMe", "Vacay", "JetFi Mobile", "RedteaMobile", "HuiYinBi", "Roamic", "Travel", "MicroEsim", "Talk2all", "ByteSIM", "VOCOM"]
+profile_names = ["Access_Jetfi", "RedteaGO", "RTG_Android", "ESIM", "Watchdata", "199_1730861957646", "CMI_45412", "SmartTraveller", "CMHK Operational Voucher profile", "Klook_app", "CMLINK", "ESIM_ACCESS_CARRIER", "MB45412_20250520", "19_1726626482875", "CMHK", "JOYTEL_CMI_appletV4", "Roamic_APP", "JOYTEL_CMI_LG_appletV4", "RT_F184_TR", "JOYTEL_BLANK_QRCODE_appletV4", "19_1725361505446", "160_1707119750587", "CMHK Operational profile", "EagleSIM", "MB_45412", "RoaminRabbit", "Metablox_APP", "MB45412_20260120sha256", "2034_1729496083759", "89852342022355699439", "fliggy", "RT_F250_TR", "MinshengTelecom"]
+
+[[operators.gids]]
 gid1 = "0407ffffffffffffffff"
 gid2 = "0407ffffffffffffffff"
 profile_provider_names = ["Holafly"]
-profile_names = []
+profile_names = ["CMLink GDS"]
+icon = "3"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
-profile_provider_names = ["BillionConnect"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["CMHK"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["SCT"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["uCloudlink"]
-profile_names = []
+profile_provider_names = ["BillionConnect", "CMHK", "SCT", "uCloudlink"]
+profile_names = ["BillionConnect", "CMHK", "Dosirak", "Hongtu_45412_001"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["CMLink"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["Global"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["CMI"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["SCT"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["CMLINK"]
-profile_names = []
+profile_provider_names = ["CMLink", "Global", "CMI", "SCT", "CMLINK"]
+profile_names = ["CMLink GDS", "CMI_GDS", "Global", "weitaige", "HongKongSCT"]
 
 [[operators]]
 mnc = "13"
@@ -474,12 +342,14 @@ operator = "PCCW-HKT"
 brand = "PCCW Mobile (3G)"
 tadig = "HKGM3"
 bands = "UMTS 2100"
+icon = "csl"
+icon_scope = "454"
 
 [[operators.gids]]
 gid1 = "ffffffff"
 gid2 = "ffffffff"
 profile_provider_names = ["csl"]
-profile_names = []
+profile_names = ["csl"]
 
 [[operators]]
 mnc = "20"
@@ -547,54 +417,26 @@ plmn = "45431"
 operator = "China Telecom Global Limited"
 brand = "CTExcel"
 bands = "MVNO"
+icon = "ctexcel"
+icon_scope = "454"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["CTExcel", "eSIM", "ESIM", "Talk2all", "CTE"]
+profile_names = ["129_1732760466434", "CTETEST", "CTExcel", "JOYTEL_BLANK_QRCODE_appletV4", "CTESPNTEST", "ESIM", "CTG", "19_1727152406260"]
 
 [[operators.gids]]
 gid1 = "ff"
 gid2 = "ff"
-profile_provider_names = ["infra"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ff"
-gid2 = "ff"
-profile_provider_names = ["tgt"]
-profile_names = []
+profile_provider_names = ["infra", "tgt"]
+profile_names = ["infra", "TUGE"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
-profile_provider_names = ["BillionConnect"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["Roamify"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["uCloudlink"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["CTExcel"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["Trip"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["Dosirak"]
-profile_names = []
+profile_provider_names = ["BillionConnect", "Roamify", "uCloudlink", "CTExcel", "Trip", "Dosirak"]
+profile_names = ["BillionConnect", "uCloudlink", "Roamify", "AsiaCentralTelecom"]
 
 [[operators]]
 mnc = "32"
@@ -607,5 +449,41 @@ bands = "MVNO"
 mnc = "35"
 plmn = "45435"
 operator = "Webbing Hong Kong Ltd"
-brand = ""
+brand = "Webbing"
 bands = "MVNO"
+icon = "webbing"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Redtea Mobile", "RedteaGO", "Carrier", "Travel"]
+profile_names = ["RTG_Android", "RedteaGO", "Klook_app", "ESIM_ACCESS_CARRIER", "Roamic_APP"]
+
+[[operators.gids]]
+gid1 = "none"
+gid2 = "none"
+profile_provider_names = []
+profile_names = ["ESIM_ACCESS_CARRIER"]
+
+[[operators]]
+mnc = "38"
+plmn = "45438"
+brand = ""
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = []
+profile_names = ["infra"]
+
+[[operators]]
+mnc = "99"
+plmn = "45499"
+brand = "Waysim"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Waysim"]
+profile_names = ["CUniq", "GSMA-esim", "Waysim"]

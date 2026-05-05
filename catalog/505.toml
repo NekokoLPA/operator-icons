@@ -10,48 +10,50 @@ operator = "Telstra Corporation Limited"
 brand = "Telstra"
 tadig = "AUSTA"
 bands = "UMTS 850 / LTE 700 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 3500"
+icon = "telstra"
+icon_scope = "505"
 
 [[operators.gids]]
 gid1 = "0202ffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["Everyday"]
-profile_names = []
+profile_names = ["89610182002049439230"]
 
 [[operators.gids]]
 gid1 = "0209ffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["More"]
-profile_names = []
+profile_names = ["89610182001600275218", "89610182001598717230", "89610182001599301496"]
 
 [[operators.gids]]
 gid1 = "020bffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["Telsim"]
-profile_names = []
+profile_names = ["89610182001864896141", "89610182002068949263", "89610182002068365130"]
 
 [[operators.gids]]
 gid1 = "02ffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["Your provider"]
-profile_names = []
+profile_names = ["89610188000305052730", "89610188000304046752", "89610182001703387363", "89610182001703480329", "89610182001704480307", "89610188000305726618", "89610188000309026529", "89610182001704633107", "89610182001704328696", "89610182001704437596", "89610182001704561574", "89610188000304046830", "89610182001704513985", "89610182001689298929", "89610188000307914518", "89610182001702596018", "89610188000308220330", "89610182001704477685", "89610182001704473396", "89610188000304696941", "89610188000309502485", "89610182001704666441", "89610182001704617852", "89610188000303649529", "89610182001704585007", "89610182001704604230", "89610188000308446318", "89610182001704443363", "89610188000309313963", "89610182001704536830", "89610188000308190396", "89610182001704565207", "89610188000303682274", "89610182001703335052", "89610182001704560252", "89610182001704599041", "89610188000310228563", "89610182001704572052", "89610188000309314530", "89610182001704529096", "89610188000317135385", "89610188000304340607", "89610182001704568196"]
 
 [[operators.gids]]
 gid1 = "03ffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["Boost"]
-profile_names = []
+profile_names = ["89610182501012065441", "89610182500992172718", "89610182501028669652", "89610182501032771474"]
 
 [[operators.gids]]
 gid1 = "0401ffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["Belong"]
-profile_names = []
+profile_names = ["89610182001757984885", "89610182001756584352", "89610182002079358196", "89610182002079438052", "89610182002079453218", "89610182002079481763", "89610182002079535641", "89610182002079791307"]
 
 [[operators.gids]]
 gid1 = "05ffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["Telstra"]
-profile_names = []
+profile_names = ["89610182002010565130", "89610182001946331385", "89610182001921182074", "89610182001944886730"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
@@ -66,36 +68,38 @@ operator = "Singtel Optus Proprietary Limited"
 brand = "Optus"
 tadig = "AUSOP"
 bands = "UMTS 900 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 2300 / 5G 3500"
+icon = "singtel"
+icon_scope = "505"
 
 [[operators.gids]]
 gid1 = "02ff"
 gid2 = "01ff"
 profile_provider_names = ["YES OPTUS"]
-profile_names = []
+profile_names = ["Optus", "5G Dynamic QRV"]
 
 [[operators.gids]]
 gid1 = "04ff"
 gid2 = "02ff"
 profile_provider_names = ["optus"]
-profile_names = []
+profile_names = ["optus"]
 
 [[operators.gids]]
 gid1 = "25ff"
 gid2 = "03ff"
 profile_provider_names = ["Amaysim"]
-profile_names = []
+profile_names = ["Amaysim"]
 
 [[operators.gids]]
 gid1 = "41ff"
 gid2 = "02ff"
 profile_provider_names = ["Circles"]
-profile_names = []
+profile_names = ["Circles"]
 
 [[operators.gids]]
 gid1 = "6eff"
 gid2 = "03ff"
 profile_provider_names = ["Yomojo"]
-profile_names = []
+profile_names = ["Yomojo"]
 
 [[operators]]
 mnc = "03"
@@ -104,66 +108,74 @@ operator = "Vodafone Hutchison Australia Proprietary Limited"
 brand = "Vodafone"
 tadig = "AUSVF"
 bands = "UMTS 900 / UMTS 2100 / LTE 850 / LTE 1800 / LTE 2100"
+icon = "vodafone"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["LycaMobile", "Vodafone AU"]
+profile_names = ["LY40312_5K_GEN_AUS_V1.0_V1.0.0_SI_SMENU_SIMFILES_20250915", "LY24003_5K_GEN_AUS_V1.0_V1.0.0_SI_SMENU_SIMFILES_20250625", "LY24004_5K_GEN_AUS_V1.0_V1.0.0_SI_SMENU_SIMFILES_20250813", "Vodafone AU eSIM", "LY40354_10K_GEN_AUS_V1.0_V1.0.0_SI_SMENU_SIMFILES_20250929", "LY24001_5K_GEN_AUS_V1.0_V1.0.0_SI_SMENU_SIMFILES_20250424", "Vodafone AU"]
 
 [[operators.gids]]
 gid1 = "01"
 gid2 = ""
 profile_provider_names = ["Lebara"]
-profile_names = []
+profile_names = ["Lebara"]
 
 [[operators.gids]]
 gid1 = "19"
 gid2 = ""
 profile_provider_names = ["Kogan 5G"]
-profile_names = []
+profile_names = ["Kogan 5G"]
 
 [[operators.gids]]
 gid1 = "1a"
 gid2 = ""
-profile_provider_names = ["TPG "]
-profile_names = []
+profile_provider_names = ["TPG"]
+profile_names = ["TPG"]
 
 [[operators.gids]]
 gid1 = "1c"
 gid2 = ""
 profile_provider_names = ["iiNet"]
-profile_names = []
+profile_names = ["iiNet"]
 
 [[operators.gids]]
 gid1 = "1e"
 gid2 = ""
 profile_provider_names = ["Felix 5G"]
-profile_names = []
+profile_names = ["Felix 5G"]
 
 [[operators.gids]]
 gid1 = "24"
 gid2 = ""
 profile_provider_names = ["EzySim"]
-profile_names = []
+profile_names = ["EzySim"]
 
 [[operators.gids]]
 gid1 = "26"
 gid2 = ""
 profile_provider_names = ["G SIM"]
-profile_names = []
+profile_names = ["G SIM"]
 
 [[operators.gids]]
 gid1 = "27"
 gid2 = ""
 profile_provider_names = ["."]
-profile_names = []
+profile_names = ["."]
 
 [[operators.gids]]
 gid1 = "2a"
 gid2 = ""
 profile_provider_names = ["ZenSim"]
-profile_names = []
+profile_names = ["ZenSim"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = ""
 profile_provider_names = ["LycaMobile"]
-profile_names = []
+profile_names = ["LycaMobile"]
 
 [[operators]]
 mnc = "04"
@@ -174,7 +186,6 @@ brand = ""
 [[operators]]
 mnc = "05"
 plmn = "50505"
-operator = ""
 brand = "Ozitel"
 
 [[operators]]
@@ -200,7 +211,6 @@ bands = "GSM 900"
 [[operators]]
 mnc = "09"
 plmn = "50509"
-operator = ""
 brand = "Airnet"
 
 [[operators]]
@@ -240,7 +250,6 @@ bands = "MVNO"
 [[operators]]
 mnc = "15"
 plmn = "50515"
-operator = ""
 brand = "3GIS"
 
 [[operators]]

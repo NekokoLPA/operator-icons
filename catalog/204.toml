@@ -30,30 +30,38 @@ operator = "Vodafone Libertel B.V."
 brand = "Vodafone"
 tadig = "NLDLT"
 bands = "GSM 900 / GSM 1800 / LTE 800 / LTE 1800 / LTE 2600"
+icon = "vodafone"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Vodafone Travel", "TRVL", "VRS"]
+profile_names = ["VRS", "Vodafone Travel", "None_GID"]
 
 [[operators.gids]]
 gid1 = "02"
 gid2 = ""
 profile_provider_names = ["vodafone NL"]
-profile_names = []
+profile_names = ["Vodafone NL– PrePaid"]
 
 [[operators.gids]]
 gid1 = "04"
 gid2 = ""
 profile_provider_names = ["Vodafone NL"]
-profile_names = []
+profile_names = ["Vodafone NL– PostPaid", "Vodafone NL-PostPaid"]
 
 [[operators.gids]]
 gid1 = "2effffffffffffffffff"
 gid2 = ""
 profile_provider_names = ["depinsim.com"]
-profile_names = []
+profile_names = ["4G_Profile_ARA_4.0.13"]
 
 [[operators.gids]]
 gid1 = "536d617274726f616d5f534cffffff"
 gid2 = "536d617274726f616d5f534cffffff"
 profile_provider_names = ["Smartroam_SL"]
-profile_names = []
+profile_names = ["SR SIMLocal VFNL eSIM Profile"]
 
 [[operators.gids]]
 gid1 = "54726176656c57696669"
@@ -64,14 +72,8 @@ profile_names = []
 [[operators.gids]]
 gid1 = "6764ffffffffffff"
 gid2 = "ffffffffffffffff"
-profile_provider_names = ["Airalo"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "6764ffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["Carrier"]
-profile_names = []
+profile_provider_names = ["Airalo", "Carrier"]
+profile_names = ["Cloud9_GlobalPlus_T01"]
 
 [[operators]]
 mnc = "05"
@@ -90,46 +92,16 @@ bands = "MVNO"
 mnc = "07"
 plmn = "20407"
 operator = "Teleena (MVNE)"
-brand = ""
+brand = "Teleena"
 bands = "MVNE"
-icon = "teleena-mvne"
+icon = "teleena"
 icon_scope = "204"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["Firsty"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["FairPlay"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["e-LUX"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["RedDogFish"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["Next"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["Xtreme"]
-profile_names = []
+profile_provider_names = ["Firsty", "FairPlay", "e-LUX", "RedDogFish", "Next", "Xtreme"]
+profile_names = ["Tata_Firsty_EP-3311v2_TEA03468_10k_20250311", "Tata_EP3043_TEA03253_Firsty_3K", "Tata_Firsty_EP-3043_TEA03317_10K_20250114", "Tata_EP3043_TEA03208_Firsty_10K", "Tata_EP3043_TEA03252_Firsty_10K", "Tata_EP3043_TEA03250_Firsty_10K", "Tata_Fairplay_EP-3043_TEA03095_10K_240905", "Tata_Firsty_EP-3311v2_TEA03484_25k_20250314", "Tata_EP3043_TEA03166_Firsty_10K", "Tata_EP3043_TEA03202_Firsty_5K", "Tata_EP3043_TEA03254_Firsty_5K", "Tata_EP3311V2_TEA03535_Firsty_10k", "Tata_EP3043_TEA03255_Firsty_2K", "Tata_EP3043_TEA03259_Firsty_2705", "Tata_EP3043_TEA03251_Firsty_10K", "Tata_EP3043_TEA02975_Firsty_10K_20240729", "Tata_EP3043_TEA03212_Firsty_10K", "TEA02780_10K_EP3303v3_MI_ARA-M_Firsty", "TATA_EP3043V2_TEA02891_eLUX_10K_28062024", "Tata_EP3043_TEA03100_Xtreme_3K", "Tata_EP3043_TEA03207_Firsty_10K", "Tata_Firsty_EP-3043_TEA03323_5K_20250114", "Tata_Firsty_EP-3043_TEA03322_4K_20250114", "Tata_Firsty_EP-3043_TEA03321_10K_20250114", "Tata_EP3043_TEA03170_Firsty_10K", "Tata_EP3043_TEA03079_Firsty_10K", "Tata_EP3043_TEA03257_Firsty_1.4K", "Tata_EP3043_TEA03211_Firsty_10K", "Tata_EP3043_TEA02977_Firsty_2K_20240729", "Tata_EP3043_TEA02909_Firsty_10K", "Tata_EP3043_TEA03081_10K_Firsty", "TEA02779_10K_EP3303v3_MI_ARA-M_Firsty", "Tata_Firsty_EP-3043_TEA03325_3K_20250127", "Tata_EP3043_TEA02916_Firsty_5K", "Tata_EP3043_TEA03514_RedDogFish_5k", "Tata_EP3043_TEA03080_Firsty_10K", "Tata_EP3043_TEA02976_Firsty_8K", "Tata_EP3043_TEA03256_Firsty_4995", "Tata_EP3043_TEA03167_Firsty_10K", "Tata_EP3326_TEA03921_Cathay_Pacific_MOVE_6k", "Tata_EP3043_TEA03169_Firsty_10K"]
 
 [[operators]]
 mnc = "08"
@@ -142,142 +114,24 @@ icon = "kpn"
 icon_scope = "204"
 
 [[operators.gids]]
-gid1 = "547275554b3030656e"
-gid2 = "547275554b3030656e"
-profile_provider_names = ["BetterRoaming"]
-profile_names = []
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["eSIM", "ESIM"]
+profile_names = ["TCL-EP3311_Fonus_TEA02598_2K", "ESIM", "JOYTEL_BLANK_QRCODE_appletV4"]
 
 [[operators.gids]]
 gid1 = "547275554b3030656e"
 gid2 = "547275554b3030656e"
-profile_provider_names = ["1GLOBAL"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "547275554b3030656e"
-gid2 = "547275554b3030656e"
-profile_provider_names = ["Speedtest Travel"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "547275554b3030656e"
-gid2 = "547275554b3030656e"
-profile_provider_names = ["Heinemann"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "547275554b3030656e"
-gid2 = "547275554b3030656e"
-profile_provider_names = ["XeSIM"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "547275554b3030656e"
-gid2 = "547275554b3030656e"
-profile_provider_names = ["Sparhandy"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "547275554b3030656e"
-gid2 = "547275554b3030656e"
-profile_provider_names = ["Cluj Airport"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "547275554b3030656e"
-gid2 = "547275554b3030656e"
-profile_provider_names = ["Digital Republic"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "547275554b3030656e"
-gid2 = "547275554b3030656e"
-profile_provider_names = ["bunq"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "547275554b3030656e"
-gid2 = "547275554b3030656e"
-profile_provider_names = ["freenet Travel"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "547275554b3030656e"
-gid2 = "547275554b3030656e"
-profile_provider_names = ["eSIMfirst"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "547275554b3030656e"
-gid2 = "547275554b3030656e"
-profile_provider_names = ["Truphone"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "547275554b3030656e"
-gid2 = "547275554b3030656e"
-profile_provider_names = ["HIGH Mobile"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "547275554b3030656e"
-gid2 = "547275554b3030656e"
-profile_provider_names = ["Jazeera"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "547275554b3030656e"
-gid2 = "547275554b3030656e"
-profile_provider_names = ["GeteSIM"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "547275554b3030656e"
-gid2 = "547275554b3030656e"
-profile_provider_names = ["ADNEC"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "547275554b3030656e"
-gid2 = "547275554b3030656e"
-profile_provider_names = ["ntv"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "547275554b3030656e"
-gid2 = "547275554b3030656e"
-profile_provider_names = ["Simly"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "547275554b3030656e"
-gid2 = "547275554b3030656e"
-profile_provider_names = ["Numero"]
-profile_names = []
+profile_provider_names = ["BetterRoaming", "1GLOBAL", "Speedtest Travel", "Heinemann", "XeSIM", "Sparhandy", "Cluj Airport", "Digital Republic", "bunq", "freenet Travel", "eSIMfirst", "Truphone", "HIGH Mobile", "Jazeera", "GeteSIM", "ADNEC", "ntv", "Simly", "Numero"]
+profile_names = ["BetterRoaming", "bunq", "Truphone", "Simly", "1GLOBAL", "freenet Travel", "USim", "Yonder"]
+icon = "betterroaming"
+icon_scope = "204"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffff"
 gid2 = "ffffffffffffffffff"
-profile_provider_names = ["Airalo"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffff"
-gid2 = "ffffffffffffffffff"
-profile_provider_names = ["simyo"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffff"
-gid2 = "ffffffffffffffffff"
-profile_provider_names = ["Connect"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffff"
-gid2 = "ffffffffffffffffff"
-profile_provider_names = ["KPN"]
-profile_names = []
+profile_provider_names = ["Airalo", "simyo", "Connect", "KPN"]
+profile_names = ["Simyo Android eSIM", "Airalo1.0081", "Connect1.0082", "KPN Android eSIM", "KPN_RoutIT1.0030", "Visim Generic eSIM"]
 
 [[operators]]
 mnc = "09"
@@ -285,6 +139,14 @@ plmn = "20409"
 operator = "Lycamobile Netherlands Limited"
 brand = "Lycamobile"
 bands = "MVNO"
+icon = "lycamobile"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["LycaMobile"]
+profile_names = ["LYC39298_8K_GEN_NLD_V1.0_V1.8.0_DI_SMENU_SIMFILES_20250219", "LYC38853_5K_GEN_NLD_V1.0_V1.8.0_DI_SMENU_SIMFILES_20241018", "LYC37686_10K_GEN_NLD_V1.0_V1.4.0_DI_SMENU_SIMFILES_20230727"]
 
 [[operators]]
 mnc = "10"
@@ -332,24 +194,20 @@ operator = "Odido"
 brand = "Odido"
 tadig = "NLDPN"
 bands = "GSM 900 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600"
+icon = "odido"
+icon_scope = "204"
 
 [[operators.gids]]
 gid1 = "2f"
 gid2 = "ff"
-profile_provider_names = ["Simpel"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "2f"
-gid2 = "ff"
-profile_provider_names = ["BEN"]
-profile_names = []
+profile_provider_names = ["Simpel", "BEN"]
+profile_names = ["Simpel", "TMNL_FN0000120"]
 
 [[operators.gids]]
 gid1 = "ff"
 gid2 = "ff"
 profile_provider_names = ["Odido"]
-profile_names = []
+profile_names = ["Odido"]
 
 [[operators]]
 mnc = "17"
@@ -357,6 +215,12 @@ plmn = "20417"
 operator = "Intercity Mobile Communications B.V."
 brand = "Intercity Zakelijk"
 bands = "MVNE"
+
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = []
+profile_names = ["Lebara"]
 
 [[operators]]
 mnc = "18"

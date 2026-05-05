@@ -10,6 +10,14 @@ operator = "Bharti Airtel"
 brand = "Airtel"
 tadig = "UGACE"
 bands = "GSM 900 / UMTS 2100"
+icon = "airtel"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Airtel"]
+profile_names = ["Uganda_default"]
 
 [[operators]]
 mnc = "04"

@@ -24,12 +24,14 @@ operator = "Telecom Italia Mobile"
 brand = "TIM"
 tadig = "BRARN"
 bands = "GSM 900 / GSM 1800 / UMTS 850 / UMTS 900 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2100 / LTE 2600"
+icon = "tim"
+icon_scope = "724"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffff"
 gid2 = "ffffffffffffffffff"
 profile_provider_names = ["TIM"]
-profile_names = []
+profile_names = ["TIM eSIM"]
 
 [[operators]]
 mnc = "03"
@@ -38,12 +40,14 @@ operator = "Telecom Italia Mobile"
 brand = "TIM"
 tadig = "BRASP"
 bands = "GSM 900 / GSM 1800 / UMTS 850 / UMTS 900 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2100 / LTE 2600"
+icon = "tim"
+icon_scope = "724"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffff"
 gid2 = "ffffffffffffffffff"
 profile_provider_names = ["TIM"]
-profile_names = []
+profile_names = ["TIM eSIM"]
 
 [[operators]]
 mnc = "04"
@@ -52,12 +56,14 @@ operator = "Telecom Italia Mobile"
 brand = "TIM"
 tadig = "BRACS"
 bands = "GSM 900 / GSM 1800 / UMTS 850 / UMTS 900 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2100 / LTE 2600"
+icon = "tim"
+icon_scope = "724"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffff"
 gid2 = "ffffffffffffffffff"
 profile_provider_names = ["TIM"]
-profile_names = []
+profile_names = ["TIM eSIM"]
 
 [[operators]]
 mnc = "05"
@@ -66,6 +72,14 @@ operator = "Claro"
 brand = "Claro"
 tadig = "BRACL"
 bands = "GSM 900 / GSM 1800 / UMTS 850 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2600"
+icon = "claro"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["CLARO BR"]
+profile_names = ["BRAMCL005891V2.00_AMDOCS_MINHA_CLARO", "BRAMCL005891V2.00_AMDOCS", "BRAMCL004891V2.00_5GSA_AMDOCS", "BRAMCL005891V2.00_AMDOCS_FLEX", "ClaroBR"]
 
 [[operators]]
 mnc = "06"
@@ -82,6 +96,14 @@ operator = "Telefônica Brasil S.A."
 brand = "Vivo"
 tadig = "BRAV1"
 bands = "GSM 850 / GSM 1800 / UMTS 850 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2600"
+icon = "vivo"
+icon_scope = "724"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Vivo"]
+profile_names = ["SP State - Unified Profile R8", "SP State - Profile 5G SA - RI 4 digits"]
 
 [[operators]]
 mnc = "11"
@@ -90,6 +112,14 @@ operator = "Telefônica Brasil S.A."
 brand = "Vivo"
 tadig = "BRAV3"
 bands = "GSM 850 / GSM 1800 / UMTS 850 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2600"
+icon = "vivo"
+icon_scope = "724"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Operadora", "Vivo"]
+profile_names = ["BASE Region - Unified Profile R8", "RJ State - Profile 5G SA - RI 4 digits", "ES State - Unified Profile R8", "NE Region - Profile 5G SA - RI 4 digits", "BASE Region - Profile 5G SA - RI 4", "NE Region - MVNO R8", "NE Region - Unified Profile R8", "PAMA Region - Unified Profile R8", "RJ State - Unified Profile R8"]
 
 [[operators]]
 mnc = "15"
@@ -112,12 +142,14 @@ plmn = "72417"
 operator = "Surf Telecom"
 brand = "Surf Telecom"
 bands = "MVNO"
+icon = "surf-telecom"
+icon_scope = "724"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffff"
 gid2 = "ffffffffffffffffff"
 profile_provider_names = ["Chip Virtual"]
-profile_names = []
+profile_names = ["Surf"]
 
 [[operators]]
 mnc = "18"
@@ -143,8 +175,20 @@ brand = ""
 [[operators]]
 mnc = "28"
 plmn = "72428"
-operator = ""
 brand = "No name"
+
+[[operators]]
+mnc = "29"
+plmn = "72429"
+brand = "Unifique"
+icon = "unifique"
+icon_scope = "724"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Unifique"]
+profile_names = ["Unifique_default"]
 
 [[operators]]
 mnc = "30"
@@ -166,12 +210,14 @@ plmn = "72432"
 operator = "Algar Telecom S.A."
 brand = "Algar Telecom"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 700 / LTE 1800"
+icon = "algar-telecom"
+icon_scope = "724"
 
 [[operators.gids]]
 gid1 = "00000000"
 gid2 = "00000000"
 profile_provider_names = ["Algar Telecom"]
-profile_names = []
+profile_names = ["07.01.T01"]
 
 [[operators]]
 mnc = "33"
@@ -179,6 +225,8 @@ plmn = "72433"
 operator = "Algar Telecom S.A."
 brand = "Algar Telecom"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 700 / LTE 1800"
+icon = "algar-telecom"
+icon_scope = "724"
 
 [[operators.gids]]
 gid1 = "00000000"
@@ -193,12 +241,14 @@ operator = "Algar Telecom S.A."
 brand = "Algar Telecom"
 tadig = "BRAC4"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 700 / LTE 1800"
+icon = "algar-telecom"
+icon_scope = "724"
 
 [[operators.gids]]
 gid1 = "00000000"
 gid2 = "00000000"
 profile_provider_names = ["Algar Telecom"]
-profile_names = []
+profile_names = ["07.01.T01"]
 
 [[operators]]
 mnc = "35"
@@ -232,6 +282,17 @@ brand = "Nextel"
 bands = "UMTS 2100 / LTE 1800 / LTE 2100"
 
 [[operators]]
+mnc = "40"
+plmn = "72440"
+brand = "Airalo"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffff"
+gid2 = "ffffffffffffffffff"
+profile_provider_names = ["Airalo"]
+profile_names = ["03.01"]
+
+[[operators]]
 mnc = "54"
 plmn = "72454"
 operator = "PORTO SEGURO TELECOMUNICAÇÔES"
@@ -239,7 +300,19 @@ brand = "Conecta"
 bands = "MVNO"
 
 [[operators]]
+mnc = "77"
+plmn = "72477"
+brand = "Brisanet"
+icon = "brisanet"
+icon_scope = "724"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Brisanet"]
+profile_names = ["89557788000007405872", "89557788000018447129"]
+
+[[operators]]
 mnc = "99"
 plmn = "72499"
-operator = ""
 brand = "Local"

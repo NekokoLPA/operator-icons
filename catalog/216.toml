@@ -10,6 +10,14 @@ operator = "Telenor Magyarország Zrt."
 brand = "Telenor Hungary"
 tadig = "HUNH1"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+icon = "telenor"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Yettel HU", "Telenor HU"]
+profile_names = ["Yettel HU", "Yettel eSIM"]
 
 [[operators]]
 mnc = "02"
@@ -38,12 +46,14 @@ operator = "Magyar Telekom Plc"
 brand = "T-Mobile"
 tadig = "HUNH2"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+icon = "t-mobile"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ff"
 gid2 = "ff"
 profile_provider_names = ["Telekom HU"]
-profile_names = []
+profile_names = ["Telekom HU"]
 
 [[operators]]
 mnc = "70"
@@ -52,12 +62,14 @@ operator = "Vodafone Magyarország Zrt."
 brand = "Vodafone"
 tadig = "HUNVR"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / UMTS 900 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500"
+icon = "vodafone"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ff"
 gid2 = "ff"
 profile_provider_names = ["Vodafone HU"]
-profile_names = []
+profile_names = ["Vodafone HU eSIM"]
 
 [[operators]]
 mnc = "71"

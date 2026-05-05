@@ -18,37 +18,25 @@ brand = "Vodafone"
 tadig = "NZLBS"
 bands = "GSM 900 / UMTS 900 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2600 / 5G 3500"
 icon = "vodafone"
-icon_scope = "worldwide"
+icon_scope = "530"
 
 [[operators.gids]]
 gid1 = "4d"
 gid2 = ""
-profile_provider_names = ["Rocket"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "4d"
-gid2 = ""
-profile_provider_names = ["Contact"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "4d"
-gid2 = ""
-profile_provider_names = ["Mighty Mobile"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "4d"
-gid2 = ""
-profile_provider_names = ["Telsim NZ"]
-profile_names = []
+profile_provider_names = ["Rocket", "Contact", "Mighty Mobile", "Telsim NZ"]
+profile_names = ["Rocket", "Telsim NZ", "Contact"]
 
 [[operators.gids]]
 gid1 = "ff"
 gid2 = ""
 profile_provider_names = ["One NZ"]
-profile_names = []
+profile_names = ["One NZ"]
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "none"
+profile_provider_names = []
+profile_names = ["One NZ"]
 
 [[operators]]
 mnc = "02"
@@ -78,18 +66,14 @@ operator = "Spark New Zealand"
 brand = "Spark"
 tadig = "NZLTM"
 bands = "UMTS 850 / UMTS 2100 / LTE 700 / LTE 1800 / TD-LTE 2300 / LTE 2600 / 5G 2600"
+icon = "spark"
+icon_scope = "530"
 
 [[operators.gids]]
 gid1 = "42ffffffffffffff"
 gid2 = "ffffffffffffffff"
-profile_provider_names = ["Skinny"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "42ffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["Spark"]
-profile_names = []
+profile_provider_names = ["Skinny", "Spark"]
+profile_names = ["Skinny", "Spark eSIM"]
 
 [[operators]]
 mnc = "06"
@@ -111,3 +95,17 @@ operator = "2degrees"
 brand = "2degrees"
 tadig = "NZLNH"
 bands = "UMTS 900 / UMTS 2100 / LTE 700 / LTE 900 / LTE 1800"
+icon = "2degrees"
+icon_scope = "530"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Kiwi Mobile", "2degrees", "Zeronet"]
+profile_names = ["2degrees eSIM", "Traveller eSIM", "eSIM 2D $55 MONTHLY PREPAY PLAN", "Kiwi Mobile eSIM"]
+
+[[operators.gids]]
+gid1 = "none"
+gid2 = "none"
+profile_provider_names = []
+profile_names = ["Traveller eSIM", "2degrees eSIM"]

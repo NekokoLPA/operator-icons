@@ -10,6 +10,8 @@ operator = "Otecel S.A."
 brand = "Movistar"
 tadig = "ECUOT"
 bands = "GSM 850 / GSM 1900 / UMTS 850 / LTE 1900"
+icon = "movistar"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "01"

@@ -10,6 +10,14 @@ operator = "Veon Armenia CJSC"
 brand = "Beeline"
 tadig = "ARM01"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 450 / LTE 1800"
+icon = "beeline"
+icon_scope = "283"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Team"]
+profile_names = ["Team"]
 
 [[operators]]
 mnc = "04"
@@ -25,6 +33,14 @@ operator = "K Telecom CJSC"
 brand = "VivaCell-MTS"
 tadig = "ARM05"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 2600"
+icon = "vivacell-mts"
+icon_scope = "283"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Viva"]
+profile_names = ["Viva-Reuse"]
 
 [[operators]]
 mnc = "10"
@@ -33,9 +49,11 @@ operator = "Ucom LLC"
 brand = "Ucom"
 tadig = "ARMOR"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800"
+icon = "ucom"
+icon_scope = "283"
 
 [[operators.gids]]
 gid1 = "ffffffff"
 gid2 = "ffffffff"
 profile_provider_names = ["Ucom"]
-profile_names = []
+profile_names = ["eSIM SAIP_v5_PRP2a"]

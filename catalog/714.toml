@@ -11,20 +11,18 @@ brand = "Cable & Wireless"
 tadig = "PANCW"
 bands = "GSM 850 / UMTS 850 / LTE 700"
 
+[[operators.gids]]
+gid1 = "0000"
+gid2 = "0000"
+profile_provider_names = []
+profile_names = ["89507011048000721195"]
+
 [[operators]]
 mnc = "02"
 plmn = "71402"
 operator = "Telefónica Moviles Panama S.A, Bell South Corp. (BSC)"
 brand = "movistar"
 bands = "GSM 850 / UMTS 850 / UMTS 1900 / LTE 700"
-
-[[operators]]
-mnc = "020"
-plmn = "714020"
-operator = "Telefónica Móviles de Panama S.A"
-brand = "movistar"
-tadig = "PANMS"
-bands = "GSM 850 / 3G 2100 / LTE 700"
 
 [[operators]]
 mnc = "03"
@@ -41,3 +39,17 @@ operator = "Digicel Group"
 brand = "Digicel"
 tadig = "PANDC"
 bands = "GSM 1900 / UMTS 1900 / LTE 700 / LTE 1900"
+
+[[operators]]
+mnc = "020"
+plmn = "714020"
+operator = "Telefónica Móviles de Panama S.A"
+brand = "movistar"
+tadig = "PANMS"
+bands = "GSM 850 / 3G 2100 / LTE 700"
+
+[[operators.gids]]
+gid1 = "00"
+gid2 = ""
+profile_provider_names = []
+profile_names = ["Tigo"]

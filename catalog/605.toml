@@ -11,6 +11,12 @@ brand = "Orange"
 tadig = "TUNOR"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800"
 
+[[operators.gids]]
+gid1 = "01ffffff"
+gid2 = "ffffffff"
+profile_provider_names = []
+profile_names = ["Orange eSIM"]
+
 [[operators]]
 mnc = "02"
 plmn = "60502"
@@ -18,6 +24,12 @@ operator = "Tunisie Telecom"
 brand = "Tunicell"
 tadig = "TUNTT"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800"
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = ""
+profile_provider_names = []
+profile_names = ["eSIM TUNTEL"]
 
 [[operators]]
 mnc = "03"

@@ -30,9 +30,17 @@ plmn = "55299"
 operator = "Palau Mobile Communications Inc."
 brand = "PMCI"
 bands = "LTE"
+icon = "pmci"
+icon_scope = "552"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["eSIM"]
+profile_names = ["2034_1729496083759", "MultiIMSI"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["SCT"]
-profile_names = []
+profile_names = ["HongKongSCT"]

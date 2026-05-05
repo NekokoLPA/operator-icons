@@ -283,8 +283,10 @@ brand = ""
 mnc = "420"
 plmn = "312420"
 operator = "Nex-Tech Wireless"
-brand = ""
+brand = "Nex-Tech Wireless"
 bands = "LTE 700"
+icon = "nex-tech-wireless"
+icon_scope = "312"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"

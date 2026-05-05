@@ -10,12 +10,14 @@ operator = "COSMOTE - Mobile Telecommunications S.A."
 brand = "Cosmote"
 tadig = "GRCCO"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+icon = "cosmote"
+icon_scope = "202"
 
 [[operators.gids]]
 gid1 = "ffff"
 gid2 = ""
 profile_provider_names = ["COSMOTE"]
-profile_names = []
+profile_names = ["eSIM_COSMOTE"]
 
 [[operators]]
 mnc = "02"
@@ -44,6 +46,14 @@ operator = "Vodafone Greece"
 brand = "Vodafone"
 tadig = "GRCPF"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+icon = "vodafone"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Vodafone GR"]
+profile_names = ["Vodafone GR"]
 
 [[operators]]
 mnc = "06"

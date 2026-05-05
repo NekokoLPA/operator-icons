@@ -16,12 +16,14 @@ operator = "Safaricom Limited"
 brand = "Safaricom"
 tadig = "KENSA"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800"
+icon = "safaricom"
+icon_scope = "639"
 
 [[operators.gids]]
 gid1 = "5a69674d"
 gid2 = "ffffffff"
 profile_provider_names = ["Safaricom"]
-profile_names = []
+profile_names = ["Safaricom eSIM"]
 
 [[operators]]
 mnc = "03"
@@ -30,6 +32,14 @@ operator = "Bharti Airtel"
 brand = "Airtel"
 tadig = "KENKC"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800"
+icon = "airtel"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Airtel KE"]
+profile_names = ["Airtel_KE_Default"]
 
 [[operators]]
 mnc = "04"
@@ -78,12 +88,14 @@ plmn = "63910"
 operator = "Jamii Telecommunications Limited"
 brand = "Faiba 4G"
 bands = "LTE 700"
+icon = "faiba-4g"
+icon_scope = "639"
 
 [[operators.gids]]
 gid1 = "ffffffff"
 gid2 = "ffffffff"
 profile_provider_names = ["Jamii"]
-profile_names = []
+profile_names = ["Jamii eSIM Profile"]
 
 [[operators]]
 mnc = "11"

@@ -18,12 +18,14 @@ operator = "HI3G Access AB"
 brand = "3"
 tadig = "SWEHU"
 bands = "UMTS 900 / UMTS 2100 / LTE 800 / LTE 2600 / TD-LTE 2600"
+icon = "3"
+icon_scope = "240"
 
 [[operators.gids]]
 gid1 = "00000002"
 gid2 = ""
 profile_provider_names = ["Hallon"]
-profile_names = []
+profile_names = ["ESIM_SE.41.24_QR_DIGITAL"]
 
 [[operators]]
 mnc = "03"
@@ -60,12 +62,14 @@ operator = "Tele2 Sverige AB"
 brand = "Tele2"
 tadig = "SWEIQ"
 bands = "UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2600"
+icon = "tele2"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "4951"
 gid2 = ""
 profile_provider_names = ["Comviq"]
-profile_names = []
+profile_names = ["Comviq ICO"]
 
 [[operators]]
 mnc = "08"
@@ -74,18 +78,14 @@ operator = "Telenor Sverige AB"
 brand = "Telenor"
 tadig = "SWEEP"
 bands = "GSM 900 / GSM 1800"
+icon = "telenor-nordic"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "02"
 gid2 = "ff"
-profile_provider_names = ["Vimla"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "02"
-gid2 = "ff"
-profile_provider_names = ["Telenor SE"]
-profile_names = []
+profile_provider_names = ["Vimla", "Telenor SE"]
+profile_names = ["TNSW_Vimla", "Telenor SE"]
 
 [[operators]]
 mnc = "09"
@@ -111,12 +111,20 @@ plmn = "24012"
 operator = "Lycamobile Sweden Limited"
 brand = "Lycamobile"
 bands = "MVNO"
+icon = "lycamobile"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["LycaMobile"]
+profile_names = ["LYC39215_5K_GEN_SWE_V1.0_V1.8.0_DI_SMENU_SIMFILES_20250221"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = ""
 profile_provider_names = ["LycaMobile"]
-profile_names = []
+profile_names = ["LycaMobile"]
 
 [[operators]]
 mnc = "13"

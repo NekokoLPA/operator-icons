@@ -23,7 +23,7 @@ icon_scope = "748"
 gid1 = "ffffffff"
 gid2 = "ffffffff"
 profile_provider_names = ["AntelUruguay"]
-profile_names = []
+profile_names = ["CE HERCULES PROD (NO PHYSICAL)"]
 
 [[operators]]
 mnc = "03"
@@ -38,6 +38,14 @@ operator = "Telefónica Móviles Uruguay"
 brand = "Movistar"
 tadig = "URYTM"
 bands = "GSM 850 / GSM 1900 / UMTS 850 / LTE 1900"
+icon = "movistar"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = "01"
+gid2 = ""
+profile_provider_names = []
+profile_names = ["HERCULES PROFILE PRODUCTION - ES2+"]
 
 [[operators]]
 mnc = "10"

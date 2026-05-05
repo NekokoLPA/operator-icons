@@ -32,6 +32,19 @@ brand = "Chariton Valley"
 bands = "GSM 850"
 
 [[operators]]
+mnc = "23"
+plmn = "31123"
+brand = "C Spire"
+icon = "c-spire"
+icon_scope = "311"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["carrier"]
+profile_names = []
+
+[[operators]]
 mnc = "030"
 plmn = "311030"
 operator = "Americell PA 3 Partnership"
@@ -159,14 +172,22 @@ brand = ""
 mnc = "210"
 plmn = "311210"
 operator = "Telnyx LLC"
-brand = ""
+brand = "Telnyx"
 bands = "MVNO"
+icon = "telnyx"
+icon_scope = "311"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Monuo Link", "Monuo"]
+profile_names = ["Monuo Link"]
 
 [[operators.gids]]
 gid1 = "5aa5"
 gid2 = "5254"
 profile_provider_names = ["Telnyx"]
-profile_names = []
+profile_names = ["CC_Telnyx_Phase2_v5.0.2", "Telnyx"]
 
 [[operators]]
 mnc = "220"
@@ -402,7 +423,6 @@ brand = "Verizon"
 [[operators]]
 mnc = "400"
 plmn = "311400"
-operator = ""
 brand = ""
 
 [[operators]]
@@ -594,12 +614,25 @@ operator = "U.S. Cellular"
 brand = "U.S. Cellular"
 tadig = "USAUD"
 bands = "LTE 700 / LTE 850"
+icon = "u-s-cellular"
+icon_scope = "311"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["UScellular"]
 profile_names = []
+
+[[operators]]
+mnc = "588"
+plmn = "311588"
+brand = ""
+
+[[operators.gids]]
+gid1 = "2273"
+gid2 = "ffff"
+profile_provider_names = []
+profile_names = ["Cape eSIM"]
 
 [[operators]]
 mnc = "590"

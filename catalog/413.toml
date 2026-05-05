@@ -10,6 +10,14 @@ operator = "Mobitel (Pvt) Ltd"
 brand = "Mobitel"
 tadig = "LKA71"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 850 / LTE 900 / LTE 1800 / LTE 2100"
+icon = "mobitel"
+icon_scope = "413"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["SLTMobitel", "MLS"]
+profile_names = ["Mobitel Activation Code Test", "Mobitel_Prepaid"]
 
 [[operators]]
 mnc = "02"
@@ -18,6 +26,14 @@ operator = "Dialog Axiata PLC"
 brand = "Dialog"
 tadig = "LKADG"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+icon = "dialog"
+icon_scope = "413"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Dialog"]
+profile_names = ["Dialog 1.0"]
 
 [[operators]]
 mnc = "03"
@@ -48,6 +64,14 @@ operator = "Hutchison Telecommunications Lanka (Pvt) Ltd"
 brand = "Hutch"
 tadig = "LKAHT"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+icon = "hutch"
+icon_scope = "413"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Hutch"]
+profile_names = ["Hutch_Default"]
 
 [[operators]]
 mnc = "09"

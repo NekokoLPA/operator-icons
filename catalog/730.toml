@@ -10,12 +10,14 @@ operator = "Entel Telefonía Móvil S.A."
 brand = "entel"
 tadig = "CHLMV"
 bands = "GSM 1900 / UMTS 1900 / LTE 700 / LTE 2600"
+icon = "entel"
+icon_scope = "730"
 
 [[operators.gids]]
 gid1 = "10ffffffff"
 gid2 = "3733303130"
 profile_provider_names = ["Entel Chile"]
-profile_names = []
+profile_names = ["Consumer eSIM para teléfono"]
 
 [[operators]]
 mnc = "02"
@@ -24,6 +26,8 @@ operator = "Telefónica Móvil de Chile"
 brand = "movistar"
 tadig = "CHLTM"
 bands = "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 700 / LTE 2600"
+icon = "movistar"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "10"
@@ -64,6 +68,8 @@ mnc = "07"
 plmn = "73007"
 operator = "Telefónica Móvil de Chile"
 brand = "movistar"
+icon = "movistar"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "10"
@@ -84,6 +90,14 @@ plmn = "73009"
 operator = "Novator Partners"
 brand = "WOM"
 bands = "UMTS 1700 / LTE 1700"
+icon = "wom"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["WOM"]
+profile_names = ["WOM A 0.1"]
 
 [[operators]]
 mnc = "10"

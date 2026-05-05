@@ -25,12 +25,14 @@ operator = "Umniah Mobile Company"
 brand = "Umniah"
 tadig = "JORUM"
 bands = "GSM 1800 / LTE 1800 / LTE 3500"
+icon = "umniah"
+icon_scope = "416"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["UMNIAH"]
-profile_names = []
+profile_names = ["UMNIAH testing profile"]
 
 [[operators]]
 mnc = "77"

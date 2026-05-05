@@ -10,6 +10,14 @@ operator = "Sky Mobile LLC"
 brand = "Beeline"
 tadig = "KGZ01"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800"
+icon = "beeline"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Beeline KG"]
+profile_names = ["SkyMobile_BeelineKG_VGKG00037", "SkyMobile_BeelineKG_1.0_oasis00018_10k", "SkyMobile_IZI_PROD_oasisizi0001_SHA", "SkyMobile_BeelineKG_1.0_oasis00004_5k", "SkyMobile_BeelineKG_VGKG00031"]
 
 [[operators]]
 mnc = "03"
@@ -23,12 +31,14 @@ plmn = "43705"
 operator = "Alfa Telecom CJSC"
 brand = "MegaCom"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100"
+icon = "megacom"
+icon_scope = "437"
 
 [[operators.gids]]
 gid1 = "ffff"
 gid2 = "ffff"
 profile_provider_names = ["MEGA"]
-profile_names = []
+profile_names = ["MEGA"]
 
 [[operators]]
 mnc = "09"
@@ -36,12 +46,14 @@ plmn = "43709"
 operator = "NurTelecom LLC"
 brand = "O!"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 2600"
+icon = "o"
+icon_scope = "437"
 
 [[operators.gids]]
 gid1 = "ff"
 gid2 = "00"
 profile_provider_names = ["NUR_Telecom"]
-profile_names = []
+profile_names = ["NUR_Telecom"]
 
 [[operators]]
 mnc = "10"

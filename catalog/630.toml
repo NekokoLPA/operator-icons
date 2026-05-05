@@ -34,6 +34,12 @@ brand = "Orange RDC"
 tadig = "CODOR"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / TD-LTE 2600"
 
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = []
+profile_names = ["Orange eSIM"]
+
 [[operators]]
 mnc = "88"
 plmn = "63088"
@@ -57,4 +63,10 @@ brand = "Africell"
 tadig = "CODAC"
 bands = "GSM 900 / GSM 1800"
 icon = "africell"
-icon_scope = "630"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Africell RDC"]
+profile_names = ["Africell RDC"]

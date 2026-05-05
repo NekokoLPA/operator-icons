@@ -10,6 +10,14 @@ operator = "Turkcell Iletisim Hizmetleri A.S."
 brand = "Turkcell"
 tadig = "TURTC"
 bands = "GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600"
+icon = "turkcell"
+icon_scope = "286"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Turkcell"]
+profile_names = ["Turkcell"]
 
 [[operators]]
 mnc = "02"
@@ -18,12 +26,14 @@ operator = "Vodafone Turkey"
 brand = "Vodafone"
 tadig = "TURTS"
 bands = "GSM 900 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2600"
+icon = "vodafone"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["Vodafone"]
-profile_names = []
+profile_names = ["Vodafone"]
 
 [[operators]]
 mnc = "03"
@@ -32,6 +42,14 @@ operator = "Türk Telekom"
 brand = "Türk Telekom"
 tadig = "TURIS"
 bands = "GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+icon = "t-rk-telekom"
+icon_scope = "286"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["TurkTelekom"]
+profile_names = ["TurkTelekom"]
 
 [[operators]]
 mnc = "04"

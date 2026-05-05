@@ -10,6 +10,14 @@ operator = "A1 Bulgaria"
 brand = "A1"
 tadig = "BGR01"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100"
+icon = "one"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["A1 Bulgaria"]
+profile_names = ["A1BG eSIM"]
 
 [[operators]]
 mnc = "03"
@@ -17,6 +25,14 @@ plmn = "28403"
 operator = "BTC"
 brand = "Vivacom"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100"
+icon = "vivacom"
+icon_scope = "284"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["VIVACOM eSIM"]
+profile_names = ["VIVACOM eSIM"]
 
 [[operators]]
 mnc = "05"
@@ -25,6 +41,14 @@ operator = "Telenor (Bulgaria)"
 brand = "Telenor"
 tadig = "BGRCM"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2100"
+icon = "telenor"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Yettel BG"]
+profile_names = ["Yettel eSIM"]
 
 [[operators]]
 mnc = "07"

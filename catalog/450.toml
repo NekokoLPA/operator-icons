@@ -38,6 +38,14 @@ operator = "SK Telecom"
 brand = "SKTelecom"
 tadig = "KORSK"
 bands = "CDMA2000 800 / UMTS 2100 / LTE 850 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 3500 / 5G 28000"
+icon = "sktelecom"
+icon_scope = "450"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["SKTelecom"]
+profile_names = ["ESIMR-T05", "ESIMM-T05", "ESIM5GM-T06"]
 
 [[operators]]
 mnc = "06"
@@ -46,6 +54,14 @@ operator = "LG Telecom"
 brand = "LG U+"
 tadig = "KORLU"
 bands = "CDMA2000 1800 / LTE 850 / LTE 2100 / LTE 2600 / 5G 3500 / 5G 28000"
+icon = "lg-u-plus"
+icon_scope = "450"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["LGU+"]
+profile_names = ["LGU+"]
 
 [[operators]]
 mnc = "07"
@@ -60,6 +76,14 @@ operator = "KT"
 brand = "olleh"
 tadig = "KORKF"
 bands = "UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100"
+icon = "kt"
+icon_scope = "450"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["KT"]
+profile_names = ["KT USIM"]
 
 [[operators]]
 mnc = "11"

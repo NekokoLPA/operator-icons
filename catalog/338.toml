@@ -4,6 +4,19 @@ iso = "JM"
 region = "North America and the Caribbean"
 
 [[operators]]
+mnc = "05"
+plmn = "33805"
+brand = "DIGICEL"
+icon = "digicel"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["DIGICEL"]
+profile_names = ["02.05"]
+
+[[operators]]
 mnc = "020"
 plmn = "338020"
 operator = "LIME (Cable & Wireless)"
@@ -19,16 +32,18 @@ bands = "LTE"
 [[operators]]
 mnc = "050"
 plmn = "338050"
-operator = ""
+operator = "Digicel Bermuda"
 brand = "Digicel Bermuda"
 tadig = "JAMDC"
 bands = "GSM 1900 / UMTS 850 / UMTS 1900 / LTE 700"
+icon = "digicel"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["DIGICEL"]
-profile_names = []
+profile_names = ["02.05"]
 
 [[operators]]
 mnc = "070"

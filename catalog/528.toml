@@ -16,12 +16,14 @@ operator = "Progresif Cellular Sdn Bhd"
 brand = "PCSB"
 tadig = "BRNBR"
 bands = "UMTS 2100"
+icon = "pcsb"
+icon_scope = "528"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["PROGRESIF"]
-profile_names = []
+profile_names = ["Progresif_Brunei_v01.01.01"]
 
 [[operators]]
 mnc = "03"

@@ -10,3 +10,9 @@ operator = "OPT New Caledonia"
 brand = "Mobilis"
 tadig = "NCLPT"
 bands = "GSM 900 / UMTS 900 / LTE 800 / LTE 1800 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = []
+profile_names = ["P_HELIA_1.0"]

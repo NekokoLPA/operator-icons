@@ -9,12 +9,14 @@ plmn = "29401"
 operator = "Makedonski Telekom"
 brand = "Telekom.mk"
 bands = "GSM 900 / UMTS 2100 / LTE 800 / LTE 1800"
+icon = "t-mobile"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ff"
 gid2 = "ff"
 profile_provider_names = ["T-Mobile MK"]
-profile_names = []
+profile_names = ["T-Mobile MK"]
 
 [[operators]]
 mnc = "02"
@@ -30,6 +32,14 @@ operator = "ONE.VIP DOO"
 brand = "vip"
 tadig = "MKDNO"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800"
+icon = "one"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["A1 Macedonia"]
+profile_names = []
 
 [[operators]]
 mnc = "04"

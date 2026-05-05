@@ -10,6 +10,14 @@ operator = "MTN Rwandacell SARL"
 brand = "MTN"
 tadig = "RWAMN"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100"
+icon = "mtn"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["MTN Rwandacell PLC"]
+profile_names = ["MTN Rwandacell PLC"]
 
 [[operators]]
 mnc = "11"

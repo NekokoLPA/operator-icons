@@ -25,3 +25,9 @@ operator = "Botswana Telecommunications Corporation"
 brand = "beMobile"
 tadig = "BWABC"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+
+[[operators.gids]]
+gid1 = "00000000"
+gid2 = "00000000"
+profile_provider_names = []
+profile_names = ["profilename"]

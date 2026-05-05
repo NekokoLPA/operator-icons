@@ -10,78 +10,50 @@ operator = "Telekom Deutschland GmbH"
 brand = "Telekom"
 tadig = "DEUD1"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1500 / LTE 1800 / LTE 2600 / 5G 3500"
+icon = "telekom"
+icon_scope = "262"
 
 [[operators.gids]]
 gid1 = "01"
 gid2 = "ff"
-profile_provider_names = ["kaufland"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "01"
-gid2 = "ff"
-profile_provider_names = ["Telekom.de"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "01"
-gid2 = "ff"
-profile_provider_names = ["Bling Mobile"]
-profile_names = []
+profile_provider_names = ["kaufland", "Telekom.de", "Bling Mobile"]
+profile_names = ["Bling Mobile", "Telekom.de", "kaufland"]
 
 [[operators.gids]]
 gid1 = "02"
 gid2 = "ff"
-profile_provider_names = ["Edeka Smart"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "02"
-gid2 = "ff"
-profile_provider_names = ["Telekom.de"]
-profile_names = []
+profile_provider_names = ["Edeka Smart", "Telekom.de"]
+profile_names = ["Telekom.de", "EDEKA smart"]
 
 [[operators.gids]]
 gid1 = "15"
 gid2 = "ff"
 profile_provider_names = ["freenet"]
-profile_names = []
+profile_names = ["freenet"]
 
 [[operators.gids]]
 gid1 = "32"
 gid2 = "ff"
 profile_provider_names = ["klarmobil"]
-profile_names = []
+profile_names = ["klarmobil"]
 
 [[operators.gids]]
 gid1 = "44"
 gid2 = "ff"
-profile_provider_names = ["Telekom.de"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "44"
-gid2 = "ff"
-profile_provider_names = ["Congstar"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "44"
-gid2 = "ff"
-profile_provider_names = ["fraenk"]
-profile_names = []
+profile_provider_names = ["Telekom.de", "Congstar", "fraenk"]
+profile_names = ["Congstar", "fraenk", "Telekom.de"]
 
 [[operators.gids]]
 gid1 = "99"
 gid2 = "ff"
 profile_provider_names = ["Telekom.de"]
-profile_names = []
+profile_names = ["Telekom.de"]
 
 [[operators.gids]]
 gid1 = "ff"
 gid2 = "ff"
 profile_provider_names = ["mobilezone"]
-profile_names = []
+profile_names = ["mobilezone"]
 
 [[operators]]
 mnc = "02"
@@ -90,6 +62,20 @@ operator = "Vodafone D2 GmbH"
 brand = "Vodafone"
 tadig = "DEUD2"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 700 / LTE 800 / LTE 900 / LTE 1800 / LTE 2600 / 5G 3500"
+icon = "vodafone"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Vodafone DE", "klarmobil", "LIDL", "SIMon mobile", "freenet", "otelo-Vodafone.de", "NAKED Mobile"]
+profile_names = ["Vodafone eSIM", "LIDL eSIM", "otelo eSIM", "SIMon mobile eSIM", "klarmobil eSIM", "freenet eSIM", "NAKED eSIM", "89492021176030505099"]
+
+[[operators.gids]]
+gid1 = "none"
+gid2 = "none"
+profile_provider_names = []
+profile_names = ["Vodafone eSIM"]
 
 [[operators]]
 mnc = "03"
@@ -97,12 +83,20 @@ plmn = "26203"
 operator = "Telefónica Germany GmbH & Co. oHG"
 brand = "O2"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600"
+icon = "o2"
+icon_scope = "262"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["sipgate"]
+profile_names = ["sipgate"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffffffffffffffffffffffff"
 gid2 = "ffffffffffffffffffffffffffffffffffffffff"
 profile_provider_names = ["Willkommen"]
-profile_names = []
+profile_names = ["pre green", "post green", "eSIM TEF POSTPAID_GREEN V5", "OneSIM green TUAK FB"]
 
 [[operators]]
 mnc = "04"
@@ -132,12 +126,14 @@ operator = "Telefónica Germany GmbH & Co. oHG"
 brand = "O2"
 tadig = "DEUE2"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+icon = "o2"
+icon_scope = "262"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffffffffffffffffffffffff"
 gid2 = "ffffffffffffffffffffffffffffffffffffffff"
 profile_provider_names = ["Willkommen"]
-profile_names = []
+profile_names = ["post blue", "post blue Klarmobil", "pre blue"]
 
 [[operators]]
 mnc = "08"
@@ -185,19 +181,20 @@ bands = "UMTS 2100"
 mnc = "14"
 plmn = "26214"
 operator = "Group 3G UMTS"
-brand = ""
+brand = "Lebara"
 bands = "UMTS 2100"
+icon = "lebara"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffff"
 gid2 = "ffffffff"
 profile_provider_names = ["Lebara"]
-profile_names = []
+profile_names = ["Lebara"]
 
 [[operators]]
 mnc = "15"
 plmn = "26215"
-operator = ""
 brand = "Airdata"
 bands = "TD-SCDMA"
 
@@ -252,92 +249,41 @@ bands = "MVNO"
 mnc = "23"
 plmn = "26223"
 operator = "Drillisch Online AG"
-brand = ""
+brand = "GMX"
 bands = "MVNO"
+icon = "gmx"
+icon_scope = "262"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffffffffffffffffffffffff"
 gid2 = "ffffffffffffffffffffffffffffffffffffffff"
-profile_provider_names = ["GMX FreePhone"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffffffffffffffffffffffff"
-gid2 = "ffffffffffffffffffffffffffffffffffffffff"
-profile_provider_names = ["1&1"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffffffffffffffffffffffff"
-gid2 = "ffffffffffffffffffffffffffffffffffffffff"
-profile_provider_names = ["Willkommen"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffffffffffffffffffffffff"
-gid2 = "ffffffffffffffffffffffffffffffffffffffff"
-profile_provider_names = ["sim24"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffffffffffffffffffffffff"
-gid2 = "ffffffffffffffffffffffffffffffffffffffff"
-profile_provider_names = ["winSIM"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffffffffffffffffffffffff"
-gid2 = "ffffffffffffffffffffffffffffffffffffffff"
-profile_provider_names = ["PremiumSIM"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffffffffffffffffffffffff"
-gid2 = "ffffffffffffffffffffffffffffffffffffffff"
-profile_provider_names = ["WEB.DE eSIM"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffffffffffffffffffffffff"
-gid2 = "ffffffffffffffffffffffffffffffffffffffff"
-profile_provider_names = ["yourfone"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffffffffffffffffffffffff"
-gid2 = "ffffffffffffffffffffffffffffffffffffffff"
-profile_provider_names = ["maXXim"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffffffffffffffffffffffff"
-gid2 = "ffffffffffffffffffffffffffffffffffffffff"
-profile_provider_names = ["smartmobil.de"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffffffffffffffffffffffff"
-gid2 = "ffffffffffffffffffffffffffffffffffffffff"
-profile_provider_names = ["handyvertrag.de"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffffffffffffffffffffffff"
-gid2 = "ffffffffffffffffffffffffffffffffffffffff"
-profile_provider_names = ["BLACKSIM"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffffffffffffffffffffffff"
-gid2 = "ffffffffffffffffffffffffffffffffffffffff"
-profile_provider_names = ["simplytel"]
-profile_names = []
+profile_provider_names = ["GMX FreePhone", "1&1", "Willkommen", "sim24", "winSIM", "PremiumSIM", "WEB.DE eSIM", "yourfone", "maXXim", "smartmobil.de", "handyvertrag.de", "BLACKSIM", "simplytel"]
+profile_names = ["1&1", "Drillisch sim.de"]
 
 [[operators]]
 mnc = "24"
 plmn = "26224"
 operator = "TelcoVillage GmbH"
+brand = "eSIM.me"
+icon = "esim-me"
+icon_scope = "262"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = []
+profile_names = ["eSIM.me"]
+
+[[operators]]
+mnc = "25"
+plmn = "26225"
 brand = ""
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = []
+profile_names = ["MTEL Germany"]
 
 [[operators]]
 mnc = "33"
@@ -365,12 +311,20 @@ plmn = "26243"
 operator = "Lycamobile"
 brand = "Lycamobile"
 bands = "MVNO"
+icon = "lycamobile"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["LycaMobile"]
+profile_names = ["LYC40313_10K_GEN_DEU_V1.0_V1.9.0_DI_SMENU_SIMFILES_20250918"]
 
 [[operators.gids]]
 gid1 = "ffffffff"
 gid2 = "ffffffff"
 profile_provider_names = ["LycaMobile"]
-profile_names = []
+profile_names = ["LycaMobile Germany"]
 
 [[operators]]
 mnc = "60"

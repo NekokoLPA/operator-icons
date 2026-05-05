@@ -33,6 +33,8 @@ operator = "Viettel Peru S.A.C."
 brand = "Bitel"
 tadig = "PERVG"
 bands = "GSM 1900 / UMTS 1900 / LTE 900"
+icon = "bitel"
+icon_scope = "716"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
@@ -46,3 +48,16 @@ plmn = "71617"
 operator = "Entel Perú S.A."
 brand = "Entel"
 bands = "UMTS 1900 / LTE 1700 / TD-LTE 2300"
+
+[[operators]]
+mnc = "20"
+plmn = "71620"
+brand = "Claro"
+icon = "claro"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Airalo"]
+profile_names = ["A08.02"]

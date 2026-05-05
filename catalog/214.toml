@@ -10,12 +10,14 @@ operator = "Vodafone Spain"
 brand = "Vodafone"
 tadig = "ESPAT"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 3500"
+icon = "vodafone"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ff"
 gid2 = "ff"
 profile_provider_names = ["Vodafone ES"]
-profile_names = []
+profile_names = ["Vodafone ES eSIM"]
 
 [[operators]]
 mnc = "02"
@@ -31,18 +33,22 @@ operator = "Orange Espagne S.A.U"
 brand = "Orange"
 tadig = "ESPRT"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600"
+icon = "orange"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "01"
 gid2 = ""
 profile_provider_names = ["Orange"]
-profile_names = []
+profile_names = ["UNICA 5G con PIN", "Tarjeta eSIM", "Lemonvil"]
 
 [[operators.gids]]
 gid1 = "04"
 gid2 = ""
 profile_provider_names = ["simyo"]
-profile_names = []
+profile_names = ["Tarjeta eSIM"]
+icon = "orange"
+icon_scope = "214"
 
 [[operators]]
 mnc = "04"
@@ -51,36 +57,14 @@ operator = "Xfera Moviles SA"
 brand = "Yoigo"
 tadig = "ESPXF"
 bands = "LTE 1800 / LTE 2100"
+icon = "yoigo"
+icon_scope = "214"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["Lycamobile"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["Pepephone"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["Lebara"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["Tu Operador"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["MASMOVIL"]
-profile_names = []
+profile_provider_names = ["Lycamobile", "Pepephone", "Lebara", "Tu Operador", "MASMOVIL"]
+profile_names = ["Lebara", "Pepephone", "MASMOVIL", "Lycamobile", "Tu Operador", "LLAMAYA"]
 
 [[operators]]
 mnc = "05"
@@ -88,18 +72,20 @@ plmn = "21405"
 operator = "Telefónica Móviles España"
 brand = "Movistar"
 bands = "MVNO"
+icon = "movistar"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "636f6e6e65637431ffffffffffffff"
 gid2 = "636f6e6e65637432ffffffffffffff"
 profile_provider_names = ["eSimFLAG"]
-profile_names = []
+profile_names = ["Telna_Movistar_Spain_Phase1_Telna_GID_v04.24.00"]
 
 [[operators.gids]]
 gid1 = "80ffffffffffffffffffffffffffff"
 gid2 = "ffffffffffffffffffffffffffffff"
 profile_provider_names = ["eSimFLAG"]
-profile_names = []
+profile_names = ["Telna_MovistarSpain_V1.7_v04.25.01"]
 
 [[operators]]
 mnc = "06"
@@ -107,12 +93,20 @@ plmn = "21406"
 operator = "Vodafone Spain"
 brand = "Vodafone"
 bands = "MVNO"
+icon = "vodafone"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Mi Movil"]
+profile_names = ["Mi Movil"]
 
 [[operators.gids]]
 gid1 = "ff"
 gid2 = "ff"
 profile_provider_names = ["Lowi"]
-profile_names = []
+profile_names = ["Lowi eSIM"]
 
 [[operators]]
 mnc = "07"
@@ -121,23 +115,26 @@ operator = "Telefónica Móviles España"
 brand = "Movistar"
 tadig = "ESPTE"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600"
+icon = "movistar"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "01"
 gid2 = ""
 profile_provider_names = ["Movistar"]
-profile_names = []
+profile_names = ["Movistar"]
 
 [[operators.gids]]
 gid1 = "b0"
 gid2 = ""
 profile_provider_names = ["O2"]
-profile_names = []
+profile_names = ["O2"]
+icon = "movistar"
+icon_scope = "214"
 
 [[operators]]
 mnc = "08"
 plmn = "21408"
-operator = ""
 brand = "Euskaltel"
 bands = "MVNO"
 
@@ -234,12 +231,14 @@ plmn = "21422"
 operator = "Best Spain Telecom"
 brand = "DIGI mobil"
 bands = "MVNO"
+icon = "meo"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "44474553"
 gid2 = "ffffffff"
 profile_provider_names = ["Digi.Mobil"]
-profile_names = []
+profile_names = ["Digi.Mobil"]
 
 [[operators]]
 mnc = "23"
@@ -318,14 +317,16 @@ bands = "WiMAX"
 mnc = "34"
 plmn = "21434"
 operator = "Aire Networks del Mediterráneo, S.L.U."
-brand = ""
+brand = "Aire"
 bands = "LTE 2600"
+icon = "aire"
+icon_scope = "214"
 
 [[operators.gids]]
 gid1 = "01"
 gid2 = ""
 profile_provider_names = ["mobile"]
-profile_names = []
+profile_names = ["AireNetworksIPP"]
 
 [[operators]]
 mnc = "35"

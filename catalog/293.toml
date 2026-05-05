@@ -23,6 +23,14 @@ operator = "A1 Slovenija"
 brand = "A1"
 tadig = "SVNSM"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+icon = "one"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["HoT", "A1 Slovenia"]
+profile_names = ["HoT", "A1SI eSIM"]
 
 [[operators]]
 mnc = "41"
@@ -31,12 +39,14 @@ operator = "Telekom Slovenije"
 brand = "Mobitel"
 tadig = "SVNMT"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600"
+icon = "mobitel"
+icon_scope = "293"
 
 [[operators.gids]]
 gid1 = "ff"
 gid2 = "ff"
 profile_provider_names = ["Telekom Slovenije"]
-profile_names = []
+profile_names = ["Telekom Slovenije"]
 
 [[operators]]
 mnc = "64"

@@ -6,7 +6,6 @@ region = "Asia and the Middle East"
 [[operators]]
 mnc = "01"
 plmn = "42101"
-operator = ""
 brand = "SabaFon"
 tadig = "YEMSA"
 bands = "GSM 900"

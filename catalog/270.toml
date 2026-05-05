@@ -15,19 +15,27 @@ bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
 mnc = "02"
 plmn = "27002"
 operator = "MTX Connect S.a.r.l."
-brand = ""
+brand = "MTX Connect"
+icon = "mtx-connect"
+icon_scope = "270"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["MTXC"]
+profile_names = []
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["MTXC"]
-profile_names = []
+profile_names = ["MTXC_T01"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["MTXC"]
-profile_names = []
+profile_names = ["MTX_LUXEMBOURG_PROFILE_TYPE_1"]
 
 [[operators]]
 mnc = "07"
@@ -87,9 +95,11 @@ operator = "Orange S.A."
 brand = "Orange"
 tadig = "LUXVM"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+icon = "orange"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffff"
 gid2 = "ffffffff"
 profile_provider_names = ["Orange Luxembourg"]
-profile_names = []
+profile_names = ["47.00A"]

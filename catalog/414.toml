@@ -16,12 +16,14 @@ operator = "Myanmar Posts and Telecommunications"
 brand = "MPT"
 tadig = "MMRPT"
 bands = "GSM 900 / UMTS 2100 / LTE 1800 / LTE 2100"
+icon = "mpt"
+icon_scope = "414"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = ""
 profile_provider_names = ["MPT"]
-profile_names = []
+profile_names = ["MPT_001"]
 
 [[operators]]
 mnc = "02"
@@ -49,18 +51,14 @@ operator = "Ooredoo Myanmar"
 brand = "Ooredoo"
 tadig = "MMROM"
 bands = "UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2100"
+icon = "ooredoo"
+icon_scope = "414"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
-profile_provider_names = ["U9"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["Ooredoo"]
-profile_names = []
+profile_provider_names = ["U9", "Ooredoo"]
+profile_names = ["profilename"]
 
 [[operators]]
 mnc = "06"
@@ -69,6 +67,14 @@ operator = "Telenor Myanmar"
 brand = "Telenor"
 tadig = "MMRTN"
 bands = "GSM 900 / UMTS 2100 / LTE 1800 / LTE 2100"
+icon = "telenor"
+icon_scope = "414"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["ATOM"]
+profile_names = ["ATOM"]
 
 [[operators]]
 mnc = "09"
@@ -76,6 +82,12 @@ plmn = "41409"
 operator = "Myanmar National Tele & Communication Co., Ltd"
 brand = "Mytel"
 bands = "GSM 900 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 2100"
+
+[[operators.gids]]
+gid1 = "000000aa"
+gid2 = "00000000"
+profile_provider_names = []
+profile_names = ["Mytel_Myanmar_MI_v01.02.00"]
 
 [[operators]]
 mnc = "20"

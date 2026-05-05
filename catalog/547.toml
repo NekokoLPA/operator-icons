@@ -31,9 +31,11 @@ operator = "Onati S.A.S."
 brand = "Vini"
 tadig = "FRATK"
 bands = "GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 2600"
+icon = "vini"
+icon_scope = "547"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["Vini"]
-profile_names = []
+profile_names = ["Vini eSIM"]

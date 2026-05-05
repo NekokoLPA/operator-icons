@@ -17,6 +17,8 @@ plmn = "24202"
 operator = "Telia Norge AS"
 brand = "Telia"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+icon = "telia"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
@@ -44,12 +46,14 @@ operator = "Telia Norge AS"
 brand = "Telia"
 tadig = "NORNN"
 bands = "GSM 900 / UMTS 900 / UMTS 2100"
+icon = "telia"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["MyCall"]
-profile_names = []
+profile_names = ["MyCall", "OneCall"]
 
 [[operators]]
 mnc = "06"
@@ -105,12 +109,14 @@ plmn = "24214"
 operator = "ICE Communication Norge AS"
 brand = "ice"
 bands = "GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800"
+icon = "ice"
+icon_scope = "242"
 
 [[operators.gids]]
 gid1 = "0100"
 gid2 = "ffff"
 profile_provider_names = ["ice"]
-profile_names = []
+profile_names = ["ice Smartphone"]
 
 [[operators]]
 mnc = "15"
@@ -145,6 +151,14 @@ plmn = "24223"
 operator = "Lyca Mobile Ltd"
 brand = "Lycamobile"
 bands = "MVNO"
+icon = "lycamobile"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["LycaMobile"]
+profile_names = ["LYC37736_1K_GEN_NOR_V1.0_V1.8.0_DI_SMENU_SIMFILES_20240115", "LYC37767_2K_GEN_NOR_V1.0_V1.4.0_DI_SMENU_SIMFILES_20231109"]
 
 [[operators]]
 mnc = "24"

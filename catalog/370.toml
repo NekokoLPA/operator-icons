@@ -17,6 +17,14 @@ operator = "Compañía Dominicana de Teléfonos"
 brand = "Claro"
 tadig = "DOMCL"
 bands = "GSM 850 / GSM 1900 / UMTS 850 / LTE 1700"
+icon = "claro"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["clarodominicana"]
+profile_names = ["clarodominicana"]
 
 [[operators]]
 mnc = "03"

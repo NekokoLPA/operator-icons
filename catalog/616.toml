@@ -38,3 +38,14 @@ plmn = "61605"
 operator = "Glo Communication Benin"
 brand = "Glo"
 bands = "GSM 900 / GSM 1800"
+
+[[operators]]
+mnc = "07"
+plmn = "61607"
+brand = ""
+
+[[operators.gids]]
+gid1 = "0000ffff"
+gid2 = "ffffffff"
+profile_provider_names = []
+profile_names = ["1-Esim-Prepaid"]

@@ -16,14 +16,8 @@ icon_scope = "worldwide"
 [[operators.gids]]
 gid1 = "ffff"
 gid2 = "ffff"
-profile_provider_names = ["eSIM"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffff"
-gid2 = "ffff"
-profile_provider_names = ["izi"]
-profile_names = []
+profile_provider_names = ["eSIM", "izi"]
+profile_names = ["eSIM", "IZI_eSIM"]
 
 [[operators]]
 mnc = "02"
@@ -32,12 +26,14 @@ operator = "Kcell JSC"
 brand = "Kcell"
 tadig = "KAZKZ"
 bands = "GSM 900 / GSM 1800 / LTE 800 / LTE 1800"
+icon = "kcell"
+icon_scope = "401"
 
 [[operators.gids]]
 gid1 = "ffff"
 gid2 = "ffff"
 profile_provider_names = ["activ"]
-profile_names = []
+profile_names = ["50173", "50220", "50172", "50157", "50221", "50158", "50204", "50082", "50126", "50222", "50219", "50223", "50255"]
 
 [[operators]]
 mnc = "07"
@@ -49,9 +45,19 @@ bands = "UMTS 850 / GSM 1800 / LTE 1800"
 [[operators]]
 mnc = "08"
 plmn = "40108"
-operator = ""
 brand = "Kazakhtelecom"
 bands = "CDMA2000 800 / CDMA2000 450"
+
+[[operators]]
+mnc = "10"
+plmn = "40110"
+brand = ""
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = []
+profile_names = ["Rakuten 5G"]
 
 [[operators]]
 mnc = "77"
@@ -60,17 +66,23 @@ operator = "MTS"
 brand = "Tele2.kz"
 tadig = "KAZ77"
 bands = "GSM 900 / GSM 1800 / UMTS 900"
-icon = "tele2-kz"
+icon = "tele2"
 icon_scope = "worldwide"
 
 [[operators.gids]]
-gid1 = "ffff"
-gid2 = "ffff"
-profile_provider_names = ["Tele2"]
-profile_names = []
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Mobile Telecom - Service"]
+profile_names = ["Mobile Telecom - Service"]
 
 [[operators.gids]]
 gid1 = "ffff"
 gid2 = "ffff"
-profile_provider_names = ["Altel"]
-profile_names = []
+profile_provider_names = ["Tele2", "Altel"]
+profile_names = ["Tele2_TK_eSIM_test03", "Tele2_TK_eSIM_E01_2", "Altel_TK_eSIM_E01_3"]
+
+[[operators.gids]]
+gid1 = "none"
+gid2 = "none"
+profile_provider_names = []
+profile_names = ["Mobile Telecom - Service"]

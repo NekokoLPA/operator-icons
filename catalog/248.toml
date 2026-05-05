@@ -10,24 +10,20 @@ operator = "Telia Eesti"
 brand = "Telia"
 tadig = "ESTEM"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+icon = "telia"
+icon_scope = "248"
 
 [[operators.gids]]
 gid1 = "ffff"
 gid2 = "ffff"
 profile_provider_names = ["eSIM Internet"]
-profile_names = []
+profile_names = ["Top_Connect_eSIM"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["Super"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["Telia EE"]
-profile_names = []
+profile_provider_names = ["Super", "Telia EE"]
+profile_names = ["Super", "Telia EE"]
 
 [[operators]]
 mnc = "02"
@@ -36,24 +32,22 @@ operator = "Elisa Eesti"
 brand = "Elisa"
 tadig = "ESTRE"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+icon = "elisa"
+icon_scope = "248"
 
 [[operators.gids]]
 gid1 = "ffff"
 gid2 = "ffff"
-profile_provider_names = ["eSIM Internet"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffff"
-gid2 = "ffff"
-profile_provider_names = ["eSIM.gg"]
-profile_names = []
+profile_provider_names = ["eSIM Internet", "eSIM.gg"]
+profile_names = ["Top_Connect_eSIM", "eSIM.gg", "OneSimCard"]
+icon = "esim-internet"
+icon_scope = "248"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["Elisa"]
-profile_names = []
+profile_names = ["eSIM_EE_PostpaidPIN"]
 
 [[operators]]
 mnc = "03"

@@ -14,376 +14,94 @@ icon = "plus"
 icon_scope = "260"
 
 [[operators.gids]]
-gid1 = "3597bfd533ffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["DENT"]
-profile_names = []
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["eSIM", "Plus", "ESIM", "Global", "Carrier", "Roamic", "Redtea Mobile", "RoaminRabbit", "TGT", "Bondio", "ByteSIM", "eSIMo", "MicroEsim", "RedteaGO", "AIRSIMe", "JetFi Mobile", "22SIM", "OnOff", "Slick"]
+profile_names = ["Plus", "RedteaGO", "Roamic_APP", "Global1SIM_Single_SP05", "ESIM", "JOYTEL_BLANK_QRCODE_appletV4", "TUGE", "ESIM_ACCESS_CARRIER", "JOYTEL_plus_appletV4", "133_1727089491247", "22SIM", "133_1727281223186", "19_1718161410235", "tau_default", "tau_esimo", "RTG_Android", "Centup"]
 
 [[operators.gids]]
 gid1 = "3597bfd533ffffff"
 gid2 = "ffffffffffffffff"
-profile_provider_names = ["Bootstrap"]
-profile_names = []
+profile_provider_names = ["DENT", "Bootstrap"]
+profile_names = ["Bootstrap", "DENT"]
 
 [[operators.gids]]
 gid1 = "3597bfd533ffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["DENT"]
-profile_names = []
+profile_names = ["DENT"]
 
 [[operators.gids]]
 gid1 = "47696773ffffffffffff"
 gid2 = "47696773ffffffffffff"
 profile_provider_names = ["Gigs"]
-profile_names = []
+profile_names = ["eSIM", "Gigs"]
 
 [[operators.gids]]
 gid1 = "496e7374616272696467"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["Instabridge"]
-profile_names = []
+profile_names = ["Instabridge"]
 
 [[operators.gids]]
 gid1 = "4f6479ffffffffffffff"
 gid2 = "4f6479ffffffffffffff"
-profile_provider_names = ["Kolet"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "4f6479ffffffffffffff"
-gid2 = "4f6479ffffffffffffff"
-profile_provider_names = ["Ody"]
-profile_names = []
+profile_provider_names = ["Kolet", "Ody"]
+profile_names = ["Kolet", "Ody"]
 
 [[operators.gids]]
 gid1 = "596553494d313054ffff"
 gid2 = "596553494d313054ffff"
 profile_provider_names = ["YESIM"]
-profile_names = []
+profile_names = ["YESIM"]
 
 [[operators.gids]]
 gid1 = "616972616c6f31ffffffffffffffff"
 gid2 = "616972616c6f32ffffffffffffffff"
 profile_provider_names = ["airalo"]
-profile_names = []
+profile_names = ["Telna_MI25_airalo_SPN_GID_CP_v02.10.05", "Telna_Airalo_NewMI_25_7_2_29_v03.10.27", "Telna_MI25_airalo_SPN_GID_CP_v02.10.08"]
 
 [[operators.gids]]
 gid1 = "616c6f73696d31ffffffffffffffff"
 gid2 = "616c6f73696d32ffffffffffffffff"
 profile_provider_names = ["aloSIM"]
-profile_names = []
+profile_names = ["Telna_MI25_aloSIM_SPN_GID_CP_v02.10.06"]
 
 [[operators.gids]]
 gid1 = "636f6e6e65637431ffffffffffffff"
 gid2 = "636f6e6e65637432ffffffffffffff"
-profile_provider_names = ["Connect"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "636f6e6e65637431ffffffffffffff"
-gid2 = "636f6e6e65637432ffffffffffffff"
-profile_provider_names = ["Maya Mobile"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "636f6e6e65637431ffffffffffffff"
-gid2 = "636f6e6e65637432ffffffffffffff"
-profile_provider_names = ["Nomad"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "636f6e6e65637431ffffffffffffff"
-gid2 = "636f6e6e65637432ffffffffffffff"
-profile_provider_names = ["GlobalYO"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "636f6e6e65637431ffffffffffffff"
-gid2 = "636f6e6e65637432ffffffffffffff"
-profile_provider_names = ["Holiday.com"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "636f6e6e65637431ffffffffffffff"
-gid2 = "636f6e6e65637432ffffffffffffff"
-profile_provider_names = ["Simly"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "636f6e6e65637431ffffffffffffff"
-gid2 = "636f6e6e65637432ffffffffffffff"
-profile_provider_names = ["bnesim"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "636f6e6e65637431ffffffffffffff"
-gid2 = "636f6e6e65637432ffffffffffffff"
-profile_provider_names = ["Qrispy"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "636f6e6e65637431ffffffffffffff"
-gid2 = "636f6e6e65637432ffffffffffffff"
-profile_provider_names = ["BNE SIM"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "636f6e6e65637431ffffffffffffff"
-gid2 = "636f6e6e65637432ffffffffffffff"
-profile_provider_names = ["eSIM Wholesale"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "636f6e6e65637431ffffffffffffff"
-gid2 = "636f6e6e65637432ffffffffffffff"
-profile_provider_names = ["Hubby eSIM"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "636f6e6e65637431ffffffffffffff"
-gid2 = "636f6e6e65637432ffffffffffffff"
-profile_provider_names = ["Umi"]
-profile_names = []
+profile_provider_names = ["Connect", "Maya Mobile", "Nomad", "GlobalYO", "Holiday.com", "Simly", "bnesim", "Qrispy", "BNE SIM", "eSIM Wholesale", "Hubby eSIM", "Umi"]
+profile_names = ["Telna-WZ-Si-MAYA_2_7_10_25-ES-v22-0_v04.10.01", "Telna_MI25_Connect_SPN_GID_CP_v03.10.16", "Telna_MI25_Connect_SPN_GID_v02.10.07", "Telna_WZ-Si-MAYA_25_7_10_2_SPN-ES-v22_0_v04.10.02", "Telna_WZ-MI-25_7_10_2_26_29-ES-v22-0-0_Qrispy_v03.10.31", "Telna_Simbase_HighBWOpp_2_7_25_v04.10.07", "Telna_WZ-Mi-POTENTIAL_25_7_10_2_26_29-ES-v22-0_v03.10.36", "Telna_WZ-MI-25_2_7_10_29-ES-v22-0-1_v04.10.19", "Telna_WZ-Mi-YO_25_7_2_29-ES-v22-0_v03.10.29", "Telna_MI25_connect_SPN_GID_GP1_v02.10.01", "Telna_WZ-Si-YO Mobile_25-ES_v03.10.25"]
 
 [[operators.gids]]
 gid1 = "ff"
 gid2 = "ff"
-profile_provider_names = ["infra"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ff"
-gid2 = "ff"
-profile_provider_names = ["tgt"]
-profile_names = []
+profile_provider_names = ["infra", "tgt"]
+profile_names = ["infra", "TUGE"]
 
 [[operators.gids]]
 gid1 = "ffff"
 gid2 = "ffff"
-profile_provider_names = ["PLUS"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffff"
-gid2 = "ffff"
-profile_provider_names = ["NEXT MOBILE"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffff"
-gid2 = "ffff"
-profile_provider_names = ["FONIA"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffff"
-gid2 = "ffff"
-profile_provider_names = ["CROSSMOBILE"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffff"
-gid2 = "ffff"
-profile_provider_names = ["PLUS "]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffff"
-gid2 = "ffff"
-profile_provider_names = ["OTVARTA"]
-profile_names = []
+profile_provider_names = ["PLUS", "NEXT MOBILE", "FONIA", "CROSSMOBILE", "OTVARTA"]
+profile_names = ["Polkomtel ESIM profiles", "Polkomtel ESIM Profiles"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
-profile_provider_names = ["Kolet"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["BillionConnect"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["Roamify"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["OpenRoam"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["uCloudlink"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["Bondio"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["Celitech"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["Plus"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["eSIM"]
-profile_names = []
+profile_provider_names = ["Kolet", "BillionConnect", "Roamify", "OpenRoam", "uCloudlink", "Bondio", "Celitech", "Plus", "eSIM"]
+profile_names = ["single_imsi_dynamic", "eSIM", "OpenRoam", "Roamify", "BillionConnect", "Plus", "uCloudlink", "Kolet", "eSIMNEXT"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = ""
 profile_provider_names = ["LycaMobile"]
-profile_names = []
+profile_names = ["LycaMobile"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["eSIM"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["eSIM io"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["Sparks"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["Just eSIM"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["esim.sm"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["IMSIM"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["Frewie"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["KeepGo"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["Global"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["Plus"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["Every"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["OpenRoam"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["thirr.com"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["99esim"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["Roamify"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["Drimsim"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["VIA eSIM"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["GoSIM"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["SIMTLV"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["JMP.chat"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["M8"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["OHAYU"]
-profile_names = []
+profile_provider_names = ["eSIM", "eSIM io", "Sparks", "Just eSIM", "esim.sm", "IMSIM", "Frewie", "KeepGo", "Global", "Plus", "Every", "OpenRoam", "thirr.com", "99esim", "Roamify", "Drimsim", "VIA eSIM", "GoSIM", "SIMTLV", "JMP.chat", "M8", "OHAYU"]
+profile_names = ["eSIM", "Just eSIM", "esim.sm", "eSIM io", "KeepGo", "IMSIM", "Sparks", "Drimsim", "Roamify", "OpenRoam", "thirr.com", "Frewie", "Every", "Global", "99esim", "SIMTLV", "TSimTech", "VIA eSIM", "Kudo eSIM", "GoSIM", "Zadarma", "UNISIM", "HolaSim", "M8", "OHAYU"]
 
 [[operators]]
 mnc = "02"
@@ -392,18 +110,20 @@ operator = "T-Mobile Polska S.A."
 brand = "T-Mobile"
 tadig = "POL02"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 2100"
+icon = "t-mobile"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "10"
 gid2 = ""
 profile_provider_names = ["T-Mobile.pl"]
-profile_names = []
+profile_names = ["T-Mobile.pl"]
 
 [[operators.gids]]
 gid1 = "14"
 gid2 = ""
 profile_provider_names = ["T-Mobile.pl"]
-profile_names = []
+profile_names = ["T-Mobile.pl"]
 
 [[operators]]
 mnc = "03"
@@ -412,6 +132,14 @@ operator = "Polska Telefonia Komórkowa Centertel Sp. z o.o."
 brand = "Orange"
 tadig = "POL03"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 2100"
+icon = "orange-france"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["eSIM", "Orange", "Redtea Mobile", "Carrier", "Global", "Roamic", "Airalo", "RedteaGO"]
+profile_names = ["eSIM", "Orange eSIM", "Global1SIM_Single_SP05", "ESIM_ACCESS_CARRIER", "Slick", "RTG_Android", "Roamic_APP", "RedteaGO", "22SIM", "Global1SIM_MultiIMSI_Master"]
 
 [[operators.gids]]
 gid1 = "3597bfd533ffffff"
@@ -429,25 +157,25 @@ profile_names = []
 gid1 = "596553494d313054ff"
 gid2 = "596553494d313054ff"
 profile_provider_names = ["YESIM"]
-profile_names = []
+profile_names = ["YESIM"]
 
 [[operators.gids]]
 gid1 = "ff"
 gid2 = "ff"
-profile_provider_names = ["infra"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ff"
-gid2 = "ff"
-profile_provider_names = ["tgt"]
-profile_names = []
+profile_provider_names = ["infra", "tgt"]
+profile_names = ["infra", "TUGE"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["eSIM"]
-profile_names = []
+profile_names = ["S11 Applet 2.0", "S6 Applet 2.0 SAME_EID_MID", "S6 Applet 1.9 SAME_EID_MID", "eSIM", "S6 Applet 2.0 PLMN List"]
+
+[[operators.gids]]
+gid1 = "none"
+gid2 = "none"
+profile_provider_names = []
+profile_names = ["ESIM_ACCESS_CARRIER", "eSIM"]
 
 [[operators]]
 mnc = "04"
@@ -469,102 +197,68 @@ operator = "P4 Sp. z o.o."
 brand = "Play"
 tadig = "POLP4"
 bands = "GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600"
+icon = "play"
+icon_scope = "260"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Carrier", "Global", "Redtea Mobile", "Travel", "Roamic", "eSIM", "YHM", "AIRSIMe"]
+profile_names = ["Roamic_APP", "ESIM_ACCESS_CARRIER", "Klook_app", "CUniq", "Bondio", "Global1SIM_Single_SP05", "RTG_Android"]
 
 [[operators.gids]]
 gid1 = "616972616c6f31ffffffffffffffff"
 gid2 = "616972616c6f32ffffffffffffffff"
 profile_provider_names = ["airalo"]
-profile_names = []
+profile_names = ["Telna_MI7_airalo_SPN_GID_CP_GP1_v02.08.10"]
 
 [[operators.gids]]
 gid1 = "616c6f73696d31ffffffffffffffff"
 gid2 = "616c6f73696d32ffffffffffffffff"
 profile_provider_names = ["aloSIM"]
-profile_names = []
+profile_names = ["Telna_MI7_aloSIM_SPN_GID_CP_v02.08.12"]
 
 [[operators.gids]]
 gid1 = "626e6573696d31ffffffffffffffff"
 gid2 = "626e6573696d32ffffffffffffffff"
 profile_provider_names = ["BNE SIM"]
-profile_names = []
+profile_names = ["Telna_MI7_BNE_SIM_SPN_GID_GP1_v02.08.04.01", "Telna_MI7_Connect_SPN_GID_v02.08.13"]
 
 [[operators.gids]]
 gid1 = "636f6e6e65637431"
 gid2 = "636f6e6e65637431"
 profile_provider_names = ["fonus"]
-profile_names = []
+profile_names = ["fonus_26006_002"]
 
 [[operators.gids]]
 gid1 = "636f6e6e65637431ffffffffffffff"
 gid2 = "636f6e6e65637432ffffffffffffff"
-profile_provider_names = ["Connect"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "636f6e6e65637431ffffffffffffff"
-gid2 = "636f6e6e65637432ffffffffffffff"
-profile_provider_names = ["Nomad"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "636f6e6e65637431ffffffffffffff"
-gid2 = "636f6e6e65637432ffffffffffffff"
-profile_provider_names = ["GlobalYO"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "636f6e6e65637431ffffffffffffff"
-gid2 = "636f6e6e65637432ffffffffffffff"
-profile_provider_names = ["esimcard.com"]
-profile_names = []
+profile_provider_names = ["Connect", "Nomad", "GlobalYO", "esimcard.com"]
+profile_names = ["Telna_MI7_Connect_SPN_GID_CP_Hubby2Go_v02.08.16", "Telna_MI7_Connect_SPN_GID_v02.08.13", "Telna_MI_Circle_Auto_APN_SPN_GID_GP1_v02.04.01", "Telna_WZ-Si-YO_7-ES-v22-0_v03.08.28", "Telna_Connect_eSIMPLIFIED_IMSI7_v03.08.27", "Telna_MI7_Connect_SPN_GID_GP1_v02.08.07", "Telna_eSIM BAP - EasySim - IMSI7_v04.08.08"]
 
 [[operators.gids]]
 gid1 = "ff"
 gid2 = "ff"
-profile_provider_names = ["tgt"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ff"
-gid2 = "ff"
-profile_provider_names = ["infra"]
-profile_names = []
+profile_provider_names = ["tgt", "infra"]
+profile_names = ["infra", "TUGE"]
 
 [[operators.gids]]
 gid1 = "ffff"
 gid2 = "ffff"
-profile_provider_names = ["Play"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffff"
-gid2 = "ffff"
-profile_provider_names = ["Virgin Mobile"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffff"
-gid2 = "ffff"
-profile_provider_names = ["Mobile Vikings"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffff"
-gid2 = "ffff"
-profile_provider_names = ["PR1V"]
-profile_names = []
+profile_provider_names = ["Play", "Virgin Mobile", "Mobile Vikings", "PR1V"]
+profile_names = ["Mobile Vikings", "PR1V", "Play", "Virgin Mobile"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["Bondio"]
-profile_names = []
+profile_names = ["single_imsi_dynamic"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["eSIM"]
-profile_names = []
+profile_names = ["S11 Applet 2.0", "Roamability"]
 
 [[operators]]
 mnc = "07"
@@ -585,6 +279,14 @@ plmn = "26009"
 operator = "Lycamobile Sp. z o.o."
 brand = "Lycamobile"
 bands = "MVNO"
+icon = "lycamobile"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["LycaMobile"]
+profile_names = ["LYC40027_5K_GEN_POL_V1.0_V1.9.0_DI_SMENU_SIMFILES_20250724", "LYC39297_2K_GEN_IRL_V1.0_V1.8.0_DI_SMENU_SIMFILES_20250306"]
 
 [[operators]]
 mnc = "10"
@@ -737,6 +439,12 @@ plmn = "26033"
 operator = "Truphone Poland Sp. z o.o."
 brand = "Truphone"
 bands = "MVNO"
+
+[[operators.gids]]
+gid1 = "547275554b3030656e"
+gid2 = "547275554b3030656e"
+profile_provider_names = []
+profile_names = ["REVOLUT MOBILE"]
 
 [[operators]]
 mnc = "34"

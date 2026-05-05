@@ -10,18 +10,28 @@ operator = "Vodafone Portugal"
 brand = "Vodafone"
 tadig = "PRTTL"
 bands = "GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+icon = "vodafone"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Vodafone Portugal"]
+profile_names = ["VFPT eSIM TUAK", "VFPT Voucher TUAK", "VFPT eSIM TUAK 5GSA", "Vodafone Portugal"]
 
 [[operators]]
 mnc = "02"
 plmn = "26802"
 operator = "Telecomunicações Móveis Nacionais"
 brand = "MEO"
+icon = "meo"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffff"
 gid2 = "ffffffff"
 profile_provider_names = ["Digi.Mobil"]
-profile_names = []
+profile_names = ["Digi.Mobil"]
 
 [[operators]]
 mnc = "03"
@@ -33,18 +43,32 @@ bands = "GSM 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
 icon = "nos"
 icon_scope = "268"
 
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["NOS Portugal"]
+profile_names = ["NOS_08.26", "NOS_08.17", "NOS_08.25"]
+
 [[operators]]
 mnc = "04"
 plmn = "26804"
 operator = "LycaMobile"
 brand = "LycaMobile"
 bands = "MVNO"
+icon = "lycamobile"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["LycaMobile"]
+profile_names = ["LYC40230_8K_GEN_PRT_V1.0_V1.9.0_DI_SMENU_SIMFILES_20250826", "LYC39407_7K_GEN_PRT_V1.0_V1.8.0_DI_SMENU_SIMFILES_20250324", "LYC37698_0.5K_GEN_PRT_V1.0_V1.4.0_DI_SMENU_SIMFILES_20230811", "LYC39616_7K_GEN_PRT_V1.0_V1.9.0_DI_SMENU_SIMFILES_20250516"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = ""
 profile_provider_names = ["LycaMobile"]
-profile_names = []
+profile_names = ["LycaMobile"]
 
 [[operators]]
 mnc = "05"
@@ -60,18 +84,14 @@ operator = "Telecomunicações Móveis Nacionais"
 brand = "MEO"
 tadig = "PRTTM"
 bands = "GSM 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600"
+icon = "meo"
+icon_scope = "268"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
-profile_provider_names = ["MEO"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["UZO"]
-profile_names = []
+profile_provider_names = ["MEO", "UZO"]
+profile_names = ["MEO", "UZO"]
 
 [[operators]]
 mnc = "07"

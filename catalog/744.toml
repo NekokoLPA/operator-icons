@@ -18,6 +18,14 @@ operator = "AMX Paraguay S.A."
 brand = "Claro"
 tadig = "PRYHT"
 bands = "GSM 1900 / UMTS 1900 / LTE 1700"
+icon = "claro"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["CLARO", "Claro"]
+profile_names = ["B11.60"]
 
 [[operators]]
 mnc = "03"
@@ -40,6 +48,8 @@ operator = "Núcleo S.A. (TIM)"
 brand = "Personal"
 tadig = "PRYNP"
 bands = "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 1900"
+icon = "personal"
+icon_scope = "744"
 
 [[operators.gids]]
 gid1 = "ffffffff"

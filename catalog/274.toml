@@ -10,6 +10,14 @@ operator = "Iceland Telecom"
 brand = "Síminn"
 tadig = "ISLPS"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800"
+icon = "s-minn"
+icon_scope = "274"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Siminn"]
+profile_names = ["Siminn eSIM"]
 
 [[operators]]
 mnc = "02"
@@ -18,6 +26,14 @@ operator = "Og fjarskipti hf"
 brand = "Vodafone"
 tadig = "ISLTL"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800"
+icon = "vodafone"
+icon_scope = "274"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Nema"]
+profile_names = ["Nema V3"]
 
 [[operators]]
 mnc = "03"
@@ -67,12 +83,14 @@ operator = "Nova ehf"
 brand = "Nova"
 tadig = "ISLNO"
 bands = "UMTS 2100 / LTE 1800"
+icon = "nova"
+icon_scope = "274"
 
 [[operators.gids]]
 gid1 = "ff"
 gid2 = "ff"
 profile_provider_names = ["NOVA"]
-profile_names = []
+profile_names = ["NOVA"]
 
 [[operators]]
 mnc = "12"

@@ -10,12 +10,14 @@ operator = "CamGSM / The Royal Group"
 brand = "Cellcard"
 tadig = "KHMGM"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+icon = "cellcard"
+icon_scope = "456"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = ""
 profile_provider_names = ["CellCard"]
-profile_names = []
+profile_names = ["CellCard"]
 
 [[operators]]
 mnc = "02"
@@ -52,12 +54,14 @@ plmn = "45606"
 operator = "Smart Axiata Co. Ltd"
 brand = "Smart"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100"
+icon = "smart"
+icon_scope = "456"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["Smart"]
-profile_names = []
+profile_names = ["Smart eSIM"]
 
 [[operators]]
 mnc = "08"
@@ -66,12 +70,14 @@ operator = "Viettel"
 brand = "Metfone"
 tadig = "KHMVC"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+icon = "metfone"
+icon_scope = "456"
 
 [[operators.gids]]
 gid1 = "000000a1"
 gid2 = "00000000"
 profile_provider_names = ["Metfone"]
-profile_names = []
+profile_names = ["VTC 26.0"]
 
 [[operators]]
 mnc = "09"

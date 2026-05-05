@@ -17,4 +17,4 @@ icon_scope = "213"
 gid1 = "01"
 gid2 = "ffffff"
 profile_provider_names = ["Andorra Telecom"]
-profile_names = []
+profile_names = ["Andorra Telecom"]

@@ -48,6 +48,14 @@ operator = "COMCEL S.A."
 brand = "Claro"
 tadig = "COLCM"
 bands = "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 1700 / LTE 2600"
+icon = "claro"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Claro Colombia"]
+profile_names = ["Claro Colombia Hercules"]
 
 [[operators]]
 mnc = "102"
@@ -70,6 +78,14 @@ operator = "Colombia Móvil S.A. ESP"
 brand = "Tigo"
 tadig = "COLCO"
 bands = "GSM 1900 / UMTS 2100 / LTE 1700 / LTE 2600"
+icon = "tigo"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Tigo", "Movil Exito", "Swift", "Airalo", "Liwa"]
+profile_names = ["cambio_sim_digital_co", "01.00", "PLCO_Swift_SI_10K_29012026", "Tigo", "02.08"]
 
 [[operators]]
 mnc = "123"
@@ -78,30 +94,26 @@ operator = "Colombia Telecomunicaciones S.A. ESP"
 brand = "movistar"
 tadig = "COLTM"
 bands = "GSM 850 / GSM 1900 / UMTS 850 / LTE 1700 / LTE 1900 / CDMA 850"
+icon = "movistar"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "01"
 gid2 = ""
 profile_provider_names = ["Movistar Colombia"]
-profile_names = []
+profile_names = ["Production Profile Virtual for orchestrator"]
 
 [[operators.gids]]
 gid1 = "10"
 gid2 = ""
 profile_provider_names = ["Movistar Colombia"]
-profile_names = []
+profile_names = ["Production Profile Virtual Pospaid for orchestrator"]
 
 [[operators.gids]]
 gid1 = "636f6e6e65637431ffffffffffffff"
 gid2 = "636f6e6e65637432ffffffffffffff"
-profile_provider_names = ["Jetpac"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "636f6e6e65637431ffffffffffffff"
-gid2 = "636f6e6e65637432ffffffffffffff"
-profile_provider_names = ["Connect"]
-profile_names = []
+profile_provider_names = ["Jetpac", "Connect"]
+profile_names = ["Telna_IMSI21_Connect_v04.22.01"]
 
 [[operators]]
 mnc = "130"
@@ -122,12 +134,14 @@ plmn = "732154"
 operator = "Virgin Mobile Colombia S.A.S."
 brand = "Virgin Mobile"
 bands = "MVNO"
+icon = "virgin-mobile"
+icon_scope = "732"
 
 [[operators.gids]]
 gid1 = "05"
 gid2 = ""
 profile_provider_names = ["Virgin Mobile"]
-profile_names = []
+profile_names = ["01.E0"]
 
 [[operators]]
 mnc = "165"
@@ -148,6 +162,14 @@ plmn = "732187"
 operator = "Empresa de Telecomunicaciones de Bogotá S.A. ESP"
 brand = "eTb"
 bands = "LTE 1700"
+icon = "etb"
+icon_scope = "732"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["ETB"]
+profile_names = []
 
 [[operators]]
 mnc = "199"
@@ -184,3 +206,16 @@ mnc = "240"
 plmn = "732240"
 operator = "Logistica Flash Colombia SAS"
 brand = ""
+
+[[operators]]
+mnc = "360"
+plmn = "732360"
+brand = "WOM"
+icon = "wom"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = "000000"
+gid2 = "000000"
+profile_provider_names = ["WOM"]
+profile_names = ["WOM"]

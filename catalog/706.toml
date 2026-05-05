@@ -29,6 +29,18 @@ bands = "GSM 850 / UMTS 850 / LTE 850 / LTE 1700"
 icon = "tigo"
 icon_scope = "706"
 
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["TIGO", "Tigo"]
+profile_names = ["eSIM 5.8", "Tigo"]
+
+[[operators.gids]]
+gid1 = "none"
+gid2 = "none"
+profile_provider_names = []
+profile_names = ["eSIM 5.8", "Tigo"]
+
 [[operators]]
 mnc = "04"
 plmn = "70604"
@@ -36,12 +48,14 @@ operator = "Telefónica Móviles El Salvador"
 brand = "movistar"
 tadig = "SLVTS"
 bands = "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 1900"
+icon = "movistar"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "00"
 gid2 = ""
 profile_provider_names = ["Movistar"]
-profile_names = []
+profile_names = ["128LTE.U5"]
 
 [[operators]]
 mnc = "05"

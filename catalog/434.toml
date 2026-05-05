@@ -31,6 +31,14 @@ operator = "Unitel LLC"
 brand = "Beeline"
 tadig = "UZBDU"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 2600"
+icon = "beeline"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Beeline UZ", "OQ"]
+profile_names = ["Beeline UZ 01", "OQ 01"]
 
 [[operators]]
 mnc = "05"
@@ -39,12 +47,20 @@ operator = "Coscom"
 brand = "Ucell"
 tadig = "UZB05"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 2600"
+icon = "ucell"
+icon_scope = "434"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["UCell"]
+profile_names = ["UCell.UZ_eUICC_v03.00_5100211_00260_50k", "UCell.UZ_eUICC_v02.00_5100111_00120_10k"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["Ucell"]
-profile_names = []
+profile_names = ["Ucell"]
 
 [[operators]]
 mnc = "06"
@@ -66,12 +82,14 @@ plmn = "43408"
 operator = "Uzbektelekom"
 brand = "UzMobile"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+icon = "uzmobile"
+icon_scope = "434"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffffff"
 profile_provider_names = ["Uztelecom"]
-profile_names = []
+profile_names = ["000035", "000034", "000036"]
 
 [[operators]]
 mnc = "09"
@@ -79,3 +97,16 @@ plmn = "43409"
 operator = "OOO «Super iMAX»"
 brand = "EVO"
 bands = "LTE 2300"
+
+[[operators]]
+mnc = "10"
+plmn = "43410"
+brand = "HUMANS"
+icon = "humans"
+icon_scope = "434"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["HUMANS"]
+profile_names = []

@@ -10,12 +10,14 @@ operator = "Gibtelecom"
 brand = "GibTel"
 tadig = "GIBGT"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 2600"
+icon = "gibtel"
+icon_scope = "266"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["GIBTEL"]
-profile_names = []
+profile_names = ["GIBTEL"]
 
 [[operators]]
 mnc = "03"

@@ -16,6 +16,14 @@ plmn = "43602"
 operator = "Indigo Tajikistan"
 brand = "Tcell"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800"
+icon = "tcell"
+icon_scope = "436"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Tcell"]
+profile_names = []
 
 [[operators]]
 mnc = "03"
@@ -23,18 +31,14 @@ plmn = "43603"
 operator = "TT Mobile"
 brand = "MegaFon"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800"
+icon = "megafon"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
-profile_provider_names = ["Anor"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["Megafon"]
-profile_names = []
+profile_provider_names = ["Anor", "Megafon"]
+profile_names = ["957387", "957839"]
 
 [[operators]]
 mnc = "04"
@@ -42,6 +46,12 @@ plmn = "43604"
 operator = "Babilon-Mobile"
 brand = "Babilon-M"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2100"
+
+[[operators.gids]]
+gid1 = "ffff"
+gid2 = "ffff"
+profile_provider_names = []
+profile_names = ["BABILON-M"]
 
 [[operators]]
 mnc = "05"

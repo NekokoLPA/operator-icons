@@ -10,18 +10,14 @@ operator = "Partner Communications Company Ltd."
 brand = "Partner"
 tadig = "ISR01"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800"
+icon = "partner"
+icon_scope = "425"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["Partner"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["eSIM"]
-profile_names = []
+profile_provider_names = ["Partner", "eSIM"]
+profile_names = ["Esim-National", "S1 Applet 1.9 SAME_EID_MID"]
 
 [[operators]]
 mnc = "02"
@@ -30,18 +26,14 @@ operator = "Cellcom Israel Ltd."
 brand = "Cellcom"
 tadig = "ISRCL"
 bands = "GSM 1800 / UMTS 850 / UMTS 2100 / LTE 1800"
+icon = "cellcom"
+icon_scope = "425"
 
 [[operators.gids]]
 gid1 = "ffffffff"
 gid2 = "ffffffff"
-profile_provider_names = ["GOLAN T"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffff"
-gid2 = "ffffffff"
-profile_provider_names = ["Cellcom"]
-profile_names = []
+profile_provider_names = ["GOLAN T", "Cellcom"]
+profile_names = ["Cellcom eSIM"]
 
 [[operators]]
 mnc = "03"
@@ -50,24 +42,20 @@ operator = "Pelephone Communications Ltd."
 brand = "Pelephone"
 tadig = "ISRPL"
 bands = "UMTS 850 / UMTS 2100 / LTE 1800"
+icon = "pelephone"
+icon_scope = "425"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Slick", "Carrier"]
+profile_names = ["Global1SIM_Single_SP05", "ESIM_ACCESS_CARRIER"]
 
 [[operators.gids]]
 gid1 = "25ffffff"
 gid2 = "46ffffff"
-profile_provider_names = ["Pelephone"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "25ffffff"
-gid2 = "46ffffff"
-profile_provider_names = ["Global"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "25ffffff"
-gid2 = "46ffffff"
-profile_provider_names = ["Rami Levy"]
-profile_names = []
+profile_provider_names = ["Pelephone", "Global", "Rami Levy"]
+profile_names = ["Cellular Data Profile"]
 
 [[operators.gids]]
 gid1 = "3597bfd533ffffff"
@@ -79,19 +67,13 @@ profile_names = []
 gid1 = "ff"
 gid2 = "ff"
 profile_provider_names = ["tgt"]
-profile_names = []
+profile_names = ["infra"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["eSIM"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["Yesim"]
-profile_names = []
+profile_provider_names = ["eSIM", "Yesim"]
+profile_names = ["S11 Applet 2.0 Pelephone Privileges", "Nexuce Test 03", "S11 Applet 2.0 PLMN List", "eSIM", "S11 Applet 2.0"]
 
 [[operators]]
 mnc = "04"
@@ -106,6 +88,8 @@ operator = "Palestine Cellular Communications, Ltd."
 brand = "Jawwal"
 tadig = "PSEJE"
 bands = "GSM 900"
+icon = "jawwal"
+icon_scope = "425"
 
 [[operators.gids]]
 gid1 = "ffffffff"
@@ -119,6 +103,14 @@ plmn = "42506"
 operator = "Wataniya Palestine Mobile Telecommunications Company"
 brand = "Wataniya"
 bands = "GSM 900 / GSM 1800"
+icon = "ooredoo"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Ooredoo"]
+profile_names = ["Palestine_UPP"]
 
 [[operators]]
 mnc = "07"
@@ -127,12 +119,14 @@ operator = "Hot Mobile Ltd."
 brand = "Hot Mobile"
 tadig = "ISRMS"
 bands = "iDEN 800 / UMTS 2100 / LTE 1800"
+icon = "hot-mobile"
+icon_scope = "425"
 
 [[operators.gids]]
 gid1 = "39ffffff"
 gid2 = "ffffffff"
 profile_provider_names = ["HOT mobile"]
-profile_names = []
+profile_names = ["HOT mobile", "Hot Mobile HM_3.00"]
 
 [[operators]]
 mnc = "08"
@@ -147,12 +141,14 @@ plmn = "42509"
 operator = "Marathon 018 Xphone Ltd."
 brand = "We4G"
 bands = "LTE 1800"
+icon = "we4g"
+icon_scope = "425"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["wecom"]
-profile_names = []
+profile_names = ["wecom"]
 
 [[operators]]
 mnc = "10"
@@ -174,12 +170,14 @@ plmn = "42512"
 operator = "Free Telecom"
 brand = "x2one"
 bands = "MVNO"
+icon = "free-telecom"
+icon_scope = "425"
 
 [[operators.gids]]
 gid1 = "2fffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["Widely-Mobile"]
-profile_names = []
+profile_names = ["Widely_Mobile_SI_eSIM-Free_Telecom_2025-06-15_OAS00009_Qty1000", "WidelyMobile_eUICC_v01.00_Order02.4_Tripletel_5000", "WidelyMobile_SI_eSIM_Tripletel_2025-07-09_OAS00010_Qty_5K"]
 
 [[operators]]
 mnc = "13"
@@ -228,6 +226,14 @@ plmn = "42519"
 operator = "019 Communication Services Ltd. / TELZAR"
 brand = "019 Mobile"
 bands = "MVNO"
+icon = "019-mobile"
+icon_scope = "425"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["019Mobile"]
+profile_names = ["019Mobile Esim"]
 
 [[operators]]
 mnc = "20"
@@ -240,12 +246,14 @@ mnc = "21"
 plmn = "42521"
 operator = "B.I.P. Communications Ltd."
 brand = "Bezeq International"
+icon = "bezeq-international"
+icon_scope = "425"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["xphone"]
-profile_names = []
+profile_names = ["Activate eSIM eSIM from xphone is ready for this iPhone"]
 
 [[operators]]
 mnc = "23"
@@ -273,12 +281,20 @@ plmn = "42526"
 operator = "LB Annatel Ltd."
 brand = "Annatel"
 bands = "MVNO"
+icon = "annatel"
+icon_scope = "425"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Annatel", "Easy"]
+profile_names = []
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["Annatel"]
-profile_names = []
+profile_names = ["Annatel_Israel_SI_v01.03.01"]
 
 [[operators]]
 mnc = "28"

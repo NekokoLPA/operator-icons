@@ -10,18 +10,14 @@ operator = "Silknet"
 brand = "Geocell"
 tadig = "GEOGC"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2300"
+icon = "geocell"
+icon_scope = "282"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
-profile_provider_names = ["Geocell"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["Hallo"]
-profile_names = []
+profile_provider_names = ["Geocell", "Hallo"]
+profile_names = ["Silknet_Georgia_Hallo_v01.02.00", "Silknet_Georgia_v01.01.00"]
 
 [[operators]]
 mnc = "02"
@@ -29,6 +25,14 @@ plmn = "28202"
 operator = "MagtiCom"
 brand = "Magti"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800"
+icon = "magti"
+icon_scope = "282"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Magticom"]
+profile_names = ["Magticom GEO USIM 5G COMM 01"]
 
 [[operators]]
 mnc = "03"
@@ -44,6 +48,20 @@ operator = "Mobitel"
 brand = "Beeline"
 tadig = "GEOMT"
 bands = "GSM 1800 / UMTS 2100 / LTE 800"
+icon = "beeline"
+icon_scope = "282"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Cellfie"]
+profile_names = ["Cellfie GE 2", "Cellfie GE", "Cellfie GE Airalo"]
+
+[[operators.gids]]
+gid1 = "none"
+gid2 = "none"
+profile_provider_names = []
+profile_names = ["Cellfie GE 2"]
 
 [[operators]]
 mnc = "05"

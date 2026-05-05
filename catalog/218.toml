@@ -10,12 +10,14 @@ operator = "Public Enterprise Croatian Telecom Ltd."
 brand = "HT-ERONET"
 tadig = "BIHER"
 bands = "GSM 900 / GSM 1800 / UMTS 2100"
+icon = "ht-eronet"
+icon_scope = "218"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["haloo"]
-profile_names = []
+profile_names = ["Trasna_Haloo_eSIM_PrP_zamjenski_v1.2"]
 
 [[operators]]
 mnc = "05"
@@ -24,12 +26,16 @@ operator = "RS Telecommunications JSC Banja Luka"
 brand = "m:tel BiH"
 tadig = "BIHMS"
 bands = "GSM 900 / GSM 1800 / UMTS 2100"
+icon = "novotel"
+icon_scope = "218"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["Novotel"]
-profile_names = []
+profile_names = ["Trasna_Novotel_eSIM_Prepaid_v1.1", "Mtel_BiH_eSIM_Prepaid_web_v1.1"]
+icon = "novotel"
+icon_scope = "218"
 
 [[operators]]
 mnc = "90"
@@ -45,4 +51,4 @@ icon_scope = "218"
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["BH Mobile"]
-profile_names = []
+profile_names = ["BH Telecom eSIM"]

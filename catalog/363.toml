@@ -9,6 +9,14 @@ plmn = "36301"
 operator = "Servicio di Telecomunicacion di Aruba"
 brand = "SETAR"
 bands = "GSM 900 / GSM 1800 / GSM 1900 / UMTS 2100 / LTE 1800 / TDMA 800"
+icon = "setar"
+icon_scope = "363"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["SETAR"]
+profile_names = []
 
 [[operators]]
 mnc = "02"

@@ -10,18 +10,20 @@ operator = "T-Hrvatski Telekom"
 brand = "T-Mobile"
 tadig = "HRVCN"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800"
+icon = "t-mobile"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "01"
 gid2 = "ff"
 profile_provider_names = ["HT HR"]
-profile_names = []
+profile_names = ["Postpaid esim profil"]
 
 [[operators.gids]]
 gid1 = "12"
 gid2 = "ff"
 profile_provider_names = ["HT HR"]
-profile_names = []
+profile_names = ["Postpaid esim profil"]
 
 [[operators]]
 mnc = "02"
@@ -30,12 +32,14 @@ operator = "Tele2"
 brand = "Tele2"
 tadig = "HRVT2"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2600"
+icon = "tele2"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "4200"
 gid2 = "ffff"
 profile_provider_names = ["Telemach"]
-profile_names = []
+profile_names = ["Telemach_cro eSIM"]
 
 [[operators]]
 mnc = "10"
@@ -44,6 +48,14 @@ operator = "A1 Hrvatska"
 brand = "A1"
 tadig = "HRVVI"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800"
+icon = "one"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["A1 Croatia"]
+profile_names = ["Prepaid eSIM"]
 
 [[operators]]
 mnc = "12"

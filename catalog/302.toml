@@ -37,42 +37,26 @@ operator = "Telus Mobility"
 brand = "Telus Mobility, Koodo Mobile, Public Mobile"
 tadig = "CANTS"
 bands = "UMTS 850 / UMTS 1900 / LTE 1700 / LTE 2600"
+icon = "telus-mobility"
+icon_scope = "302"
 
 [[operators.gids]]
 gid1 = "4b4f"
 gid2 = "ffff"
 profile_provider_names = ["Koodo"]
-profile_names = []
+profile_names = ["Koodo eSIM"]
 
 [[operators.gids]]
 gid1 = "4d4f"
 gid2 = "ffff"
 profile_provider_names = ["Public Mobile"]
-profile_names = []
+profile_names = ["Public Mobile eSIM"]
 
 [[operators.gids]]
 gid1 = "5455"
 gid2 = "ffff"
-profile_provider_names = ["TELUS"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "5455"
-gid2 = "ffff"
-profile_provider_names = ["Telus"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "5455"
-gid2 = "ffff"
-profile_provider_names = ["CTExcel"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "5455"
-gid2 = "ffff"
-profile_provider_names = ["kini"]
-profile_names = []
+profile_provider_names = ["TELUS", "Telus", "CTExcel", "kini"]
+profile_names = ["Telus 5G eSIM", "CT Excel", "Telus eSIM", "kini"]
 
 [[operators]]
 mnc = "221"
@@ -168,18 +152,14 @@ operator = "Fido Solutions (Rogers Wireless)"
 brand = "Fido"
 tadig = "CANMC"
 bands = "MVNO"
+icon = "fido"
+icon_scope = "302"
 
 [[operators.gids]]
 gid1 = "dd"
 gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["FIDO"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "dd"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["Fido"]
-profile_names = []
+profile_provider_names = ["FIDO", "Fido"]
+profile_names = ["FIDO", "Fido LTE eSIM"]
 
 [[operators]]
 mnc = "380"
@@ -214,12 +194,14 @@ plmn = "302490"
 operator = "Shaw Communications"
 brand = "Freedom Mobile"
 bands = "UMTS 1700 / LTE 700 / LTE 1700 / LTE 2600"
+icon = "freedom-mobile"
+icon_scope = "302"
 
 [[operators.gids]]
 gid1 = "ffffff0000ffffffff"
 gid2 = "ffff"
 profile_provider_names = ["Freedom"]
-profile_names = []
+profile_names = ["Freedom"]
 
 [[operators]]
 mnc = "491"
@@ -234,12 +216,14 @@ operator = "Videotron"
 brand = "Videotron"
 tadig = "CANVT"
 bands = "UMTS 1700 / LTE 700 / LTE 1700"
+icon = "videotron"
+icon_scope = "302"
 
 [[operators.gids]]
 gid1 = "55"
 gid2 = ""
 profile_provider_names = ["Fizz"]
-profile_names = []
+profile_names = ["Fizz"]
 
 [[operators]]
 mnc = "510"
@@ -306,18 +290,14 @@ operator = "Bell Mobility"
 brand = "Bell Mobility"
 tadig = "CANBM"
 bands = "UMTS 850 / UMTS 1900 / LTE 700 / LTE 1700 / LTE 1900 / LTE 2600"
+icon = "bell-mobility"
+icon_scope = "302"
 
 [[operators.gids]]
 gid1 = "3d"
 gid2 = "ffff"
-profile_provider_names = ["Canada Mobile"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "3d"
-gid2 = "ffff"
-profile_provider_names = ["Bell"]
-profile_names = []
+profile_provider_names = ["Canada Mobile", "Bell"]
+profile_names = ["BCMT5Ge002", "BCMT4Ge003"]
 
 [[operators.gids]]
 gid1 = "40"
@@ -444,7 +424,6 @@ bands = "CDMA2000"
 [[operators]]
 mnc = "710"
 plmn = "302710"
-operator = ""
 brand = "Globalstar"
 bands = "Satellite CDMA"
 
@@ -455,24 +434,20 @@ operator = "Rogers Communications"
 brand = "Rogers Wireless"
 tadig = "CANRW"
 bands = "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 700 / LTE 1700 / LTE 2600"
+icon = "rogers-wireless"
+icon_scope = "302"
 
 [[operators.gids]]
 gid1 = "a1"
 gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["ROGERS"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "a1"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["Rogers Canada"]
-profile_names = []
+profile_provider_names = ["ROGERS", "Rogers Canada"]
+profile_names = ["ROGERS", "ROGERS 5G eSIM", "Rogers 574.00 5G VC2_3"]
 
 [[operators.gids]]
 gid1 = "d2"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["chatr"]
-profile_names = []
+profile_names = ["chatr eSIM"]
 
 [[operators]]
 mnc = "721"

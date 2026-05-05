@@ -18,3 +18,11 @@ operator = "UNITEL T+ TELECOMUNICACÕES, S.A."
 brand = "T+"
 tadig = "CPVTM"
 bands = "GSM 1800 / UMTS 2100"
+icon = "t-plus"
+icon_scope = "625"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["UNITEL T+"]
+profile_names = ["profilename"]

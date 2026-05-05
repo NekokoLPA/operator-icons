@@ -30,6 +30,8 @@ plmn = "23403"
 operator = "Guernsey Airtel Ltd"
 brand = "Airtel-Vodafone"
 bands = "GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800"
+icon = "airtel"
+icon_scope = "234"
 
 [[operators]]
 mnc = "04"
@@ -77,24 +79,28 @@ operator = "Telefónica Europe"
 brand = "O2 (UK)"
 tadig = "GBRCN"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2300 / 5G 3500"
+icon = "o2"
+icon_scope = "234"
 
 [[operators.gids]]
 gid1 = "0affffffffff544553434f202020202020202020"
 gid2 = "ffffffffffff2020202020202020202020202020"
 profile_provider_names = ["TESCO"]
-profile_names = []
+profile_names = ["O2 - UK"]
 
 [[operators.gids]]
 gid1 = "508fffffffff4d564e4520202020202020202020"
 gid2 = "ffffffffffff2020202020202020202020202020"
 profile_provider_names = ["giffgaff"]
-profile_names = []
+profile_names = ["giffgaff"]
+icon = "giffgaff"
+icon_scope = "234"
 
 [[operators.gids]]
 gid1 = "616c6f73696d31ffffffffffffffff"
 gid2 = "616c6f73696d32ffffffffffffffff"
 profile_provider_names = ["aloSIM"]
-profile_names = []
+profile_names = ["Telna_MI22_aloSIM_SPN_GID_CP_v02.20.03"]
 
 [[operators.gids]]
 gid1 = "636f6e6e65637431"
@@ -105,26 +111,14 @@ profile_names = []
 [[operators.gids]]
 gid1 = "636f6e6e65637431ffffffffffffff"
 gid2 = "636f6e6e65637432ffffffffffffff"
-profile_provider_names = ["Connect"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "636f6e6e65637431ffffffffffffff"
-gid2 = "636f6e6e65637432ffffffffffffff"
-profile_provider_names = ["GlobalYO"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "636f6e6e65637431ffffffffffffff"
-gid2 = "636f6e6e65637432ffffffffffffff"
-profile_provider_names = ["esimcard.com"]
-profile_names = []
+profile_provider_names = ["Connect", "GlobalYO", "esimcard.com"]
+profile_names = ["Telna_MI22_Connect_SPN_GID_v02.20.04", "Telna_MI_Olivia_Connect_SPN_GID_GP1_v02.19.01.01"]
 
 [[operators.gids]]
 gid1 = "90ffffffffff43434c2020202020202020202020"
 gid2 = "ffffffffffff2020202020202020202020202020"
 profile_provider_names = ["O2-UK"]
-profile_names = []
+profile_names = ["O2 - UK"]
 
 [[operators]]
 mnc = "11"
@@ -161,32 +155,38 @@ operator = "Vodafone"
 brand = "Vodafone UK"
 tadig = "GBRVF"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / TD-LTE 2600 / 5G 3500"
-icon = "vodafone-uk"
+icon = "vodafone"
 icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "0033"
 gid2 = ""
-profile_provider_names = ["loop"]
-profile_names = []
+profile_provider_names = ["loop", "eSIM Go"]
+profile_names = ["eSIM Go"]
 
 [[operators.gids]]
 gid1 = "0033"
-gid2 = ""
-profile_provider_names = ["eSIM Go"]
-profile_names = []
+gid2 = "none"
+profile_provider_names = []
+profile_names = ["eSIM Go"]
 
 [[operators.gids]]
 gid1 = "c1"
 gid2 = ""
 profile_provider_names = ["Talkmobile"]
-profile_names = []
+profile_names = ["Talkmobile"]
 
 [[operators.gids]]
 gid1 = "e1"
 gid2 = ""
 profile_provider_names = ["Vodafone UK"]
-profile_names = []
+profile_names = ["Vodafone UK eSIM"]
+
+[[operators.gids]]
+gid1 = "e1"
+gid2 = "none"
+profile_provider_names = []
+profile_names = ["Vodafone UK eSIM"]
 
 [[operators]]
 mnc = "16"
@@ -207,12 +207,14 @@ plmn = "23418"
 operator = "Cloud 9 Mobile Communications PLC"
 brand = "Cloud 9 Mobile"
 bands = "GSM 1800 / UMTS 2100"
+icon = "cloud-9-mobile"
+icon_scope = "234"
 
 [[operators.gids]]
 gid1 = "6764ffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["Airalo"]
-profile_names = []
+profile_names = ["Cloud9_Prime_Airalo_T01"]
 
 [[operators]]
 mnc = "19"
@@ -229,49 +231,43 @@ brand = "3"
 tadig = "GBRHU"
 bands = "UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / 5G 3500"
 icon = "3"
-icon_scope = "worldwide"
+icon_scope = "234"
 
 [[operators.gids]]
 gid1 = "0303"
 gid2 = ""
 profile_provider_names = ["3UK"]
-profile_names = []
+profile_names = ["3UK", "8944200204877024882"]
+
+[[operators.gids]]
+gid1 = "0303"
+gid2 = "none"
+profile_provider_names = []
+profile_names = ["3UK"]
 
 [[operators.gids]]
 gid1 = "0305"
 gid2 = ""
 profile_provider_names = ["iDmobile"]
-profile_names = []
+profile_names = ["ID Mobil UK - ES2"]
 
 [[operators.gids]]
 gid1 = "0309"
 gid2 = ""
 profile_provider_names = ["SMARTY"]
-profile_names = []
+profile_names = ["SMARTY"]
 
 [[operators.gids]]
 gid1 = "030bffff"
 gid2 = "ffffffff"
-profile_provider_names = ["loop"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "030bffff"
-gid2 = "ffffffff"
-profile_provider_names = ["honest"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "030bffff"
-gid2 = "ffffffff"
-profile_provider_names = ["Rider"]
-profile_names = []
+profile_provider_names = ["loop", "honest", "Rider"]
+profile_names = ["Download to install your loop eSIM", "Download to install your honest eSIM", "Download to install your simp eSIM"]
 
 [[operators.gids]]
 gid1 = "030c"
 gid2 = ""
 profile_provider_names = ["3UK"]
-profile_names = []
+profile_names = ["3UK"]
 
 [[operators]]
 mnc = "21"
@@ -304,12 +300,14 @@ plmn = "23425"
 operator = "Truphone"
 brand = "Truphone"
 bands = "MVNO"
+icon = "truphone"
+icon_scope = "234"
 
 [[operators.gids]]
 gid1 = "547275554b3030656e"
 gid2 = "547275554b3030656e"
 profile_provider_names = ["SimWallet"]
-profile_names = []
+profile_names = ["SimWallet", "8944476500009187340"]
 
 [[operators]]
 mnc = "26"
@@ -317,6 +315,14 @@ plmn = "23426"
 operator = "Lycamobile UK Limited"
 brand = "Lycamobile"
 bands = "MVNO"
+icon = "lycamobile"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["LycaMobile"]
+profile_names = ["LYC37481C_2k_GBR_V8.0_V8.12.0_DI_SMENU_SIMFILES_20230307", "LYC37655_10K_GEN_GBR_V1.0_V1.6.0_DI_SMENU_SIMFILES_20240109", "LYC37649_10K_GEN_GBR_V1.0_V1.4.0_DI_SMENU_SIMFILES_20230701", "LYC37656_10K_GEN_GBR_V1.0_V1.6.0_DI_SMENU_SIMFILES_20240110", "LYC37636_10K_GEN_GBR_V1.0_V1.2.0_DI_SMENU_SIMFILES_20230516"]
 
 [[operators]]
 mnc = "27"
@@ -345,36 +351,50 @@ operator = "EE"
 brand = "T-Mobile UK"
 tadig = "GBRME"
 bands = "GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 3500"
+icon = "orange"
+icon_scope = "234"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["LycaMobile"]
+profile_names = ["LYC39060_10K_GEN_GBR_V1.0_V1.0.0_SI_20241205", "LYC23866_10K_GEN_UK_V1.0_V1.0.0_SI_SMENU_SIMFILES_07062024", "LYC39269_10K_GEN_GBR_V1.0_V1.0.0_SI_20250214", "LYC39059_10K_GEN_GBR_V1.0_V1.0.0_SI_20241205", "LYC39272_10K_GEN_GBR_V1.0_V1.0.0_SI_20250220", "LYC23868_5K_GEN_UK_V1.0_V1.0.0_SI_SMENU_SIMFILES_13062024", "LYC39268_10K_GEN_GBR_V1.0_V1.0.0_SI_20250210"]
 
 [[operators.gids]]
 gid1 = "0000"
 gid2 = "ffff"
 profile_provider_names = ["1p"]
-profile_names = []
+profile_names = ["1p Mobile eSIM", "UW eSIM"]
 
 [[operators.gids]]
 gid1 = "534d2d5830312d475631"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["SLICE"]
-profile_names = []
+profile_names = ["SLICE39337_10K_PROD_GBR_V1.2_V1.0.0_DI_SMENU_SIMFILES_20250429"]
 
 [[operators.gids]]
 gid1 = "b3ff"
 gid2 = "ffff"
 profile_provider_names = ["EE"]
-profile_names = []
+profile_names = ["EE Corporate eSIM Product", "EE eSIM"]
 
 [[operators.gids]]
 gid1 = "eeff"
 gid2 = "ffff"
 profile_provider_names = ["EE"]
-profile_names = []
+profile_names = ["EE eSIM"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = ""
 profile_provider_names = ["LycaMobile"]
-profile_names = []
+profile_names = ["LycaMobile"]
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "none"
+profile_provider_names = []
+profile_names = ["LycaMobile"]
 
 [[operators]]
 mnc = "31"
@@ -397,24 +417,14 @@ operator = "EE"
 brand = "Orange"
 tadig = "GBROR"
 bands = "GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600"
+icon = "orange"
+icon_scope = "234"
 
 [[operators.gids]]
 gid1 = "0000"
 gid2 = "ffff"
-profile_provider_names = ["CTExcel"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "0000"
-gid2 = "ffff"
-profile_provider_names = ["CMLink"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "0000"
-gid2 = "ffff"
-profile_provider_names = ["eSIM"]
-profile_names = []
+profile_provider_names = ["CTExcel", "CMLink", "eSIM"]
+profile_names = ["CTExcel eSIM", "CMI eSIM", "eSIM"]
 
 [[operators]]
 mnc = "34"
@@ -455,24 +465,46 @@ operator = "Gamma Telecom Holdings Ltd."
 brand = ""
 
 [[operators]]
+mnc = "40"
+plmn = "23440"
+brand = "spusu"
+icon = "spusu-international"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = "0048"
+gid2 = ""
+profile_provider_names = ["spusu"]
+profile_names = ["spusu eSIM"]
+icon = "spusu"
+icon_scope = "worldwide"
+
+[[operators]]
+mnc = "43"
+plmn = "23443"
+brand = ""
+
+[[operators]]
 mnc = "50"
 plmn = "23450"
 operator = "JT Group Limited"
 brand = "JT"
 tadig = "GBRJT"
 bands = "GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+icon = "jt"
+icon_scope = "234"
 
 [[operators.gids]]
 gid1 = "46526f616d313054"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["Flexiroam"]
-profile_names = []
+profile_names = ["JT_FRX"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["JT"]
-profile_names = []
+profile_names = ["JT_IOS_T01", "Jersey_Telecom_UK_v01.01.00"]
 
 [[operators]]
 mnc = "51"
@@ -507,6 +539,14 @@ plmn = "23455"
 operator = "Sure (Guernsey) Limited"
 brand = "Sure Mobile"
 bands = "GSM 900 / UMTS 2100 / LTE 800 / LTE 1800"
+icon = "airtel"
+icon_scope = "234"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Sure"]
+profile_names = ["Sure"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
@@ -524,103 +564,21 @@ brand = ""
 mnc = "57"
 plmn = "23457"
 operator = "Sky UK Limited"
-brand = ""
+brand = "Sky"
+icon = "sky"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "0409"
 gid2 = "ffff"
-profile_provider_names = ["eSIM Go"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "0409"
-gid2 = "ffff"
-profile_provider_names = ["TraveleSIM"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "0409"
-gid2 = "ffff"
-profile_provider_names = ["Pocket eSIM"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "0409"
-gid2 = "ffff"
-profile_provider_names = ["nextSiM EU"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "0409"
-gid2 = "ffff"
-profile_provider_names = ["eSIM"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "0409"
-gid2 = "ffff"
-profile_provider_names = ["BuddySIM"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "0409"
-gid2 = "ffff"
-profile_provider_names = ["Esimatic"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "0409"
-gid2 = "ffff"
-profile_provider_names = ["eSIMo"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "0409"
-gid2 = "ffff"
-profile_provider_names = ["PayPoint"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "0409"
-gid2 = "ffff"
-profile_provider_names = ["LNVPN"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "0409"
-gid2 = "ffff"
-profile_provider_names = ["22SIM"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "0409"
-gid2 = "ffff"
-profile_provider_names = ["ACMeSIM"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "0409"
-gid2 = "ffff"
-profile_provider_names = ["USim"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "0409"
-gid2 = "ffff"
-profile_provider_names = ["eSIMony"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "0409"
-gid2 = "ffff"
-profile_provider_names = ["Lyntel"]
-profile_names = []
+profile_provider_names = ["eSIM Go", "TraveleSIM", "Pocket eSIM", "nextSiM EU", "eSIM", "BuddySIM", "Esimatic", "eSIMo", "PayPoint", "LNVPN", "22SIM", "ACMeSIM", "USim", "eSIMony", "Lyntel"]
+profile_names = ["eSIM Go"]
 
 [[operators.gids]]
 gid1 = "0c"
 gid2 = "ff"
 profile_provider_names = ["Sky"]
-profile_names = []
+profile_names = ["Sky UK"]
 
 [[operators]]
 mnc = "58"
@@ -633,16 +591,22 @@ icon = "pronto-gsm"
 icon_scope = "234"
 
 [[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["MANX"]
+profile_names = []
+
+[[operators.gids]]
 gid1 = "3443ffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["WORLD8"]
-profile_names = []
+profile_names = ["MT_1.0"]
 
 [[operators.gids]]
 gid1 = "466c657869466f6e65ffffffffffff"
 gid2 = "466c657869466f6e65ffffffffffff"
 profile_provider_names = ["FlexiFone"]
-profile_names = []
+profile_names = ["SR Flexifone Manx eSIM Profile"]
 
 [[operators.gids]]
 gid1 = "466c657869666f6e65ffffffffffff"
@@ -654,7 +618,7 @@ profile_names = []
 gid1 = "4d616e782054656c65636f6dffffff"
 gid2 = "ffffffffffffffffffffffffffffff"
 profile_provider_names = ["Manx Telecom"]
-profile_names = []
+profile_names = ["MT_SR_Matrix_1.1"]
 
 [[operators.gids]]
 gid1 = "53696d436f726e6572ffffffffffff"
@@ -666,31 +630,31 @@ profile_names = []
 gid1 = "536d617274726f616d11534c"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["Smartroam_SL"]
-profile_names = []
+profile_names = ["P_ManxTelecom_Smartroam_1.0"]
 
 [[operators.gids]]
 gid1 = "536d617274726f616d5f534cffffff"
 gid2 = "536d617274726f616d5f534cffffff"
 profile_provider_names = ["SR SIM Local Manx eSIM Profile"]
-profile_names = []
+profile_names = ["MT_SR_SIMLocal_1.0"]
 
 [[operators.gids]]
 gid1 = "536d617274726f616d5f534cffffff"
 gid2 = "ffffffffffffffffffffffffffffff"
 profile_provider_names = ["SR SIM Local Manx eSIM Profile"]
-profile_names = []
+profile_names = ["MT_SR_SIMLocal_1.0"]
 
 [[operators.gids]]
 gid1 = "5453494dffffffffffffffffffffff"
 gid2 = "ffffffffffffffffffffffffffffff"
 profile_provider_names = ["TSIM"]
-profile_names = []
+profile_names = ["SR Twixair Manx eSIM Profile"]
 
 [[operators.gids]]
 gid1 = "54726176656c57696669"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["TravelWifi"]
-profile_names = []
+profile_names = ["MT_1.0"]
 
 [[operators.gids]]
 gid1 = "574f524c4438ffffffffffffffffff"
@@ -708,7 +672,7 @@ profile_names = []
 gid1 = "6554726176656c53494dffffffffff"
 gid2 = "6554726176656c53494dffffffffff"
 profile_provider_names = ["eTravelSIM"]
-profile_names = []
+profile_names = ["SR eTravelSIM Manx eSIM Profile"]
 
 [[operators.gids]]
 gid1 = "6554726176656c53494dffffffffff"
@@ -768,3 +732,17 @@ mnc = "86"
 plmn = "23486"
 operator = "EE"
 brand = ""
+
+[[operators]]
+mnc = "87"
+plmn = "23487"
+operator = "Lebara"
+brand = "Lebara"
+icon = "lebara"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Lebara"]
+profile_names = ["Lebara"]

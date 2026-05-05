@@ -18,12 +18,20 @@ operator = "Telenor Denmark"
 brand = "Telenor"
 tadig = "DNKDM"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+icon = "telenor-nordic"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Telenor DK"]
+profile_names = []
 
 [[operators.gids]]
 gid1 = "ff"
 gid2 = "ff"
 profile_provider_names = ["Lebara"]
-profile_names = []
+profile_names = ["Lebara"]
 
 [[operators]]
 mnc = "03"
@@ -51,18 +59,20 @@ operator = "Hi3G Denmark ApS"
 brand = "3"
 tadig = "DNKHU"
 bands = "UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2600"
+icon = "3"
+icon_scope = "238"
 
 [[operators.gids]]
 gid1 = "1000"
 gid2 = ""
 profile_provider_names = ["3 Danmark"]
-profile_names = []
+profile_names = ["ESIM_DK.42.28_QR_DIGITAL"]
 
 [[operators.gids]]
 gid1 = "1001ffff"
 gid2 = ""
 profile_provider_names = ["OiSTER"]
-profile_names = []
+profile_names = ["ESIM_DK.42.27_QR_DIGITAL"]
 
 [[operators]]
 mnc = "07"
@@ -104,12 +114,20 @@ plmn = "23812"
 operator = "Lycamobile Denmark Ltd"
 brand = "Lycamobile"
 bands = "MVNO"
+icon = "lycamobile"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["LycaMobile"]
+profile_names = ["LYC40006_5K_GEN_DNK_V1.0_V1.9.0_DI_SMENU_SIMFILES_20250729", "LYC39299_8K_GEN_DNK_V1.0_V1.8.0_DI_SMENU_SIMFILES_20250224", "LYC37874_1K_GEN_DNK_V1.0_V1.8.0_DI_SMENU_SIMFILES_20240222", "LYC38713_3K_GEN_DNK_V1.0_V1.8.0_DI_SMENU_SIMFILES_20240919", "LYC40242_8K_GEN_DNK_V1.0_V1.9.0_DI_SMENU_SIMFILES_20250909", "LYC39054_5K_GEN_DNK_V1.0_V1.8.0_DI_SMENU_SIMFILES_20241209", "LYC38684_3K_GEN_DNK_V1.0_V1.8.0_DI_SMENU_SIMFILES_20240823"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = ""
 profile_provider_names = ["LycaMobile"]
-profile_names = []
+profile_names = ["LycaMobile"]
 
 [[operators]]
 mnc = "13"

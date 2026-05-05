@@ -11,6 +11,12 @@ brand = "Telia"
 tadig = "LTUOM"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600"
 
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = []
+profile_names = ["Telia LT"]
+
 [[operators]]
 mnc = "02"
 plmn = "24602"
@@ -18,6 +24,14 @@ operator = "UAB Bitė Lietuva"
 brand = "BITĖ"
 tadig = "LTUMT"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+icon = "bit"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["BITE"]
+profile_names = ["BITE"]
 
 [[operators]]
 mnc = "03"
@@ -26,6 +40,14 @@ operator = "UAB Tele2 (Tele2 AB, Sweden)"
 brand = "Tele2"
 tadig = "LTU03"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+icon = "tele2"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Tele2"]
+profile_names = ["T2_LT_Pos", "T2_LT_Pre"]
 
 [[operators]]
 mnc = "04"

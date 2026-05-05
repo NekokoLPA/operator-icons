@@ -29,12 +29,14 @@ plmn = "64703"
 operator = "Telco OI"
 brand = "Free"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800"
+icon = "free"
+icon_scope = "647"
 
 [[operators.gids]]
 gid1 = "f2330002"
 gid2 = "ffffffff"
 profile_provider_names = ["Free"]
-profile_names = []
+profile_names = ["Free Mobile"]
 
 [[operators]]
 mnc = "04"

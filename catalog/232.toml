@@ -10,6 +10,14 @@ operator = "A1 Telekom Austria"
 brand = "A1.net"
 tadig = "AUTPT"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500"
+icon = "one"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Red Bull MOBILE/A1", "Red Bull MOBILE", "B.free/A1", "A1"]
+profile_names = ["RBM", "A1_A2504250332720", "A1_A2501230409800", "A1_A2504250375950", "A1_A2507150321743", "A1_A2504250398200", "A1_A2507150052777", "A1_A2507150105914", "A1_A2507150135283", "A1_A2507150398154", "A1_A2507150482537", "A1_A2411280088811", "A1_A2507150214369", "A1_A2504250385686", "B.Free eSIM", "A1_A2407100419020", "A1_A2507150418747", "A1_A2407100464182", "A1_A5625069196830", "A1_A2504250369565", "A1_A2504250410229", "A1_A2511040133474", "A1_A2411280137410", "A1_A2504250151831", "A1_A2501230071758", "A1_A2504250240238", "A1_A2507150118594", "A1_A2511040169551", "A1_A5625343172805", "A1_A2501230101886", "A1_A2504250243828", "A1_A5625132301474", "A1_A2407100218711", "A1_A2504250373534", "A1_A2504250328728", "A1_A2504250325492", "A1_A2504250013262", "A1_A2403210380418", "A1_A2504250373492", "A1_A2504250392088", "A1_A2507150135630", "A1_A2501230011887", "A1_A2504250326292", "A1_A2501230180765", "A1_A2504250119648", "A1_A2501230389309", "A1_A2511040287429", "A1_A2507150020659", "A1_A2504250084867", "A1_A2407100333650", "A1_A2504250319958", "A1_A2407100249567", "A1_A2511040311476", "A1_A2501230062690", "A1_A2501230017918", "A1_A2504250344600", "A1_A2411280057766", "A1_A2504250061519", "A1_A2511040094502", "A1_A2511040364582", "A1_A2511040248462", "A1_A2507150267896", "A1_A2511040367163", "A1_A2511040368856", "A1_A2511040426415", "A1_A2504250248942"]
 
 [[operators]]
 mnc = "02"
@@ -24,6 +32,8 @@ operator = "T-Mobile Austria GmbH"
 brand = "Magenta"
 tadig = "AUTMM"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 3500"
+icon = "t-mobile"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "01"
@@ -44,12 +54,14 @@ operator = "Hutchison Drei Austria"
 brand = "3"
 tadig = "AUTCA"
 bands = "GSM 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600"
+icon = "3"
+icon_scope = "232"
 
 [[operators.gids]]
 gid1 = "0303"
 gid2 = "0303"
 profile_provider_names = ["3 AT"]
-profile_names = []
+profile_names = ["3 AT"]
 
 [[operators]]
 mnc = "06"
@@ -63,12 +75,14 @@ plmn = "23207"
 operator = "T-Mobile Austria"
 brand = "tele.ring"
 bands = "MVNO"
+icon = "t-mobile"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "70"
 gid2 = "ff"
 profile_provider_names = ["HoT eSIM"]
-profile_names = []
+profile_names = ["HoT eSIM"]
 
 [[operators]]
 mnc = "08"
@@ -76,6 +90,14 @@ plmn = "23208"
 operator = "Lycamobile Austria"
 brand = "Lycamobile"
 bands = "MVNO"
+icon = "lycamobile"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["LycaMobile"]
+profile_names = ["LYC39174_5K_GEN_AUT_V1.0_V1.8.0_DI_SMENU_SIMFILES_20250106"]
 
 [[operators]]
 mnc = "09"
@@ -90,84 +112,50 @@ plmn = "23210"
 operator = "Hutchison Drei Austria"
 brand = "3"
 bands = "UMTS 2100 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 3500"
+icon = "3"
+icon_scope = "232"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Redtea Mobile", "RedteaGO", "Carrier", "Roam", "Textr", "Roamic", "Vacay", "Slick", "Travel", "22SIM", "JetFi Mobile", "Wholesim", "eSIM"]
+profile_names = ["RTG_Android", "RedteaGO", "ESIM_ACCESS_CARRIER", "Metablox_APP", "Klook_app", "GenVoice_type_Textr", "Roamic_APP", "Slick", "SmartTraveller", "22SIM", "Access_Jetfi", "Centup"]
 
 [[operators.gids]]
 gid1 = "0000"
 gid2 = "0000"
 profile_provider_names = ["educom"]
-profile_names = []
+profile_names = ["educom Austria"]
 
 [[operators.gids]]
 gid1 = "0304"
 gid2 = "0304"
 profile_provider_names = ["Eety"]
-profile_names = []
+profile_names = ["Eety"]
 
 [[operators.gids]]
 gid1 = "0305"
 gid2 = "0305"
 profile_provider_names = ["Lidl Connect"]
-profile_names = []
+profile_names = ["Lidl"]
 
 [[operators.gids]]
 gid1 = "0409"
 gid2 = "0409"
 profile_provider_names = ["Data eSIM"]
-profile_names = []
+profile_names = ["HAT_1.0"]
 
 [[operators.gids]]
 gid1 = "0409"
 gid2 = "ffff"
-profile_provider_names = ["eSIM Go"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "0409"
-gid2 = "ffff"
-profile_provider_names = ["Pocket eSIM"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "0409"
-gid2 = "ffff"
-profile_provider_names = ["Esimatic"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "0409"
-gid2 = "ffff"
-profile_provider_names = ["ACMeSIM"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "0409"
-gid2 = "ffff"
-profile_provider_names = ["nextSiM EU"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "0409"
-gid2 = "ffff"
-profile_provider_names = ["Roamingo"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "0409"
-gid2 = "ffff"
-profile_provider_names = ["BuddySIM"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "0409"
-gid2 = "ffff"
-profile_provider_names = ["Lyntel"]
-profile_names = []
+profile_provider_names = ["eSIM Go", "Pocket eSIM", "Esimatic", "ACMeSIM", "nextSiM EU", "Roamingo", "BuddySIM", "Lyntel"]
+profile_names = ["eSIM Go"]
 
 [[operators.gids]]
 gid1 = "040c"
 gid2 = "040c"
 profile_provider_names = ["Airalo"]
-profile_names = []
+profile_names = ["Airalo"]
 
 [[operators.gids]]
 gid1 = "040f"
@@ -179,14 +167,14 @@ profile_names = []
 gid1 = "0414"
 gid2 = "0414"
 profile_provider_names = ["eROAMING"]
-profile_names = []
+profile_names = ["eROAMING"]
 
 [[operators.gids]]
 gid1 = "0507"
 gid2 = "0507"
 profile_provider_names = ["Holafly"]
-profile_names = []
-icon = "holafly"
+profile_names = ["Holafly"]
+icon = "3"
 icon_scope = "worldwide"
 
 [[operators.gids]]
@@ -198,26 +186,14 @@ profile_names = []
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
-profile_provider_names = ["BillionConnect"]
-profile_names = []
+profile_provider_names = ["BillionConnect", "Roamify", "Trip", "3"]
+profile_names = ["BillionConnect", "Roamify", "OpenRoam", "3"]
 
 [[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["Roamify"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["Trip"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["3"]
-profile_names = []
+gid1 = "none"
+gid2 = "none"
+profile_provider_names = []
+profile_names = ["ESIM_ACCESS_CARRIER", "RTG_Android"]
 
 [[operators]]
 mnc = "11"
@@ -225,6 +201,14 @@ plmn = "23211"
 operator = "A1 Telekom Austria"
 brand = "bob"
 bands = "MVNO"
+icon = "bob"
+icon_scope = "232"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["bob"]
+profile_names = ["bob_A5823270048656", "bob_A5823270051296", "bob_A5819101176989", "bob_A5823270052617", "bob_A5819101177045"]
 
 [[operators]]
 mnc = "12"
@@ -232,6 +216,14 @@ plmn = "23212"
 operator = "A1 Telekom Austria"
 brand = "yesss!"
 bands = "MVNO"
+icon = "one"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["yesss!/A1", "yooopi!/A1", "XOXO", "Georg", "yesss!", "Georg/A1", "XOXO/A1", "A1 Austria"]
+profile_names = ["yooopi!", "yesss!", "XOXO", "educom"]
 
 [[operators]]
 mnc = "13"
@@ -263,19 +255,21 @@ brand = ""
 mnc = "17"
 plmn = "23217"
 operator = "MASS Response Service GmbH"
-brand = ""
+brand = "spusu"
+icon = "spusu"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "0041"
 gid2 = ""
 profile_provider_names = ["spusu"]
-profile_names = []
+profile_names = ["spusu_digital"]
 
 [[operators.gids]]
 gid1 = "c7ff"
 gid2 = ""
 profile_provider_names = ["spusu"]
-profile_names = []
+profile_names = ["spusu_digital"]
 
 [[operators]]
 mnc = "18"
@@ -296,12 +290,14 @@ plmn = "23220"
 operator = "MTEL Austrija GmbH"
 brand = "m:tel"
 bands = "MVNO"
+icon = "m-tel"
+icon_scope = "232"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["TRASNA_IRELAND"]
-profile_names = []
+profile_names = ["MTEL_Austria_eSIM_Postpaid_IMSI2_v2.0"]
 
 [[operators]]
 mnc = "21"

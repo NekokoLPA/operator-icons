@@ -17,12 +17,20 @@ operator = "\"PRJSC \"\"VF Ukraine\"\"\""
 brand = "Vodafone"
 tadig = "UKRUM"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2600"
+icon = "vodafone"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Vodafone UA"]
+profile_names = ["Vodafone UA"]
 
 [[operators.gids]]
 gid1 = "ff"
 gid2 = "ff"
 profile_provider_names = ["Vodafone UA"]
-profile_names = []
+profile_names = ["Vodafone UA"]
 
 [[operators]]
 mnc = "02"
@@ -39,12 +47,20 @@ operator = "\"PRJSC \"\"Kyivstar\"\"\""
 brand = "Kyivstar"
 tadig = "UKRKS"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2600"
+icon = "kyivstar"
+icon_scope = "255"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["KYIVSTAR"]
+profile_names = ["KS_OA_23_01", "Kyivstar"]
 
 [[operators.gids]]
 gid1 = "ff"
 gid2 = "ff"
 profile_provider_names = ["Kyivstar"]
-profile_names = []
+profile_names = ["Kyivstar_Ukraine_v01.03.00"]
 
 [[operators]]
 mnc = "04"
@@ -67,26 +83,36 @@ operator = "lifecell LLC"
 brand = "lifecell"
 tadig = "UKRAS"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2600"
+icon = "lifecell"
+icon_scope = "255"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["lifecell"]
+profile_names = ["Lifecell_Default"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["lifecell"]
-profile_names = []
+profile_names = ["AST_56.00"]
 
 [[operators]]
 mnc = "07"
 plmn = "25507"
 operator = "Trimob LLC"
 brand = "\"3Mob"
-tadig = " Lycamobile\""
+tadig = "Lycamobile\""
 bands = "UKRUT"
+icon = "3mob"
+icon_scope = "255"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["3Mob"]
-profile_names = []
+profile_names = ["TriMob_INTERTELECOM_T01", "TriMob_T01"]
 
 [[operators]]
 mnc = "08"

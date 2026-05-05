@@ -11,44 +11,6 @@ brand = "Reliance"
 bands = "GSM 1800"
 
 [[operators]]
-mnc = "025"
-plmn = "405025"
-operator = "Andhra Pradesh and Telangana"
-brand = "TATA DOCOMO"
-tadig = "INDT0"
-bands = "CDMA 2000 / GSM 1800 / UMTS 2100"
-
-[[operators]]
-mnc = "026"
-plmn = "405026"
-operator = "Assam"
-brand = "TATA DOCOMO"
-bands = "CDMA 2000"
-
-[[operators]]
-mnc = "027"
-plmn = "405027"
-operator = "Bihar/Jharkhand"
-brand = "TATA DOCOMO"
-tadig = "INDTB"
-bands = "CDMA 2000 / GSM 1800"
-
-[[operators]]
-mnc = "028"
-plmn = "405028"
-operator = "Chennai"
-brand = "TATA DOCOMO"
-bands = "CDMA 2000 / GSM 1800"
-
-[[operators]]
-mnc = "029"
-plmn = "405029"
-operator = "Delhi"
-brand = "TATA DOCOMO"
-tadig = "INDTD"
-bands = "CDMA 2000"
-
-[[operators]]
 mnc = "03"
 plmn = "40503"
 operator = "Bihar"
@@ -56,146 +18,11 @@ brand = "Reliance"
 bands = "GSM 1800"
 
 [[operators]]
-mnc = "030"
-plmn = "405030"
-operator = "Gujarat"
-brand = "TATA DOCOMO"
-tadig = "INDTG"
-bands = "CDMA 2000 / GSM 1800 / UMTS 2100"
-
-[[operators]]
-mnc = "031"
-plmn = "405031"
-operator = "Haryana"
-brand = "TATA DOCOMO"
-tadig = "INDTH"
-bands = "CDMA 2000 / GSM 1800 / UMTS 2100"
-
-[[operators]]
-mnc = "032"
-plmn = "405032"
-operator = "Himachal Pradesh"
-brand = "TATA DOCOMO"
-tadig = "INDT4"
-bands = "CDMA 2000 / GSM 1800 / UMTS 2100"
-
-[[operators]]
-mnc = "033"
-plmn = "405033"
-operator = "Jammu & Kashmir"
-brand = "TATA DOCOMO"
-bands = "CDMA 2000"
-
-[[operators]]
-mnc = "034"
-plmn = "405034"
-operator = "Karnataka"
-brand = "TATA DOCOMO"
-tadig = "INDT1"
-bands = "CDMA 2000 / GSM 1800 / UMTS 2100"
-
-[[operators]]
-mnc = "035"
-plmn = "405035"
-operator = "Kerala"
-brand = "TATA DOCOMO"
-tadig = "INDT3"
-bands = "CDMA 2000 / GSM 1800 / UMTS 2100"
-
-[[operators]]
-mnc = "036"
-plmn = "405036"
-operator = "Kolkata"
-brand = "TATA DOCOMO"
-tadig = "INDTK"
-bands = "CDMA 2000 / GSM 1800"
-
-[[operators]]
-mnc = "037"
-plmn = "405037"
-operator = "Maharashtra & Goa"
-brand = "TATA DOCOMO"
-tadig = "INDT6"
-bands = "CDMA 2000 / GSM 1800 / UMTS 2100"
-
-[[operators]]
-mnc = "038"
-plmn = "405038"
-operator = "Madhya Pradesh"
-brand = "TATA DOCOMO"
-tadig = "INDT5"
-bands = "CDMA 2000 / GSM 1800 / UMTS 2100"
-
-[[operators]]
-mnc = "039"
-plmn = "405039"
-operator = "Mumbai"
-brand = "TATA DOCOMO"
-tadig = "INDTM"
-bands = "CDMA 2000 / GSM 1800"
-
-[[operators]]
 mnc = "04"
 plmn = "40504"
 operator = "Chennai"
 brand = "Reliance"
 bands = "GSM 1800"
-
-[[operators]]
-mnc = "041"
-plmn = "405041"
-operator = "Orissa"
-brand = "TATA DOCOMO"
-tadig = "INDTO"
-bands = "CDMA 2000 / GSM 1800"
-
-[[operators]]
-mnc = "042"
-plmn = "405042"
-operator = "Punjab"
-brand = "TATA DOCOMO"
-tadig = "INDTP"
-bands = "CDMA 2000 / GSM 1800 / UMTS 2100"
-
-[[operators]]
-mnc = "043"
-plmn = "405043"
-operator = "Rajasthan"
-brand = "TATA DOCOMO"
-tadig = "INDTR"
-bands = "CDMA 2000 / GSM 1800 / UMTS 2100"
-
-[[operators]]
-mnc = "044"
-plmn = "405044"
-operator = "Tamil Nadu including Chennai"
-brand = "TATA DOCOMO"
-tadig = "INDT2"
-bands = "CDMA 2000 / GSM 1800"
-
-[[operators]]
-mnc = "045"
-plmn = "405045"
-operator = "Uttar Pradesh (E)"
-brand = "TATA DOCOMO"
-tadig = "INDT7"
-bands = "CDMA 2000 / GSM 1800"
-
-[[operators]]
-mnc = "046"
-plmn = "405046"
-operator = "Uttar Pradesh (W) & Uttarakhand"
-brand = "TATA DOCOMO"
-tadig = "INDT8"
-bands = "CDMA 2000 / GSM 1800 / UMTS 2100"
-
-[[operators]]
-mnc = "047"
-plmn = "405047"
-operator = "West Bengal"
-brand = "TATA DOCOMO"
-tadig = "INDT9"
-bands = "CDMA 2000 / GSM 1800"
 
 [[operators]]
 mnc = "05"
@@ -324,12 +151,187 @@ brand = "Reliance"
 bands = "GSM"
 
 [[operators]]
+mnc = "025"
+plmn = "405025"
+operator = "Andhra Pradesh and Telangana"
+brand = "TATA DOCOMO"
+tadig = "INDT0"
+bands = "CDMA 2000 / GSM 1800 / UMTS 2100"
+
+[[operators]]
+mnc = "026"
+plmn = "405026"
+operator = "Assam"
+brand = "TATA DOCOMO"
+bands = "CDMA 2000"
+
+[[operators]]
+mnc = "027"
+plmn = "405027"
+operator = "Bihar/Jharkhand"
+brand = "TATA DOCOMO"
+tadig = "INDTB"
+bands = "CDMA 2000 / GSM 1800"
+
+[[operators]]
+mnc = "028"
+plmn = "405028"
+operator = "Chennai"
+brand = "TATA DOCOMO"
+bands = "CDMA 2000 / GSM 1800"
+
+[[operators]]
+mnc = "029"
+plmn = "405029"
+operator = "Delhi"
+brand = "TATA DOCOMO"
+tadig = "INDTD"
+bands = "CDMA 2000"
+
+[[operators]]
+mnc = "030"
+plmn = "405030"
+operator = "Gujarat"
+brand = "TATA DOCOMO"
+tadig = "INDTG"
+bands = "CDMA 2000 / GSM 1800 / UMTS 2100"
+
+[[operators]]
+mnc = "031"
+plmn = "405031"
+operator = "Haryana"
+brand = "TATA DOCOMO"
+tadig = "INDTH"
+bands = "CDMA 2000 / GSM 1800 / UMTS 2100"
+
+[[operators]]
+mnc = "032"
+plmn = "405032"
+operator = "Himachal Pradesh"
+brand = "TATA DOCOMO"
+tadig = "INDT4"
+bands = "CDMA 2000 / GSM 1800 / UMTS 2100"
+
+[[operators]]
+mnc = "033"
+plmn = "405033"
+operator = "Jammu & Kashmir"
+brand = "TATA DOCOMO"
+bands = "CDMA 2000"
+
+[[operators]]
+mnc = "034"
+plmn = "405034"
+operator = "Karnataka"
+brand = "TATA DOCOMO"
+tadig = "INDT1"
+bands = "CDMA 2000 / GSM 1800 / UMTS 2100"
+
+[[operators]]
+mnc = "035"
+plmn = "405035"
+operator = "Kerala"
+brand = "TATA DOCOMO"
+tadig = "INDT3"
+bands = "CDMA 2000 / GSM 1800 / UMTS 2100"
+
+[[operators]]
+mnc = "036"
+plmn = "405036"
+operator = "Kolkata"
+brand = "TATA DOCOMO"
+tadig = "INDTK"
+bands = "CDMA 2000 / GSM 1800"
+
+[[operators]]
+mnc = "037"
+plmn = "405037"
+operator = "Maharashtra & Goa"
+brand = "TATA DOCOMO"
+tadig = "INDT6"
+bands = "CDMA 2000 / GSM 1800 / UMTS 2100"
+
+[[operators]]
+mnc = "038"
+plmn = "405038"
+operator = "Madhya Pradesh"
+brand = "TATA DOCOMO"
+tadig = "INDT5"
+bands = "CDMA 2000 / GSM 1800 / UMTS 2100"
+
+[[operators]]
+mnc = "039"
+plmn = "405039"
+operator = "Mumbai"
+brand = "TATA DOCOMO"
+tadig = "INDTM"
+bands = "CDMA 2000 / GSM 1800"
+
+[[operators]]
+mnc = "041"
+plmn = "405041"
+operator = "Orissa"
+brand = "TATA DOCOMO"
+tadig = "INDTO"
+bands = "CDMA 2000 / GSM 1800"
+
+[[operators]]
+mnc = "042"
+plmn = "405042"
+operator = "Punjab"
+brand = "TATA DOCOMO"
+tadig = "INDTP"
+bands = "CDMA 2000 / GSM 1800 / UMTS 2100"
+
+[[operators]]
+mnc = "043"
+plmn = "405043"
+operator = "Rajasthan"
+brand = "TATA DOCOMO"
+tadig = "INDTR"
+bands = "CDMA 2000 / GSM 1800 / UMTS 2100"
+
+[[operators]]
+mnc = "044"
+plmn = "405044"
+operator = "Tamil Nadu including Chennai"
+brand = "TATA DOCOMO"
+tadig = "INDT2"
+bands = "CDMA 2000 / GSM 1800"
+
+[[operators]]
+mnc = "045"
+plmn = "405045"
+operator = "Uttar Pradesh (E)"
+brand = "TATA DOCOMO"
+tadig = "INDT7"
+bands = "CDMA 2000 / GSM 1800"
+
+[[operators]]
+mnc = "046"
+plmn = "405046"
+operator = "Uttar Pradesh (W) & Uttarakhand"
+brand = "TATA DOCOMO"
+tadig = "INDT8"
+bands = "CDMA 2000 / GSM 1800 / UMTS 2100"
+
+[[operators]]
+mnc = "047"
+plmn = "405047"
+operator = "West Bengal"
+brand = "TATA DOCOMO"
+tadig = "INDT9"
+bands = "CDMA 2000 / GSM 1800"
+
+[[operators]]
 mnc = "51"
 plmn = "40551"
 operator = "West Bengal"
 brand = "AirTel"
 tadig = "IND14"
 bands = "GSM 900"
+icon = "airtel"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
@@ -344,6 +346,8 @@ operator = "Bihar & Jharkhand"
 brand = "AirTel"
 tadig = "IND12"
 bands = "GSM 900"
+icon = "airtel"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
@@ -366,12 +370,14 @@ operator = "Uttar Pradesh (East)"
 brand = "AirTel"
 tadig = "IND10"
 bands = "GSM 900"
+icon = "airtel"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = []
-profile_names = []
+profile_names = ["8991542277704479998F", "8991542277702272205F", "8991542077701069416F", "8991541977700827915F"]
 
 [[operators]]
 mnc = "55"
@@ -400,12 +406,14 @@ mnc = "67"
 plmn = "40567"
 operator = "West Bengal"
 brand = "Vodafone India"
+icon = "vodafone"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ff"
 gid2 = "ff"
 profile_provider_names = ["Vi"]
-profile_names = []
+profile_names = ["VIL_PR_PROD_GND_RB_2"]
 
 [[operators]]
 mnc = "70"
@@ -414,6 +422,32 @@ operator = "Bihar & Jharkhand"
 brand = "IDEA"
 tadig = "INDIB"
 bands = "GSM 1800"
+
+[[operators]]
+mnc = "75"
+plmn = "40575"
+brand = "Vi"
+icon = "vi"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = ["Vi"]
+profile_names = []
+
+[[operators]]
+mnc = "702"
+plmn = "405702"
+brand = "Vi"
+icon = "vi"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = ["Vi"]
+profile_names = []
 
 [[operators]]
 mnc = "750"
@@ -639,12 +673,14 @@ operator = "West Bengal"
 brand = "Jio"
 tadig = "INDJ1"
 bands = "LTE 850 / LTE 1800 / TD-LTE 2300"
+icon = "jio"
+icon_scope = "405"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["Jio"]
-profile_names = []
+profile_names = ["89918400400734447829", "89918400400734165819"]
 
 [[operators]]
 mnc = "844"
@@ -681,6 +717,8 @@ operator = "Kolkata"
 brand = "IDEA"
 tadig = "INDIK"
 bands = "GSM 1800"
+icon = "vi"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ff"
@@ -717,6 +755,8 @@ operator = "Tamil Nadu"
 brand = "IDEA"
 tadig = "INDIT"
 bands = "GSM 1800"
+icon = "vi"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ff"
@@ -731,6 +771,8 @@ operator = "West Bengal"
 brand = "IDEA"
 tadig = "INDIW"
 bands = "GSM 1800"
+icon = "vi"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ff"
@@ -745,12 +787,14 @@ operator = "Andhra Pradesh"
 brand = "Jio"
 tadig = "INDJ2"
 bands = "LTE 850 / LTE 1800 / TD-LTE 2300"
+icon = "jio"
+icon_scope = "405"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["Jio"]
-profile_names = []
+profile_names = ["89918540400983842341", "89918540400864376674"]
 
 [[operators]]
 mnc = "855"
@@ -767,6 +811,8 @@ operator = "Bihar"
 brand = "Jio"
 tadig = "INDJ4"
 bands = "LTE 850 / LTE 1800 / TD-LTE 2300"
+icon = "jio"
+icon_scope = "405"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
@@ -781,12 +827,14 @@ operator = "Gujarat"
 brand = "Jio"
 tadig = "INDJ5"
 bands = "LTE 850 / LTE 1800 / TD-LTE 2300"
+icon = "jio"
+icon_scope = "405"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["Jio"]
-profile_names = []
+profile_names = ["89918570400836313121", "89918570400801050419", "89918570400796389970"]
 
 [[operators]]
 mnc = "858"
@@ -818,12 +866,14 @@ operator = "Karnataka"
 brand = "Jio"
 tadig = "INDJ9"
 bands = "LTE 850 / LTE 1800 / TD-LTE 2300"
+icon = "jio"
+icon_scope = "405"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["Jio"]
-profile_names = []
+profile_names = ["89918610400760481797", "89918610400696204446"]
 
 [[operators]]
 mnc = "862"
@@ -832,12 +882,14 @@ operator = "Kerala"
 brand = "Jio"
 tadig = "INDJL"
 bands = "LTE 850 / LTE 1800 / TD-LTE 2300"
+icon = "jio"
+icon_scope = "405"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["Jio"]
-profile_names = []
+profile_names = ["89918620400396804600", "89918620400454190348"]
 
 [[operators]]
 mnc = "863"
@@ -846,12 +898,14 @@ operator = "Madhya Pradesh"
 brand = "Jio"
 tadig = "INDJM"
 bands = "LTE 850 / LTE 1800 / TD-LTE 2300"
+icon = "jio"
+icon_scope = "405"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["Jio"]
-profile_names = []
+profile_names = ["89918630401069550932"]
 
 [[operators]]
 mnc = "864"
@@ -860,12 +914,14 @@ operator = "Maharashtra"
 brand = "Jio"
 tadig = "INDJN"
 bands = "LTE 850 / LTE 1800 / TD-LTE 2300"
+icon = "jio"
+icon_scope = "405"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["Jio"]
-profile_names = []
+profile_names = ["89918640401153811123", "89918640401154666872"]
 
 [[operators]]
 mnc = "865"
@@ -882,6 +938,8 @@ operator = "Orissa"
 brand = "Jio"
 tadig = "INDJP"
 bands = "LTE 850 / LTE 1800 / TD-LTE 2300"
+icon = "jio"
+icon_scope = "405"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
@@ -904,12 +962,14 @@ operator = "Rajasthan"
 brand = "Jio"
 tadig = "INDJR"
 bands = "LTE 850 / LTE 1800 / TD-LTE 2300"
+icon = "jio"
+icon_scope = "405"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["Jio"]
-profile_names = []
+profile_names = ["89918680400790924415"]
 
 [[operators]]
 mnc = "869"
@@ -918,12 +978,14 @@ operator = "Tamil Nadu (incl. Chennai)"
 brand = "Jio"
 tadig = "INDJS"
 bands = "LTE 850 / LTE 1800 / TD-LTE 2300"
+icon = "jio"
+icon_scope = "405"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["Jio"]
-profile_names = []
+profile_names = ["89918690500037674943"]
 
 [[operators]]
 mnc = "870"
@@ -932,6 +994,8 @@ operator = "Uttar Pradesh (West)"
 brand = "Jio"
 tadig = "INDJT"
 bands = "LTE 850 / LTE 1800 / TD-LTE 2300"
+icon = "jio"
+icon_scope = "405"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
@@ -955,6 +1019,12 @@ brand = "Jio"
 tadig = "INDJV"
 bands = "LTE 850 / LTE 1800 / TD-LTE 2300"
 
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = []
+profile_names = ["89918720400698828199", "89918720400714004114", "89918720400787695772"]
+
 [[operators]]
 mnc = "873"
 plmn = "405873"
@@ -962,12 +1032,14 @@ operator = "Kolkata"
 brand = "Jio"
 tadig = "INDJW"
 bands = "LTE 850 / LTE 1800 / TD-LTE 2300"
+icon = "jio"
+icon_scope = "405"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["Jio"]
-profile_names = []
+profile_names = ["89918730400325048995"]
 
 [[operators]]
 mnc = "874"

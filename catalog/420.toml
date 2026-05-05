@@ -10,18 +10,14 @@ operator = "Saudi Telecom Company"
 brand = "Al Jawal (STC )"
 tadig = "SAUAJ"
 bands = "GSM 900 / UMTS 900 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2100 / TD-LTE 2300 / 5G 3500"
+icon = "stc"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["stc"]
-profile_names = []
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = ["stc KSA"]
-profile_names = []
+profile_provider_names = ["stc", "stc KSA"]
+profile_names = ["PV Mass Production", "Physical Voucher for Mass Production"]
 
 [[operators]]
 mnc = "03"
@@ -30,18 +26,20 @@ operator = "Etihad Etisalat Company"
 brand = "Mobily"
 tadig = "SAUET"
 bands = "GSM 900 / UMTS 900 / UMTS 2100 / LTE 1800 / TD-LTE 2500"
+icon = "mobily"
+icon_scope = "420"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["mobily"]
-profile_names = []
+profile_names = ["mobily"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["Mobily"]
-profile_names = []
+profile_names = ["Es2 plus"]
 
 [[operators]]
 mnc = "04"
@@ -50,12 +48,14 @@ operator = "Zain Saudi Arabia"
 brand = "Zain SA"
 tadig = "SAUZN"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2500 / 5G 2500 / 5G 3500"
+icon = "zain-sa"
+icon_scope = "420"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["Zain"]
-profile_names = []
+profile_names = ["Test Physical Voucher"]
 
 [[operators]]
 mnc = "05"
@@ -63,12 +63,14 @@ plmn = "42005"
 operator = "Virgin Mobile Saudi Arabia"
 brand = "Virgin Mobile"
 bands = "MVNO"
+icon = "virgin-mobile"
+icon_scope = "420"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["VirginMobile"]
-profile_names = []
+profile_names = ["VP test"]
 
 [[operators]]
 mnc = "06"
@@ -76,12 +78,40 @@ plmn = "42006"
 operator = "Lebara Mobile"
 brand = "Lebara Mobile"
 tadig = "SAULB"
+icon = "lebara"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["Lebara"]
-profile_names = []
+profile_names = ["Test"]
+
+[[operators]]
+mnc = "09"
+plmn = "42009"
+brand = "SalamMobile"
+icon = "salammobile"
+icon_scope = "420"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["SalamMobile"]
+profile_names = ["Physical voucher"]
+
+[[operators]]
+mnc = "10"
+plmn = "42010"
+brand = "RedbullMobile"
+icon = "redbullmobile"
+icon_scope = "420"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["RedbullMobile"]
+profile_names = ["ES2plus use case"]
 
 [[operators]]
 mnc = "21"

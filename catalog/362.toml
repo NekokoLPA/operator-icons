@@ -93,6 +93,14 @@ plmn = "36291"
 operator = "United Telecommunication Service N.V. (UTS)"
 brand = "Chippie"
 bands = "GSM 900 / GSM 1800 / UMTS 850 / UMTS 2100 / LTE 1800"
+icon = "flow"
+icon_scope = "362"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Liberty FLOW DC"]
+profile_names = []
 
 [[operators]]
 mnc = "94"

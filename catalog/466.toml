@@ -10,12 +10,14 @@ operator = "Far EasTone Telecommunications Co Ltd"
 brand = "FarEasTone"
 tadig = "TWNFE"
 bands = "UMTS 2100 / LTE 700 / LTE 1800 / LTE 2600"
+icon = "fareastone"
+icon_scope = "466"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["FET Taiwan"]
-profile_names = []
+profile_names = ["Far EasTone Telecom"]
 
 [[operators]]
 mnc = "02"
@@ -37,12 +39,14 @@ plmn = "46605"
 operator = "Asia Pacific Telecom"
 brand = "APTG"
 bands = "LTE 700 / LTE 900 / TD-LTE 2600"
+icon = "aptg"
+icon_scope = "466"
 
 [[operators.gids]]
 gid1 = "0affffffffffffff"
 gid2 = "ff"
 profile_provider_names = ["APT Taiwan"]
-profile_names = []
+profile_names = ["APT"]
 
 [[operators]]
 mnc = "06"
@@ -114,6 +118,14 @@ operator = "Taiwan Star Telecom"
 brand = "T Star"
 tadig = "TWNTG"
 bands = "UMTS 2100 / LTE 900 / LTE 2600"
+icon = "t-star"
+icon_scope = "466"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = []
+profile_names = ["ESIM4G"]
 
 [[operators]]
 mnc = "90"
@@ -129,12 +141,20 @@ operator = "Chunghwa Telecom"
 brand = "Chunghwa"
 tadig = "TWNLD"
 bands = "UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2600"
+icon = "chunghwa"
+icon_scope = "466"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Redtea Mobile", "RedteaGO"]
+profile_names = ["RedteaGO", "RTG_Android"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["CHT Taiwan"]
-profile_names = []
+profile_names = ["Chunghwa Telecom"]
 
 [[operators]]
 mnc = "93"
@@ -142,6 +162,14 @@ plmn = "46693"
 operator = "Mobitai Communications"
 brand = "MobiTai"
 bands = "GSM 900"
+icon = "mobitai"
+icon_scope = "466"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["XiaoSha Telecom"]
+profile_names = []
 
 [[operators]]
 mnc = "97"
@@ -150,12 +178,14 @@ operator = "Taiwan Mobile Co. Ltd"
 brand = "Taiwan Mobile"
 tadig = "TWNPC"
 bands = "UMTS 2100 / LTE 700 / LTE 1800"
+icon = "mobitai"
+icon_scope = "466"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["Taiwan Mobile"]
-profile_names = []
+profile_names = ["N56901R5", "Taiwan Mobile", "N56701R5", "R56901R4", "P56901R5", "R56701R4"]
 
 [[operators]]
 mnc = "99"

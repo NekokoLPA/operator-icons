@@ -10,12 +10,14 @@ operator = "Emirates Telecom Corp"
 brand = "Etisalat"
 tadig = "ARETC"
 bands = "GSM 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+icon = "etisalat"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffff"
 gid2 = "ffffff"
 profile_provider_names = ["etisalat"]
-profile_names = []
+profile_names = ["Unified", "Type-2"]
 
 [[operators]]
 mnc = "03"
@@ -24,12 +26,14 @@ operator = "Emirates Integrated Telecommunications Company"
 brand = "du"
 tadig = "AREDU"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800"
+icon = "du"
+icon_scope = "424"
 
 [[operators.gids]]
 gid1 = "ff"
 gid2 = "00"
 profile_provider_names = ["du"]
-profile_names = []
+profile_names = ["du"]
 
 [[operators.gids]]
 gid1 = "ff"

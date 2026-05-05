@@ -9,12 +9,14 @@ plmn = "54900"
 operator = "Digicel Pacific Ltd."
 brand = "Digicel"
 tadig = "WSMDP"
+icon = "digicel"
+icon_scope = "549"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["DIGICEL"]
-profile_names = []
+profile_names = ["DIGICEL", "Digicel Samoa SM-DP+ Services Q4-2022"]
 
 [[operators]]
 mnc = "01"

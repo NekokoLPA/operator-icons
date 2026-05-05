@@ -24,12 +24,14 @@ plmn = "60703"
 operator = "Comium"
 brand = "Comium"
 bands = "GSM 900 / GSM 1800"
+icon = "comium"
+icon_scope = "607"
 
 [[operators.gids]]
 gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["comium"]
-profile_names = []
+profile_names = ["profilename"]
 
 [[operators]]
 mnc = "04"

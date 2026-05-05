@@ -10,6 +10,14 @@ operator = "Nepal Telecom (NDCL)"
 brand = "Namaste / NT Mobile / Sky Phone"
 tadig = "NPLNM"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / CDMA / WiMAX"
+icon = "nepal-telecom-ndcl"
+icon_scope = "429"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["NT"]
+profile_names = ["Profile Name"]
 
 [[operators]]
 mnc = "02"
@@ -18,6 +26,12 @@ operator = "Ncell Pvt. Ltd."
 brand = "Ncell"
 tadig = "NPLM2"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = []
+profile_names = ["Ncell eSIM"]
 
 [[operators]]
 mnc = "03"

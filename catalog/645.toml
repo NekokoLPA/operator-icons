@@ -10,6 +10,14 @@ operator = "Bharti Airtel"
 brand = "Airtel"
 tadig = "ZMBCE"
 bands = "GSM 900 / UMTS 900 / UMTS 2100 / LTE 900"
+icon = "airtel"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Airtel ZM"]
+profile_names = []
 
 [[operators]]
 mnc = "02"
@@ -17,6 +25,14 @@ plmn = "64502"
 operator = "MTN Group"
 brand = "MTN"
 bands = "GSM 900 / UMTS 2100 / LTE 1800"
+icon = "mtn"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["MTN Zambia"]
+profile_names = ["MTN Zambia"]
 
 [[operators]]
 mnc = "03"

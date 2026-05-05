@@ -27,3 +27,15 @@ tadig = "SYCAT"
 bands = "GSM 900 / UMTS 2100 / LTE 800"
 icon = "airtel"
 icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Airtel Seychelles"]
+profile_names = ["PP_SC_Nokia3_VOLTE", "PP_SC_Nokia2"]
+
+[[operators.gids]]
+gid1 = "none"
+gid2 = "none"
+profile_provider_names = []
+profile_names = ["PP_SC_Nokia3_VOLTE"]

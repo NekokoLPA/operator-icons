@@ -10,6 +10,14 @@ operator = "Vodafone România"
 brand = "Vodafone"
 tadig = "ROMMF"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / TD-LTE 2600 / 5G 3500"
+icon = "vodafone"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["Vodafone RO"]
+profile_names = ["Vodafone RO - Prepaid"]
 
 [[operators]]
 mnc = "02"
@@ -26,6 +34,12 @@ brand = "Telekom"
 tadig = "ROMCS"
 bands = "GSM 900 / GSM 1800 / LTE 800 / LTE 1800 / LTE 2600"
 
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = []
+profile_names = ["TMRO"]
+
 [[operators]]
 mnc = "04"
 plmn = "22604"
@@ -39,12 +53,14 @@ plmn = "22605"
 operator = "RCS&RDS"
 brand = "Digi.Mobil"
 bands = "UMTS 900 / UMTS 2100 / LTE 900 / LTE 2100 / TD-LTE 2600 / 5G 3500"
+icon = "meo"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffff"
 gid2 = "ffffffff"
 profile_provider_names = ["Digi.Mobil RO"]
-profile_names = []
+profile_names = ["Digi.Mobil RO"]
 
 [[operators]]
 mnc = "06"
@@ -60,12 +76,14 @@ operator = "Orange România"
 brand = "Orange"
 tadig = "ROMMR"
 bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500"
+icon = "orange"
+icon_scope = "worldwide"
 
 [[operators.gids]]
 gid1 = "ffffffff"
 gid2 = "ffffffff"
 profile_provider_names = ["Orange"]
-profile_names = []
+profile_names = ["ORO eSIM"]
 
 [[operators]]
 mnc = "11"

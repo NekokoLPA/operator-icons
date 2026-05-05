@@ -4,18 +4,46 @@ iso = "MN"
 region = "Asia and the Middle East"
 
 [[operators]]
+mnc = "06"
+plmn = "42806"
+brand = "gmobile 4g"
+icon = "gmobile-4g"
+icon_scope = "428"
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = ["gmobile 4g"]
+profile_names = ["profilename"]
+
+[[operators]]
+mnc = "33"
+plmn = "42833"
+brand = "ONDO"
+icon = "ondo"
+icon_scope = "428"
+
+[[operators.gids]]
+gid1 = ""
+gid2 = ""
+profile_provider_names = ["ONDO"]
+profile_names = ["ONDO_Main"]
+
+[[operators]]
 mnc = "88"
 plmn = "42888"
 operator = "Unitel LLC"
 brand = "Unitel"
 tadig = "MNGMN"
 bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+icon = "unitel"
+icon_scope = "428"
 
 [[operators.gids]]
 gid1 = "ff"
 gid2 = "ff"
 profile_provider_names = ["UNITEL"]
-profile_names = []
+profile_names = ["UNITEL"]
 
 [[operators]]
 mnc = "91"
@@ -45,10 +73,10 @@ icon_scope = "428"
 gid1 = "beffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["mobicom"]
-profile_names = []
+profile_names = ["mobicom"]
 
 [[operators.gids]]
 gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["Airalo"]
-profile_names = []
+profile_names = ["1.00"]
