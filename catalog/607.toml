@@ -1,0 +1,54 @@
+mcc = "607"
+country = "Gambia"
+iso = "GM"
+region = "Africa"
+
+[[operators]]
+mnc = "01"
+plmn = "60701"
+operator = "Gamcel"
+brand = "Gamcel"
+bands = "GSM 900 / GSM 1800 / UMTS 2100"
+
+[[operators]]
+mnc = "02"
+plmn = "60702"
+operator = "Africell"
+brand = "Africell"
+tadig = "GMBAC"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+
+[[operators]]
+mnc = "03"
+plmn = "60703"
+operator = "Comium"
+brand = "Comium"
+bands = "GSM 900 / GSM 1800"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["comium"]
+profile_names = []
+
+[[operators]]
+mnc = "04"
+plmn = "60704"
+operator = "QCell Gambia"
+brand = "QCell"
+tadig = "GMBQC"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+
+[[operators]]
+mnc = "05"
+plmn = "60705"
+operator = "Gamtel-Ecowan"
+brand = ""
+bands = "WiMAX / LTE"
+
+[[operators]]
+mnc = "06"
+plmn = "60706"
+operator = "NETPAGE"
+brand = ""
+bands = "TD-LTE 2300"

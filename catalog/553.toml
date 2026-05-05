@@ -1,0 +1,11 @@
+mcc = "553"
+country = "Tuvalu"
+iso = "TV"
+region = "Oceania"
+
+[[operators]]
+mnc = "01"
+plmn = "55301"
+operator = "Tuvalu Telecom"
+brand = "TTC"
+bands = "UMTS 900 / LTE 850"

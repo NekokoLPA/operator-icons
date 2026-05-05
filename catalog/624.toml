@@ -1,0 +1,34 @@
+mcc = "624"
+country = "Cameroon"
+iso = "CM"
+region = "Africa"
+
+[[operators]]
+mnc = "01"
+plmn = "62401"
+operator = "Mobile Telephone Network Cameroon Ltd"
+brand = "MTN Cameroon"
+tadig = "CMRMT"
+bands = "GSM 900 / UMTS 2100 / TD-LTE 2500"
+
+[[operators]]
+mnc = "02"
+plmn = "62402"
+operator = "Orange Cameroun S.A."
+brand = "Orange"
+bands = "GSM 900 / UMTS 2100 / LTE 1800"
+
+[[operators]]
+mnc = "03"
+plmn = "62403"
+operator = "Camtel"
+brand = "Camtel"
+bands = "CDMA / LTE 1800"
+
+[[operators]]
+mnc = "04"
+plmn = "62404"
+operator = "Viettel Cameroun"
+brand = "Nexttel"
+tadig = "CMRVG"
+bands = "GSM 900 / GSM 1800 / UMTS 2100"

@@ -1,0 +1,495 @@
+mcc = "204"
+country = "Netherlands"
+iso = "NL"
+region = "Europe"
+
+[[operators]]
+mnc = "01"
+plmn = "20401"
+operator = "RadioAccess Network Services"
+brand = ""
+
+[[operators]]
+mnc = "02"
+plmn = "20402"
+operator = "Tele2 Nederland B.V."
+brand = "Tele2"
+bands = "LTE 800 / LTE 2600"
+
+[[operators]]
+mnc = "03"
+plmn = "20403"
+operator = "Voiceworks B.V."
+brand = "Voiceworks"
+bands = "MVNE / PrivateGSM 1800"
+
+[[operators]]
+mnc = "04"
+plmn = "20404"
+operator = "Vodafone Libertel B.V."
+brand = "Vodafone"
+tadig = "NLDLT"
+bands = "GSM 900 / GSM 1800 / LTE 800 / LTE 1800 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "02"
+gid2 = ""
+profile_provider_names = ["vodafone NL"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "04"
+gid2 = ""
+profile_provider_names = ["Vodafone NL"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "2effffffffffffffffff"
+gid2 = ""
+profile_provider_names = ["depinsim.com"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "536d617274726f616d5f534cffffff"
+gid2 = "536d617274726f616d5f534cffffff"
+profile_provider_names = ["Smartroam_SL"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "54726176656c57696669"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["TravelWifi"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "6764ffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Airalo"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "6764ffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Carrier"]
+profile_names = []
+
+[[operators]]
+mnc = "05"
+plmn = "20405"
+operator = "Elephant Talk Communications Premium Rate Services"
+brand = ""
+
+[[operators]]
+mnc = "06"
+plmn = "20406"
+operator = "Mundio Mobile (Netherlands) Ltd"
+brand = "Vectone Mobile"
+bands = "MVNO"
+
+[[operators]]
+mnc = "07"
+plmn = "20407"
+operator = "Teleena (MVNE)"
+brand = ""
+bands = "MVNE"
+icon = "teleena-mvne"
+icon_scope = "204"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["Firsty"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["FairPlay"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["e-LUX"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["RedDogFish"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["Next"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["Xtreme"]
+profile_names = []
+
+[[operators]]
+mnc = "08"
+plmn = "20408"
+operator = "KPN Mobile The Netherlands B.V."
+brand = "KPN"
+tadig = "NLDPT"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600"
+icon = "kpn"
+icon_scope = "204"
+
+[[operators.gids]]
+gid1 = "547275554b3030656e"
+gid2 = "547275554b3030656e"
+profile_provider_names = ["BetterRoaming"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "547275554b3030656e"
+gid2 = "547275554b3030656e"
+profile_provider_names = ["1GLOBAL"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "547275554b3030656e"
+gid2 = "547275554b3030656e"
+profile_provider_names = ["Speedtest Travel"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "547275554b3030656e"
+gid2 = "547275554b3030656e"
+profile_provider_names = ["Heinemann"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "547275554b3030656e"
+gid2 = "547275554b3030656e"
+profile_provider_names = ["XeSIM"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "547275554b3030656e"
+gid2 = "547275554b3030656e"
+profile_provider_names = ["Sparhandy"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "547275554b3030656e"
+gid2 = "547275554b3030656e"
+profile_provider_names = ["Cluj Airport"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "547275554b3030656e"
+gid2 = "547275554b3030656e"
+profile_provider_names = ["Digital Republic"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "547275554b3030656e"
+gid2 = "547275554b3030656e"
+profile_provider_names = ["bunq"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "547275554b3030656e"
+gid2 = "547275554b3030656e"
+profile_provider_names = ["freenet Travel"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "547275554b3030656e"
+gid2 = "547275554b3030656e"
+profile_provider_names = ["eSIMfirst"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "547275554b3030656e"
+gid2 = "547275554b3030656e"
+profile_provider_names = ["Truphone"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "547275554b3030656e"
+gid2 = "547275554b3030656e"
+profile_provider_names = ["HIGH Mobile"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "547275554b3030656e"
+gid2 = "547275554b3030656e"
+profile_provider_names = ["Jazeera"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "547275554b3030656e"
+gid2 = "547275554b3030656e"
+profile_provider_names = ["GeteSIM"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "547275554b3030656e"
+gid2 = "547275554b3030656e"
+profile_provider_names = ["ADNEC"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "547275554b3030656e"
+gid2 = "547275554b3030656e"
+profile_provider_names = ["ntv"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "547275554b3030656e"
+gid2 = "547275554b3030656e"
+profile_provider_names = ["Simly"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "547275554b3030656e"
+gid2 = "547275554b3030656e"
+profile_provider_names = ["Numero"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffff"
+gid2 = "ffffffffffffffffff"
+profile_provider_names = ["Airalo"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffff"
+gid2 = "ffffffffffffffffff"
+profile_provider_names = ["simyo"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffff"
+gid2 = "ffffffffffffffffff"
+profile_provider_names = ["Connect"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffff"
+gid2 = "ffffffffffffffffff"
+profile_provider_names = ["KPN"]
+profile_names = []
+
+[[operators]]
+mnc = "09"
+plmn = "20409"
+operator = "Lycamobile Netherlands Limited"
+brand = "Lycamobile"
+bands = "MVNO"
+
+[[operators]]
+mnc = "10"
+plmn = "20410"
+operator = "KPN B.V."
+brand = "KPN"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+
+[[operators]]
+mnc = "11"
+plmn = "20411"
+operator = "VoipIT B.V."
+brand = ""
+
+[[operators]]
+mnc = "12"
+plmn = "20412"
+operator = "KPN Mobile The Netherlands B.V."
+brand = "Telfort"
+bands = "MVNO"
+
+[[operators]]
+mnc = "13"
+plmn = "20413"
+operator = "Unica Installatietechniek B.V."
+brand = ""
+
+[[operators]]
+mnc = "14"
+plmn = "20414"
+operator = "6GMOBILE B.V."
+brand = ""
+
+[[operators]]
+mnc = "15"
+plmn = "20415"
+operator = "Ziggo B.V."
+brand = "Ziggo"
+bands = "LTE 2600"
+
+[[operators]]
+mnc = "16"
+plmn = "20416"
+operator = "Odido"
+brand = "Odido"
+tadig = "NLDPN"
+bands = "GSM 900 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "2f"
+gid2 = "ff"
+profile_provider_names = ["Simpel"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "2f"
+gid2 = "ff"
+profile_provider_names = ["BEN"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = ["Odido"]
+profile_names = []
+
+[[operators]]
+mnc = "17"
+plmn = "20417"
+operator = "Intercity Mobile Communications B.V."
+brand = "Intercity Zakelijk"
+bands = "MVNE"
+
+[[operators]]
+mnc = "18"
+plmn = "20418"
+operator = "UPC Nederland B.V."
+brand = "upc"
+bands = "MVNO"
+
+[[operators]]
+mnc = "19"
+plmn = "20419"
+operator = "Mixe Communication Solutions B.V."
+brand = ""
+
+[[operators]]
+mnc = "20"
+plmn = "20420"
+operator = "Odido"
+brand = "Odido"
+tadig = "NLDDT"
+bands = "GSM 900 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600"
+
+[[operators]]
+mnc = "21"
+plmn = "20421"
+operator = "ProRail B.V."
+brand = ""
+bands = "GSM-R 900"
+
+[[operators]]
+mnc = "22"
+plmn = "20422"
+operator = "Ministerie van Defensie"
+brand = ""
+
+[[operators]]
+mnc = "23"
+plmn = "20423"
+operator = "Wyless Nederland B.V."
+brand = ""
+bands = "MVNE"
+
+[[operators]]
+mnc = "24"
+plmn = "20424"
+operator = "Private Mobility Nederland B.V."
+brand = ""
+
+[[operators]]
+mnc = "25"
+plmn = "20425"
+operator = "CapX B.V."
+brand = ""
+bands = "PrivateGSM 1800"
+
+[[operators]]
+mnc = "26"
+plmn = "20426"
+operator = "SpeakUp B.V."
+brand = ""
+
+[[operators]]
+mnc = "27"
+plmn = "20427"
+operator = "Breezz Nederland B.V."
+brand = ""
+
+[[operators]]
+mnc = "28"
+plmn = "20428"
+operator = "Lancelot B.V."
+brand = ""
+
+[[operators]]
+mnc = "29"
+plmn = "20429"
+operator = "Private Mobile Ltd"
+brand = ""
+
+[[operators]]
+mnc = "60"
+plmn = "20460"
+operator = "Nextgen Mobile Ltd"
+brand = ""
+
+[[operators]]
+mnc = "61"
+plmn = "20461"
+operator = "BodyTrace Netherlands B.V."
+brand = ""
+bands = "MVNO"
+
+[[operators]]
+mnc = "62"
+plmn = "20462"
+operator = "Voxbone mobile"
+brand = "Voxbone"
+bands = "MVNO"
+
+[[operators]]
+mnc = "64"
+plmn = "20464"
+operator = "Zetacom B.V."
+brand = ""
+
+[[operators]]
+mnc = "65"
+plmn = "20465"
+operator = "AGMS Netherlands B.V."
+brand = ""
+
+[[operators]]
+mnc = "66"
+plmn = "20466"
+operator = "Utility Connect B.V."
+brand = ""
+bands = "CDMA 450"
+
+[[operators]]
+mnc = "67"
+plmn = "20467"
+operator = "Koning en Hartman B.V."
+brand = ""
+bands = "PrivateGSM 1800"
+
+[[operators]]
+mnc = "68"
+plmn = "20468"
+operator = "Roamware (Netherlands) B.V."
+brand = ""
+
+[[operators]]
+mnc = "69"
+plmn = "20469"
+operator = "KPN Mobile The Netherlands B.V."
+brand = ""

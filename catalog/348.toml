@@ -1,0 +1,34 @@
+mcc = "348"
+country = "British Virgin Islands (UK)"
+iso = "VG"
+region = "North America and the Caribbean"
+
+[[operators]]
+mnc = "170"
+plmn = "348170"
+operator = "Cable & Wireless"
+brand = "FLOW"
+tadig = "VGBCW"
+bands = "GSM 850 / GSM 1900 / UMTS 850 / LTE 700 / LTE 1900"
+
+[[operators]]
+mnc = "370"
+plmn = "348370"
+operator = "BVI Cable TV Ltd"
+brand = ""
+
+[[operators]]
+mnc = "570"
+plmn = "348570"
+operator = "Caribbean Cellular Telephone"
+brand = "CCT Boatphone"
+tadig = "VGBCC"
+bands = "GSM 900 / GSM 1900 / UMTS 850 / LTE 900 / LTE 1900"
+
+[[operators]]
+mnc = "770"
+plmn = "348770"
+operator = "Digicel (BVI) Limited"
+brand = "Digicel"
+tadig = "VGBDC"
+bands = "GSM 1800 / GSM 1900 / UMTS 1900 / LTE 700 / LTE 1700"

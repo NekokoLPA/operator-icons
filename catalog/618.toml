@@ -1,0 +1,38 @@
+mcc = "618"
+country = "Liberia"
+iso = "LR"
+region = "Africa"
+
+[[operators]]
+mnc = "01"
+plmn = "61801"
+operator = "Lonestar Communications Corporation"
+brand = "Lonestar Cell MTN"
+bands = "GSM 900 / GSM 1800 / UMTS 2100"
+
+[[operators]]
+mnc = "02"
+plmn = "61802"
+operator = "Atlantic Wireless (Liberia) Inc."
+brand = "Libercell"
+
+[[operators]]
+mnc = "04"
+plmn = "61804"
+operator = "Novafone Inc."
+brand = "Novafone"
+bands = "GSM 900 / GSM 1800 / UMTS 2100"
+
+[[operators]]
+mnc = "07"
+plmn = "61807"
+operator = "Orange Liberia"
+brand = "Orange LBR"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+
+[[operators]]
+mnc = "20"
+plmn = "61820"
+operator = "Liberia Telecommunications Corporation"
+brand = "LIBTELCO"
+bands = "CDMA2000"

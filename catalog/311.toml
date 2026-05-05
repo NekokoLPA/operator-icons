@@ -1,0 +1,883 @@
+mcc = "311"
+country = "United States of America"
+iso = "US"
+region = "North America and the Caribbean"
+
+[[operators]]
+mnc = "000"
+plmn = "311000"
+operator = "Mid-Tex Cellular Ltd."
+brand = "West Central Wireless"
+bands = "CDMA2000 850 / CDMA2000 1900"
+
+[[operators]]
+mnc = "010"
+plmn = "311010"
+operator = "Chariton Valley Communications"
+brand = "Chariton Valley"
+bands = "CDMA2000 850 / CDMA2000 1900"
+
+[[operators]]
+mnc = "012"
+plmn = "311012"
+operator = "Verizon Wireless"
+brand = "Verizon"
+bands = "CDMA2000 850 / CDMA2000 1900"
+
+[[operators]]
+mnc = "020"
+plmn = "311020"
+operator = "Missouri RSA 5 Partnership"
+brand = "Chariton Valley"
+bands = "GSM 850"
+
+[[operators]]
+mnc = "030"
+plmn = "311030"
+operator = "Americell PA 3 Partnership"
+brand = "Indigo Wireless"
+tadig = "USAIN"
+bands = "GSM 850 / GSM 1900 / UMTS 850"
+
+[[operators]]
+mnc = "040"
+plmn = "311040"
+operator = "Commnet Wireless"
+brand = "Choice Wireless"
+tadig = "USACO"
+bands = "GSM 850 / GSM 1900 / CDMA 2000 / UMTS"
+
+[[operators]]
+mnc = "050"
+plmn = "311050"
+operator = "Thumb Cellular LP"
+brand = ""
+bands = "CDMA2000 850"
+
+[[operators]]
+mnc = "060"
+plmn = "311060"
+operator = "Space Data Corporation"
+brand = ""
+
+[[operators]]
+mnc = "070"
+plmn = "311070"
+operator = "AT&T Mobility"
+brand = "AT&T"
+bands = "GSM 850"
+
+[[operators]]
+mnc = "080"
+plmn = "311080"
+operator = "Pine Telephone Company"
+brand = "Pine Cellular"
+bands = "GSM 850 / LTE"
+
+[[operators]]
+mnc = "090"
+plmn = "311090"
+operator = "AT&T Mobility"
+brand = "AT&T"
+bands = "GSM 1900"
+
+[[operators]]
+mnc = "100"
+plmn = "311100"
+operator = "Nex-Tech Wireless"
+brand = ""
+bands = "CDMA2000"
+
+[[operators]]
+mnc = "110"
+plmn = "311110"
+operator = "Verizon Wireless"
+brand = "Verizon"
+
+[[operators]]
+mnc = "120"
+plmn = "311120"
+operator = "Wave Runner LLC"
+brand = "iConnect"
+
+[[operators]]
+mnc = "130"
+plmn = "311130"
+operator = "Lightsquared L.P."
+brand = ""
+bands = "LTE"
+
+[[operators]]
+mnc = "140"
+plmn = "311140"
+operator = "Cross Telephone Company"
+brand = "Bravado Wireless"
+bands = "CDMA"
+
+[[operators]]
+mnc = "150"
+plmn = "311150"
+operator = "Wilkes Cellular"
+brand = ""
+bands = "GSM 850"
+
+[[operators]]
+mnc = "160"
+plmn = "311160"
+operator = "Lightsquared L.P."
+brand = ""
+bands = "LTE"
+
+[[operators]]
+mnc = "170"
+plmn = "311170"
+operator = "Tampnet"
+brand = ""
+tadig = "USAPE"
+bands = "GSM 850 / LTE"
+
+[[operators]]
+mnc = "180"
+plmn = "311180"
+operator = "AT&T Mobility"
+brand = "AT&T"
+bands = "GSM 850 / UMTS 850 / UMTS 1900"
+
+[[operators]]
+mnc = "190"
+plmn = "311190"
+operator = "AT&T Mobility"
+brand = "AT&T"
+
+[[operators]]
+mnc = "200"
+plmn = "311200"
+operator = "ARINC"
+brand = ""
+
+[[operators]]
+mnc = "210"
+plmn = "311210"
+operator = "Telnyx LLC"
+brand = ""
+bands = "MVNO"
+
+[[operators.gids]]
+gid1 = "5aa5"
+gid2 = "5254"
+profile_provider_names = ["Telnyx"]
+profile_names = []
+
+[[operators]]
+mnc = "220"
+plmn = "311220"
+operator = "U.S. Cellular"
+brand = "U.S. Cellular"
+bands = "CDMA"
+
+[[operators]]
+mnc = "230"
+plmn = "311230"
+operator = "Cellular South Inc."
+brand = "C Spire Wireless"
+bands = "CDMA 850 / CDMA 1900 / LTE 700 / LTE 850 / LTE 1700 / LTE 1900 / TD-LTE 2500"
+
+[[operators]]
+mnc = "240"
+plmn = "311240"
+operator = "Cordova Wireless"
+brand = ""
+bands = "GSM / UMTS 850 / WiMAX"
+
+[[operators]]
+mnc = "250"
+plmn = "311250"
+operator = "Wave Runner LLC"
+brand = "iConnect"
+
+[[operators]]
+mnc = "260"
+plmn = "311260"
+operator = "Sprint Corporation"
+brand = "Sprint"
+bands = "WiMAX"
+
+[[operators]]
+mnc = "270"
+plmn = "311270"
+operator = "Verizon Wireless"
+brand = "Verizon"
+
+[[operators]]
+mnc = "271"
+plmn = "311271"
+operator = "Verizon Wireless"
+brand = "Verizon"
+
+[[operators]]
+mnc = "272"
+plmn = "311272"
+operator = "Verizon Wireless"
+brand = "Verizon"
+
+[[operators]]
+mnc = "273"
+plmn = "311273"
+operator = "Verizon Wireless"
+brand = "Verizon"
+
+[[operators]]
+mnc = "274"
+plmn = "311274"
+operator = "Verizon Wireless"
+brand = "Verizon"
+
+[[operators]]
+mnc = "275"
+plmn = "311275"
+operator = "Verizon Wireless"
+brand = "Verizon"
+
+[[operators]]
+mnc = "276"
+plmn = "311276"
+operator = "Verizon Wireless"
+brand = "Verizon"
+
+[[operators]]
+mnc = "277"
+plmn = "311277"
+operator = "Verizon Wireless"
+brand = "Verizon"
+
+[[operators]]
+mnc = "278"
+plmn = "311278"
+operator = "Verizon Wireless"
+brand = "Verizon"
+
+[[operators]]
+mnc = "279"
+plmn = "311279"
+operator = "Verizon Wireless"
+brand = "Verizon"
+
+[[operators]]
+mnc = "280"
+plmn = "311280"
+operator = "Verizon Wireless"
+brand = "Verizon"
+
+[[operators]]
+mnc = "281"
+plmn = "311281"
+operator = "Verizon Wireless"
+brand = "Verizon"
+
+[[operators]]
+mnc = "282"
+plmn = "311282"
+operator = "Verizon Wireless"
+brand = "Verizon"
+
+[[operators]]
+mnc = "283"
+plmn = "311283"
+operator = "Verizon Wireless"
+brand = "Verizon"
+
+[[operators]]
+mnc = "284"
+plmn = "311284"
+operator = "Verizon Wireless"
+brand = "Verizon"
+
+[[operators]]
+mnc = "285"
+plmn = "311285"
+operator = "Verizon Wireless"
+brand = "Verizon"
+
+[[operators]]
+mnc = "286"
+plmn = "311286"
+operator = "Verizon Wireless"
+brand = "Verizon"
+
+[[operators]]
+mnc = "287"
+plmn = "311287"
+operator = "Verizon Wireless"
+brand = "Verizon"
+
+[[operators]]
+mnc = "288"
+plmn = "311288"
+operator = "Verizon Wireless"
+brand = "Verizon"
+
+[[operators]]
+mnc = "289"
+plmn = "311289"
+operator = "Verizon Wireless"
+brand = "Verizon"
+
+[[operators]]
+mnc = "290"
+plmn = "311290"
+operator = "PinPoint Communications Inc."
+brand = "BLAZE"
+bands = "GSM 1900 / UMTS / LTE"
+
+[[operators]]
+mnc = "300"
+plmn = "311300"
+operator = "Nexus Communications, Inc."
+brand = ""
+
+[[operators]]
+mnc = "310"
+plmn = "311310"
+operator = "Leaco Rural Telephone Company Inc."
+brand = "NMobile"
+bands = "CDMA2000"
+
+[[operators]]
+mnc = "320"
+plmn = "311320"
+operator = "Commnet Wireless"
+brand = "Choice Wireless"
+tadig = "USACD"
+bands = "GSM 850 / GSM 1900 / CDMA 2000 / UMTS"
+
+[[operators]]
+mnc = "330"
+plmn = "311330"
+operator = "Bug Tussel Wireless LLC"
+brand = "Bug Tussel Wireless"
+bands = "GSM 1900 / LTE 1700 / WiMAX 3700"
+
+[[operators]]
+mnc = "340"
+plmn = "311340"
+operator = "Illinois Valley Cellular"
+brand = ""
+bands = "CDMA2000 / LTE 850"
+
+[[operators]]
+mnc = "350"
+plmn = "311350"
+operator = "Sagebrush Cellular, Inc."
+brand = "Nemont"
+bands = "CDMA2000"
+
+[[operators]]
+mnc = "360"
+plmn = "311360"
+operator = "Stelera Wireless"
+brand = ""
+bands = "UMTS 1700"
+
+[[operators]]
+mnc = "370"
+plmn = "311370"
+operator = "General Communication Inc."
+brand = "GCI Wireless"
+tadig = "USAGC"
+bands = "LTE 1700"
+
+[[operators]]
+mnc = "380"
+plmn = "311380"
+operator = "New Dimension Wireless Ltd."
+brand = ""
+bands = "MVNO"
+
+[[operators]]
+mnc = "390"
+plmn = "311390"
+operator = "Verizon Wireless"
+brand = "Verizon"
+
+[[operators]]
+mnc = "400"
+plmn = "311400"
+operator = ""
+brand = ""
+
+[[operators]]
+mnc = "410"
+plmn = "311410"
+operator = "Iowa RSA No. 2 LP"
+brand = "Chat Mobility"
+bands = "CDMA"
+
+[[operators]]
+mnc = "420"
+plmn = "311420"
+operator = "Northwest Missouri Cellular LP"
+brand = "NorthwestCell"
+bands = "CDMA"
+
+[[operators]]
+mnc = "430"
+plmn = "311430"
+operator = "RSA 1 LP"
+brand = "Chat Mobility"
+bands = "CDMA"
+
+[[operators]]
+mnc = "440"
+plmn = "311440"
+operator = "Bluegrass Cellular LLC"
+brand = ""
+bands = "CDMA"
+
+[[operators]]
+mnc = "450"
+plmn = "311450"
+operator = "Panhandle Telecommunication Systems Inc."
+brand = "PTCI"
+bands = "GSM 1900 / LTE 700"
+
+[[operators]]
+mnc = "460"
+plmn = "311460"
+operator = "Electric Imp Inc."
+brand = ""
+
+[[operators]]
+mnc = "470"
+plmn = "311470"
+operator = "Vitelcom Cellular Inc."
+brand = "Viya"
+bands = "GSM 850 / GSM 1900 / TD-LTE 2500"
+
+[[operators]]
+mnc = "480"
+plmn = "311480"
+operator = "Verizon Wireless"
+brand = "Verizon"
+tadig = "USAVZ"
+bands = "LTE 700"
+
+[[operators]]
+mnc = "481"
+plmn = "311481"
+operator = "Verizon Wireless"
+brand = "Verizon"
+bands = "LTE 700"
+
+[[operators]]
+mnc = "482"
+plmn = "311482"
+operator = "Verizon Wireless"
+brand = "Verizon"
+bands = "LTE 700"
+
+[[operators]]
+mnc = "483"
+plmn = "311483"
+operator = "Verizon Wireless"
+brand = "Verizon"
+bands = "LTE 700"
+
+[[operators]]
+mnc = "484"
+plmn = "311484"
+operator = "Verizon Wireless"
+brand = "Verizon"
+bands = "LTE 700"
+
+[[operators]]
+mnc = "485"
+plmn = "311485"
+operator = "Verizon Wireless"
+brand = "Verizon"
+bands = "LTE 700"
+
+[[operators]]
+mnc = "486"
+plmn = "311486"
+operator = "Verizon Wireless"
+brand = "Verizon"
+bands = "LTE 700"
+
+[[operators]]
+mnc = "487"
+plmn = "311487"
+operator = "Verizon Wireless"
+brand = "Verizon"
+bands = "LTE 700"
+
+[[operators]]
+mnc = "488"
+plmn = "311488"
+operator = "Verizon Wireless"
+brand = "Verizon"
+bands = "LTE 700"
+
+[[operators]]
+mnc = "489"
+plmn = "311489"
+operator = "Verizon Wireless"
+brand = "Verizon"
+bands = "LTE 700"
+
+[[operators]]
+mnc = "490"
+plmn = "311490"
+operator = "Sprint Corporation"
+brand = "Sprint"
+bands = "LTE 850 / LTE 1900 / TD-LTE 2500"
+
+[[operators]]
+mnc = "500"
+plmn = "311500"
+operator = "Mosaic Telecom"
+brand = ""
+bands = "UMTS / LTE 700 / LTE 1700"
+
+[[operators]]
+mnc = "510"
+plmn = "311510"
+operator = "Ligado Networks"
+brand = ""
+bands = "LTE"
+
+[[operators]]
+mnc = "520"
+plmn = "311520"
+operator = "Lightsquared L.P."
+brand = ""
+bands = "LTE"
+
+[[operators]]
+mnc = "530"
+plmn = "311530"
+operator = "NewCore Wireless LLC"
+brand = "NewCore"
+bands = "LTE 1900"
+
+[[operators]]
+mnc = "540"
+plmn = "311540"
+operator = "Proximiti Mobility Inc."
+brand = ""
+bands = "GSM 850"
+
+[[operators]]
+mnc = "550"
+plmn = "311550"
+operator = "Commnet Wireless LLC"
+brand = "Choice Wireless"
+bands = "GSM 850 / GSM 1900 / CDMA 2000 / UMTS"
+
+[[operators]]
+mnc = "560"
+plmn = "311560"
+operator = "OTZ Communications, Inc."
+brand = "OTZ Cellular"
+bands = "GSM 850"
+
+[[operators]]
+mnc = "570"
+plmn = "311570"
+operator = "Bend Cable Communications LLC"
+brand = "BendBroadband"
+bands = "UMTS 1700 / LTE 1700"
+
+[[operators]]
+mnc = "580"
+plmn = "311580"
+operator = "U.S. Cellular"
+brand = "U.S. Cellular"
+tadig = "USAUD"
+bands = "LTE 700 / LTE 850"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["UScellular"]
+profile_names = []
+
+[[operators]]
+mnc = "590"
+plmn = "311590"
+operator = "Verizon Wireless"
+brand = "Verizon"
+
+[[operators]]
+mnc = "600"
+plmn = "311600"
+operator = "Limitless Mobile, LLC"
+brand = "Limitless Mobile"
+bands = "CDMA"
+
+[[operators]]
+mnc = "610"
+plmn = "311610"
+operator = "North Dakota Network Co."
+brand = "SRT Communications"
+bands = "CDMA"
+
+[[operators]]
+mnc = "620"
+plmn = "311620"
+operator = "TerreStar Networks, Inc."
+brand = ""
+bands = "Satellite"
+
+[[operators]]
+mnc = "630"
+plmn = "311630"
+operator = "Cellular South Inc."
+brand = "C Spire Wireless"
+
+[[operators]]
+mnc = "640"
+plmn = "311640"
+operator = "Standing Rock Telecommunications"
+brand = "Rock Wireless"
+bands = "LTE 700"
+
+[[operators]]
+mnc = "650"
+plmn = "311650"
+operator = "United Wireless"
+brand = "United Wireless"
+bands = "CDMA / LTE 700 / WiMAX 3700"
+
+[[operators]]
+mnc = "660"
+plmn = "311660"
+operator = "Metro by T-Mobile"
+brand = "Metro"
+bands = "MVNO"
+
+[[operators]]
+mnc = "670"
+plmn = "311670"
+operator = "Pine Belt Cellular Inc."
+brand = "Pine Belt Wireless"
+bands = "CDMA / LTE 700"
+
+[[operators]]
+mnc = "680"
+plmn = "311680"
+operator = "GreenFly LLC"
+brand = ""
+bands = "GSM 1900"
+
+[[operators]]
+mnc = "690"
+plmn = "311690"
+operator = "TeleBEEPER of New Mexico"
+brand = ""
+bands = "paging"
+
+[[operators]]
+mnc = "700"
+plmn = "311700"
+operator = "Midwest Network Solutions Hub LLC"
+brand = ""
+bands = "MVNO"
+
+[[operators]]
+mnc = "710"
+plmn = "311710"
+operator = "Northeast Wireless Networks LLC"
+brand = ""
+
+[[operators]]
+mnc = "720"
+plmn = "311720"
+operator = "MainePCS LLC"
+brand = ""
+bands = "GSM 1900"
+
+[[operators]]
+mnc = "730"
+plmn = "311730"
+operator = "Proximiti Mobility Inc."
+brand = ""
+bands = "GSM 850"
+
+[[operators]]
+mnc = "740"
+plmn = "311740"
+operator = "Telalaska Cellular"
+brand = ""
+bands = "GSM 850 / LTE"
+
+[[operators]]
+mnc = "750"
+plmn = "311750"
+operator = "Flat Wireless LLC"
+brand = "ClearTalk"
+
+[[operators]]
+mnc = "760"
+plmn = "311760"
+operator = "Edigen Inc."
+brand = ""
+
+[[operators]]
+mnc = "770"
+plmn = "311770"
+operator = "Altiostar Networks, Inc."
+brand = ""
+
+[[operators]]
+mnc = "780"
+plmn = "311780"
+operator = "American Samoa Telecommunications"
+brand = "ASTCA"
+bands = "LTE 700"
+
+[[operators]]
+mnc = "790"
+plmn = "311790"
+operator = "Coleman County Telephone Cooperative, Inc."
+brand = ""
+
+[[operators]]
+mnc = "800"
+plmn = "311800"
+operator = "Bluegrass Cellular LLC"
+brand = ""
+bands = "LTE 700"
+
+[[operators]]
+mnc = "810"
+plmn = "311810"
+operator = "Bluegrass Cellular LLC"
+brand = ""
+bands = "LTE 700"
+
+[[operators]]
+mnc = "820"
+plmn = "311820"
+operator = "Sonus Networks"
+brand = ""
+
+[[operators]]
+mnc = "830"
+plmn = "311830"
+operator = "Thumb Cellular LP"
+brand = ""
+bands = "LTE 700"
+
+[[operators]]
+mnc = "840"
+plmn = "311840"
+operator = "Nsight"
+brand = "Cellcom"
+bands = "LTE 700"
+
+[[operators]]
+mnc = "850"
+plmn = "311850"
+operator = "Nsight"
+brand = "Cellcom"
+bands = "LTE 700"
+
+[[operators]]
+mnc = "860"
+plmn = "311860"
+operator = "Uintah Basin Electronic Telecommunications"
+brand = "STRATA"
+bands = "LTE 700"
+
+[[operators]]
+mnc = "870"
+plmn = "311870"
+operator = "Sprint Corporation"
+brand = "Boost Mobile"
+bands = "MVNO"
+
+[[operators]]
+mnc = "880"
+plmn = "311880"
+operator = "Sprint Corporation"
+brand = "Sprint"
+
+[[operators]]
+mnc = "882"
+plmn = "311882"
+operator = "Sprint Corporation"
+brand = "Sprint"
+
+[[operators]]
+mnc = "890"
+plmn = "311890"
+operator = "Globecomm Network Services Corporation"
+brand = ""
+
+[[operators]]
+mnc = "900"
+plmn = "311900"
+operator = "GigSky"
+brand = ""
+bands = "MVNO"
+
+[[operators]]
+mnc = "910"
+plmn = "311910"
+operator = "SI Wireless LLC"
+brand = "MobileNation"
+bands = "CDMA / LTE"
+
+[[operators]]
+mnc = "920"
+plmn = "311920"
+operator = "Missouri RSA 5 Partnership"
+brand = "Chariton Valley"
+
+[[operators]]
+mnc = "930"
+plmn = "311930"
+operator = "Syringa Wireless"
+brand = ""
+bands = "LTE 700"
+
+[[operators]]
+mnc = "940"
+plmn = "311940"
+operator = "Sprint Corporation"
+brand = "Sprint"
+bands = "WiMAX"
+
+[[operators]]
+mnc = "950"
+plmn = "311950"
+operator = "Enhanced Telecommmunications Corp."
+brand = "ETC"
+bands = "CDMA / LTE 700"
+
+[[operators]]
+mnc = "960"
+plmn = "311960"
+operator = "Lycamobile USA Inc."
+brand = "Lycamobile"
+bands = "MVNO"
+
+[[operators]]
+mnc = "970"
+plmn = "311970"
+operator = "Big River Broadband, LLC"
+brand = "Big River Broadband"
+bands = "LTE 1700"
+
+[[operators]]
+mnc = "980"
+plmn = "311980"
+operator = "LigTel Communications"
+brand = ""
+
+[[operators]]
+mnc = "990"
+plmn = "311990"
+operator = "VTel Wireless"
+brand = ""
+bands = "LTE 700 / LTE 1700"

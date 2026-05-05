@@ -1,0 +1,53 @@
+mcc = "602"
+country = "Egypt"
+iso = "EG"
+region = "Africa"
+
+[[operators]]
+mnc = "01"
+plmn = "60201"
+operator = "Orange Egypt"
+brand = "Orange"
+tadig = "EGYAR"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = ["Orange"]
+profile_names = []
+
+[[operators]]
+mnc = "02"
+plmn = "60202"
+operator = "Vodafone Egypt"
+brand = "Vodafone"
+tadig = "EGYMS"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+
+[[operators]]
+mnc = "03"
+plmn = "60203"
+operator = "Etisalat Egypt"
+brand = "Etisalat"
+tadig = "EGYEM"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["e& Egypt"]
+profile_names = []
+
+[[operators]]
+mnc = "04"
+plmn = "60204"
+operator = "Telecom Egypt"
+brand = "WE"
+bands = "LTE 1800"
+
+[[operators.gids]]
+gid1 = "e1ffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["we"]
+profile_names = []

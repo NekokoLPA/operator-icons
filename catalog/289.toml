@@ -1,0 +1,24 @@
+mcc = "289"
+country = "Abkhazia"
+iso = "GE"
+region = "Europe"
+
+[[operators]]
+mnc = "67"
+plmn = "28967"
+operator = "Aquafon JSC"
+brand = "Aquafon"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["AQUAFON"]
+profile_names = []
+
+[[operators]]
+mnc = "88"
+plmn = "28988"
+operator = "A-Mobile LLSC"
+brand = "A-Mobile"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800"

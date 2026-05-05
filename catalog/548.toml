@@ -1,0 +1,11 @@
+mcc = "548"
+country = "Cook Islands (Pacific Ocean)"
+iso = "CK"
+region = "Oceania"
+
+[[operators]]
+mnc = "01"
+plmn = "54801"
+operator = "Telecom Cook Islands"
+brand = "Bluesky"
+bands = "GSM 900 / UMTS 900 / LTE 700 / LTE 1800"

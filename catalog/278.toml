@@ -1,0 +1,42 @@
+mcc = "278"
+country = "Malta"
+iso = "MT"
+region = "Europe"
+
+[[operators]]
+mnc = "01"
+plmn = "27801"
+operator = "Vodafone Malta"
+brand = "Vodafone"
+tadig = "MLTTL"
+bands = "GSM 900 / UMTS 2100 / LTE 1800"
+
+[[operators]]
+mnc = "11"
+plmn = "27811"
+operator = "YOM Ltd."
+brand = ""
+bands = "MVNO"
+
+[[operators]]
+mnc = "21"
+plmn = "27821"
+operator = "Mobile Communications Limited"
+brand = "GO"
+tadig = "MLTGO"
+bands = "GSM 900 / UMTS 2100 / LTE 800 / LTE 1800"
+icon = "go"
+icon_scope = "278"
+
+[[operators]]
+mnc = "30"
+plmn = "27830"
+operator = "Mobile Communications Limited"
+brand = "GO"
+
+[[operators]]
+mnc = "77"
+plmn = "27877"
+operator = "Melita"
+brand = "Melita"
+bands = "UMTS 900 / UMTS 2100 / LTE 800 / LTE 2100"

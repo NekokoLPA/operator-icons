@@ -1,0 +1,104 @@
+mcc = "414"
+country = "Myanmar"
+iso = "MM"
+region = "Asia and the Middle East"
+
+[[operators]]
+mnc = "00"
+plmn = "41400"
+operator = "Myanmar Posts and Telecommunications"
+brand = "MPT"
+
+[[operators]]
+mnc = "01"
+plmn = "41401"
+operator = "Myanmar Posts and Telecommunications"
+brand = "MPT"
+tadig = "MMRPT"
+bands = "GSM 900 / UMTS 2100 / LTE 1800 / LTE 2100"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = ""
+profile_provider_names = ["MPT"]
+profile_names = []
+
+[[operators]]
+mnc = "02"
+plmn = "41402"
+operator = "Myanmar Posts and Telecommunications"
+brand = "MPT"
+
+[[operators]]
+mnc = "03"
+plmn = "41403"
+operator = "Myanmar Economic Corporation"
+brand = "CDMA800"
+bands = "CDMA 800"
+
+[[operators]]
+mnc = "04"
+plmn = "41404"
+operator = "Myanmar Posts and Telecommunications"
+brand = "MPT"
+
+[[operators]]
+mnc = "05"
+plmn = "41405"
+operator = "Ooredoo Myanmar"
+brand = "Ooredoo"
+tadig = "MMROM"
+bands = "UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2100"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["U9"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Ooredoo"]
+profile_names = []
+
+[[operators]]
+mnc = "06"
+plmn = "41406"
+operator = "Telenor Myanmar"
+brand = "Telenor"
+tadig = "MMRTN"
+bands = "GSM 900 / UMTS 2100 / LTE 1800 / LTE 2100"
+
+[[operators]]
+mnc = "09"
+plmn = "41409"
+operator = "Myanmar National Tele & Communication Co., Ltd"
+brand = "Mytel"
+bands = "GSM 900 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 2100"
+
+[[operators]]
+mnc = "20"
+plmn = "41420"
+operator = "Amara Communication Co., Ltd"
+brand = "ACS"
+bands = "TD-LTE 2600"
+
+[[operators]]
+mnc = "21"
+plmn = "41421"
+operator = "Amara Communication Co., Ltd"
+brand = "ACS"
+bands = "TD-LTE 2600"
+
+[[operators]]
+mnc = "22"
+plmn = "41422"
+operator = "Fortune Telecom Co., Ltd"
+brand = ""
+
+[[operators]]
+mnc = "23"
+plmn = "41423"
+operator = "Global Technology Co., Ltd"
+brand = ""

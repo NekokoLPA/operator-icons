@@ -1,0 +1,27 @@
+mcc = "645"
+country = "Zambia"
+iso = "ZM"
+region = "Africa"
+
+[[operators]]
+mnc = "01"
+plmn = "64501"
+operator = "Bharti Airtel"
+brand = "Airtel"
+tadig = "ZMBCE"
+bands = "GSM 900 / UMTS 900 / UMTS 2100 / LTE 900"
+
+[[operators]]
+mnc = "02"
+plmn = "64502"
+operator = "MTN Group"
+brand = "MTN"
+bands = "GSM 900 / UMTS 2100 / LTE 1800"
+
+[[operators]]
+mnc = "03"
+plmn = "64503"
+operator = "Zambia Telecommunications Company Ltd"
+brand = "ZAMTEL"
+tadig = "ZMBCZ"
+bands = "GSM 900 / UMTS 2100 / TD-LTE 2300"

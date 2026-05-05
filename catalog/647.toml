@@ -1,0 +1,51 @@
+mcc = "647"
+country = "French Indian Ocean Territories (France)"
+iso = "YT/RE"
+region = "Africa"
+
+[[operators]]
+mnc = "00"
+plmn = "64700"
+operator = "Orange La Réunion"
+brand = "Orange"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+
+[[operators]]
+mnc = "01"
+plmn = "64701"
+operator = "BJT Partners"
+brand = "Maoré Mobile"
+bands = "GSM 900 / GSM 1800 / LTE 1800"
+
+[[operators]]
+mnc = "02"
+plmn = "64702"
+operator = "Telco OI"
+brand = "Only"
+
+[[operators]]
+mnc = "03"
+plmn = "64703"
+operator = "Telco OI"
+brand = "Free"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800"
+
+[[operators.gids]]
+gid1 = "f2330002"
+gid2 = "ffffffff"
+profile_provider_names = ["Free"]
+profile_names = []
+
+[[operators]]
+mnc = "04"
+plmn = "64704"
+operator = "Zeop mobile"
+brand = "Zeop"
+bands = "LTE 1800 / LTE 2100 / LTE 2600"
+
+[[operators]]
+mnc = "10"
+plmn = "64710"
+operator = "Société Réunionnaise du Radiotéléphone"
+brand = "SFR Réunion"
+bands = "GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"

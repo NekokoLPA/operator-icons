@@ -1,0 +1,19 @@
+mcc = "627"
+country = "Equatorial Guinea"
+iso = "GQ"
+region = "Africa"
+
+[[operators]]
+mnc = "01"
+plmn = "62701"
+operator = "GETESA"
+brand = "Orange GQ"
+bands = "GSM 900"
+
+[[operators]]
+mnc = "03"
+plmn = "62703"
+operator = "Green Com S.A."
+brand = "Muni"
+tadig = "GNQHT"
+bands = "GSM 900 / GSM 1800 / UMTS 900"

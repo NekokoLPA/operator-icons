@@ -1,0 +1,312 @@
+mcc = "525"
+country = "Singapore"
+iso = "SG"
+region = "Oceania"
+
+[[operators]]
+mnc = "01"
+plmn = "52501"
+operator = "Singapore Telecom"
+brand = "SingTel"
+tadig = "SGPST"
+bands = "UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2600"
+icon = "singtel"
+icon_scope = "525"
+
+[[operators.gids]]
+gid1 = "45736b696d6f"
+gid2 = "ffffffffffff"
+profile_provider_names = ["Eskimo"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "4745544e4f4d4144"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Nomad"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "636f6e6e65637431ffffffffffffff"
+gid2 = "636f6e6e65637432ffffffffffffff"
+profile_provider_names = ["Connect"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "647463706179ffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["dtcpay"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = ["-"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = ["Eskimo"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = ["Singtel"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = ["CMLink"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = ["Zero1"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = ["VIVIFI"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = ["Airalo"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = ["Connect"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Singtel"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Zero1"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["VIVIFI"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["-"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Travelgoogoo"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["SCT"]
+profile_names = []
+
+[[operators]]
+mnc = "02"
+plmn = "52502"
+operator = "Singapore Telecom"
+brand = "SingTel-G18"
+tadig = "SGPML"
+bands = "GSM 1800"
+
+[[operators]]
+mnc = "03"
+plmn = "52503"
+operator = "M1 Limited"
+brand = "M1"
+tadig = "SGPM1"
+bands = "UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "ffff"
+gid2 = "ffff"
+profile_provider_names = ["M1"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["CIRCLEASIA"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Circles"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["MyRepublic"]
+profile_names = []
+
+[[operators]]
+mnc = "05"
+plmn = "52505"
+operator = "StarHub Mobile"
+brand = "StarHub"
+tadig = "SGPSH"
+bands = "UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2100 / LTE 2600 / TD-LTE 2500"
+
+[[operators.gids]]
+gid1 = "4442"
+gid2 = "ffff"
+profile_provider_names = ["giga"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "616972616c6f31"
+gid2 = "616972616c6f32"
+profile_provider_names = ["airalo"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "616972616c6f31ffffffffffffffff"
+gid2 = "616972616c6f32ffffffffffffffff"
+profile_provider_names = ["airalo"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "616c6f73696d31ffffffffffffffff"
+gid2 = "616c6f73696d32ffffffffffffffff"
+profile_provider_names = ["aloSIM"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "626e6573696d31ffffffffffffffff"
+gid2 = "626e6573696d32ffffffffffffffff"
+profile_provider_names = ["BNE SIM"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "636f6e6e65637431"
+gid2 = "636f6e6e65637432"
+profile_provider_names = ["connect"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "636f6e6e65637431ffffffffffffff"
+gid2 = "636f6e6e65637432ffffffffffffff"
+profile_provider_names = ["Connect"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "636f6e6e65637431ffffffffffffff"
+gid2 = "636f6e6e65637432ffffffffffffff"
+profile_provider_names = ["GlobalYO"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "636f6e6e65637431ffffffffffffff"
+gid2 = "636f6e6e65637432ffffffffffffff"
+profile_provider_names = ["Jetpac"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = ["eight"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = ["StarHub"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = ["giga"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["MyRepublic"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["UNICOM SG"]
+profile_names = []
+
+[[operators]]
+mnc = "06"
+plmn = "52506"
+operator = "StarHub Mobile"
+brand = "StarHub"
+
+[[operators]]
+mnc = "07"
+plmn = "52507"
+operator = "Singapore Telecom"
+brand = "SingTel"
+
+[[operators]]
+mnc = "08"
+plmn = "52508"
+operator = "StarHub Mobile"
+brand = "StarHub"
+tadig = "SGPMM"
+
+[[operators]]
+mnc = "09"
+plmn = "52509"
+operator = "Liberty Wireless Pte Ltd"
+brand = "Circles.Life"
+bands = "MVNO"
+
+[[operators]]
+mnc = "10"
+plmn = "52510"
+operator = "TPG Telecom Pte Ltd"
+brand = ""
+bands = "LTE 900 / TD-LTE 2300"
+
+[[operators.gids]]
+gid1 = "00000000"
+gid2 = "00000000"
+profile_provider_names = ["GOOSE"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+gid2 = "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+profile_provider_names = ["SIMBA"]
+profile_names = []
+
+[[operators]]
+mnc = "11"
+plmn = "52511"
+operator = "M1 Limited"
+brand = "M1"
+
+[[operators]]
+mnc = "12"
+plmn = "52512"
+operator = "GRID Communications Pte Ltd."
+brand = "Grid"
+bands = "iDEN 800"

@@ -1,0 +1,88 @@
+mcc = "637"
+country = "Somalia"
+iso = "SO"
+region = "Africa"
+
+[[operators]]
+mnc = "01"
+plmn = "63701"
+operator = "Telesom"
+brand = "Telesom"
+tadig = "SOM01"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE"
+
+[[operators]]
+mnc = "04"
+plmn = "63704"
+operator = "Somafone FZLLC"
+brand = "Somafone"
+bands = "GSM 900 / GSM 1800"
+
+[[operators]]
+mnc = "10"
+plmn = "63710"
+operator = "NationLink Telecom"
+brand = "Nationlink"
+bands = "GSM 900"
+
+[[operators]]
+mnc = "20"
+plmn = "63720"
+operator = "SOMNET"
+brand = "SOMNET"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800"
+
+[[operators]]
+mnc = "30"
+plmn = "63730"
+operator = "Golis Telecom Somalia"
+brand = "Golis"
+bands = "GSM 900"
+
+[[operators]]
+mnc = "50"
+plmn = "63750"
+operator = "Hormuud Telecom Somalia Inc"
+brand = "Hormuud"
+bands = "GSM 900 / UMTS"
+
+[[operators]]
+mnc = "57"
+plmn = "63757"
+operator = "UNITEL S.a.r.l."
+brand = "UNITEL"
+bands = "GSM 900 / GSM 1800"
+
+[[operators]]
+mnc = "60"
+plmn = "63760"
+operator = "Nationlink Telecom"
+brand = "Nationlink"
+bands = "GSM 900 / GSM 1800"
+
+[[operators]]
+mnc = "67"
+plmn = "63767"
+operator = "HTG Group Somalia"
+brand = "Horntel Group"
+bands = "GSM 900 / GSM 1800 / UMTS 2100"
+
+[[operators]]
+mnc = "70"
+plmn = "63770"
+operator = "Onkod Telecom Ltd."
+brand = ""
+
+[[operators]]
+mnc = "71"
+plmn = "63771"
+operator = "Somtel"
+brand = "Somtel"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800"
+
+[[operators]]
+mnc = "82"
+plmn = "63782"
+operator = "Telcom Somalia"
+brand = "Telcom"
+bands = "GSM 900 / GSM 1800 / CDMA2000 / LTE"

@@ -1,0 +1,10 @@
+mcc = "991"
+country = "Worldwide"
+iso = "UN"
+region = "Worldwide"
+
+[[operators]]
+mnc = "01"
+plmn = "99101"
+operator = "World's Global Telecom"
+brand = ""

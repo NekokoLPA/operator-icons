@@ -1,0 +1,10 @@
+mcc = "314"
+country = "United States of America"
+iso = "US"
+region = ""
+
+[[operators]]
+mnc = "100"
+plmn = "314100"
+operator = "Reserved for Public Safety"
+brand = ""

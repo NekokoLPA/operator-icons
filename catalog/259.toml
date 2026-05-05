@@ -1,0 +1,61 @@
+mcc = "259"
+country = "Moldova"
+iso = "MD"
+region = "Europe"
+
+[[operators]]
+mnc = "01"
+plmn = "25901"
+operator = "Orange Moldova"
+brand = "Orange"
+tadig = "MDAVX"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = ["Orange"]
+profile_names = []
+
+[[operators]]
+mnc = "02"
+plmn = "25902"
+operator = ""
+brand = "Moldcell"
+tadig = "MDAMC"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2600"
+
+[[operators]]
+mnc = "03"
+plmn = "25903"
+operator = "Moldtelecom"
+brand = "Unité"
+bands = "CDMA 450"
+
+[[operators]]
+mnc = "04"
+plmn = "25904"
+operator = "Eventis Telecom"
+brand = "Eventis"
+bands = "GSM 900 / GSM 1800"
+
+[[operators]]
+mnc = "05"
+plmn = "25905"
+operator = "Moldtelecom"
+brand = "Unité"
+bands = "UMTS 900 / UMTS 2100 / LTE 1800"
+
+[[operators]]
+mnc = "15"
+plmn = "25915"
+operator = "Interdnestrcom"
+brand = "IDC"
+bands = "LTE 800"
+
+[[operators]]
+mnc = "99"
+plmn = "25999"
+operator = "Moldtelecom"
+brand = "Unité"
+bands = "UMTS 2100"

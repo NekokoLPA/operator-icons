@@ -1,0 +1,190 @@
+mcc = "730"
+country = "Chile"
+iso = "CL"
+region = "South and Central America"
+
+[[operators]]
+mnc = "01"
+plmn = "73001"
+operator = "Entel Telefonía Móvil S.A."
+brand = "entel"
+tadig = "CHLMV"
+bands = "GSM 1900 / UMTS 1900 / LTE 700 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "10ffffffff"
+gid2 = "3733303130"
+profile_provider_names = ["Entel Chile"]
+profile_names = []
+
+[[operators]]
+mnc = "02"
+plmn = "73002"
+operator = "Telefónica Móvil de Chile"
+brand = "movistar"
+tadig = "CHLTM"
+bands = "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 700 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "10"
+gid2 = ""
+profile_provider_names = ["Movistar Chile"]
+profile_names = []
+
+[[operators]]
+mnc = "03"
+plmn = "73003"
+operator = "Claro Chile S.A."
+brand = "CLARO CL"
+tadig = "CHLSM"
+bands = "GSM 1900 / UMTS 1900 / LTE 700 / LTE 2600"
+
+[[operators]]
+mnc = "04"
+plmn = "73004"
+operator = "Novator Partners"
+brand = "WOM"
+bands = "iDEN 800"
+
+[[operators]]
+mnc = "05"
+plmn = "73005"
+operator = "Multikom S.A."
+brand = ""
+
+[[operators]]
+mnc = "06"
+plmn = "73006"
+operator = "Blue Two Chile S.A."
+brand = "Telsur"
+bands = "MVNO"
+
+[[operators]]
+mnc = "07"
+plmn = "73007"
+operator = "Telefónica Móvil de Chile"
+brand = "movistar"
+
+[[operators.gids]]
+gid1 = "10"
+gid2 = "ff"
+profile_provider_names = ["Virgin"]
+profile_names = []
+
+[[operators]]
+mnc = "08"
+plmn = "73008"
+operator = "VTR S.A."
+brand = "VTR Móvil"
+bands = "MVNO"
+
+[[operators]]
+mnc = "09"
+plmn = "73009"
+operator = "Novator Partners"
+brand = "WOM"
+bands = "UMTS 1700 / LTE 1700"
+
+[[operators]]
+mnc = "10"
+plmn = "73010"
+operator = "Entel Telefonía Móvil S.A."
+brand = "entel"
+bands = "GSM 1900 / UMTS 1900"
+
+[[operators]]
+mnc = "11"
+plmn = "73011"
+operator = "Celupago S.A."
+brand = ""
+
+[[operators]]
+mnc = "12"
+plmn = "73012"
+operator = "Telestar Móvil S.A."
+brand = "Colo-Colo MóvilWanderers Móvil"
+bands = "MVNO"
+
+[[operators]]
+mnc = "13"
+plmn = "73013"
+operator = "Tribe Mobile Chile SPA"
+brand = "Virgin Mobile"
+bands = "MVNO"
+
+[[operators]]
+mnc = "14"
+plmn = "73014"
+operator = "Netline Telefónica Móvil Ltda"
+brand = ""
+
+[[operators]]
+mnc = "15"
+plmn = "73015"
+operator = "Cibeles Telecom S.A."
+brand = ""
+bands = "MVNO"
+
+[[operators]]
+mnc = "16"
+plmn = "73016"
+operator = "Nomade Telecomunicaciones S.A."
+brand = ""
+bands = "MVNO"
+
+[[operators]]
+mnc = "17"
+plmn = "73017"
+operator = "COMPATEL Chile Limitada"
+brand = ""
+
+[[operators]]
+mnc = "18"
+plmn = "73018"
+operator = "Empresas Bunker S.A."
+brand = ""
+
+[[operators]]
+mnc = "19"
+plmn = "73019"
+operator = "Sociedad Falabella Móvil SPA"
+brand = "móvil Falabella"
+bands = "MVNO"
+
+[[operators]]
+mnc = "20"
+plmn = "73020"
+operator = "Inversiones Santa Fe Limitada"
+brand = ""
+
+[[operators]]
+mnc = "22"
+plmn = "73022"
+operator = "Cellplus SpA"
+brand = ""
+
+[[operators]]
+mnc = "23"
+plmn = "73023"
+operator = "Claro Servicios Empresariales S. A."
+brand = ""
+
+[[operators]]
+mnc = "26"
+plmn = "73026"
+operator = "WILL S.A."
+brand = ""
+
+[[operators]]
+mnc = "27"
+plmn = "73027"
+operator = "Cibeles Telecom S.A."
+brand = ""
+bands = "MVNO"
+
+[[operators]]
+mnc = "99"
+plmn = "73099"
+operator = "WILL Telefonía"
+brand = "Will"
+bands = "GSM 1900 / UMTS 1900"

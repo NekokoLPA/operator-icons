@@ -1,0 +1,53 @@
+mcc = "219"
+country = "Croatia"
+iso = "HR"
+region = "Europe"
+
+[[operators]]
+mnc = "01"
+plmn = "21901"
+operator = "T-Hrvatski Telekom"
+brand = "T-Mobile"
+tadig = "HRVCN"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800"
+
+[[operators.gids]]
+gid1 = "01"
+gid2 = "ff"
+profile_provider_names = ["HT HR"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "12"
+gid2 = "ff"
+profile_provider_names = ["HT HR"]
+profile_names = []
+
+[[operators]]
+mnc = "02"
+plmn = "21902"
+operator = "Tele2"
+brand = "Tele2"
+tadig = "HRVT2"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "4200"
+gid2 = "ffff"
+profile_provider_names = ["Telemach"]
+profile_names = []
+
+[[operators]]
+mnc = "10"
+plmn = "21910"
+operator = "A1 Hrvatska"
+brand = "A1"
+tadig = "HRVVI"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800"
+
+[[operators]]
+mnc = "12"
+plmn = "21912"
+operator = "TELE FOCUS d.o.o."
+brand = ""
+bands = "MVNO"

@@ -1,0 +1,28 @@
+mcc = "643"
+country = "Mozambique"
+iso = "MZ"
+region = "Africa"
+
+[[operators]]
+mnc = "01"
+plmn = "64301"
+operator = "Mocambique Celular S.A."
+brand = "mCel"
+tadig = "MOZ01"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100"
+
+[[operators]]
+mnc = "03"
+plmn = "64303"
+operator = "Movitel, SA"
+brand = "Movitel"
+tadig = "MOZVG"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800"
+
+[[operators]]
+mnc = "04"
+plmn = "64304"
+operator = "Vodacom Mozambique, S.A."
+brand = "Vodacom"
+tadig = "MOZVC"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800"

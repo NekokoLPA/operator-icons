@@ -1,0 +1,54 @@
+mcc = "428"
+country = "Mongolia"
+iso = "MN"
+region = "Asia and the Middle East"
+
+[[operators]]
+mnc = "88"
+plmn = "42888"
+operator = "Unitel LLC"
+brand = "Unitel"
+tadig = "MNGMN"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = ["UNITEL"]
+profile_names = []
+
+[[operators]]
+mnc = "91"
+plmn = "42891"
+operator = "Skytel LLC"
+brand = "Skytel"
+bands = "CDMA2000 800 / UMTS 2100"
+
+[[operators]]
+mnc = "98"
+plmn = "42898"
+operator = "G-Mobile LLC"
+brand = "G-Mobile"
+bands = "CDMA2000 450 / UMTS 2100"
+
+[[operators]]
+mnc = "99"
+plmn = "42899"
+operator = "Mobicom Corporation"
+brand = "Mobicom"
+tadig = "MNGMC"
+bands = "GSM 900 / UMTS 2100 / LTE 1800 / LTE 2100"
+icon = "mobicom"
+icon_scope = "428"
+
+[[operators.gids]]
+gid1 = "beffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["mobicom"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Airalo"]
+profile_names = []

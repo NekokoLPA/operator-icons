@@ -1,0 +1,11 @@
+mcc = "657"
+country = "Eritrea"
+iso = "ER"
+region = "Africa"
+
+[[operators]]
+mnc = "01"
+plmn = "65701"
+operator = "Eritrea Telecommunications Services Corporation"
+brand = "Eritel"
+bands = "GSM 900"

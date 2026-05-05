@@ -1,0 +1,25 @@
+mcc = "545"
+country = "Kiribati"
+iso = "KI"
+region = "Oceania"
+
+[[operators]]
+mnc = "01"
+plmn = "54501"
+operator = "Amalgamated Telecom Holdings Kiribati Limited"
+brand = "Kiribati - ATH"
+tadig = "KIRKL"
+bands = "UMTS 900 / LTE 1800"
+
+[[operators]]
+mnc = "02"
+plmn = "54502"
+operator = "OceanLink"
+brand = ""
+
+[[operators]]
+mnc = "09"
+plmn = "54509"
+operator = "Amalgamated Telecom Holdings Kiribati Limited"
+brand = "Kiribati - Frigate Net"
+bands = "GSM 900"

@@ -1,0 +1,285 @@
+mcc = "334"
+country = "Mexico"
+iso = "MX"
+region = "North America and the Caribbean"
+
+[[operators]]
+mnc = "001"
+plmn = "334001"
+operator = "Comunicaciones Digitales Del Norte, S.A. de C.V."
+brand = ""
+
+[[operators]]
+mnc = "010"
+plmn = "334010"
+operator = "AT&T Mexico"
+brand = "AT&T"
+bands = "iDEN 800"
+
+[[operators]]
+mnc = "020"
+plmn = "334020"
+operator = "América Móvil"
+brand = "Telcel"
+tadig = "MEXTL"
+bands = "GSM 1900 / UMTS 850 / UMTS 1900 / LTE 1700 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "504f50ffffffffffffff"
+gid2 = "504f50ffffffffffffff"
+profile_provider_names = ["OXXO CEL"]
+profile_names = []
+
+[[operators]]
+mnc = "030"
+plmn = "334030"
+operator = "Telefónica"
+brand = "Movistar"
+tadig = "MEXMS"
+bands = "MVNO"
+icon = "movistar"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = "10"
+gid2 = "11"
+profile_provider_names = ["Airalo"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "10"
+gid2 = "11"
+profile_provider_names = ["Movistar Mexico"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "10"
+gid2 = "11"
+profile_provider_names = ["DUA"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "10"
+gid2 = "11"
+profile_provider_names = ["weex"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "10"
+gid2 = "11"
+profile_provider_names = ["Connect"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "10"
+gid2 = "11"
+profile_provider_names = ["Virgin Mobile"]
+profile_names = []
+
+[[operators]]
+mnc = "040"
+plmn = "334040"
+operator = "AT&T Mexico"
+brand = "Unefon"
+bands = "CDMA2000 800 / CDMA2000 1900"
+
+[[operators]]
+mnc = "050"
+plmn = "334050"
+operator = "AT&T Mexico"
+brand = "AT&T / Unefon"
+tadig = "MEXIU"
+bands = "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / UMTS 1700 / LTE 850 / LTE 1700"
+
+[[operators.gids]]
+gid1 = "4f4e45ffffffffffff"
+gid2 = "ffffffffffffffffff"
+profile_provider_names = ["WIM"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "55424958ffffffffff"
+gid2 = "ffffffffffffffffff"
+profile_provider_names = ["UBIX"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "594fffffffffffffff"
+gid2 = "ffffffffffffffffff"
+profile_provider_names = ["YO"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffff"
+gid2 = "ffffffffffffffffff"
+profile_provider_names = ["ATTMexico"]
+profile_names = []
+
+[[operators]]
+mnc = "060"
+plmn = "334060"
+operator = "Servicios de Acceso Inalambrico, S.A. de C.V."
+brand = ""
+
+[[operators]]
+mnc = "066"
+plmn = "334066"
+operator = "Telefonos de México, S.A.B. de C.V."
+brand = ""
+
+[[operators]]
+mnc = "070"
+plmn = "334070"
+operator = "AT&T Mexico"
+brand = "Unefon"
+
+[[operators]]
+mnc = "080"
+plmn = "334080"
+operator = "AT&T Mexico"
+brand = "Unefon"
+
+[[operators]]
+mnc = "090"
+plmn = "334090"
+operator = "AT&T Mexico"
+brand = "AT&T"
+tadig = "MEXN3"
+bands = "UMTS 1700 / LTE 850 / LTE 1700"
+
+[[operators]]
+mnc = "100"
+plmn = "334100"
+operator = "Telecomunicaciones de México"
+brand = ""
+
+[[operators]]
+mnc = "110"
+plmn = "334110"
+operator = "Maxcom Telecomunicaciones, S.A.B. de C.V."
+brand = ""
+bands = "MVNO"
+
+[[operators]]
+mnc = "120"
+plmn = "334120"
+operator = "Quickly Phone, S.A. de C.V."
+brand = ""
+bands = "MVNO"
+
+[[operators]]
+mnc = "130"
+plmn = "334130"
+operator = "Axtel, S.A.B. de C.V."
+brand = ""
+
+[[operators]]
+mnc = "140"
+plmn = "334140"
+operator = "Altán Redes S.A.P.I. de C.V."
+brand = "Altan Redes"
+tadig = "MEXAL"
+bands = "LTE 700"
+
+[[operators.gids]]
+gid1 = "414c54414e"
+gid2 = "010a"
+profile_provider_names = ["NeWWW"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "414c54414e"
+gid2 = "010d"
+profile_provider_names = ["MEXFON"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "414c54414e"
+gid2 = "0113"
+profile_provider_names = ["PILLO"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "414c54414e"
+gid2 = "0113"
+profile_provider_names = ["DIRI"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "414c54414e"
+gid2 = "0113"
+profile_provider_names = ["AXIOS"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "414c54414e"
+gid2 = "0113"
+profile_provider_names = ["TURBO"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "414c54414e"
+gid2 = "0116"
+profile_provider_names = ["CFE TEIT"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "414c54414e"
+gid2 = "0208"
+profile_provider_names = ["BAIT"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "414c54414e"
+gid2 = "0521"
+profile_provider_names = ["ABIB"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "414c54414e"
+gid2 = "052b"
+profile_provider_names = ["AXIOS"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "414c54414e"
+gid2 = "052e"
+profile_provider_names = ["BROMOVIL"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "414c54414e"
+gid2 = "0534"
+profile_provider_names = ["BLAK"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "414c54414e"
+gid2 = "054a"
+profile_provider_names = ["DALEFON"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "414c54414e"
+gid2 = "0551"
+profile_provider_names = ["GANE"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "414c54414e"
+gid2 = "0566"
+profile_provider_names = ["Bienestar"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "414c54414e"
+gid2 = "0567"
+profile_provider_names = ["Inphonity"]
+profile_names = []
+
+[[operators]]
+mnc = "150"
+plmn = "334150"
+operator = "Ultravisión, S.A. de C.V."
+brand = "Ultranet"
+bands = "LTE 2600"

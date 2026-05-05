@@ -1,0 +1,27 @@
+mcc = "704"
+country = "Guatemala"
+iso = "GT"
+region = "South and Central America"
+
+[[operators]]
+mnc = "01"
+plmn = "70401"
+operator = "Telecomunicaciones de Guatemala, S.A."
+brand = "Claro"
+tadig = "GTMSC"
+bands = "CDMA 1900 / GSM 900 / UMTS 1900 / LTE 1900"
+
+[[operators]]
+mnc = "02"
+plmn = "70402"
+operator = "Millicom / Local partners"
+brand = "Tigo"
+bands = "TDMA 800 / GSM 850 / UMTS 850 / LTE 850"
+
+[[operators]]
+mnc = "03"
+plmn = "70403"
+operator = "Telefónica Móviles Guatemala (Telefónica)"
+brand = "movistar"
+tadig = "GTMTG"
+bands = "CDMA 1900 / GSM 1900 / UMTS 1900 / LTE 1900"

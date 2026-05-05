@@ -1,0 +1,43 @@
+mcc = "350"
+country = "Bermuda"
+iso = "BM"
+region = "North America and the Caribbean"
+
+[[operators]]
+mnc = "00"
+plmn = "35000"
+operator = "Bermuda Digital Communications Ltd."
+brand = "One"
+bands = "GSM 1900 / UMTS 850 / LTE 700"
+
+[[operators]]
+mnc = "01"
+plmn = "35001"
+operator = "Telecommunications (Bermuda & West Indies) Ltd"
+brand = "Digicel Bermuda"
+bands = "GSM 1900"
+
+[[operators]]
+mnc = "02"
+plmn = "35002"
+operator = "M3 Wireless"
+brand = "Mobility"
+bands = "GSM 1900 / UMTS"
+
+[[operators]]
+mnc = "05"
+plmn = "35005"
+operator = "Telecom Networks"
+brand = ""
+
+[[operators]]
+mnc = "11"
+plmn = "35011"
+operator = "Deltronics"
+brand = ""
+
+[[operators]]
+mnc = "15"
+plmn = "35015"
+operator = "FKB Net Ltd."
+brand = ""

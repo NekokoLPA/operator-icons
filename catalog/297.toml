@@ -1,0 +1,39 @@
+mcc = "297"
+country = "Montenegro"
+iso = "ME"
+region = "Europe"
+
+[[operators]]
+mnc = "01"
+plmn = "29701"
+operator = "Telenor Montenegro"
+brand = "Telenor"
+tadig = "MNEPM"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+
+[[operators]]
+mnc = "02"
+plmn = "29702"
+operator = "T-Mobile Montenegro LLC"
+brand = "T-Mobile"
+bands = "GSM 900 / UMTS 2100 / LTE 1800"
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = ["T-Mobile ME"]
+profile_names = []
+
+[[operators]]
+mnc = "03"
+plmn = "29703"
+operator = "MTEL CG"
+brand = "m:tel CG"
+tadig = "MNEMT"
+bands = "GSM 900 / GSM 1800 / UMTS 2100"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["m:tel"]
+profile_names = []

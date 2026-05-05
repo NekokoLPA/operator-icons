@@ -1,0 +1,119 @@
+mcc = "268"
+country = "Portugal"
+iso = "PT"
+region = "Europe"
+
+[[operators]]
+mnc = "01"
+plmn = "26801"
+operator = "Vodafone Portugal"
+brand = "Vodafone"
+tadig = "PRTTL"
+bands = "GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+
+[[operators]]
+mnc = "02"
+plmn = "26802"
+operator = "Telecomunicações Móveis Nacionais"
+brand = "MEO"
+
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = ["Digi.Mobil"]
+profile_names = []
+
+[[operators]]
+mnc = "03"
+plmn = "26803"
+operator = "NOS Comunicações"
+brand = "NOS"
+tadig = "PRTOP"
+bands = "GSM 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+icon = "nos"
+icon_scope = "268"
+
+[[operators]]
+mnc = "04"
+plmn = "26804"
+operator = "LycaMobile"
+brand = "LycaMobile"
+bands = "MVNO"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = ""
+profile_provider_names = ["LycaMobile"]
+profile_names = []
+
+[[operators]]
+mnc = "05"
+plmn = "26805"
+operator = "Oniway - Inforcomunicaçôes, S.A."
+brand = ""
+bands = "UMTS 2100"
+
+[[operators]]
+mnc = "06"
+plmn = "26806"
+operator = "Telecomunicações Móveis Nacionais"
+brand = "MEO"
+tadig = "PRTTM"
+bands = "GSM 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["MEO"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["UZO"]
+profile_names = []
+
+[[operators]]
+mnc = "07"
+plmn = "26807"
+operator = "Mundio Mobile (Portugal) Limited"
+brand = "Vectone Mobile"
+bands = "MVNO"
+
+[[operators]]
+mnc = "11"
+plmn = "26811"
+operator = "Compatel, Limited"
+brand = ""
+
+[[operators]]
+mnc = "12"
+plmn = "26812"
+operator = "Infraestruturas de Portugal, S.A."
+brand = ""
+bands = "GSM-R"
+
+[[operators]]
+mnc = "13"
+plmn = "26813"
+operator = "G9Telecom, S.A."
+brand = ""
+
+[[operators]]
+mnc = "21"
+plmn = "26821"
+operator = "Zapp Portugal"
+brand = "Zapp"
+bands = "CDMA2000 450"
+
+[[operators]]
+mnc = "80"
+plmn = "26880"
+operator = "Telecomunicações Móveis Nacionais"
+brand = "MEO"
+
+[[operators]]
+mnc = "91"
+plmn = "26891"
+operator = "Vodafone Portugal"
+brand = "Vodafone"

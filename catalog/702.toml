@@ -1,0 +1,39 @@
+mcc = "702"
+country = "Belize"
+iso = "BZ"
+region = "South and Central America"
+
+[[operators]]
+mnc = "67"
+plmn = "70267"
+operator = "Belize Telemedia Limited (BTL)"
+brand = "DigiCell"
+tadig = "BLZ67"
+bands = "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 700 / LTE 1900"
+
+[[operators]]
+mnc = "68"
+plmn = "70268"
+operator = "International Telecommunications Ltd."
+brand = "INTELCO"
+
+[[operators]]
+mnc = "69"
+plmn = "70269"
+operator = "Speednet Communications Limited"
+brand = "SMART"
+tadig = "BLZSC"
+bands = "CDMA2000 850 / UMTS 850 / LTE 700"
+
+[[operators.gids]]
+gid1 = "ffffff"
+gid2 = "ffffff"
+profile_provider_names = ["Smart!"]
+profile_names = []
+
+[[operators]]
+mnc = "99"
+plmn = "70299"
+operator = "Speednet Communications Limited"
+brand = "SMART"
+bands = "CDMA2000 850"

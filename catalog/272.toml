@@ -1,0 +1,139 @@
+mcc = "272"
+country = "Ireland"
+iso = "IE"
+region = "Europe"
+
+[[operators]]
+mnc = "01"
+plmn = "27201"
+operator = "Vodafone Ireland"
+brand = "Vodafone"
+tadig = "IRLEC"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / 5G 3500"
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = ["Vodafone IE"]
+profile_names = []
+
+[[operators]]
+mnc = "02"
+plmn = "27202"
+operator = "Hutchison 3G Ireland limited"
+brand = "3"
+tadig = "IRLDF"
+bands = "GSM 900 / GSM 1800 / UMTS 2100"
+
+[[operators]]
+mnc = "03"
+plmn = "27203"
+operator = "Eir Group plc"
+brand = "Eir"
+tadig = "IRLME"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / 5G 3500"
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = ["eir"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = ["GoMoWorld"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = ["GoMo"]
+profile_names = []
+
+[[operators]]
+mnc = "04"
+plmn = "27204"
+operator = "Access Telecom"
+brand = ""
+
+[[operators]]
+mnc = "05"
+plmn = "27205"
+operator = "Hutchison 3G Ireland limited"
+brand = "3"
+tadig = "IRLH3"
+bands = "UMTS 2100 / LTE 800 / LTE 1800"
+
+[[operators]]
+mnc = "07"
+plmn = "27207"
+operator = "Eir Group plc"
+brand = "Eir"
+bands = "GSM 900 / GSM 1800 / UMTS 2100"
+
+[[operators]]
+mnc = "08"
+plmn = "27208"
+operator = "Eir Group plc"
+brand = "Eir"
+
+[[operators]]
+mnc = "09"
+plmn = "27209"
+operator = "Clever Communications Ltd."
+brand = ""
+
+[[operators]]
+mnc = "11"
+plmn = "27211"
+operator = "Liffey Telecom"
+brand = "Tesco Mobile"
+bands = "MVNO"
+
+[[operators]]
+mnc = "13"
+plmn = "27213"
+operator = "Lycamobile"
+brand = "Lycamobile"
+bands = "MVNO"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = ""
+profile_provider_names = ["LycaMobile"]
+profile_names = []
+
+[[operators]]
+mnc = "15"
+plmn = "27215"
+operator = "UPC"
+brand = "Virgin Mobile"
+bands = "MVNO"
+
+[[operators]]
+mnc = "16"
+plmn = "27216"
+operator = "Carphone Warehouse"
+brand = "Carphone Warehouse"
+bands = "MVNO"
+
+[[operators]]
+mnc = "17"
+plmn = "27217"
+operator = "Hutchison 3G Ireland limited"
+brand = "3"
+
+[[operators]]
+mnc = "18"
+plmn = "27218"
+operator = "Cubic Telecom Limited"
+brand = ""
+bands = "MVNO"
+
+[[operators]]
+mnc = "21"
+plmn = "27221"
+operator = "Net Feasa Limited"
+brand = ""
+bands = "MVNO"

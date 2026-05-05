@@ -1,0 +1,12 @@
+mcc = "636"
+country = "Ethiopia"
+iso = "ET"
+region = "Africa"
+
+[[operators]]
+mnc = "01"
+plmn = "63601"
+operator = "Ethio Telecom"
+brand = "MTN"
+tadig = "ETH01"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"

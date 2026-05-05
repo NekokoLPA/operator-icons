@@ -1,0 +1,611 @@
+mcc = "454"
+country = "Hong Kong"
+iso = "HK"
+region = "Asia and the Middle East"
+
+[[operators]]
+mnc = "00"
+plmn = "45400"
+operator = "CSL Limited"
+brand = "1O1O / One2Free / New World Mobility / SUNMobile"
+tadig = "HKGTC"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2600"
+icon = "1o1o-one2free-new-world-mobility-sunmobile"
+icon_scope = "454"
+
+[[operators.gids]]
+gid1 = "01010000ffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["1010"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "01010000ffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["5G profile"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "01020000ffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["csl"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "01020000ffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["csl 5G"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "01030000ffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["SUN Mobile"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "01050000ffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Club"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "01050000ffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Club Sim"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "02020001ffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["csl."]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "02040003ffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["MORE Mobile"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "4454413532303035"
+gid2 = ""
+profile_provider_names = ["UPeSIM"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "636f6e6e65637431ffffffffffffff"
+gid2 = "636f6e6e65637432ffffffffffffff"
+profile_provider_names = ["Connect"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = ["tgt"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffff"
+gid2 = "ffff"
+profile_provider_names = ["eSIM Internet"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Bondio"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["BillionConnect"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Celitech"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["LPAe-Bootrap"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["SCT"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["eSIMo"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["SCT"]
+profile_names = []
+
+[[operators]]
+mnc = "01"
+plmn = "45401"
+operator = "CITIC Telecom 1616"
+brand = ""
+bands = "MVNO"
+
+[[operators]]
+mnc = "02"
+plmn = "45402"
+operator = "CSL Limited"
+brand = ""
+bands = "GSM 900 / GSM 1800"
+
+[[operators]]
+mnc = "03"
+plmn = "45403"
+operator = "Hutchison Telecom"
+brand = "3"
+tadig = "HKGH3"
+bands = "UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2600"
+icon = "3"
+icon_scope = "454"
+
+[[operators.gids]]
+gid1 = "0404ffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["3 Hong Kong"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "0404ffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["3"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["H3"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["BillionConnect"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["uhuibao"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Trip"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["3"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["uCloudlink"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Roamify"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["USIMSA"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Travelkon"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Dosirak"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["SCT"]
+profile_names = []
+
+[[operators]]
+mnc = "04"
+plmn = "45404"
+operator = "Hutchison Telecom"
+brand = "3 (2G)"
+tadig = "HKGHT"
+bands = "GSM 900 / GSM 1800"
+
+[[operators]]
+mnc = "05"
+plmn = "45405"
+operator = "Hutchison Telecom"
+brand = "3 (CDMA)"
+bands = "CDMA 800"
+
+[[operators]]
+mnc = "06"
+plmn = "45406"
+operator = "SmarTone Mobile Communications Limited"
+brand = "SmarTone"
+tadig = "HKGSM"
+bands = "GSM 900 / GSM 1800 / UMTS 850 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["SCT"]
+profile_names = []
+
+[[operators]]
+mnc = "07"
+plmn = "45407"
+operator = "China Unicom (Hong Kong) Limited"
+brand = "China Unicom"
+bands = "MVNO"
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = ["Unicom_Global"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = ["CUniq JP"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = ["rspmanager_tester2"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["BillionConnect"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["iFREE"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["  "]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["SCT"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["CUHK"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["SCT"]
+profile_names = []
+
+[[operators]]
+mnc = "08"
+plmn = "45408"
+operator = "Truphone Limited"
+brand = "Truphone"
+bands = "MVNO"
+
+[[operators]]
+mnc = "09"
+plmn = "45409"
+operator = "China Motion Telecom"
+brand = ""
+bands = "MVNO"
+
+[[operators]]
+mnc = "10"
+plmn = "45410"
+operator = "CSL Limited"
+brand = "New World Mobility"
+tadig = "HKGNW"
+bands = "GSM 1800"
+
+[[operators]]
+mnc = "11"
+plmn = "45411"
+operator = "China-Hong Kong Telecom"
+brand = ""
+bands = "MVNO"
+
+[[operators]]
+mnc = "12"
+plmn = "45412"
+operator = "China Mobile Hong Kong Company Limited"
+brand = "CMCC HK"
+tadig = "HKGPP"
+bands = "GSM 1800 / LTE 1800 / TD-LTE 2300 / LTE 2600"
+icon = "cmcc-hk"
+icon_scope = "454"
+
+[[operators.gids]]
+gid1 = "0407ffffffffffffffff"
+gid2 = "0407ffffffffffffffff"
+profile_provider_names = ["Holafly"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["BillionConnect"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["CMHK"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["SCT"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["uCloudlink"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["CMLink"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["Global"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["CMI"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["SCT"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["CMLINK"]
+profile_names = []
+
+[[operators]]
+mnc = "13"
+plmn = "45413"
+operator = "China Mobile Hong Kong Company Limited"
+brand = "CMCC HK"
+bands = "MVNO"
+
+[[operators]]
+mnc = "14"
+plmn = "45414"
+operator = "Hutchison Telecom"
+brand = ""
+bands = "GSM 900 / GSM 1800"
+
+[[operators]]
+mnc = "15"
+plmn = "45415"
+operator = "SmarTone Mobile Communications Limited"
+brand = ""
+bands = "GSM 1800"
+
+[[operators]]
+mnc = "16"
+plmn = "45416"
+operator = "PCCW"
+brand = "PCCW Mobile (2G)"
+tadig = "HKGMC"
+bands = "GSM 1800"
+
+[[operators]]
+mnc = "17"
+plmn = "45417"
+operator = "SmarTone Mobile Communications Limited"
+brand = ""
+bands = "GSM 1800"
+
+[[operators]]
+mnc = "18"
+plmn = "45418"
+operator = "CSL Limited"
+brand = ""
+bands = "GSM 900 / GSM 1800"
+
+[[operators]]
+mnc = "19"
+plmn = "45419"
+operator = "PCCW-HKT"
+brand = "PCCW Mobile (3G)"
+tadig = "HKGM3"
+bands = "UMTS 2100"
+
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = ["csl"]
+profile_names = []
+
+[[operators]]
+mnc = "20"
+plmn = "45420"
+operator = "PCCW-HKT"
+brand = "PCCW Mobile (4G)"
+bands = "LTE 1800 / LTE 2600"
+
+[[operators]]
+mnc = "21"
+plmn = "45421"
+operator = "21Vianet Mobile Ltd."
+brand = ""
+bands = "MVNO"
+
+[[operators]]
+mnc = "22"
+plmn = "45422"
+operator = "263 Mobile Communications (HongKong) Limited"
+brand = ""
+bands = "MVNO"
+
+[[operators]]
+mnc = "23"
+plmn = "45423"
+operator = "Lycamobile Hong Kong Ltd"
+brand = "Lycamobile"
+bands = "MVNO"
+
+[[operators]]
+mnc = "24"
+plmn = "45424"
+operator = "Multibyte Info Technology Ltd"
+brand = ""
+bands = "MVNO"
+
+[[operators]]
+mnc = "25"
+plmn = "45425"
+operator = "Hong Kong Government"
+brand = ""
+
+[[operators]]
+mnc = "26"
+plmn = "45426"
+operator = "Hong Kong Government"
+brand = ""
+
+[[operators]]
+mnc = "29"
+plmn = "45429"
+operator = "PCCW-HKT"
+brand = "PCCW Mobile (CDMA)"
+bands = "CDMA 800"
+
+[[operators]]
+mnc = "30"
+plmn = "45430"
+operator = "China Data Enterprises Ltd"
+brand = ""
+
+[[operators]]
+mnc = "31"
+plmn = "45431"
+operator = "China Telecom Global Limited"
+brand = "CTExcel"
+bands = "MVNO"
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = ["infra"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = ["tgt"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["BillionConnect"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Roamify"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["uCloudlink"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["CTExcel"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Trip"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Dosirak"]
+profile_names = []
+
+[[operators]]
+mnc = "32"
+plmn = "45432"
+operator = "Hong Kong Broadband Network Ltd"
+brand = ""
+bands = "MVNO"
+
+[[operators]]
+mnc = "35"
+plmn = "45435"
+operator = "Webbing Hong Kong Ltd"
+brand = ""
+bands = "MVNO"

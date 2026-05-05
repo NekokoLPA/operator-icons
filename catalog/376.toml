@@ -1,0 +1,31 @@
+mcc = "376"
+country = "Turks and Caicos Islands"
+iso = "TC"
+region = "North America and the Caribbean"
+
+[[operators]]
+mnc = "350"
+plmn = "376350"
+operator = "Cable & Wireless West Indies Ltd (Turks & Caicos)"
+brand = "FLOW"
+tadig = "TCACW"
+bands = "GSM 850 / UMTS 850 / LTE 700"
+
+[[operators]]
+mnc = "351"
+plmn = "376351"
+operator = "Digicel (Turks & Caicos) Limited"
+brand = "Digicel"
+
+[[operators]]
+mnc = "352"
+plmn = "376352"
+operator = "Cable & Wireless West Indies Ltd (Turks & Caicos)"
+brand = "FLOW"
+bands = "UMTS 850"
+
+[[operators]]
+mnc = "360"
+plmn = "376360"
+operator = "Cable & Wireless West Indies Ltd (Turks & Caicos)"
+brand = "FLOW"

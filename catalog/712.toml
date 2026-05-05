@@ -1,0 +1,54 @@
+mcc = "712"
+country = "Costa Rica"
+iso = "CR"
+region = "South and Central America"
+
+[[operators]]
+mnc = "01"
+plmn = "71201"
+operator = "Instituto Costarricense de Electricidad"
+brand = "Kölbi ICE"
+tadig = "CRICR"
+bands = "GSM 1800 / UMTS 850 / LTE 1800 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = ["Kolbi ICE"]
+profile_names = []
+
+[[operators]]
+mnc = "02"
+plmn = "71202"
+operator = "Instituto Costarricense de Electricidad"
+brand = "Kölbi ICE"
+bands = "GSM 1800 / UMTS 850 / LTE 1800 / LTE 2600"
+
+[[operators]]
+mnc = "03"
+plmn = "71203"
+operator = "Claro CR Telecomunicaciones (Aló)"
+brand = "Claro"
+tadig = "CRICL"
+bands = "GSM 1800 / UMTS 2100 / LTE 1800"
+
+[[operators]]
+mnc = "04"
+plmn = "71204"
+operator = "Telefónica Móviles Costa Rica"
+brand = "movistar"
+tadig = "CRITC"
+bands = "GSM 1800 / UMTS 850 / UMTS 2100 / LTE 1800"
+
+[[operators.gids]]
+gid1 = "00"
+gid2 = ""
+profile_provider_names = ["Liberty CR"]
+profile_names = []
+
+[[operators]]
+mnc = "20"
+plmn = "71220"
+operator = "Virtualis S.A."
+brand = "fullmóvil"
+bands = "MVNO"

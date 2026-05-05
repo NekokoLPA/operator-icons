@@ -1,0 +1,125 @@
+mcc = "230"
+country = "Czech Republic"
+iso = "CZ"
+region = "Europe"
+
+[[operators]]
+mnc = "01"
+plmn = "23001"
+operator = "T-Mobile Czech Republic"
+brand = "T-Mobile"
+tadig = "CZERM"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = ["Mobil.cz"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = ["T-Mobile CZ"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = ["KAKTUS"]
+profile_names = []
+
+[[operators]]
+mnc = "02"
+plmn = "23002"
+operator = "O2 Czech Republic"
+brand = "O2"
+tadig = "CZEET"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["O2CZ"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["O2 CZ"]
+profile_names = []
+
+[[operators]]
+mnc = "03"
+plmn = "23003"
+operator = "Vodafone Czech Republic"
+brand = "Vodafone"
+tadig = "CZECM"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = ["SAZKAmobil"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = ["Vodafone CZ"]
+profile_names = []
+
+[[operators]]
+mnc = "04"
+plmn = "23004"
+operator = "Nordic Telecom s.r.o."
+brand = ""
+bands = "MVNO / LTE 410"
+
+[[operators]]
+mnc = "05"
+plmn = "23005"
+operator = "PODA a.s."
+brand = ""
+bands = "TD-LTE 3700"
+
+[[operators]]
+mnc = "06"
+plmn = "23006"
+operator = "Nordic Telecom 5G a.s."
+brand = ""
+bands = "TD-LTE 3700"
+
+[[operators]]
+mnc = "07"
+plmn = "23007"
+operator = "ASTELNET, s.r.o."
+brand = ""
+bands = "MVNO"
+
+[[operators]]
+mnc = "08"
+plmn = "23008"
+operator = "Compatel s.r.o."
+brand = ""
+
+[[operators]]
+mnc = "09"
+plmn = "23009"
+operator = "Mundio Distribution Czech Republic s.r.o."
+brand = "Vectone Mobile"
+bands = "MVNO"
+
+[[operators]]
+mnc = "98"
+plmn = "23098"
+operator = "Správa železniční dopravní cesty, s.o."
+brand = ""
+bands = "GSM-R 900"
+
+[[operators]]
+mnc = "99"
+plmn = "23099"
+operator = "Vodafone Czech Republic"
+brand = "Vodafone"
+bands = "GSM 1800"

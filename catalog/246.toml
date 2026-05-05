@@ -1,0 +1,72 @@
+mcc = "246"
+country = "Lithuania"
+iso = "LT"
+region = "Europe"
+
+[[operators]]
+mnc = "01"
+plmn = "24601"
+operator = "Telia Lietuva"
+brand = "Telia"
+tadig = "LTUOM"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600"
+
+[[operators]]
+mnc = "02"
+plmn = "24602"
+operator = "UAB Bitė Lietuva"
+brand = "BITĖ"
+tadig = "LTUMT"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+
+[[operators]]
+mnc = "03"
+plmn = "24603"
+operator = "UAB Tele2 (Tele2 AB, Sweden)"
+brand = "Tele2"
+tadig = "LTU03"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+
+[[operators]]
+mnc = "04"
+plmn = "24604"
+operator = "LR vidaus reikalų ministerija (Ministry of the Interior)"
+brand = ""
+
+[[operators]]
+mnc = "05"
+plmn = "24605"
+operator = "Lietuvos geležinkeliai (Lithuanian Railways)"
+brand = "LitRail"
+bands = "GSM-R 900"
+
+[[operators]]
+mnc = "06"
+plmn = "24606"
+operator = "UAB Mediafon"
+brand = "Mediafon"
+
+[[operators]]
+mnc = "07"
+plmn = "24607"
+operator = "Compatel Ltd."
+brand = ""
+
+[[operators]]
+mnc = "08"
+plmn = "24608"
+operator = "Lietuvos radijo ir televizijos centras"
+brand = "MEZON"
+bands = "WiMAX 3500 / TD-LTE 2300"
+
+[[operators]]
+mnc = "09"
+plmn = "24609"
+operator = "Interactive Digital Media GmbH"
+brand = ""
+
+[[operators]]
+mnc = "11"
+plmn = "24611"
+operator = "DATASIM OU"
+brand = ""

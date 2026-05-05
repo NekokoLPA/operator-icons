@@ -1,0 +1,41 @@
+mcc = "283"
+country = "Armenia"
+iso = "AM"
+region = "Europe"
+
+[[operators]]
+mnc = "01"
+plmn = "28301"
+operator = "Veon Armenia CJSC"
+brand = "Beeline"
+tadig = "ARM01"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 450 / LTE 1800"
+
+[[operators]]
+mnc = "04"
+plmn = "28304"
+operator = "Karabakh Telecom"
+brand = "Karabakh Telecom"
+bands = "GSM 900 / UMTS 900"
+
+[[operators]]
+mnc = "05"
+plmn = "28305"
+operator = "K Telecom CJSC"
+brand = "VivaCell-MTS"
+tadig = "ARM05"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 2600"
+
+[[operators]]
+mnc = "10"
+plmn = "28310"
+operator = "Ucom LLC"
+brand = "Ucom"
+tadig = "ARMOR"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800"
+
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = ["Ucom"]
+profile_names = []

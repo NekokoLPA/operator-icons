@@ -1,0 +1,11 @@
+mcc = "315"
+country = "United States of America"
+iso = "US"
+region = "North America and the Caribbean"
+
+[[operators]]
+mnc = "010"
+plmn = "315010"
+operator = "Citizens Broadband Radio Service"
+brand = "CBRS"
+bands = "TD-LTE 3500"

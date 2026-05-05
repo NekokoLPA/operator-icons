@@ -1,0 +1,33 @@
+mcc = "541"
+country = "Vanuatu"
+iso = "VU"
+region = "Oceania"
+
+[[operators]]
+mnc = "00"
+plmn = "54100"
+operator = "ACeS International (AIL)"
+brand = "AIL"
+bands = "GSM 900"
+
+[[operators]]
+mnc = "01"
+plmn = "54101"
+operator = "Telecom Vanuatu Ltd"
+brand = "SMILE"
+bands = "GSM 900 / LTE 700"
+
+[[operators]]
+mnc = "05"
+plmn = "54105"
+operator = "Digicel Vanuatu Ltd"
+brand = "Digicel"
+tadig = "VUTDP"
+bands = "GSM 900 / UMTS 900 / LTE 700"
+
+[[operators]]
+mnc = "07"
+plmn = "54107"
+operator = "WanTok Vanuatu Ltd"
+brand = "WanTok"
+bands = "TD-LTE 2300"

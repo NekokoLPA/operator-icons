@@ -1,0 +1,33 @@
+mcc = "632"
+country = "Guinea-Bissau"
+iso = "GW"
+region = "Africa"
+
+[[operators]]
+mnc = "01"
+plmn = "63201"
+operator = "Guinétel S.A."
+brand = "Guinetel"
+bands = "GSM 900 / GSM 1800"
+
+[[operators]]
+mnc = "02"
+plmn = "63202"
+operator = "Spacetel Guiné-Bissau S.A."
+brand = "MTN Areeba"
+tadig = "GNBSB"
+bands = "GSM 900 / GSM 1800 / UMTS 2100"
+
+[[operators]]
+mnc = "03"
+plmn = "63203"
+operator = ""
+brand = "Orange"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE"
+
+[[operators]]
+mnc = "07"
+plmn = "63207"
+operator = "Guinétel S.A."
+brand = "Guinetel"
+bands = "GSM 900 / GSM 1800"

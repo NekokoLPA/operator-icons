@@ -1,0 +1,76 @@
+mcc = "401"
+country = "Kazakhstan"
+iso = "KZ"
+region = "Asia and the Middle East"
+
+[[operators]]
+mnc = "01"
+plmn = "40101"
+operator = "KaR-Tel LLP"
+brand = "Beeline"
+tadig = "KAZKT"
+bands = "GSM 900 / GSM 1800 / LTE 800 / LTE 1800 / LTE 2100"
+icon = "beeline"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = "ffff"
+gid2 = "ffff"
+profile_provider_names = ["eSIM"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffff"
+gid2 = "ffff"
+profile_provider_names = ["izi"]
+profile_names = []
+
+[[operators]]
+mnc = "02"
+plmn = "40102"
+operator = "Kcell JSC"
+brand = "Kcell"
+tadig = "KAZKZ"
+bands = "GSM 900 / GSM 1800 / LTE 800 / LTE 1800"
+
+[[operators.gids]]
+gid1 = "ffff"
+gid2 = "ffff"
+profile_provider_names = ["activ"]
+profile_names = []
+
+[[operators]]
+mnc = "07"
+plmn = "40107"
+operator = "Altel"
+brand = "Altel"
+bands = "UMTS 850 / GSM 1800 / LTE 1800"
+
+[[operators]]
+mnc = "08"
+plmn = "40108"
+operator = ""
+brand = "Kazakhtelecom"
+bands = "CDMA2000 800 / CDMA2000 450"
+
+[[operators]]
+mnc = "77"
+plmn = "40177"
+operator = "MTS"
+brand = "Tele2.kz"
+tadig = "KAZ77"
+bands = "GSM 900 / GSM 1800 / UMTS 900"
+icon = "tele2-kz"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = "ffff"
+gid2 = "ffff"
+profile_provider_names = ["Tele2"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffff"
+gid2 = "ffff"
+profile_provider_names = ["Altel"]
+profile_names = []

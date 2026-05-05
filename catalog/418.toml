@@ -1,0 +1,74 @@
+mcc = "418"
+country = "Iraq"
+iso = "IQ"
+region = "Asia and the Middle East"
+
+[[operators]]
+mnc = "00"
+plmn = "41800"
+operator = "Asia Cell Telecommunications Company"
+brand = "Asia Cell"
+bands = "GSM 900"
+
+[[operators]]
+mnc = "05"
+plmn = "41805"
+operator = "Asia Cell Telecommunications Company"
+brand = "Asia Cell"
+tadig = "IRQAC"
+bands = "GSM 900"
+
+[[operators]]
+mnc = "08"
+plmn = "41808"
+operator = ""
+brand = "SanaTel"
+bands = "GSM 900"
+
+[[operators]]
+mnc = "20"
+plmn = "41820"
+operator = "Zain Iraq"
+brand = "Zain"
+bands = "GSM 900 / GSM 1800"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["ZAIN"]
+profile_names = []
+
+[[operators]]
+mnc = "30"
+plmn = "41830"
+operator = "Zain Iraq"
+brand = "Zain"
+bands = "GSM 900"
+
+[[operators]]
+mnc = "40"
+plmn = "41840"
+operator = "Telecom Ltd"
+brand = "Korek"
+bands = "GSM 900"
+
+[[operators]]
+mnc = "45"
+plmn = "41845"
+operator = "Mobitel Co. Ltd."
+brand = "Mobitel"
+bands = "UMTS"
+
+[[operators]]
+mnc = "62"
+plmn = "41862"
+operator = "Itisaluna Wireless CO."
+brand = "Itisaluna"
+bands = "CDMA 800 / CDMA 1900"
+
+[[operators]]
+mnc = "92"
+plmn = "41892"
+operator = "Omnnea Wireless"
+brand = "Omnnea"
+bands = "CDMA"

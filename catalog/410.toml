@@ -1,0 +1,70 @@
+mcc = "410"
+country = "Pakistan"
+iso = "PK"
+region = "Asia and the Middle East"
+
+[[operators]]
+mnc = "01"
+plmn = "41001"
+operator = "Mobilink-PMCL"
+brand = "Jazz"
+tadig = "PAKMK"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["JAZZ PAK"]
+profile_names = []
+
+[[operators]]
+mnc = "02"
+plmn = "41002"
+operator = "PTCL"
+brand = "3G EVO / CharJi 4G"
+bands = "CDMA2000 1900 / TD-LTE 1900"
+
+[[operators]]
+mnc = "03"
+plmn = "41003"
+operator = "Pakistan Telecommunication Mobile Ltd"
+brand = "Ufone"
+tadig = "PAKUF"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800"
+
+[[operators]]
+mnc = "04"
+plmn = "41004"
+operator = "China Mobile"
+brand = "Zong"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100"
+
+[[operators]]
+mnc = "05"
+plmn = "41005"
+operator = "SCO Mobile Ltd"
+brand = "SCO Mobile"
+bands = "GSM 900 / GSM 1800"
+
+[[operators]]
+mnc = "06"
+plmn = "41006"
+operator = "Telenor Pakistan"
+brand = "Telenor"
+tadig = "PAKTP"
+bands = "GSM 900 / GSM 1800 / UMTS 850 / UMTS 2100 / LTE 850 / LTE 1800"
+
+[[operators]]
+mnc = "07"
+plmn = "41007"
+operator = "WaridTel"
+brand = "Jazz"
+tadig = "PAKWA"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+
+[[operators]]
+mnc = "08"
+plmn = "41008"
+operator = "SCO Mobile Ltd"
+brand = "SCO Mobile"
+bands = "GSM 900 / GSM 1800"

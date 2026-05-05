@@ -1,0 +1,11 @@
+mcc = "536"
+country = "Nauru"
+iso = "NR"
+region = "Oceania"
+
+[[operators]]
+mnc = "02"
+plmn = "53602"
+operator = "Digicel (Nauru) Corporation"
+brand = "Digicel"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"

@@ -1,0 +1,18 @@
+mcc = "316"
+country = "United States of America"
+iso = "US"
+region = "North America and the Caribbean"
+
+[[operators]]
+mnc = "010"
+plmn = "316010"
+operator = "Nextel Communications"
+brand = "Nextel"
+bands = "iDEN 800"
+
+[[operators]]
+mnc = "011"
+plmn = "316011"
+operator = "Southern Communications Services"
+brand = "Southern LINC"
+bands = "iDEN 800"

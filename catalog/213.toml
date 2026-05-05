@@ -1,0 +1,20 @@
+mcc = "213"
+country = "Andorra"
+iso = "AD"
+region = "Europe"
+
+[[operators]]
+mnc = "03"
+plmn = "21303"
+operator = "Servei De Tele. DAndorra"
+brand = "Mobiland"
+tadig = "ANDMA"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800"
+icon = "mobiland"
+icon_scope = "213"
+
+[[operators.gids]]
+gid1 = "01"
+gid2 = "ffffff"
+profile_provider_names = ["Andorra Telecom"]
+profile_names = []

@@ -1,0 +1,289 @@
+mcc = "206"
+country = "Belgium"
+iso = "BE"
+region = "Europe"
+
+[[operators]]
+mnc = "00"
+plmn = "20600"
+operator = "Belgacom Mobile"
+brand = "Proximus"
+
+[[operators]]
+mnc = "01"
+plmn = "20601"
+operator = "Belgacom Mobile"
+brand = "Proximus"
+tadig = "BELTB"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "0409"
+gid2 = "0409"
+profile_provider_names = ["Proximus"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "0409"
+gid2 = "ffff"
+profile_provider_names = ["eSIM Go"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "0409"
+gid2 = "ffff"
+profile_provider_names = ["ACMeSIM"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "0409"
+gid2 = "ffff"
+profile_provider_names = ["Pocket eSIM"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "0409"
+gid2 = "ffff"
+profile_provider_names = ["nextSiM EU"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "0409"
+gid2 = "ffff"
+profile_provider_names = ["Esimatic"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "4d2e3f1a6b7c8d9e"
+gid2 = "5a6b7c8d9e0f1a2b"
+profile_provider_names = ["Roamless"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "505258524553ffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Proximus"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffff"
+gid2 = "ffffffffff"
+profile_provider_names = ["Mobile Vikings"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Firsty"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["BICS"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["NOMAD"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["ORBITMOBILE"]
+profile_names = []
+
+[[operators]]
+mnc = "02"
+plmn = "20602"
+operator = "Infrabel"
+brand = ""
+bands = "GSM-R"
+
+[[operators]]
+mnc = "05"
+plmn = "20605"
+operator = "Telenet"
+brand = "Telenet"
+bands = "MVNO"
+
+[[operators]]
+mnc = "06"
+plmn = "20606"
+operator = "Lycamobile sprl"
+brand = "Lycamobile"
+bands = "MVNO"
+
+[[operators]]
+mnc = "07"
+plmn = "20607"
+operator = "Mundio Mobile Belgium nv"
+brand = "Vectone Mobile"
+bands = "MVNO"
+
+[[operators]]
+mnc = "08"
+plmn = "20608"
+operator = "Nethys"
+brand = ""
+
+[[operators]]
+mnc = "09"
+plmn = "20609"
+operator = "Voxbone mobile"
+brand = "Voxbone"
+bands = "MVNO"
+
+[[operators]]
+mnc = "10"
+plmn = "20610"
+operator = "Orange S.A."
+brand = "Orange Belgium"
+tadig = "BELMO"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = ["Orange Belgium"]
+profile_names = []
+
+[[operators]]
+mnc = "15"
+plmn = "20615"
+operator = "Elephant Talk Communications Schweiz GmbH"
+brand = ""
+
+[[operators]]
+mnc = "16"
+plmn = "20616"
+operator = "NextGen Mobile Ltd."
+brand = ""
+
+[[operators]]
+mnc = "20"
+plmn = "20620"
+operator = "Telenet"
+brand = "Base"
+tadig = "BELKO"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800"
+
+[[operators.gids]]
+gid1 = "0000000000000000"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["BASE"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "0000000000000000"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Telenet"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "0000000000000000"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Airalo"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = ""
+profile_provider_names = ["LycaMobile"]
+profile_names = []
+
+[[operators]]
+mnc = "25"
+plmn = "20625"
+operator = "Dense Air Belgium SPRL"
+brand = ""
+bands = "TD-LTE 2600"
+
+[[operators]]
+mnc = "28"
+plmn = "20628"
+operator = "BICS"
+brand = ""
+
+[[operators.gids]]
+gid1 = "0409"
+gid2 = "0409"
+profile_provider_names = ["BICS"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "0409"
+gid2 = "ffff"
+profile_provider_names = ["eSIM Go"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "0409"
+gid2 = "ffff"
+profile_provider_names = ["PayPoint"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "0409"
+gid2 = "ffff"
+profile_provider_names = ["esimcard.com"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "0409"
+gid2 = "ffff"
+profile_provider_names = ["TraveleSIM"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "0409"
+gid2 = "ffff"
+profile_provider_names = ["Esimatic"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "0409"
+gid2 = "ffff"
+profile_provider_names = ["data2go.mobi"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "0409"
+gid2 = "ffff"
+profile_provider_names = ["PayPoint eSIM"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["BICS"]
+profile_names = []
+
+[[operators]]
+mnc = "30"
+plmn = "20630"
+operator = "Unleashed NV"
+brand = "Mobile Vikings"
+bands = "MVNO"
+
+[[operators]]
+mnc = "33"
+plmn = "20633"
+operator = "Ericsson NV"
+brand = ""
+
+[[operators]]
+mnc = "40"
+plmn = "20640"
+operator = "JOIN Experience (Belgium)"
+brand = "JOIN"
+bands = "MVNO"
+
+[[operators]]
+mnc = "50"
+plmn = "20650"
+operator = "IP Nexia"
+brand = ""
+bands = "MVNO"

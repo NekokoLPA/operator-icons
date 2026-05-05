@@ -1,0 +1,40 @@
+mcc = "370"
+country = "Dominican Republic"
+iso = "DO"
+region = "North America and the Caribbean"
+
+[[operators]]
+mnc = "01"
+plmn = "37001"
+operator = "Altice Group"
+brand = "Altice"
+bands = "GSM 900 / GSM 1800 / GSM 1900 / UMTS 900 / LTE 1800"
+
+[[operators]]
+mnc = "02"
+plmn = "37002"
+operator = "Compañía Dominicana de Teléfonos"
+brand = "Claro"
+tadig = "DOMCL"
+bands = "GSM 850 / GSM 1900 / UMTS 850 / LTE 1700"
+
+[[operators]]
+mnc = "03"
+plmn = "37003"
+operator = "Altice Group"
+brand = "Altice"
+bands = "AMPS / CDMA 850"
+
+[[operators]]
+mnc = "04"
+plmn = "37004"
+operator = "Trilogy Dominicana, S.A."
+brand = "Viva"
+bands = "CDMA 1900 / GSM 1900"
+
+[[operators]]
+mnc = "05"
+plmn = "37005"
+operator = "WIND Telecom, S.A"
+brand = "Wind"
+bands = "TD-LTE 2600"

@@ -1,0 +1,12 @@
+mcc = "368"
+country = "Cuba"
+iso = "CU"
+region = "North America and the Caribbean"
+
+[[operators]]
+mnc = "01"
+plmn = "36801"
+operator = "Empresa de Telecomunicaciones de Cuba, SA"
+brand = "CUBACEL"
+tadig = "CUB01"
+bands = "GSM 900 / GSM 850 / UMTS 900"

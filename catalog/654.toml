@@ -1,0 +1,26 @@
+mcc = "654"
+country = "Comoros"
+iso = "KM"
+region = "Africa"
+
+[[operators]]
+mnc = "01"
+plmn = "65401"
+operator = "Comores Telecom"
+brand = "HURI"
+tadig = "COMHR"
+bands = "GSM 900 / UMTS 900"
+
+[[operators]]
+mnc = "02"
+plmn = "65402"
+operator = "Telecom Malagasy (Telma)"
+brand = "TELCO SA"
+tadig = "COMTM"
+bands = "GSM 900 / UMTS 900 / LTE 800"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["YAS"]
+profile_names = []

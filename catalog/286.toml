@@ -1,0 +1,42 @@
+mcc = "286"
+country = "Turkey"
+iso = "TR"
+region = "Europe"
+
+[[operators]]
+mnc = "01"
+plmn = "28601"
+operator = "Turkcell Iletisim Hizmetleri A.S."
+brand = "Turkcell"
+tadig = "TURTC"
+bands = "GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600"
+
+[[operators]]
+mnc = "02"
+plmn = "28602"
+operator = "Vodafone Turkey"
+brand = "Vodafone"
+tadig = "TURTS"
+bands = "GSM 900 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Vodafone"]
+profile_names = []
+
+[[operators]]
+mnc = "03"
+plmn = "28603"
+operator = "Türk Telekom"
+brand = "Türk Telekom"
+tadig = "TURIS"
+bands = "GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+
+[[operators]]
+mnc = "04"
+plmn = "28604"
+operator = "Aycell"
+brand = "Aycell"
+tadig = "TURAC"
+bands = "GSM 1800"

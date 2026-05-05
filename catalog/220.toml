@@ -1,0 +1,74 @@
+mcc = "220"
+country = "Serbia"
+iso = "RS"
+region = "Europe"
+
+[[operators]]
+mnc = "01"
+plmn = "22001"
+operator = "Telenor Serbia"
+brand = "Telenor"
+tadig = "YUGMT"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800"
+
+[[operators]]
+mnc = "02"
+plmn = "22002"
+operator = "Telenor Montenegro"
+brand = "Telenor"
+bands = "GSM 900 / GSM 1800 / UMTS 2100"
+
+[[operators]]
+mnc = "03"
+plmn = "22003"
+operator = "Telekom Srbija"
+brand = "mts"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / TETRA"
+
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = ["mts"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["Globaltel"]
+profile_names = []
+
+[[operators]]
+mnc = "04"
+plmn = "22004"
+operator = "T-Mobile Montenegro LLC"
+brand = "T-Mobile"
+bands = "GSM"
+
+[[operators]]
+mnc = "05"
+plmn = "22005"
+operator = "VIP Mobile"
+brand = "VIP"
+tadig = "SRBNO"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800"
+
+[[operators]]
+mnc = "07"
+plmn = "22007"
+operator = "Orion Telekom"
+brand = ""
+bands = "CDMA 450"
+
+[[operators]]
+mnc = "09"
+plmn = "22009"
+operator = "MUNDIO MOBILE d.o.o."
+brand = "Vectone Mobile"
+bands = "MVNO"
+
+[[operators]]
+mnc = "11"
+plmn = "22011"
+operator = "GLOBALTEL d.o.o."
+brand = "GLOBALTEL"
+bands = "MVNO"

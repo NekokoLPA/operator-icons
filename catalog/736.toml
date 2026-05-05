@@ -1,0 +1,33 @@
+mcc = "736"
+country = "Bolivia"
+iso = "BO"
+region = "South and Central America"
+
+[[operators]]
+mnc = "01"
+plmn = "73601"
+operator = "Nuevatel PCS De Bolivia SA"
+brand = "Viva"
+tadig = "BOLNT"
+bands = "GSM 1900 / UMTS 1900 / LTE 1700"
+
+[[operators]]
+mnc = "02"
+plmn = "73602"
+operator = "Entel SA"
+brand = "Entel"
+bands = "GSM 850 / GSM 1900 / UMTS 850 / LTE 700"
+
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = ["ENTEL"]
+profile_names = []
+
+[[operators]]
+mnc = "03"
+plmn = "73603"
+operator = "Telefónica Celular De Bolivia S.A"
+brand = "Tigo"
+tadig = "BOLTE"
+bands = "GSM 850 / UMTS 850 / UMTS 1900 / LTE 700"

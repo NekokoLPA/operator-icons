@@ -1,0 +1,38 @@
+mcc = "424"
+country = "United Arab Emirates"
+iso = "AE"
+region = "Asia and the Middle East"
+
+[[operators]]
+mnc = "02"
+plmn = "42402"
+operator = "Emirates Telecom Corp"
+brand = "Etisalat"
+tadig = "ARETC"
+bands = "GSM 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "ffffff"
+gid2 = "ffffff"
+profile_provider_names = ["etisalat"]
+profile_names = []
+
+[[operators]]
+mnc = "03"
+plmn = "42403"
+operator = "Emirates Integrated Telecommunications Company"
+brand = "du"
+tadig = "AREDU"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800"
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "00"
+profile_provider_names = ["du"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = ["Virgin Mobile"]
+profile_names = []

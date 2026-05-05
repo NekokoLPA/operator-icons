@@ -1,0 +1,25 @@
+mcc = "290"
+country = "Greenland"
+iso = "GL"
+region = "Europe"
+
+[[operators]]
+mnc = "01"
+plmn = "29001"
+operator = "TELE Greenland A/S"
+brand = ""
+tadig = "GRLTG"
+bands = "GSM 900 / UMTS 900 / LTE 800"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Tusass"]
+profile_names = []
+
+[[operators]]
+mnc = "02"
+plmn = "29002"
+operator = "inu:it a/s"
+brand = "Nuuk TV"
+bands = "TD-LTE 2500"

@@ -1,0 +1,54 @@
+mcc = "284"
+country = "Bulgaria"
+iso = "BG"
+region = "Europe"
+
+[[operators]]
+mnc = "01"
+plmn = "28401"
+operator = "A1 Bulgaria"
+brand = "A1"
+tadig = "BGR01"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100"
+
+[[operators]]
+mnc = "03"
+plmn = "28403"
+operator = "BTC"
+brand = "Vivacom"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100"
+
+[[operators]]
+mnc = "05"
+plmn = "28405"
+operator = "Telenor (Bulgaria)"
+brand = "Telenor"
+tadig = "BGRCM"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2100"
+
+[[operators]]
+mnc = "07"
+plmn = "28407"
+operator = "НАЦИОНАЛНА КОМПАНИЯ ЖЕЛЕЗОПЪТНА ИНФРАСТРУКТУРА"
+brand = "НКЖИ"
+bands = "GSM-R"
+
+[[operators]]
+mnc = "09"
+plmn = "28409"
+operator = "COMPATEL LIMITED"
+brand = ""
+
+[[operators]]
+mnc = "11"
+plmn = "28411"
+operator = "Bulsatcom"
+brand = ""
+bands = "LTE 1800"
+
+[[operators]]
+mnc = "13"
+plmn = "28413"
+operator = "Ti.com JSC"
+brand = "Ти.ком"
+bands = "LTE 1800"

@@ -1,0 +1,159 @@
+mcc = "248"
+country = "Estonia"
+iso = "EE"
+region = "Europe"
+
+[[operators]]
+mnc = "01"
+plmn = "24801"
+operator = "Telia Eesti"
+brand = "Telia"
+tadig = "ESTEM"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "ffff"
+gid2 = "ffff"
+profile_provider_names = ["eSIM Internet"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["Super"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["Telia EE"]
+profile_names = []
+
+[[operators]]
+mnc = "02"
+plmn = "24802"
+operator = "Elisa Eesti"
+brand = "Elisa"
+tadig = "ESTRE"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "ffff"
+gid2 = "ffff"
+profile_provider_names = ["eSIM Internet"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffff"
+gid2 = "ffff"
+profile_provider_names = ["eSIM.gg"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["Elisa"]
+profile_names = []
+
+[[operators]]
+mnc = "03"
+plmn = "24803"
+operator = "Tele2 Eesti"
+brand = "Tele2"
+tadig = "ESTRB"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600"
+
+[[operators]]
+mnc = "04"
+plmn = "24804"
+operator = "OY Top Connect"
+brand = "Top Connect"
+bands = "MVNO"
+
+[[operators]]
+mnc = "05"
+plmn = "24805"
+operator = "CSC Telecom Estonia OÜ"
+brand = ""
+
+[[operators]]
+mnc = "06"
+plmn = "24806"
+operator = "Progroup Holding"
+brand = ""
+bands = "UMTS 2100"
+
+[[operators]]
+mnc = "07"
+plmn = "24807"
+operator = "Televõrgu AS"
+brand = "Kou"
+bands = "CDMA2000 450"
+
+[[operators]]
+mnc = "08"
+plmn = "24808"
+operator = "VIVEX OU"
+brand = "VIVEX"
+bands = "MVNO"
+
+[[operators]]
+mnc = "09"
+plmn = "24809"
+operator = "Bravo Telecom"
+brand = ""
+
+[[operators]]
+mnc = "10"
+plmn = "24810"
+operator = "Telcotrade OÜ"
+brand = ""
+
+[[operators]]
+mnc = "11"
+plmn = "24811"
+operator = "UAB Raystorm Eesti filiaal"
+brand = ""
+
+[[operators]]
+mnc = "12"
+plmn = "24812"
+operator = "Ntel Solutions OÜ"
+brand = ""
+
+[[operators]]
+mnc = "13"
+plmn = "24813"
+operator = "Telia Eesti AS"
+brand = ""
+
+[[operators]]
+mnc = "14"
+plmn = "24814"
+operator = "Estonian Crafts OÜ"
+brand = ""
+
+[[operators]]
+mnc = "15"
+plmn = "24815"
+operator = "Premium Net International S.R.L. Eesti filiaal"
+brand = ""
+
+[[operators]]
+mnc = "16"
+plmn = "24816"
+operator = "SmartTel Plus OÜ"
+brand = "dzinga"
+bands = "MVNO"
+
+[[operators]]
+mnc = "17"
+plmn = "24817"
+operator = "Baltergo OÜ"
+brand = ""
+
+[[operators]]
+mnc = "71"
+plmn = "24871"
+operator = "Siseministeerium (Ministry of Interior)"
+brand = ""

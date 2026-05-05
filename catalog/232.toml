@@ -1,0 +1,343 @@
+mcc = "232"
+country = "Austria"
+iso = "AT"
+region = "Europe"
+
+[[operators]]
+mnc = "01"
+plmn = "23201"
+operator = "A1 Telekom Austria"
+brand = "A1.net"
+tadig = "AUTPT"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500"
+
+[[operators]]
+mnc = "02"
+plmn = "23202"
+operator = "A1 Telekom Austria"
+brand = ""
+
+[[operators]]
+mnc = "03"
+plmn = "23203"
+operator = "T-Mobile Austria GmbH"
+brand = "Magenta"
+tadig = "AUTMM"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 3500"
+
+[[operators.gids]]
+gid1 = "01"
+gid2 = "ff"
+profile_provider_names = ["Magenta"]
+profile_names = []
+
+[[operators]]
+mnc = "04"
+plmn = "23204"
+operator = "T-Mobile Austria GmbH"
+brand = "Magenta"
+
+[[operators]]
+mnc = "05"
+plmn = "23205"
+operator = "Hutchison Drei Austria"
+brand = "3"
+tadig = "AUTCA"
+bands = "GSM 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "0303"
+gid2 = "0303"
+profile_provider_names = ["3 AT"]
+profile_names = []
+
+[[operators]]
+mnc = "06"
+plmn = "23206"
+operator = "Orange Austria GmbH"
+brand = "Orange AT"
+
+[[operators]]
+mnc = "07"
+plmn = "23207"
+operator = "T-Mobile Austria"
+brand = "tele.ring"
+bands = "MVNO"
+
+[[operators.gids]]
+gid1 = "70"
+gid2 = "ff"
+profile_provider_names = ["HoT eSIM"]
+profile_names = []
+
+[[operators]]
+mnc = "08"
+plmn = "23208"
+operator = "Lycamobile Austria"
+brand = "Lycamobile"
+bands = "MVNO"
+
+[[operators]]
+mnc = "09"
+plmn = "23209"
+operator = "A1 Telekom Austria"
+brand = "Tele2Mobil"
+bands = "MVNO"
+
+[[operators]]
+mnc = "10"
+plmn = "23210"
+operator = "Hutchison Drei Austria"
+brand = "3"
+bands = "UMTS 2100 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 3500"
+
+[[operators.gids]]
+gid1 = "0000"
+gid2 = "0000"
+profile_provider_names = ["educom"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "0304"
+gid2 = "0304"
+profile_provider_names = ["Eety"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "0305"
+gid2 = "0305"
+profile_provider_names = ["Lidl Connect"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "0409"
+gid2 = "0409"
+profile_provider_names = ["Data eSIM"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "0409"
+gid2 = "ffff"
+profile_provider_names = ["eSIM Go"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "0409"
+gid2 = "ffff"
+profile_provider_names = ["Pocket eSIM"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "0409"
+gid2 = "ffff"
+profile_provider_names = ["Esimatic"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "0409"
+gid2 = "ffff"
+profile_provider_names = ["ACMeSIM"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "0409"
+gid2 = "ffff"
+profile_provider_names = ["nextSiM EU"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "0409"
+gid2 = "ffff"
+profile_provider_names = ["Roamingo"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "0409"
+gid2 = "ffff"
+profile_provider_names = ["BuddySIM"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "0409"
+gid2 = "ffff"
+profile_provider_names = ["Lyntel"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "040c"
+gid2 = "040c"
+profile_provider_names = ["Airalo"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "040f"
+gid2 = "040f"
+profile_provider_names = ["Gist Mobile"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "0414"
+gid2 = "0414"
+profile_provider_names = ["eROAMING"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "0507"
+gid2 = "0507"
+profile_provider_names = ["Holafly"]
+profile_names = []
+icon = "holafly"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = "30343039"
+gid2 = "30343039"
+profile_provider_names = ["Data eSIM"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["BillionConnect"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Roamify"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Trip"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["3"]
+profile_names = []
+
+[[operators]]
+mnc = "11"
+plmn = "23211"
+operator = "A1 Telekom Austria"
+brand = "bob"
+bands = "MVNO"
+
+[[operators]]
+mnc = "12"
+plmn = "23212"
+operator = "A1 Telekom Austria"
+brand = "yesss!"
+bands = "MVNO"
+
+[[operators]]
+mnc = "13"
+plmn = "23213"
+operator = "T-Mobile Austria GmbH"
+brand = "Magenta"
+bands = "MVNO"
+
+[[operators]]
+mnc = "14"
+plmn = "23214"
+operator = "Hutchison Drei Austria"
+brand = ""
+
+[[operators]]
+mnc = "15"
+plmn = "23215"
+operator = "Mundio Mobile Austria"
+brand = "Vectone Mobile"
+bands = "MVNO"
+
+[[operators]]
+mnc = "16"
+plmn = "23216"
+operator = "Hutchison Drei Austria"
+brand = ""
+
+[[operators]]
+mnc = "17"
+plmn = "23217"
+operator = "MASS Response Service GmbH"
+brand = ""
+
+[[operators.gids]]
+gid1 = "0041"
+gid2 = ""
+profile_provider_names = ["spusu"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "c7ff"
+gid2 = ""
+profile_provider_names = ["spusu"]
+profile_names = []
+
+[[operators]]
+mnc = "18"
+plmn = "23218"
+operator = "smartspace GmbH"
+brand = ""
+bands = "MVNO"
+
+[[operators]]
+mnc = "19"
+plmn = "23219"
+operator = "Hutchison Drei Austria"
+brand = ""
+
+[[operators]]
+mnc = "20"
+plmn = "23220"
+operator = "MTEL Austrija GmbH"
+brand = "m:tel"
+bands = "MVNO"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["TRASNA_IRELAND"]
+profile_names = []
+
+[[operators]]
+mnc = "21"
+plmn = "23221"
+operator = "Salzburg AG für Energie, Verkehr und Telekommunikation"
+brand = ""
+
+[[operators]]
+mnc = "22"
+plmn = "23222"
+operator = "Plintron Austria Limited"
+brand = ""
+bands = "MVNO"
+
+[[operators]]
+mnc = "23"
+plmn = "23223"
+operator = "T-Mobile Austria GmbH"
+brand = "Magenta"
+
+[[operators]]
+mnc = "24"
+plmn = "23224"
+operator = "Smartel Services GmbH"
+brand = ""
+
+[[operators]]
+mnc = "91"
+plmn = "23291"
+operator = "ÖBB"
+brand = "GSM-R A"
+bands = "GSM-R"
+
+[[operators]]
+mnc = "92"
+plmn = "23292"
+operator = "ArgoNET GmbH"
+brand = "ArgoNET"
+bands = "CDMA450 / LTE450"

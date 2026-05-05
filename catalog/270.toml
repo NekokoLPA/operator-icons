@@ -1,0 +1,95 @@
+mcc = "270"
+country = "Luxembourg"
+iso = "LU"
+region = "Europe"
+
+[[operators]]
+mnc = "01"
+plmn = "27001"
+operator = "POST Luxembourg"
+brand = "POST"
+tadig = "LUXPT"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+
+[[operators]]
+mnc = "02"
+plmn = "27002"
+operator = "MTX Connect S.a.r.l."
+brand = ""
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["MTXC"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["MTXC"]
+profile_names = []
+
+[[operators]]
+mnc = "07"
+plmn = "27007"
+operator = "Bouygues Telecom S.A."
+brand = ""
+
+[[operators]]
+mnc = "10"
+plmn = "27010"
+operator = "Blue Communications"
+brand = ""
+
+[[operators]]
+mnc = "71"
+plmn = "27071"
+operator = "Société Nationale des Chemins de Fer Luxembourgeois"
+brand = "CFL"
+bands = "GSM-R 900"
+
+[[operators]]
+mnc = "77"
+plmn = "27077"
+operator = "Tango SA"
+brand = "Tango"
+tadig = "LUXTG"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800"
+
+[[operators]]
+mnc = "78"
+plmn = "27078"
+operator = "Interactive digital media GmbH"
+brand = ""
+
+[[operators]]
+mnc = "79"
+plmn = "27079"
+operator = "Mitto AG"
+brand = ""
+
+[[operators]]
+mnc = "80"
+plmn = "27080"
+operator = "Syniverse Technologies S.à r.l."
+brand = ""
+
+[[operators]]
+mnc = "81"
+plmn = "27081"
+operator = "E-Lux Mobile Telecommunication S.A."
+brand = ""
+
+[[operators]]
+mnc = "99"
+plmn = "27099"
+operator = "Orange S.A."
+brand = "Orange"
+tadig = "LUXVM"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = ["Orange Luxembourg"]
+profile_names = []

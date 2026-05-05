@@ -1,0 +1,12 @@
+mcc = "546"
+country = "New Caledonia (France)"
+iso = "NC"
+region = "Oceania"
+
+[[operators]]
+mnc = "01"
+plmn = "54601"
+operator = "OPT New Caledonia"
+brand = "Mobilis"
+tadig = "NCLPT"
+bands = "GSM 900 / UMTS 900 / LTE 800 / LTE 1800 / LTE 2600"

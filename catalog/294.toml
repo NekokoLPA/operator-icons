@@ -1,0 +1,51 @@
+mcc = "294"
+country = "North Macedonia"
+iso = "MK"
+region = "Europe"
+
+[[operators]]
+mnc = "01"
+plmn = "29401"
+operator = "Makedonski Telekom"
+brand = "Telekom.mk"
+bands = "GSM 900 / UMTS 2100 / LTE 800 / LTE 1800"
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = ["T-Mobile MK"]
+profile_names = []
+
+[[operators]]
+mnc = "02"
+plmn = "29402"
+operator = "ONE.VIP DOO"
+brand = "vip"
+bands = "GSM 900 / UMTS 2100 / LTE 800 / LTE 1800"
+
+[[operators]]
+mnc = "03"
+plmn = "29403"
+operator = "ONE.VIP DOO"
+brand = "vip"
+tadig = "MKDNO"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800"
+
+[[operators]]
+mnc = "04"
+plmn = "29404"
+operator = "Lycamobile LLC"
+brand = "Lycamobile"
+bands = "MVNO"
+
+[[operators]]
+mnc = "10"
+plmn = "29410"
+operator = "WTI Macedonia"
+brand = ""
+
+[[operators]]
+mnc = "11"
+plmn = "29411"
+operator = "MOBIK TELEKOMUNIKACII DOOEL Skopje"
+brand = ""

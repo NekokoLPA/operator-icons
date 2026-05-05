@@ -1,0 +1,122 @@
+mcc = "620"
+country = "Ghana"
+iso = "GH"
+region = "Africa"
+
+[[operators]]
+mnc = "01"
+plmn = "62001"
+operator = "MTN Group"
+brand = "MTN"
+tadig = "GHASC"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 2600"
+
+[[operators]]
+mnc = "02"
+plmn = "62002"
+operator = "Vodafone Group"
+brand = "Vodafone"
+tadig = "GHAGT"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800"
+
+[[operators]]
+mnc = "03"
+plmn = "62003"
+operator = "Millicom Ghana"
+brand = "AirtelTigo"
+tadig = "GHAMT"
+bands = "GSM 900 / GSM 1800 / UMTS 2100"
+
+[[operators]]
+mnc = "04"
+plmn = "62004"
+operator = "Kasapa / Hutchison Telecom"
+brand = "Expresso"
+bands = "CDMA2000 850"
+
+[[operators]]
+mnc = "05"
+plmn = "62005"
+operator = "National Security"
+brand = ""
+
+[[operators]]
+mnc = "06"
+plmn = "62006"
+operator = "Airtel"
+brand = "AirtelTigo"
+tadig = "GHAZN"
+bands = "GSM 900 / GSM 1800 / UMTS 2100"
+
+[[operators]]
+mnc = "07"
+plmn = "62007"
+operator = "Globacom Group"
+brand = "Globacom"
+tadig = "GHAGM"
+bands = "GSM 900 / GSM 1800 / UMTS 2100"
+
+[[operators]]
+mnc = "08"
+plmn = "62008"
+operator = "Surfline Communications Ltd"
+brand = "Surfline"
+bands = "LTE 2600"
+
+[[operators]]
+mnc = "09"
+plmn = "62009"
+operator = "National Information Technology Agency"
+brand = "NITA"
+
+[[operators]]
+mnc = "10"
+plmn = "62010"
+operator = "Blu Telecommunications"
+brand = "Blu"
+bands = "TD-LTE 2500"
+
+[[operators]]
+mnc = "11"
+plmn = "62011"
+operator = "Netafrique Dot Com Ltd"
+brand = ""
+
+[[operators]]
+mnc = "12"
+plmn = "62012"
+operator = "BTL"
+brand = ""
+
+[[operators]]
+mnc = "13"
+plmn = "62013"
+operator = "Goldkey"
+brand = ""
+
+[[operators]]
+mnc = "14"
+plmn = "62014"
+operator = "BusyInternet"
+brand = "busy"
+bands = "TD-LTE 2300"
+
+[[operators]]
+mnc = "15"
+plmn = "62015"
+operator = "Lebara"
+brand = ""
+bands = "MVNO"
+
+[[operators]]
+mnc = "16"
+plmn = "62016"
+operator = "Telesol"
+brand = ""
+bands = "LTE 1800"
+
+[[operators]]
+mnc = "17"
+plmn = "62017"
+operator = "iBurst Africa"
+brand = ""

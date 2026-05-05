@@ -1,0 +1,64 @@
+mcc = "515"
+country = "Philippines"
+iso = "PH"
+region = "Oceania"
+
+[[operators]]
+mnc = "01"
+plmn = "51501"
+operator = "Globe Telecom via Innove Communications"
+brand = "Islacom"
+bands = "GSM 900"
+
+[[operators]]
+mnc = "02"
+plmn = "51502"
+operator = "Globe Telecom"
+brand = "Globe"
+tadig = "PHLGT"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 700 / LTE 1800 / TD-LTE 2500 / 5G 3500"
+
+[[operators]]
+mnc = "03"
+plmn = "51503"
+operator = "PLDT via Smart Communications"
+brand = "SMART"
+tadig = "PHLSR"
+bands = "GSM 900 / GSM 1800 / UMTS 850 / UMTS 2100 / LTE 700 / LTE 850 / LTE 1800 / LTE 2100 / TD-LTE 2300 / TD-LTE 2500"
+icon = "smart"
+icon_scope = "515"
+
+[[operators]]
+mnc = "05"
+plmn = "51505"
+operator = "Digital Telecommunications Philippines"
+brand = "Sun Cellular"
+tadig = "PHLDG"
+bands = "GSM 1800 / UMTS 2100"
+
+[[operators]]
+mnc = "11"
+plmn = "51511"
+operator = "PLDT via ACeS Philippines"
+brand = ""
+
+[[operators]]
+mnc = "18"
+plmn = "51518"
+operator = "PLDT via Smart's Connectivity Unlimited Resources Enterprise"
+brand = "Cure"
+bands = "GSM 900 / UMTS 2100"
+
+[[operators]]
+mnc = "24"
+plmn = "51524"
+operator = "ABS-CBN Convergence with Globe Telecom"
+brand = "ABS-CBN Mobile"
+bands = "MVNO"
+
+[[operators]]
+mnc = "88"
+plmn = "51588"
+operator = "Next Mobile Inc."
+brand = ""
+bands = "iDEN"

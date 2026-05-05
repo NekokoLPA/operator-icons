@@ -1,0 +1,33 @@
+mcc = "342"
+country = "Barbados"
+iso = "BB"
+region = "North America and the Caribbean"
+
+[[operators]]
+mnc = "600"
+plmn = "342600"
+operator = "LIME (formerly known as Cable & Wireless)"
+brand = "FLOW"
+tadig = "BRBCW"
+bands = "GSM 1900 / UMTS 850 / LTE 850 / LTE 1900"
+
+[[operators]]
+mnc = "750"
+plmn = "342750"
+operator = "Digicel (Barbados) Limited"
+brand = "Digicel"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 700 / LTE 1900"
+
+[[operators]]
+mnc = "800"
+plmn = "342800"
+operator = "Ozone Wireless Inc."
+brand = "Ozone"
+bands = "LTE 700"
+
+[[operators]]
+mnc = "820"
+plmn = "342820"
+operator = "Sunbeach Communications"
+brand = ""
+bands = "CDMA"

@@ -1,0 +1,103 @@
+mcc = "282"
+country = "Georgia"
+iso = "GE"
+region = "Europe"
+
+[[operators]]
+mnc = "01"
+plmn = "28201"
+operator = "Silknet"
+brand = "Geocell"
+tadig = "GEOGC"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2300"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Geocell"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Hallo"]
+profile_names = []
+
+[[operators]]
+mnc = "02"
+plmn = "28202"
+operator = "MagtiCom"
+brand = "Magti"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800"
+
+[[operators]]
+mnc = "03"
+plmn = "28203"
+operator = "MagtiCom"
+brand = "MagtiFix"
+bands = "CDMA 450"
+
+[[operators]]
+mnc = "04"
+plmn = "28204"
+operator = "Mobitel"
+brand = "Beeline"
+tadig = "GEOMT"
+bands = "GSM 1800 / UMTS 2100 / LTE 800"
+
+[[operators]]
+mnc = "05"
+plmn = "28205"
+operator = "Silknet"
+brand = "S1"
+bands = "CDMA 800"
+
+[[operators]]
+mnc = "06"
+plmn = "28206"
+operator = "JSC Compatel"
+brand = ""
+
+[[operators]]
+mnc = "07"
+plmn = "28207"
+operator = "GlobalCell"
+brand = "GlobalCell"
+bands = "MVNO"
+
+[[operators]]
+mnc = "08"
+plmn = "28208"
+operator = "Silknet"
+brand = "Silk LTE"
+bands = "LTE 2300"
+
+[[operators]]
+mnc = "09"
+plmn = "28209"
+operator = "Gmobile"
+brand = ""
+
+[[operators]]
+mnc = "10"
+plmn = "28210"
+operator = "Premium Net International SRL"
+brand = ""
+
+[[operators]]
+mnc = "11"
+plmn = "28211"
+operator = "Mobilive"
+brand = ""
+
+[[operators]]
+mnc = "12"
+plmn = "28212"
+operator = "Datacomm Ltd"
+brand = ""
+
+[[operators]]
+mnc = "13"
+plmn = "28213"
+operator = "Asanet Ltd"
+brand = ""

@@ -1,0 +1,113 @@
+mcc = "530"
+country = "New Zealand"
+iso = "NZ"
+region = "Oceania"
+
+[[operators]]
+mnc = "00"
+plmn = "53000"
+operator = "Telecom New Zealand"
+brand = "Telecom"
+bands = "AMPS 800 / TDMA 800"
+
+[[operators]]
+mnc = "01"
+plmn = "53001"
+operator = "Vodafone New Zealand"
+brand = "Vodafone"
+tadig = "NZLBS"
+bands = "GSM 900 / UMTS 900 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2600 / 5G 3500"
+icon = "vodafone"
+icon_scope = "worldwide"
+
+[[operators.gids]]
+gid1 = "4d"
+gid2 = ""
+profile_provider_names = ["Rocket"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "4d"
+gid2 = ""
+profile_provider_names = ["Contact"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "4d"
+gid2 = ""
+profile_provider_names = ["Mighty Mobile"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "4d"
+gid2 = ""
+profile_provider_names = ["Telsim NZ"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = ""
+profile_provider_names = ["One NZ"]
+profile_names = []
+
+[[operators]]
+mnc = "02"
+plmn = "53002"
+operator = "Telecom New Zealand"
+brand = "Telecom"
+bands = "CDMA2000 800"
+
+[[operators]]
+mnc = "03"
+plmn = "53003"
+operator = "Woosh Wireless"
+brand = "Woosh"
+bands = "UMTS-TDD 2000"
+
+[[operators]]
+mnc = "04"
+plmn = "53004"
+operator = "TelstraClear New Zealand"
+brand = "Vodafone"
+bands = "UMTS 2100"
+
+[[operators]]
+mnc = "05"
+plmn = "53005"
+operator = "Spark New Zealand"
+brand = "Spark"
+tadig = "NZLTM"
+bands = "UMTS 850 / UMTS 2100 / LTE 700 / LTE 1800 / TD-LTE 2300 / LTE 2600 / 5G 2600"
+
+[[operators.gids]]
+gid1 = "42ffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Skinny"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "42ffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Spark"]
+profile_names = []
+
+[[operators]]
+mnc = "06"
+plmn = "53006"
+operator = "Spark New Zealand"
+brand = "Skinny"
+bands = "MVNO"
+
+[[operators]]
+mnc = "07"
+plmn = "53007"
+operator = "Bluereach Limited"
+brand = ""
+
+[[operators]]
+mnc = "24"
+plmn = "53024"
+operator = "2degrees"
+brand = "2degrees"
+tadig = "NZLNH"
+bands = "UMTS 900 / UMTS 2100 / LTE 700 / LTE 900 / LTE 1800"

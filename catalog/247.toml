@@ -1,0 +1,73 @@
+mcc = "247"
+country = "Latvia"
+iso = "LV"
+region = "Europe"
+
+[[operators]]
+mnc = "01"
+plmn = "24701"
+operator = "Latvian Mobile Telephone"
+brand = "LMT"
+tadig = "LVALM"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["LMT"]
+profile_names = []
+
+[[operators]]
+mnc = "02"
+plmn = "24702"
+operator = "Tele2"
+brand = "Tele2"
+tadig = "LVABC"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500"
+
+[[operators]]
+mnc = "03"
+plmn = "24703"
+operator = "Telekom Baltija"
+brand = "TRIATEL"
+bands = "CDMA 450"
+
+[[operators]]
+mnc = "04"
+plmn = "24704"
+operator = "Beta Telecom"
+brand = ""
+
+[[operators]]
+mnc = "05"
+plmn = "24705"
+operator = "Bite Latvija"
+brand = "Bite"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+
+[[operators]]
+mnc = "06"
+plmn = "24706"
+operator = "Rigatta"
+brand = ""
+
+[[operators]]
+mnc = "07"
+plmn = "24707"
+operator = "\"SIA \"\"MEGATEL\"\"\""
+brand = ""
+bands = "MVNO"
+
+[[operators]]
+mnc = "08"
+plmn = "24708"
+operator = "IZZI"
+brand = "IZZI"
+bands = "MVNO"
+
+[[operators]]
+mnc = "09"
+plmn = "24709"
+operator = "Camel Mobile"
+brand = "Xomobile"
+bands = "MVNO"

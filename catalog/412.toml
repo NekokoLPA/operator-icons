@@ -1,0 +1,57 @@
+mcc = "412"
+country = "Afghanistan"
+iso = "AF"
+region = "Asia and the Middle East"
+
+[[operators]]
+mnc = "01"
+plmn = "41201"
+operator = "Afghan Wireless Communication Company"
+brand = "AWCC"
+tadig = "AFGAW"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+
+[[operators]]
+mnc = "20"
+plmn = "41220"
+operator = "Telecom Development Company Afghanistan Ltd."
+brand = "Roshan"
+tadig = "AFGTD"
+bands = "GSM 900 / UMTS 2100"
+
+[[operators]]
+mnc = "40"
+plmn = "41240"
+operator = "MTN Group Afghanistan"
+brand = "MTN"
+tadig = "AFGAR"
+bands = "GSM 900 / GSM 1800 / UMTS 2100"
+
+[[operators]]
+mnc = "50"
+plmn = "41250"
+operator = "Etisalat Afghanistan"
+brand = "Etisalat"
+tadig = "AFGEA"
+bands = "GSM 900 / GSM 1800 / UMTS 2100"
+
+[[operators]]
+mnc = "55"
+plmn = "41255"
+operator = "WASEL Afghanistan"
+brand = "WASEL"
+bands = "CDMA 800"
+
+[[operators]]
+mnc = "80"
+plmn = "41280"
+operator = "Afghan Telecom"
+brand = "Salaam"
+bands = "GSM 900 / GSM 1800 / UMTS 2100"
+
+[[operators]]
+mnc = "88"
+plmn = "41288"
+operator = "Afghan Telecom"
+brand = "Salaam"
+bands = "GSM 900 / GSM 1800 / UMTS 2100"

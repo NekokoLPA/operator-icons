@@ -1,0 +1,19 @@
+mcc = "631"
+country = "Angola"
+iso = "AO"
+region = "Africa"
+
+[[operators]]
+mnc = "02"
+plmn = "63102"
+operator = "UNITEL S.a.r.l."
+brand = "UNITEL"
+tadig = "AGOUT"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+
+[[operators]]
+mnc = "04"
+plmn = "63104"
+operator = "MOVICEL Telecommunications S.A."
+brand = "MOVICEL"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / LTE 1800"

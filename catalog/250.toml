@@ -1,0 +1,379 @@
+mcc = "250"
+country = "Russian Federation"
+iso = "RU"
+region = "Europe"
+
+[[operators]]
+mnc = "01"
+plmn = "25001"
+operator = "Mobile TeleSystems"
+brand = "MTS"
+tadig = "RUS01"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / TD-LTE 2600"
+
+[[operators]]
+mnc = "02"
+plmn = "25002"
+operator = "MegaFon PJSC"
+brand = "MegaFon"
+tadig = "RUSNW"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["MegaFon"]
+profile_names = []
+
+[[operators]]
+mnc = "03"
+plmn = "25003"
+operator = "Nizhegorodskaya Cellular Communications"
+brand = "NCC"
+bands = "GSM 900 / GSM 1800"
+
+[[operators]]
+mnc = "04"
+plmn = "25004"
+operator = "Sibchallenge"
+brand = "Sibchallenge"
+bands = "GSM 900"
+
+[[operators]]
+mnc = "05"
+plmn = "25005"
+operator = "Yeniseytelecom"
+brand = "ETK"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / CDMA2000 450"
+
+[[operators]]
+mnc = "06"
+plmn = "25006"
+operator = "CJSC Saratov System of Cellular Communications"
+brand = "Skylink"
+bands = "CDMA2000 450"
+
+[[operators]]
+mnc = "07"
+plmn = "25007"
+operator = "Zao SMARTS"
+brand = "SMARTS"
+bands = "GSM 900 / GSM 1800"
+
+[[operators]]
+mnc = "08"
+plmn = "25008"
+operator = "\"CS \"\"VainahTelecom\"\"\""
+brand = "Vainah Telecom"
+bands = "GSM 900 / GSM 1800 / LTE 2300"
+
+[[operators]]
+mnc = "09"
+plmn = "25009"
+operator = "Khabarovsky Cellular Phone"
+brand = "Skylink"
+bands = "CDMA2000 450"
+
+[[operators]]
+mnc = "10"
+plmn = "25010"
+operator = "Dontelekom"
+brand = "DTC"
+bands = "GSM 900"
+
+[[operators]]
+mnc = "11"
+plmn = "25011"
+operator = "Scartel"
+brand = "Yota"
+bands = "MVNO"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["YOTA"]
+profile_names = []
+
+[[operators]]
+mnc = "12"
+plmn = "25012"
+operator = ""
+brand = "Akos"
+bands = "GSM 1800"
+
+[[operators]]
+mnc = "13"
+plmn = "25013"
+operator = "Kuban GSM"
+brand = "KUGSM"
+bands = "GSM 900 / GSM 1800"
+
+[[operators]]
+mnc = "14"
+plmn = "25014"
+operator = "MegaFon OJSC"
+brand = "MegaFon"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / TD-LTE 2600"
+
+[[operators]]
+mnc = "15"
+plmn = "25015"
+operator = "SMARTS Ufa, SMARTS Uljanovsk"
+brand = "SMARTS"
+bands = "GSM 1800"
+
+[[operators]]
+mnc = "16"
+plmn = "25016"
+operator = "Miatel"
+brand = "Miatel"
+bands = "MVNO"
+
+[[operators]]
+mnc = "17"
+plmn = "25017"
+operator = "JSC Uralsvyazinform"
+brand = "Utel"
+bands = "GSM 900 / GSM 1800"
+
+[[operators]]
+mnc = "18"
+plmn = "25018"
+operator = ""
+brand = "Osnova Telecom"
+bands = "TD-LTE 2300"
+
+[[operators]]
+mnc = "19"
+plmn = "25019"
+operator = "INDIGO"
+brand = "INDIGO"
+bands = "GSM 1800"
+
+[[operators.gids]]
+gid1 = "fa1307ff"
+gid2 = "ffff"
+profile_provider_names = ["Alfa"]
+profile_names = []
+
+[[operators]]
+mnc = "20"
+plmn = "25020"
+operator = "Tele2"
+brand = "Tele2"
+tadig = "RUST2"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 450 / LTE 1800 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "ffff"
+gid2 = "ffff"
+profile_provider_names = ["t2"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffff"
+gid2 = "ffff"
+profile_provider_names = ["Rostelecom"]
+profile_names = []
+
+[[operators]]
+mnc = "21"
+plmn = "25021"
+operator = "\"JSC \"\"GlobalTel\"\"\""
+brand = "GlobalTel"
+bands = "Satellite"
+
+[[operators]]
+mnc = "22"
+plmn = "25022"
+operator = "Vainakh Telecom"
+brand = ""
+bands = "TD-LTE 2300"
+
+[[operators]]
+mnc = "23"
+plmn = "25023"
+operator = "GTNT"
+brand = "Thuraya"
+bands = "Satellite MVNO"
+
+[[operators]]
+mnc = "27"
+plmn = "25027"
+operator = "Tattelecom"
+brand = "Letai"
+bands = "GSM 1800 / LTE 1800"
+
+[[operators]]
+mnc = "28"
+plmn = "25028"
+operator = "Beeline"
+brand = "Beeline"
+bands = "GSM 900"
+
+[[operators]]
+mnc = "29"
+plmn = "25029"
+operator = "Iridium Communications"
+brand = "Iridium"
+bands = "Satellite MVNO"
+
+[[operators]]
+mnc = "32"
+plmn = "25032"
+operator = "K-Telecom"
+brand = "Win Mobile"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+
+[[operators.gids]]
+gid1 = "ffff"
+gid2 = "ffff"
+profile_provider_names = ["WIN-Mobile"]
+profile_names = []
+
+[[operators]]
+mnc = "33"
+plmn = "25033"
+operator = "Sevtelekom"
+brand = "Sevmobile"
+bands = "GSM 900 / GSM 1800 / UMTS 2100"
+
+[[operators]]
+mnc = "34"
+plmn = "25034"
+operator = "Krymtelekom"
+brand = "Krymtelekom"
+bands = "GSM 900 / GSM 1800 / UMTS 2100"
+
+[[operators]]
+mnc = "35"
+plmn = "25035"
+operator = "EKATERINBURG-2000"
+brand = "MOTIV"
+tadig = "RUSEC"
+bands = "GSM 1800 / LTE 1800"
+
+[[operators]]
+mnc = "38"
+plmn = "25038"
+operator = "Central Telecommunication Company"
+brand = "Tambov GSM"
+bands = "GSM 900 / GSM 1800"
+
+[[operators]]
+mnc = "39"
+plmn = "25039"
+operator = "ROSTELECOM"
+brand = "Rostelecom"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / TD-LTE 2300 / LTE 2600"
+
+[[operators]]
+mnc = "44"
+plmn = "25044"
+operator = "Stavtelesot / North Caucasian GSM"
+brand = ""
+
+[[operators]]
+mnc = "50"
+plmn = "25050"
+operator = "Bezlimitno.ru"
+brand = "MTS"
+bands = "MVNO"
+
+[[operators.gids]]
+gid1 = "fa3207ffffffffffffff"
+gid2 = "ffff"
+profile_provider_names = ["SberMobile"]
+profile_names = []
+
+[[operators]]
+mnc = "54"
+plmn = "25054"
+operator = "Tattelecom"
+brand = "TTK"
+bands = "LTE 1800"
+
+[[operators.gids]]
+gid1 = "ffff"
+gid2 = "ffff"
+profile_provider_names = ["MIRANDA"]
+profile_names = []
+
+[[operators]]
+mnc = "60"
+plmn = "25060"
+operator = "KTK Telecom"
+brand = "Volna mobile"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+
+[[operators.gids]]
+gid1 = "8adaf735e0bd60ff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Volna Mobile"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffff"
+gid2 = "ffff"
+profile_provider_names = ["Volna Mobile"]
+profile_names = []
+
+[[operators]]
+mnc = "61"
+plmn = "25061"
+operator = "Intertelecom"
+brand = "Intertelecom"
+bands = "CDMA 800"
+
+[[operators]]
+mnc = "62"
+plmn = "25062"
+operator = "Tinkoff Mobile"
+brand = "Tinkoff Mobile"
+bands = "MVNO"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffffff"
+profile_provider_names = ["T-Mobile"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffffff"
+profile_provider_names = ["Tinkoff"]
+profile_names = []
+
+[[operators]]
+mnc = "811"
+plmn = "250811"
+operator = "Votek Mobile"
+brand = ""
+bands = "AMPS / DAMPS / GSM 1800"
+
+[[operators]]
+mnc = "91"
+plmn = "25091"
+operator = "Sonic Duo CJSC"
+brand = "Sonic Duo"
+bands = "GSM 1800"
+
+[[operators]]
+mnc = "92"
+plmn = "25092"
+operator = "Primtelefon"
+brand = ""
+
+[[operators]]
+mnc = "93"
+plmn = "25093"
+operator = "Telecom XXI"
+brand = ""
+
+[[operators]]
+mnc = "99"
+plmn = "25099"
+operator = "OJSC Vimpel-Communications"
+brand = "Beeline"
+tadig = "RUSBD"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"

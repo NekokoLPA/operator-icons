@@ -1,0 +1,48 @@
+mcc = "748"
+country = "Uruguay"
+iso = "UY"
+region = "South and Central America"
+
+[[operators]]
+mnc = "00"
+plmn = "74800"
+operator = "Administración Nacional de Telecomunicaciones"
+brand = "Antel"
+bands = "TDMA"
+
+[[operators]]
+mnc = "01"
+plmn = "74801"
+operator = "Administración Nacional de Telecomunicaciones"
+brand = "Antel"
+bands = "GSM 1800 / UMTS 850 / UMTS 2100 / LTE 700 / LTE 1700 / 5G 3500"
+icon = "antel"
+icon_scope = "748"
+
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = ["AntelUruguay"]
+profile_names = []
+
+[[operators]]
+mnc = "03"
+plmn = "74803"
+operator = "Administración Nacional de Telecomunicaciones"
+brand = "Antel"
+
+[[operators]]
+mnc = "07"
+plmn = "74807"
+operator = "Telefónica Móviles Uruguay"
+brand = "Movistar"
+tadig = "URYTM"
+bands = "GSM 850 / GSM 1900 / UMTS 850 / LTE 1900"
+
+[[operators]]
+mnc = "10"
+plmn = "74810"
+operator = "AM Wireless Uruguay S.A."
+brand = "Claro"
+tadig = "URYAM"
+bands = "GSM 1900 / UMTS 1900 / LTE 1700"

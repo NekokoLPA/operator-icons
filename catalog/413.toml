@@ -1,0 +1,71 @@
+mcc = "413"
+country = "Sri Lanka"
+iso = "LK"
+region = "Asia and the Middle East"
+
+[[operators]]
+mnc = "01"
+plmn = "41301"
+operator = "Mobitel (Pvt) Ltd"
+brand = "Mobitel"
+tadig = "LKA71"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 850 / LTE 900 / LTE 1800 / LTE 2100"
+
+[[operators]]
+mnc = "02"
+plmn = "41302"
+operator = "Dialog Axiata PLC"
+brand = "Dialog"
+tadig = "LKADG"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+
+[[operators]]
+mnc = "03"
+plmn = "41303"
+operator = "Etisalat Lanka (Pvt) Ltd"
+brand = "Etisalat"
+tadig = "LKACT"
+bands = "GSM 900 / GSM 1800 / UMTS 2100"
+
+[[operators]]
+mnc = "04"
+plmn = "41304"
+operator = "Lanka Bell Ltd"
+brand = "Lanka Bell"
+bands = "CDMA / WiMAX / TD-LTE 2300"
+
+[[operators]]
+mnc = "05"
+plmn = "41305"
+operator = "Bharti Airtel Lanka (Pvt) Ltd"
+brand = "Airtel"
+bands = "GSM 900 / GSM 1800 / UMTS 2100"
+
+[[operators]]
+mnc = "08"
+plmn = "41308"
+operator = "Hutchison Telecommunications Lanka (Pvt) Ltd"
+brand = "Hutch"
+tadig = "LKAHT"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+
+[[operators]]
+mnc = "09"
+plmn = "41309"
+operator = "Hutchison Telecommunications Lanka (Pvt) Ltd"
+brand = "Hutch"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800"
+
+[[operators]]
+mnc = "11"
+plmn = "41311"
+operator = "Dialog Broadband Networks (Pvt) Ltd"
+brand = "Dialog"
+bands = "CDMA / WiMAX / TD-LTE 2300"
+
+[[operators]]
+mnc = "12"
+plmn = "41312"
+operator = "Sri Lanka Telecom PLC"
+brand = "SLT"
+bands = "TD-LTE 2600"

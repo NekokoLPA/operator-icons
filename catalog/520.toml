@@ -1,0 +1,156 @@
+mcc = "520"
+country = "Thailand"
+iso = "TH"
+region = "Oceania"
+
+[[operators]]
+mnc = "00"
+plmn = "52000"
+operator = "CAT Telecom"
+brand = "TrueMove H / my by CAT"
+tadig = "THACT"
+bands = "UMTS 850"
+
+[[operators]]
+mnc = "01"
+plmn = "52001"
+operator = "Advanced Info Service"
+brand = "AIS"
+bands = "GSM 900 / UMTS 900"
+
+[[operators]]
+mnc = "02"
+plmn = "52002"
+operator = "CAT Telecom"
+brand = "CAT CDMA"
+bands = "CDMA 800"
+
+[[operators]]
+mnc = "03"
+plmn = "52003"
+operator = "Advanced Wireless Network Company Ltd."
+brand = "AIS"
+tadig = "THAWN"
+bands = "UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / 5G 2500"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["BillionConnect"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Trip"]
+profile_names = []
+
+[[operators]]
+mnc = "04"
+plmn = "52004"
+operator = "True Move H Universal Communication Company Ltd."
+brand = "TrueMove H"
+tadig = "THACA"
+bands = "UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100"
+
+[[operators.gids]]
+gid1 = "01ff"
+gid2 = "ffff"
+profile_provider_names = ["TRUE"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["BillionConnect"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Trip"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["OpenRoam"]
+profile_names = []
+
+[[operators]]
+mnc = "05"
+plmn = "52005"
+operator = "DTAC TriNet Company Ltd."
+brand = "dtac TriNet / LINE"
+tadig = "THADT"
+bands = "UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2100"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["BillionConnect"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Trip"]
+profile_names = []
+
+[[operators]]
+mnc = "09"
+plmn = "52009"
+operator = "Royal Thai Police"
+brand = ""
+bands = "LTE 850"
+
+[[operators]]
+mnc = "15"
+plmn = "52015"
+operator = "TOT Public Company Limited"
+brand = "AIS-T / TOT Mobile"
+bands = "UMTS 2100"
+
+[[operators]]
+mnc = "18"
+plmn = "52018"
+operator = "Total Access Communications Public Company Ltd."
+brand = "dtac"
+tadig = "THAWP"
+bands = "GSM 1800"
+
+[[operators]]
+mnc = "20"
+plmn = "52020"
+operator = "ACeS"
+brand = "ACeS"
+bands = "Satellite"
+
+[[operators]]
+mnc = "23"
+plmn = "52023"
+operator = "Digital Phone Company Ltd."
+brand = "AIS GSM 1800"
+bands = "GSM 1800"
+
+[[operators]]
+mnc = "25"
+plmn = "52025"
+operator = "True Corporation"
+brand = "WE PCT"
+bands = "PHS 1900"
+
+[[operators]]
+mnc = "47"
+plmn = "52047"
+operator = "TOT Public Company Limited"
+brand = "dtac-T / LINE / TOT Mobile"
+bands = "TD-LTE 2300"
+
+[[operators]]
+mnc = "99"
+plmn = "52099"
+operator = "True Corporation"
+brand = "TrueMove"
+tadig = "THACO"
+bands = "GSM 1800"

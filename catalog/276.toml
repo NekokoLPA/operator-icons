@@ -1,0 +1,36 @@
+mcc = "276"
+country = "Albania"
+iso = "AL"
+region = "Europe"
+
+[[operators]]
+mnc = "01"
+plmn = "27601"
+operator = "Telekom Albania"
+brand = "Telekom.al"
+tadig = "ALBAM"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2600"
+
+[[operators]]
+mnc = "02"
+plmn = "27602"
+operator = "Vodafone Albania"
+brand = "Vodafone"
+tadig = "ALBVF"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2600"
+
+[[operators]]
+mnc = "03"
+plmn = "27603"
+operator = "Albtelecom"
+brand = "Eagle Mobile"
+tadig = "ALBEM"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+
+[[operators]]
+mnc = "04"
+plmn = "27604"
+operator = "Plus Communication"
+brand = "Plus Communication"
+tadig = "ALBM4"
+bands = "GSM 900 / GSM 1800 / UMTS 2100"

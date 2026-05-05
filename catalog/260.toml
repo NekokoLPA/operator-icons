@@ -1,0 +1,847 @@
+mcc = "260"
+country = "Poland"
+iso = "PL"
+region = "Europe"
+
+[[operators]]
+mnc = "01"
+plmn = "26001"
+operator = "Polkomtel Sp. z o.o."
+brand = "Plus"
+tadig = "POLKM"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2600"
+icon = "plus"
+icon_scope = "260"
+
+[[operators.gids]]
+gid1 = "3597bfd533ffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["DENT"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "3597bfd533ffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Bootstrap"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "3597bfd533ffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["DENT"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "47696773ffffffffffff"
+gid2 = "47696773ffffffffffff"
+profile_provider_names = ["Gigs"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "496e7374616272696467"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["Instabridge"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "4f6479ffffffffffffff"
+gid2 = "4f6479ffffffffffffff"
+profile_provider_names = ["Kolet"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "4f6479ffffffffffffff"
+gid2 = "4f6479ffffffffffffff"
+profile_provider_names = ["Ody"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "596553494d313054ffff"
+gid2 = "596553494d313054ffff"
+profile_provider_names = ["YESIM"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "616972616c6f31ffffffffffffffff"
+gid2 = "616972616c6f32ffffffffffffffff"
+profile_provider_names = ["airalo"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "616c6f73696d31ffffffffffffffff"
+gid2 = "616c6f73696d32ffffffffffffffff"
+profile_provider_names = ["aloSIM"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "636f6e6e65637431ffffffffffffff"
+gid2 = "636f6e6e65637432ffffffffffffff"
+profile_provider_names = ["Connect"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "636f6e6e65637431ffffffffffffff"
+gid2 = "636f6e6e65637432ffffffffffffff"
+profile_provider_names = ["Maya Mobile"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "636f6e6e65637431ffffffffffffff"
+gid2 = "636f6e6e65637432ffffffffffffff"
+profile_provider_names = ["Nomad"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "636f6e6e65637431ffffffffffffff"
+gid2 = "636f6e6e65637432ffffffffffffff"
+profile_provider_names = ["GlobalYO"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "636f6e6e65637431ffffffffffffff"
+gid2 = "636f6e6e65637432ffffffffffffff"
+profile_provider_names = ["Holiday.com"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "636f6e6e65637431ffffffffffffff"
+gid2 = "636f6e6e65637432ffffffffffffff"
+profile_provider_names = ["Simly"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "636f6e6e65637431ffffffffffffff"
+gid2 = "636f6e6e65637432ffffffffffffff"
+profile_provider_names = ["bnesim"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "636f6e6e65637431ffffffffffffff"
+gid2 = "636f6e6e65637432ffffffffffffff"
+profile_provider_names = ["Qrispy"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "636f6e6e65637431ffffffffffffff"
+gid2 = "636f6e6e65637432ffffffffffffff"
+profile_provider_names = ["BNE SIM"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "636f6e6e65637431ffffffffffffff"
+gid2 = "636f6e6e65637432ffffffffffffff"
+profile_provider_names = ["eSIM Wholesale"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "636f6e6e65637431ffffffffffffff"
+gid2 = "636f6e6e65637432ffffffffffffff"
+profile_provider_names = ["Hubby eSIM"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "636f6e6e65637431ffffffffffffff"
+gid2 = "636f6e6e65637432ffffffffffffff"
+profile_provider_names = ["Umi"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = ["infra"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = ["tgt"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffff"
+gid2 = "ffff"
+profile_provider_names = ["PLUS"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffff"
+gid2 = "ffff"
+profile_provider_names = ["NEXT MOBILE"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffff"
+gid2 = "ffff"
+profile_provider_names = ["FONIA"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffff"
+gid2 = "ffff"
+profile_provider_names = ["CROSSMOBILE"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffff"
+gid2 = "ffff"
+profile_provider_names = ["PLUS "]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffff"
+gid2 = "ffff"
+profile_provider_names = ["OTVARTA"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Kolet"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["BillionConnect"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Roamify"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["OpenRoam"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["uCloudlink"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Bondio"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Celitech"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Plus"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["eSIM"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = ""
+profile_provider_names = ["LycaMobile"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["eSIM"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["eSIM io"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["Sparks"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["Just eSIM"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["esim.sm"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["IMSIM"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["Frewie"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["KeepGo"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["Global"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["Plus"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["Every"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["OpenRoam"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["thirr.com"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["99esim"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["Roamify"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["Drimsim"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["VIA eSIM"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["GoSIM"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["SIMTLV"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["JMP.chat"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["M8"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["OHAYU"]
+profile_names = []
+
+[[operators]]
+mnc = "02"
+plmn = "26002"
+operator = "T-Mobile Polska S.A."
+brand = "T-Mobile"
+tadig = "POL02"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 2100"
+
+[[operators.gids]]
+gid1 = "10"
+gid2 = ""
+profile_provider_names = ["T-Mobile.pl"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "14"
+gid2 = ""
+profile_provider_names = ["T-Mobile.pl"]
+profile_names = []
+
+[[operators]]
+mnc = "03"
+plmn = "26003"
+operator = "Polska Telefonia Komórkowa Centertel Sp. z o.o."
+brand = "Orange"
+tadig = "POL03"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 2100"
+
+[[operators.gids]]
+gid1 = "3597bfd533ffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["DENT"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "476c6f62616cffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["Global"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "596553494d313054ff"
+gid2 = "596553494d313054ff"
+profile_provider_names = ["YESIM"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = ["infra"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = ["tgt"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["eSIM"]
+profile_names = []
+
+[[operators]]
+mnc = "04"
+plmn = "26004"
+operator = "Aero 2 Sp. z o.o."
+brand = "Aero2"
+
+[[operators]]
+mnc = "05"
+plmn = "26005"
+operator = "Polska Telefonia Komórkowa Centertel Sp. z o.o."
+brand = "Orange"
+bands = "UMTS 2100"
+
+[[operators]]
+mnc = "06"
+plmn = "26006"
+operator = "P4 Sp. z o.o."
+brand = "Play"
+tadig = "POLP4"
+bands = "GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "616972616c6f31ffffffffffffffff"
+gid2 = "616972616c6f32ffffffffffffffff"
+profile_provider_names = ["airalo"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "616c6f73696d31ffffffffffffffff"
+gid2 = "616c6f73696d32ffffffffffffffff"
+profile_provider_names = ["aloSIM"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "626e6573696d31ffffffffffffffff"
+gid2 = "626e6573696d32ffffffffffffffff"
+profile_provider_names = ["BNE SIM"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "636f6e6e65637431"
+gid2 = "636f6e6e65637431"
+profile_provider_names = ["fonus"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "636f6e6e65637431ffffffffffffff"
+gid2 = "636f6e6e65637432ffffffffffffff"
+profile_provider_names = ["Connect"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "636f6e6e65637431ffffffffffffff"
+gid2 = "636f6e6e65637432ffffffffffffff"
+profile_provider_names = ["Nomad"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "636f6e6e65637431ffffffffffffff"
+gid2 = "636f6e6e65637432ffffffffffffff"
+profile_provider_names = ["GlobalYO"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "636f6e6e65637431ffffffffffffff"
+gid2 = "636f6e6e65637432ffffffffffffff"
+profile_provider_names = ["esimcard.com"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = ["tgt"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = ["infra"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffff"
+gid2 = "ffff"
+profile_provider_names = ["Play"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffff"
+gid2 = "ffff"
+profile_provider_names = ["Virgin Mobile"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffff"
+gid2 = "ffff"
+profile_provider_names = ["Mobile Vikings"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffff"
+gid2 = "ffff"
+profile_provider_names = ["PR1V"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Bondio"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["eSIM"]
+profile_names = []
+
+[[operators]]
+mnc = "07"
+plmn = "26007"
+operator = "Netia S.A."
+brand = "Netia"
+bands = "MVNO"
+
+[[operators]]
+mnc = "08"
+plmn = "26008"
+operator = "E-Telko Sp. z o.o."
+brand = ""
+
+[[operators]]
+mnc = "09"
+plmn = "26009"
+operator = "Lycamobile Sp. z o.o."
+brand = "Lycamobile"
+bands = "MVNO"
+
+[[operators]]
+mnc = "10"
+plmn = "26010"
+operator = "T-Mobile Polska S.A."
+brand = "T-Mobile"
+
+[[operators]]
+mnc = "11"
+plmn = "26011"
+operator = "Nordisk Polska Sp. z o.o."
+brand = "Nordisk Polska"
+bands = "CDMA2000 420"
+
+[[operators]]
+mnc = "12"
+plmn = "26012"
+operator = "Cyfrowy Polsat S.A."
+brand = "Cyfrowy Polsat"
+bands = "MVNO"
+
+[[operators]]
+mnc = "13"
+plmn = "26013"
+operator = "Move Telecom S.A."
+brand = ""
+bands = "MVNO"
+
+[[operators]]
+mnc = "14"
+plmn = "26014"
+operator = "Telco Leaders Ltd"
+brand = ""
+
+[[operators]]
+mnc = "15"
+plmn = "26015"
+operator = "Aero 2 Sp. z o.o."
+brand = "Aero2"
+bands = "LTE 1800"
+
+[[operators]]
+mnc = "16"
+plmn = "26016"
+operator = "Aero 2 Sp. z o.o."
+brand = "Aero2"
+bands = "LTE 1800"
+
+[[operators]]
+mnc = "17"
+plmn = "26017"
+operator = "Aero 2 Sp. z o.o."
+brand = "Aero2"
+bands = "UMTS 900 / TD-LTE 2600"
+
+[[operators]]
+mnc = "18"
+plmn = "26018"
+operator = "AMD Telecom S.A."
+brand = "AMD Telecom"
+
+[[operators]]
+mnc = "19"
+plmn = "26019"
+operator = "SIA NetBalt"
+brand = ""
+bands = "MVNO"
+
+[[operators]]
+mnc = "20"
+plmn = "26020"
+operator = "Wysyłaj SMS Polska Sp. z o.o."
+brand = ""
+
+[[operators]]
+mnc = "21"
+plmn = "26021"
+operator = "Exteri Sp. z o.o."
+brand = "Exteri"
+
+[[operators]]
+mnc = "22"
+plmn = "26022"
+operator = "Arcomm Sp. z o.o."
+brand = "Arcomm"
+
+[[operators]]
+mnc = "23"
+plmn = "26023"
+operator = "PGE Systemy S.A."
+brand = ""
+
+[[operators]]
+mnc = "24"
+plmn = "26024"
+operator = "IT Partners Telco Sp. z o.o."
+brand = ""
+
+[[operators]]
+mnc = "25"
+plmn = "26025"
+operator = "Claude ICT Poland Sp. z o.o."
+brand = "TeleCube.PL"
+
+[[operators]]
+mnc = "26"
+plmn = "26026"
+operator = "Advanced Technology & Experience Sp. z o.o."
+brand = "ATE"
+
+[[operators]]
+mnc = "27"
+plmn = "26027"
+operator = "SIA Ntel Solutions"
+brand = ""
+
+[[operators]]
+mnc = "28"
+plmn = "26028"
+operator = "PhoneNet Sp. z o.o."
+brand = "PhoneNet"
+
+[[operators]]
+mnc = "29"
+plmn = "26029"
+operator = "Interfonica Sp. z o.o."
+brand = "Interfonica"
+
+[[operators]]
+mnc = "30"
+plmn = "26030"
+operator = "GrandTel Sp. z o.o."
+brand = "GrandTel"
+
+[[operators]]
+mnc = "31"
+plmn = "26031"
+operator = "Phone IT Sp. z o.o."
+brand = "Phone IT"
+
+[[operators]]
+mnc = "32"
+plmn = "26032"
+operator = "Compatel Limited"
+brand = ""
+
+[[operators]]
+mnc = "33"
+plmn = "26033"
+operator = "Truphone Poland Sp. z o.o."
+brand = "Truphone"
+bands = "MVNO"
+
+[[operators]]
+mnc = "34"
+plmn = "26034"
+operator = "T-Mobile Polska S.A."
+brand = "NetWorkS!"
+bands = "LTE 800 / LTE 2600"
+
+[[operators]]
+mnc = "35"
+plmn = "26035"
+operator = "PKP Polskie Linie Kolejowe S.A."
+brand = ""
+bands = "GSM-R"
+
+[[operators]]
+mnc = "36"
+plmn = "26036"
+operator = "Mundio Mobile"
+brand = "Vectone Mobile"
+bands = "MVNO"
+
+[[operators]]
+mnc = "37"
+plmn = "26037"
+operator = "NEXTGEN MOBILE LTD"
+brand = ""
+
+[[operators]]
+mnc = "38"
+plmn = "26038"
+operator = "CALLFREEDOM Sp. z o.o."
+brand = ""
+
+[[operators]]
+mnc = "39"
+plmn = "26039"
+operator = "VOXBONE SA"
+brand = "Voxbone"
+bands = "MVNO"
+
+[[operators]]
+mnc = "40"
+plmn = "26040"
+operator = "Interactive Digital Media GmbH"
+brand = ""
+
+[[operators]]
+mnc = "41"
+plmn = "26041"
+operator = "EZ PHONE MOBILE Sp. z o.o."
+brand = ""
+
+[[operators]]
+mnc = "42"
+plmn = "26042"
+operator = "MobiWeb Telecom Limited"
+brand = ""
+
+[[operators]]
+mnc = "43"
+plmn = "26043"
+operator = "Smart Idea International Sp. z o.o."
+brand = ""
+
+[[operators]]
+mnc = "44"
+plmn = "26044"
+operator = "Rebtel Poland Sp. z o.o."
+brand = ""
+
+[[operators]]
+mnc = "45"
+plmn = "26045"
+operator = "Virgin Mobile Polska Sp. z o.o."
+brand = ""
+bands = "MVNO"
+
+[[operators]]
+mnc = "46"
+plmn = "26046"
+operator = "Terra Telekom Sp. z o.o."
+brand = ""
+
+[[operators]]
+mnc = "47"
+plmn = "26047"
+operator = "SMShighway Limited"
+brand = ""
+
+[[operators]]
+mnc = "48"
+plmn = "26048"
+operator = "AGILE TELECOM S.P.A."
+brand = ""
+
+[[operators]]
+mnc = "49"
+plmn = "26049"
+operator = "Messagebird B.V."
+brand = ""
+
+[[operators]]
+mnc = "98"
+plmn = "26098"
+operator = "P4 Sp. z o.o."
+brand = "Play"
+bands = "LTE 1800"

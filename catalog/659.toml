@@ -1,0 +1,41 @@
+mcc = "659"
+country = "South Sudan"
+iso = "SS"
+region = "Africa"
+
+[[operators]]
+mnc = "02"
+plmn = "65902"
+operator = "MTN South Sudan"
+brand = "MTN"
+tadig = "SSDMN"
+bands = "GSM 900 / GSM 1800 / UMTS 2100"
+
+[[operators]]
+mnc = "03"
+plmn = "65903"
+operator = "Gemtel"
+brand = "Gemtel"
+bands = "GSM 900 / GSM 1800"
+
+[[operators]]
+mnc = "04"
+plmn = "65904"
+operator = "Network of the World (NOW)"
+brand = "Vivacell"
+bands = "GSM 900 / GSM 1800"
+
+[[operators]]
+mnc = "06"
+plmn = "65906"
+operator = "Zain South Sudan"
+brand = "Zain"
+tadig = "SSDZS"
+bands = "GSM 900 / GSM 1800"
+
+[[operators]]
+mnc = "07"
+plmn = "65907"
+operator = "Sudani"
+brand = "Sudani"
+bands = "CDMA"

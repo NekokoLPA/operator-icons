@@ -1,0 +1,40 @@
+mcc = "419"
+country = "Kuwait"
+iso = "KW"
+region = "Asia and the Middle East"
+
+[[operators]]
+mnc = "02"
+plmn = "41902"
+operator = "Zain Kuwait"
+brand = "zain KW"
+tadig = "KWTMT"
+bands = "GSM 900 / UMTS 2100 / LTE 1800 / 5G 3500"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Zain Kuwait"]
+profile_names = []
+
+[[operators]]
+mnc = "03"
+plmn = "41903"
+operator = "National Mobile Telecommunications"
+brand = "K.S.C Ooredoo"
+tadig = "KWTNM"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / 5G 3500"
+
+[[operators]]
+mnc = "04"
+plmn = "41904"
+operator = "Saudi Telecom Company"
+brand = "STC"
+tadig = "KWTKT"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / 5G 3500"
+
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = ["stc KW"]
+profile_names = []

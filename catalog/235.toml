@@ -1,0 +1,78 @@
+mcc = "235"
+country = "United Kingdom"
+iso = "GB"
+region = "Europe"
+
+[[operators]]
+mnc = "01"
+plmn = "23501"
+operator = "EE"
+brand = ""
+
+[[operators]]
+mnc = "02"
+plmn = "23502"
+operator = "EE"
+brand = ""
+
+[[operators]]
+mnc = "03"
+plmn = "23503"
+operator = "UK Broadband Limited"
+brand = "Relish"
+
+[[operators]]
+mnc = "04"
+plmn = "23504"
+operator = "University of Strathclyde"
+brand = ""
+
+[[operators]]
+mnc = "06"
+plmn = "23506"
+operator = "University of Strathclyde"
+brand = ""
+
+[[operators]]
+mnc = "07"
+plmn = "23507"
+operator = "University of Strathclyde"
+brand = ""
+
+[[operators]]
+mnc = "77"
+plmn = "23577"
+operator = "BT Group"
+brand = "BT"
+
+[[operators]]
+mnc = "88"
+plmn = "23588"
+operator = "Telet Research (N.I.) Limited"
+brand = ""
+bands = "LTE"
+
+[[operators]]
+mnc = "91"
+plmn = "23591"
+operator = "Vodafone United Kingdom"
+brand = "Vodafone UK"
+
+[[operators]]
+mnc = "92"
+plmn = "23592"
+operator = "Vodafone United Kingdom"
+brand = "Vodafone UK"
+
+[[operators]]
+mnc = "94"
+plmn = "23594"
+operator = "Hutchison 3G UK Ltd"
+brand = ""
+
+[[operators]]
+mnc = "95"
+plmn = "23595"
+operator = "Network Rail Infrastructure Limited"
+brand = ""
+bands = "GSM-R"

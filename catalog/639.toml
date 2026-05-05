@@ -1,0 +1,92 @@
+mcc = "639"
+country = "Kenya"
+iso = "KE"
+region = "Africa"
+
+[[operators]]
+mnc = "01"
+plmn = "63901"
+operator = "Safaricom Limited"
+brand = "Safaricom"
+
+[[operators]]
+mnc = "02"
+plmn = "63902"
+operator = "Safaricom Limited"
+brand = "Safaricom"
+tadig = "KENSA"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800"
+
+[[operators.gids]]
+gid1 = "5a69674d"
+gid2 = "ffffffff"
+profile_provider_names = ["Safaricom"]
+profile_names = []
+
+[[operators]]
+mnc = "03"
+plmn = "63903"
+operator = "Bharti Airtel"
+brand = "Airtel"
+tadig = "KENKC"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800"
+
+[[operators]]
+mnc = "04"
+plmn = "63904"
+operator = "Mobile Pay Kenya Limited"
+brand = ""
+
+[[operators]]
+mnc = "05"
+plmn = "63905"
+operator = "Essar Telecom Kenya"
+brand = "yu"
+tadig = "KENEC"
+bands = "GSM 900"
+
+[[operators]]
+mnc = "06"
+plmn = "63906"
+operator = "Finserve Africa Limited"
+brand = ""
+
+[[operators]]
+mnc = "07"
+plmn = "63907"
+operator = "Telkom Kenya"
+brand = "Telkom"
+tadig = "KENTK"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800"
+
+[[operators]]
+mnc = "08"
+plmn = "63908"
+operator = "Sema Mobile Services Limited"
+brand = ""
+bands = "MVNO"
+
+[[operators]]
+mnc = "09"
+plmn = "63909"
+operator = "Homeland Media Group Limited"
+brand = ""
+
+[[operators]]
+mnc = "10"
+plmn = "63910"
+operator = "Jamii Telecommunications Limited"
+brand = "Faiba 4G"
+bands = "LTE 700"
+
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = ["Jamii"]
+profile_names = []
+
+[[operators]]
+mnc = "11"
+plmn = "63911"
+operator = "WiAfrica Kenya Limited"
+brand = ""

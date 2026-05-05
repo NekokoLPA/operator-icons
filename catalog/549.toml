@@ -1,0 +1,31 @@
+mcc = "549"
+country = "Samoa"
+iso = "WS"
+region = "Oceania"
+
+[[operators]]
+mnc = "00"
+plmn = "54900"
+operator = "Digicel Pacific Ltd."
+brand = "Digicel"
+tadig = "WSMDP"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["DIGICEL"]
+profile_names = []
+
+[[operators]]
+mnc = "01"
+plmn = "54901"
+operator = "Digicel Pacific Ltd."
+brand = "Digicel"
+bands = "GSM 900 / UMTS 2100 / LTE 1800"
+
+[[operators]]
+mnc = "27"
+plmn = "54927"
+operator = "Bluesky Samoa Ltd"
+brand = "Bluesky"
+bands = "GSM 900 / LTE 700 / LTE 1800"

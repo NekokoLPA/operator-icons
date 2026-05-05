@@ -1,0 +1,663 @@
+mcc = "312"
+country = "United States of America"
+iso = "US"
+region = "North America and the Caribbean"
+
+[[operators]]
+mnc = "010"
+plmn = "312010"
+operator = "Chariton Valley Communications Corporation, Inc"
+brand = "Chariton Valley"
+
+[[operators]]
+mnc = "020"
+plmn = "312020"
+operator = "Infrastructure Networks, LLC"
+brand = ""
+bands = "LTE 700"
+
+[[operators]]
+mnc = "030"
+plmn = "312030"
+operator = "Cross Wireless"
+brand = "Bravado Wireless"
+bands = "LTE 700"
+
+[[operators]]
+mnc = "040"
+plmn = "312040"
+operator = "Custer Telephone Co-op (CTCI)"
+brand = ""
+bands = "LTE 700"
+
+[[operators]]
+mnc = "050"
+plmn = "312050"
+operator = "Fuego Wireless"
+brand = ""
+bands = "LTE 700"
+
+[[operators]]
+mnc = "060"
+plmn = "312060"
+operator = "CoverageCo"
+brand = ""
+bands = "CDMA / GSM"
+
+[[operators]]
+mnc = "070"
+plmn = "312070"
+operator = "Adams Networks Inc"
+brand = ""
+bands = "LTE 700"
+
+[[operators]]
+mnc = "080"
+plmn = "312080"
+operator = "South Georgia Regional Information Technology Authority"
+brand = "SyncSouth"
+bands = "UMTS-TDD 700"
+
+[[operators]]
+mnc = "090"
+plmn = "312090"
+operator = "AT&T Mobility"
+brand = "AT&T"
+
+[[operators]]
+mnc = "100"
+plmn = "312100"
+operator = "ClearSky Technologies, Inc."
+brand = ""
+
+[[operators]]
+mnc = "110"
+plmn = "312110"
+operator = "Texas Energy Network LLC"
+brand = ""
+bands = "LTE"
+
+[[operators]]
+mnc = "120"
+plmn = "312120"
+operator = "East Kentucky Network, LLC"
+brand = "Appalachian Wireless"
+bands = "LTE 700"
+
+[[operators]]
+mnc = "130"
+plmn = "312130"
+operator = "East Kentucky Network, LLC"
+brand = "Appalachian Wireless"
+bands = "LTE 700"
+
+[[operators]]
+mnc = "140"
+plmn = "312140"
+operator = "Cleveland Unlimited, Inc."
+brand = "Revol Wireless"
+bands = "CDMA"
+
+[[operators]]
+mnc = "150"
+plmn = "312150"
+operator = "Northwest Missouri Cellular LP"
+brand = "NorthwestCell"
+bands = "LTE 700"
+
+[[operators]]
+mnc = "160"
+plmn = "312160"
+operator = "RSA1 Limited Partnership"
+brand = "Chat Mobility"
+bands = "LTE 700"
+
+[[operators]]
+mnc = "170"
+plmn = "312170"
+operator = "Iowa RSA No. 2 LP"
+brand = "Chat Mobility"
+bands = "LTE 700"
+
+[[operators]]
+mnc = "180"
+plmn = "312180"
+operator = "Limitless Mobile LLC"
+brand = ""
+
+[[operators]]
+mnc = "190"
+plmn = "312190"
+operator = "Sprint Corporation"
+brand = "Sprint"
+
+[[operators]]
+mnc = "200"
+plmn = "312200"
+operator = "Voyager Mobility LLC"
+brand = ""
+bands = "MVNO"
+
+[[operators]]
+mnc = "210"
+plmn = "312210"
+operator = "Aspenta International, Inc."
+brand = ""
+bands = "MVNO"
+
+[[operators]]
+mnc = "220"
+plmn = "312220"
+operator = "Chariton Valley Communications Corporation, Inc."
+brand = "Chariton Valley"
+bands = "LTE 700"
+
+[[operators]]
+mnc = "230"
+plmn = "312230"
+operator = "North Dakota Network Co."
+brand = "SRT Communications"
+
+[[operators]]
+mnc = "240"
+plmn = "312240"
+operator = "Sprint Corporation"
+brand = "Sprint"
+
+[[operators]]
+mnc = "250"
+plmn = "312250"
+operator = "Sprint Corporation"
+brand = "Sprint"
+
+[[operators]]
+mnc = "260"
+plmn = "312260"
+operator = "Central LTE Holdings"
+brand = "NewCore"
+bands = "LTE 1900"
+
+[[operators]]
+mnc = "270"
+plmn = "312270"
+operator = "Cellular Network Partnership"
+brand = "Pioneer Cellular"
+bands = "LTE 700"
+
+[[operators]]
+mnc = "280"
+plmn = "312280"
+operator = "Cellular Network Partnership"
+brand = "Pioneer Cellular"
+bands = "LTE 700"
+
+[[operators]]
+mnc = "290"
+plmn = "312290"
+operator = "Uintah Basin Electronic Telecommunications"
+brand = "STRATA"
+
+[[operators]]
+mnc = "300"
+plmn = "312300"
+operator = "Telecom North America Mobile, Inc."
+brand = "telna Mobile"
+bands = "MVNO"
+
+[[operators]]
+mnc = "310"
+plmn = "312310"
+operator = "Clear Stream Communications, LLC"
+brand = ""
+bands = "LTE 700"
+
+[[operators]]
+mnc = "320"
+plmn = "312320"
+operator = "RTC Communications LLC"
+brand = ""
+bands = "LTE 700"
+
+[[operators]]
+mnc = "330"
+plmn = "312330"
+operator = "Nemont Communications, Inc."
+brand = "Nemont"
+bands = "LTE 700"
+
+[[operators]]
+mnc = "340"
+plmn = "312340"
+operator = "Matanuska Telephone Association, Inc."
+brand = "MTA"
+bands = "LTE 700"
+
+[[operators]]
+mnc = "350"
+plmn = "312350"
+operator = "Triangle Communication System Inc."
+brand = ""
+bands = "LTE 700"
+
+[[operators]]
+mnc = "360"
+plmn = "312360"
+operator = "Wes-Tex Telecommunications, Ltd."
+brand = ""
+
+[[operators]]
+mnc = "370"
+plmn = "312370"
+operator = "Commnet Wireless"
+brand = "Choice Wireless"
+bands = "LTE"
+
+[[operators]]
+mnc = "380"
+plmn = "312380"
+operator = "Copper Valley Wireless"
+brand = ""
+bands = "LTE 700"
+
+[[operators]]
+mnc = "390"
+plmn = "312390"
+operator = "FTC Communications LLC"
+brand = "FTC Wireless"
+bands = "UMTS / LTE"
+
+[[operators]]
+mnc = "400"
+plmn = "312400"
+operator = "Mid-Rivers Telephone Cooperative"
+brand = "Mid-Rivers Wireless"
+bands = "LTE 700"
+
+[[operators]]
+mnc = "410"
+plmn = "312410"
+operator = "Eltopia Communications, LLC"
+brand = ""
+
+[[operators]]
+mnc = "420"
+plmn = "312420"
+operator = "Nex-Tech Wireless"
+brand = ""
+bands = "LTE 700"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Nex-Tech Wireless"]
+profile_names = []
+
+[[operators]]
+mnc = "430"
+plmn = "312430"
+operator = "Silver Star Communications"
+brand = ""
+bands = "CDMA / LTE 700"
+
+[[operators]]
+mnc = "440"
+plmn = "312440"
+operator = "Consolidated Telcom"
+brand = ""
+bands = "2500"
+
+[[operators]]
+mnc = "450"
+plmn = "312450"
+operator = "Cable & Communications Corporation"
+brand = ""
+
+[[operators]]
+mnc = "460"
+plmn = "312460"
+operator = "Ketchikan Public Utilities (KPU)"
+brand = ""
+bands = "LTE 700"
+
+[[operators]]
+mnc = "470"
+plmn = "312470"
+operator = "Carolina West Wireless"
+brand = "Carolina West Wireless"
+bands = "LTE 700"
+
+[[operators]]
+mnc = "480"
+plmn = "312480"
+operator = "Sagebrush Cellular, Inc."
+brand = "Nemont"
+
+[[operators]]
+mnc = "490"
+plmn = "312490"
+operator = "TrustComm, Inc."
+brand = ""
+bands = "Satellite"
+
+[[operators]]
+mnc = "500"
+plmn = "312500"
+operator = "AB Spectrum LLC"
+brand = ""
+bands = "LTE 700"
+
+[[operators]]
+mnc = "510"
+plmn = "312510"
+operator = "WUE Inc."
+brand = ""
+bands = "LTE"
+
+[[operators]]
+mnc = "520"
+plmn = "312520"
+operator = "ANIN"
+brand = ""
+
+[[operators]]
+mnc = "530"
+plmn = "312530"
+operator = "Sprint Corporation"
+brand = "Sprint"
+
+[[operators]]
+mnc = "540"
+plmn = "312540"
+operator = "Broadband In Hand LLC"
+brand = ""
+
+[[operators]]
+mnc = "550"
+plmn = "312550"
+operator = "Great Plains Communications, Inc."
+brand = ""
+
+[[operators]]
+mnc = "560"
+plmn = "312560"
+operator = "NHLT Inc."
+brand = ""
+bands = "MVNO"
+
+[[operators]]
+mnc = "570"
+plmn = "312570"
+operator = "Buffalo-Lake Erie Wireless Systems Co., LLC"
+brand = "Blue Wireless"
+bands = "CDMA / LTE"
+
+[[operators]]
+mnc = "580"
+plmn = "312580"
+operator = "Morgan, Lewis & Bockius LLP"
+brand = ""
+
+[[operators]]
+mnc = "590"
+plmn = "312590"
+operator = "Northern Michigan University"
+brand = "NMU"
+bands = "LTE 2600"
+
+[[operators]]
+mnc = "600"
+plmn = "312600"
+operator = "Sagebrush Cellular, Inc."
+brand = "Nemont"
+
+[[operators]]
+mnc = "610"
+plmn = "312610"
+operator = "nTelos Licenses, Inc."
+brand = "nTelos"
+bands = "LTE 1900"
+
+[[operators]]
+mnc = "620"
+plmn = "312620"
+operator = "GlobeTouch Inc."
+brand = ""
+bands = "MVNO"
+
+[[operators]]
+mnc = "630"
+plmn = "312630"
+operator = "NetGenuity, Inc."
+brand = ""
+
+[[operators]]
+mnc = "640"
+plmn = "312640"
+operator = "Sagebrush Cellular, Inc."
+brand = "Nemont"
+
+[[operators]]
+mnc = "650"
+plmn = "312650"
+operator = "365 Wireless LLC"
+brand = ""
+
+[[operators]]
+mnc = "660"
+plmn = "312660"
+operator = "nTelos Wireless"
+brand = "nTelos"
+bands = "LTE 1900"
+
+[[operators]]
+mnc = "670"
+plmn = "312670"
+operator = "AT&T Mobility"
+brand = "FirstNet"
+
+[[operators]]
+mnc = "680"
+plmn = "312680"
+operator = "AT&T Mobility"
+brand = "AT&T"
+
+[[operators]]
+mnc = "690"
+plmn = "312690"
+operator = "TGS, LLC"
+brand = ""
+bands = "MVNO/MVNE"
+
+[[operators]]
+mnc = "700"
+plmn = "312700"
+operator = "Wireless Partners, LLC"
+brand = ""
+bands = "LTE 700"
+
+[[operators]]
+mnc = "710"
+plmn = "312710"
+operator = "Great North Woods Wireless LLC"
+brand = ""
+bands = "LTE"
+
+[[operators]]
+mnc = "720"
+plmn = "312720"
+operator = "Southern Communications Services"
+brand = "Southern LINC"
+bands = "LTE 850"
+
+[[operators]]
+mnc = "730"
+plmn = "312730"
+operator = "Triangle Communication System Inc."
+brand = ""
+bands = "CDMA"
+
+[[operators]]
+mnc = "740"
+plmn = "312740"
+operator = "KDDI America, Inc."
+brand = "Locus Telecommunications"
+bands = "MVNO"
+
+[[operators]]
+mnc = "750"
+plmn = "312750"
+operator = "Artemis Networks LLC"
+brand = ""
+
+[[operators]]
+mnc = "760"
+plmn = "312760"
+operator = "Arctic Slope Telephone Association Cooperative"
+brand = "ASTAC"
+
+[[operators]]
+mnc = "770"
+plmn = "312770"
+operator = "Verizon Wireless"
+brand = "Verizon"
+
+[[operators]]
+mnc = "780"
+plmn = "312780"
+operator = "Redzone Wireless"
+brand = ""
+bands = "TD-LTE 2500"
+
+[[operators]]
+mnc = "790"
+plmn = "312790"
+operator = "Gila Electronics"
+brand = ""
+
+[[operators]]
+mnc = "800"
+plmn = "312800"
+operator = "Cirrus Core Networks"
+brand = ""
+bands = "MVNO"
+
+[[operators]]
+mnc = "810"
+plmn = "312810"
+operator = "Bristol Bay Telephone Cooperative"
+brand = "BBCP"
+bands = "CDMA / LTE"
+
+[[operators]]
+mnc = "820"
+plmn = "312820"
+operator = "Santel Communications Cooperative, Inc."
+brand = ""
+
+[[operators]]
+mnc = "830"
+plmn = "312830"
+operator = "Kings County Office of Education"
+brand = ""
+bands = "WiMAX"
+
+[[operators]]
+mnc = "840"
+plmn = "312840"
+operator = "South Georgia Regional Information Technology Authority"
+brand = ""
+
+[[operators]]
+mnc = "850"
+plmn = "312850"
+operator = "Onvoy Spectrum, LLC"
+brand = ""
+bands = "MVNO"
+
+[[operators]]
+mnc = "860"
+plmn = "312860"
+operator = "Flat Wireless, LLC"
+brand = "ClearTalk"
+bands = "CDMA / LTE 1900 / LTE 1700"
+
+[[operators]]
+mnc = "870"
+plmn = "312870"
+operator = "GigSky Mobile, LLC"
+brand = ""
+bands = "MVNO"
+
+[[operators]]
+mnc = "880"
+plmn = "312880"
+operator = "Albemarle County Public Schools"
+brand = ""
+
+[[operators]]
+mnc = "890"
+plmn = "312890"
+operator = "Circle Gx"
+brand = ""
+
+[[operators]]
+mnc = "900"
+plmn = "312900"
+operator = "Flat West Wireless, LLC"
+brand = "ClearTalk"
+bands = "CDMA / LTE 1900 / LTE 1700"
+
+[[operators]]
+mnc = "910"
+plmn = "312910"
+operator = "East Kentucky Network, LLC"
+brand = "Appalachian Wireless"
+
+[[operators]]
+mnc = "920"
+plmn = "312920"
+operator = "Northeast Wireless Networks LLC"
+brand = ""
+
+[[operators]]
+mnc = "930"
+plmn = "312930"
+operator = "Hewlett-Packard Communication Services, LLC"
+brand = ""
+
+[[operators]]
+mnc = "940"
+plmn = "312940"
+operator = "Webformix"
+brand = ""
+
+[[operators]]
+mnc = "950"
+plmn = "312950"
+operator = "Custer Telephone Co-op (CTCI)"
+brand = ""
+bands = "CDMA"
+
+[[operators]]
+mnc = "960"
+plmn = "312960"
+operator = "M&A Technology, Inc."
+brand = ""
+
+[[operators]]
+mnc = "970"
+plmn = "312970"
+operator = "IOSAZ Intellectual Property LLC"
+brand = ""
+
+[[operators]]
+mnc = "980"
+plmn = "312980"
+operator = "Mark Twain Communications Company"
+brand = ""
+
+[[operators]]
+mnc = "990"
+plmn = "312990"
+operator = "Premier Holdings LLC"
+brand = "Premier Broadband"

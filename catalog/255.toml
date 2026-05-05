@@ -1,0 +1,135 @@
+mcc = "255"
+country = "Moldova"
+iso = "MD"
+region = "Europe"
+
+[[operators]]
+mnc = "00"
+plmn = "25500"
+operator = "Interdnestrcom"
+brand = "IDC"
+bands = "CDMA 450 / CDMA 800"
+
+[[operators]]
+mnc = "01"
+plmn = "25501"
+operator = "\"PRJSC \"\"VF Ukraine\"\"\""
+brand = "Vodafone"
+tadig = "UKRUM"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = ["Vodafone UA"]
+profile_names = []
+
+[[operators]]
+mnc = "02"
+plmn = "25502"
+operator = "\"PRJSC \"\"Kyivstar\"\"\""
+brand = "Kyivstar"
+tadig = "UKRRS"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2600"
+
+[[operators]]
+mnc = "03"
+plmn = "25503"
+operator = "\"PRJSC \"\"Kyivstar\"\"\""
+brand = "Kyivstar"
+tadig = "UKRKS"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = ["Kyivstar"]
+profile_names = []
+
+[[operators]]
+mnc = "04"
+plmn = "25504"
+operator = "Intertelecom LLC"
+brand = "Intertelecom"
+bands = "CDMA 800"
+
+[[operators]]
+mnc = "05"
+plmn = "25505"
+operator = "\"PRJSC \"\"Kyivstar\"\"\""
+brand = "Kyivstar"
+bands = "GSM 1800"
+
+[[operators]]
+mnc = "06"
+plmn = "25506"
+operator = "lifecell LLC"
+brand = "lifecell"
+tadig = "UKRAS"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["lifecell"]
+profile_names = []
+
+[[operators]]
+mnc = "07"
+plmn = "25507"
+operator = "Trimob LLC"
+brand = "\"3Mob"
+tadig = " Lycamobile\""
+bands = "UKRUT"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["3Mob"]
+profile_names = []
+
+[[operators]]
+mnc = "08"
+plmn = "25508"
+operator = "JSC Ukrtelecom"
+brand = ""
+
+[[operators]]
+mnc = "09"
+plmn = "25509"
+operator = "\"PRJSC \"\"Farlep-Invest\"\"\""
+brand = ""
+
+[[operators]]
+mnc = "10"
+plmn = "25510"
+operator = "Atlantis Telecom LLC"
+brand = ""
+
+[[operators]]
+mnc = "21"
+plmn = "25521"
+operator = "\"PRJSC \"\"Telesystems of Ukraine\"\"\""
+brand = "PEOPLEnet"
+bands = "CDMA 800"
+
+[[operators]]
+mnc = "23"
+plmn = "25523"
+operator = "Intertelecom LLC"
+brand = "CDMA Ukraine"
+bands = "CDMA 800"
+
+[[operators]]
+mnc = "25"
+plmn = "25525"
+operator = "\"PRJSC \"\"Telesystems of Ukraine\"\"\""
+brand = "NEWTONE"
+bands = "CDMA 800"
+
+[[operators]]
+mnc = "99"
+plmn = "25599"
+operator = "Phoenix"
+brand = "Phoenix"
+bands = "LTE 800"

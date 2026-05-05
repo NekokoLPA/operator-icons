@@ -1,0 +1,41 @@
+mcc = "611"
+country = "Guinea"
+iso = "GN"
+region = "Africa"
+
+[[operators]]
+mnc = "01"
+plmn = "61101"
+operator = "Orange S.A."
+brand = "Orange"
+tadig = "GINGS"
+bands = "GSM 900 / GSM 1800 / LTE"
+
+[[operators]]
+mnc = "02"
+plmn = "61102"
+operator = "Sotelgui Lagui"
+brand = "Sotelgui"
+bands = "GSM 900"
+
+[[operators]]
+mnc = "03"
+plmn = "61103"
+operator = "INTERCEL Guinée"
+brand = "Telecel Guinee"
+bands = "GSM 900"
+
+[[operators]]
+mnc = "04"
+plmn = "61104"
+operator = "Areeba Guinea"
+brand = "MTN"
+tadig = "GINAG"
+bands = "GSM 900 / GSM 1800 / UMTS 2100"
+
+[[operators]]
+mnc = "05"
+plmn = "61105"
+operator = "Cellcom"
+brand = "Cellcom"
+bands = "GSM 900 / GSM 1800 / UMTS 2100"

@@ -1,0 +1,140 @@
+mcc = "432"
+country = "Iran"
+iso = "IR"
+region = "Asia and the Middle East"
+
+[[operators]]
+mnc = "01"
+plmn = "43201"
+operator = "Ertebatat Iran"
+brand = "Uname"
+bands = "LTE"
+
+[[operators]]
+mnc = "02"
+plmn = "43202"
+operator = "Azartel Mobile"
+brand = "Azartel"
+bands = "MVNO"
+
+[[operators]]
+mnc = "08"
+plmn = "43208"
+operator = "Shatel Mobile"
+brand = "Shatel Mobile"
+bands = "MVNO"
+
+[[operators]]
+mnc = "10"
+plmn = "43210"
+operator = "Samantel Mobile"
+brand = "Samantel"
+bands = "MVNO"
+
+[[operators]]
+mnc = "11"
+plmn = "43211"
+operator = "Mobile Communications Company of Iran (MCI)"
+brand = "IR-TCI (Hamrah-e-Avval)"
+tadig = "IRN11"
+bands = "GSM 900 / UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2600"
+
+[[operators]]
+mnc = "12"
+plmn = "43212"
+operator = "Dadeh Dostar asr Novin p.j.s. co & Information Technology Company of Iran"
+brand = "Avacell(HiWEB)"
+bands = "LTE 800"
+
+[[operators]]
+mnc = "14"
+plmn = "43214"
+operator = "Telecommunication Kish Company"
+brand = "TKC/KFZO"
+bands = "GSM 900 / GSM 1800"
+
+[[operators]]
+mnc = "19"
+plmn = "43219"
+operator = "Mobile Telecommunications Company of Esfahan"
+brand = "Espadan (JV-PJS)"
+bands = "GSM 900"
+
+[[operators]]
+mnc = "20"
+plmn = "43220"
+operator = "Social Security Investment Co."
+brand = "Rightel"
+tadig = "IRNTT"
+bands = "UMTS 900 / UMTS 2100 / LTE 1800"
+
+[[operators]]
+mnc = "21"
+plmn = "43221"
+operator = "Social Security Investment Co."
+brand = "Rightel"
+bands = "UMTS 900 / UMTS 2100 / LTE 1800"
+
+[[operators]]
+mnc = "32"
+plmn = "43232"
+operator = "TCI of Iran and Iran Mobin"
+brand = "Taliya"
+bands = "GSM 900 / GSM 1800"
+
+[[operators]]
+mnc = "35"
+plmn = "43235"
+operator = "MTN Irancell Telecommunications Services Company"
+brand = "MTN Irancell"
+tadig = "IRNMI"
+bands = "GSM 900 / UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2600 / TD-LTE 3500"
+
+[[operators]]
+mnc = "40"
+plmn = "43240"
+operator = "Ertebatat Mobinnet"
+brand = "Mobinnet"
+bands = "LTE 3500"
+
+[[operators]]
+mnc = "50"
+plmn = "43250"
+operator = "Arya Resaneh Tadbir"
+brand = "Shatel"
+bands = "MVNO"
+
+[[operators]]
+mnc = "70"
+plmn = "43270"
+operator = "Telephone Communications Company of Iran"
+brand = "MTCE"
+bands = "GSM 900"
+
+[[operators]]
+mnc = "71"
+plmn = "43271"
+operator = "Telephone Communications Company of Iran"
+brand = "KOOHE NOOR"
+bands = "GSM 900"
+
+[[operators]]
+mnc = "90"
+plmn = "43290"
+operator = "IRAPHONE GHESHM of Iran"
+brand = "Iraphone"
+bands = "GSM 900 / GSM 1800"
+
+[[operators]]
+mnc = "93"
+plmn = "43293"
+operator = "Farzanegan Pars"
+brand = "Farzanegan Pars"
+bands = "GSM 900 / GSM 1800"
+
+[[operators]]
+mnc = "99"
+plmn = "43299"
+operator = "TCI of Iran and Rightel"
+brand = "TCI (GSM WLL)"
+bands = "GSM 850 / GSM 1900"

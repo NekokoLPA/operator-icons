@@ -1,0 +1,42 @@
+mcc = "628"
+country = "Gabon"
+iso = "GA"
+region = "Africa"
+
+[[operators]]
+mnc = "01"
+plmn = "62801"
+operator = "Gabon Telecom S.A."
+brand = "Libertis"
+tadig = "GAB01"
+bands = "GSM 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+
+[[operators]]
+mnc = "02"
+plmn = "62802"
+operator = "Gabon Telecom S.A."
+brand = "Moov"
+tadig = "GABTL"
+bands = "GSM 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+
+[[operators]]
+mnc = "03"
+plmn = "62803"
+operator = "Airtel Gabon S.A."
+brand = "Airtel"
+tadig = "GABCT"
+bands = "GSM 900 / UMTS 2100 / LTE 2100"
+
+[[operators]]
+mnc = "04"
+plmn = "62804"
+operator = "USAN Gabon S.A."
+brand = "Azur"
+tadig = "GABAZ"
+bands = "GSM 900 / GSM 1800"
+
+[[operators]]
+mnc = "05"
+plmn = "62805"
+operator = "Réseau de l’Administration Gabonaise"
+brand = "RAG"

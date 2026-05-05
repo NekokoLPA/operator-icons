@@ -1,0 +1,32 @@
+mcc = "344"
+country = "Antigua and Barbuda"
+iso = "AG"
+region = "North America and the Caribbean"
+
+[[operators]]
+mnc = "030"
+plmn = "344030"
+operator = "Antigua Public Utilities Authority"
+brand = "APUA"
+bands = "GSM 1900"
+
+[[operators]]
+mnc = "050"
+plmn = "344050"
+operator = "Antigua Wireless Ventures Limited"
+brand = "Digicel"
+bands = "GSM 900 / GSM 1900 / UMTS 850 / LTE 700"
+
+[[operators]]
+mnc = "920"
+plmn = "344920"
+operator = "Cable & Wireless Caribbean Cellular (Antigua) Limited"
+brand = "FLOW"
+tadig = "ATGCW"
+bands = "GSM 850 / GSM 1800 / GSM 1900 / UMTS 850 / LTE 1700"
+
+[[operators]]
+mnc = "930"
+plmn = "344930"
+operator = "AT&T Wireless"
+brand = ""

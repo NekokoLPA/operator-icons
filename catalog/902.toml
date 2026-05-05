@@ -1,0 +1,11 @@
+mcc = "902"
+country = "Worldwide"
+iso = "UN"
+region = "Worldwide"
+
+[[operators]]
+mnc = "01"
+plmn = "90201"
+operator = "MulteFire Allicance"
+brand = ""
+bands = "LTE"

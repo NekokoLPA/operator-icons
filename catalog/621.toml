@@ -1,0 +1,98 @@
+mcc = "621"
+country = "Nigeria"
+iso = "NG"
+region = "Africa"
+
+[[operators]]
+mnc = "00"
+plmn = "62100"
+operator = "Capcom"
+brand = ""
+bands = "LTE 1900"
+
+[[operators]]
+mnc = "20"
+plmn = "62120"
+operator = "Bharti Airtel Limited"
+brand = "Airtel"
+tadig = "NGAET"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+
+[[operators]]
+mnc = "22"
+plmn = "62122"
+operator = "InterC Network Ltd."
+brand = "InterC"
+bands = "LTE 800"
+
+[[operators]]
+mnc = "24"
+plmn = "62124"
+operator = "Spectranet"
+brand = ""
+bands = "TD-LTE 2300"
+
+[[operators]]
+mnc = "25"
+plmn = "62125"
+operator = "Visafone Communications Ltd."
+brand = "Visafone"
+bands = "CDMA2000 800 / CDMA2000 1900"
+
+[[operators]]
+mnc = "26"
+plmn = "62126"
+operator = "Swift"
+brand = ""
+bands = "TD-LTE 2300"
+
+[[operators]]
+mnc = "27"
+plmn = "62127"
+operator = "Smile Communications Nigeria"
+brand = "Smile"
+bands = "LTE 800"
+
+[[operators]]
+mnc = "30"
+plmn = "62130"
+operator = "MTN Nigeria Communications Limited"
+brand = "MTN"
+tadig = "NGAMN"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 2600 / TD-LTE 3500"
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = ""
+profile_provider_names = ["MTN Nigeria"]
+profile_names = []
+
+[[operators]]
+mnc = "40"
+plmn = "62140"
+operator = "Nigerian Mobile Telecommunications Limited"
+brand = "Ntel"
+tadig = "NGANT"
+bands = "LTE 900 / LTE 1800"
+
+[[operators]]
+mnc = "50"
+plmn = "62150"
+operator = "Globacom Ltd"
+brand = "Glo"
+tadig = "NGAGM"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 700"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Glo Nigeria"]
+profile_names = []
+
+[[operators]]
+mnc = "60"
+plmn = "62160"
+operator = "Emerging Markets Telecommunication Services Ltd."
+brand = "9mobile"
+tadig = "NGAEM"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"

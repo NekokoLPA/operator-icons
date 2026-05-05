@@ -1,0 +1,74 @@
+mcc = "216"
+country = "Hungary"
+iso = "HU"
+region = "Europe"
+
+[[operators]]
+mnc = "01"
+plmn = "21601"
+operator = "Telenor Magyarország Zrt."
+brand = "Telenor Hungary"
+tadig = "HUNH1"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+
+[[operators]]
+mnc = "02"
+plmn = "21602"
+operator = "MVM Net Ltd."
+brand = ""
+bands = "LTE 450"
+
+[[operators]]
+mnc = "03"
+plmn = "21603"
+operator = "DIGI Telecommunication Ltd."
+brand = "DIGI"
+bands = "LTE 1800 / TD-LTE 3700"
+
+[[operators]]
+mnc = "04"
+plmn = "21604"
+operator = "Invitech ICT Services Ltd."
+brand = ""
+
+[[operators]]
+mnc = "30"
+plmn = "21630"
+operator = "Magyar Telekom Plc"
+brand = "T-Mobile"
+tadig = "HUNH2"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = ["Telekom HU"]
+profile_names = []
+
+[[operators]]
+mnc = "70"
+plmn = "21670"
+operator = "Vodafone Magyarország Zrt."
+brand = "Vodafone"
+tadig = "HUNVR"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / UMTS 900 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500"
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = ["Vodafone HU"]
+profile_names = []
+
+[[operators]]
+mnc = "71"
+plmn = "21671"
+operator = "UPC Hungary Ltd."
+brand = "upc"
+bands = "MVNO"
+
+[[operators]]
+mnc = "99"
+plmn = "21699"
+operator = "Magyar Államvasutak"
+brand = "MAV GSM-R"
+bands = "GSM-R 900"

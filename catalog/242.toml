@@ -1,0 +1,173 @@
+mcc = "242"
+country = "Norway"
+iso = "NO"
+region = "Europe"
+
+[[operators]]
+mnc = "01"
+plmn = "24201"
+operator = "Telenor Norge AS"
+brand = "Telenor"
+tadig = "NORTM"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+
+[[operators]]
+mnc = "02"
+plmn = "24202"
+operator = "Telia Norge AS"
+brand = "Telia"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["Chilimobil"]
+profile_names = []
+
+[[operators]]
+mnc = "03"
+plmn = "24203"
+operator = "Televerket AS"
+brand = ""
+
+[[operators]]
+mnc = "04"
+plmn = "24204"
+operator = "Tele2 (Mobile Norway AS)"
+brand = "Tele2"
+bands = "MVNO"
+
+[[operators]]
+mnc = "05"
+plmn = "24205"
+operator = "Telia Norge AS"
+brand = "Telia"
+tadig = "NORNN"
+bands = "GSM 900 / UMTS 900 / UMTS 2100"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["MyCall"]
+profile_names = []
+
+[[operators]]
+mnc = "06"
+plmn = "24206"
+operator = "ICE Norge AS"
+brand = "ice"
+bands = "LTE 450"
+
+[[operators]]
+mnc = "07"
+plmn = "24207"
+operator = "Phonero AS"
+brand = "Phonero"
+bands = "MVNO"
+
+[[operators]]
+mnc = "08"
+plmn = "24208"
+operator = "Telia Norge AS"
+brand = "Telia"
+tadig = "NORTD"
+bands = "MVNO"
+
+[[operators]]
+mnc = "09"
+plmn = "24209"
+operator = "Com4 AS"
+brand = "Com4"
+bands = "MVNO"
+
+[[operators]]
+mnc = "10"
+plmn = "24210"
+operator = "Norwegian Communications Authority"
+brand = ""
+
+[[operators]]
+mnc = "11"
+plmn = "24211"
+operator = "SystemNet AS"
+brand = "SystemNet"
+bands = "Test"
+
+[[operators]]
+mnc = "12"
+plmn = "24212"
+operator = "Telenor Norge AS"
+brand = "Telenor"
+
+[[operators]]
+mnc = "14"
+plmn = "24214"
+operator = "ICE Communication Norge AS"
+brand = "ice"
+bands = "GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800"
+
+[[operators.gids]]
+gid1 = "0100"
+gid2 = "ffff"
+profile_provider_names = ["ice"]
+profile_names = []
+
+[[operators]]
+mnc = "15"
+plmn = "24215"
+operator = "eRate Norway AS"
+brand = ""
+bands = "MVNO"
+
+[[operators]]
+mnc = "20"
+plmn = "24220"
+operator = "Jernbaneverket AS"
+brand = ""
+bands = "GSM-R 900"
+
+[[operators]]
+mnc = "21"
+plmn = "24221"
+operator = "Jernbaneverket AS"
+brand = ""
+bands = "GSM-R 900"
+
+[[operators]]
+mnc = "22"
+plmn = "24222"
+operator = "Altibox AS"
+brand = ""
+
+[[operators]]
+mnc = "23"
+plmn = "24223"
+operator = "Lyca Mobile Ltd"
+brand = "Lycamobile"
+bands = "MVNO"
+
+[[operators]]
+mnc = "24"
+plmn = "24224"
+operator = "Mobile Norway AS"
+brand = ""
+
+[[operators]]
+mnc = "25"
+plmn = "24225"
+operator = "Forsvarets kompetansesenter KKIS"
+brand = ""
+
+[[operators]]
+mnc = "90"
+plmn = "24290"
+operator = "Nokia Solutions and Networks Norge AS"
+brand = ""
+
+[[operators]]
+mnc = "99"
+plmn = "24299"
+operator = "TampNet AS"
+brand = ""
+tadig = "AAMT1"
+bands = "LTE 800 / LTE 1800"

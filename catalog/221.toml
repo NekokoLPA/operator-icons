@@ -1,0 +1,33 @@
+mcc = "221"
+country = "Kosovo"
+iso = "XK"
+region = "Europe"
+
+[[operators]]
+mnc = "01"
+plmn = "22101"
+operator = "Telecom of Kosovo J.S.C."
+brand = "Vala"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / LTE 1800"
+
+[[operators]]
+mnc = "02"
+plmn = "22102"
+operator = "IPKO"
+brand = "IPKO"
+tadig = "K0001"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / LTE 1800"
+
+[[operators]]
+mnc = "06"
+plmn = "22106"
+operator = "Dardaphone.Net LLC"
+brand = "Z Mobile"
+bands = "MVNO"
+
+[[operators]]
+mnc = "07"
+plmn = "22107"
+operator = "Dukagjini Telecommunications LLC"
+brand = "D3 Mobile"
+bands = "MVNO"

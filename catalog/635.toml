@@ -1,0 +1,49 @@
+mcc = "635"
+country = "Rwanda"
+iso = "RW"
+region = "Africa"
+
+[[operators]]
+mnc = "10"
+plmn = "63510"
+operator = "MTN Rwandacell SARL"
+brand = "MTN"
+tadig = "RWAMN"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100"
+
+[[operators]]
+mnc = "11"
+plmn = "63511"
+operator = "Rwandatel S.A."
+brand = "Rwandatel"
+bands = "CDMA"
+
+[[operators]]
+mnc = "12"
+plmn = "63512"
+operator = "Rwandatel S.A."
+brand = "Rwandatel"
+bands = "GSM"
+
+[[operators]]
+mnc = "13"
+plmn = "63513"
+operator = "Airtel RWANDA"
+brand = "Airtel"
+tadig = "RWATG"
+bands = "GSM 900 / GSM 1800 / UMTS 2100"
+
+[[operators]]
+mnc = "14"
+plmn = "63514"
+operator = "Airtel RWANDA"
+brand = "Airtel"
+tadig = "RWAAR"
+bands = "GSM 900 / GSM 1800 / UMTS 2100"
+
+[[operators]]
+mnc = "17"
+plmn = "63517"
+operator = "Olleh Rwanda Networks"
+brand = "Olleh"
+bands = "LTE 800 / LTE 1800"

@@ -1,0 +1,38 @@
+mcc = "528"
+country = "Brunei"
+iso = "BN"
+region = "Oceania"
+
+[[operators]]
+mnc = "01"
+plmn = "52801"
+operator = "Telekom Brunei Berhad"
+brand = "TelBru"
+
+[[operators]]
+mnc = "02"
+plmn = "52802"
+operator = "Progresif Cellular Sdn Bhd"
+brand = "PCSB"
+tadig = "BRNBR"
+bands = "UMTS 2100"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["PROGRESIF"]
+profile_names = []
+
+[[operators]]
+mnc = "03"
+plmn = "52803"
+operator = "Unified National Networks Sdn Bhd"
+brand = "UNN"
+
+[[operators]]
+mnc = "11"
+plmn = "52811"
+operator = "Data Stream Technology Sdn Bhd"
+brand = "DST"
+tadig = "BRNDS"
+bands = "GSM 900 / UMTS 2100 / LTE 1800"

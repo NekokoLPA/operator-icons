@@ -1,0 +1,237 @@
+mcc = "502"
+country = "Malaysia"
+iso = "MY"
+region = "Oceania"
+
+[[operators]]
+mnc = "01"
+plmn = "50201"
+operator = "Telekom Malaysia Bhd"
+brand = "ATUR 450"
+bands = "CDMA2000 450"
+
+[[operators]]
+mnc = "10"
+plmn = "50210"
+operator = "Maxis, DiGi, Celcom, XOX"
+brand = ""
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2600"
+
+[[operators]]
+mnc = "11"
+plmn = "50211"
+operator = "Telekom Malaysia Bhd"
+brand = "TM Homeline"
+bands = "CDMA2000 850 / LTE 850"
+
+[[operators]]
+mnc = "12"
+plmn = "50212"
+operator = "Maxis Communications Berhad"
+brand = "Maxis"
+tadig = "MYSBC"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["Maxis"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["CMLink"]
+profile_names = []
+
+[[operators]]
+mnc = "13"
+plmn = "50213"
+operator = "Celcom Axiata Berhad"
+brand = "Celcom"
+tadig = "MYSMR"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2600"
+
+[[operators]]
+mnc = "14"
+plmn = "50214"
+operator = "Telekom Malaysia Berhad for PSTN SMS"
+brand = ""
+
+[[operators]]
+mnc = "150"
+plmn = "502150"
+operator = "Tune Talk Sdn Bhd"
+brand = "Tune Talk"
+bands = "MVNO"
+
+[[operators]]
+mnc = "151"
+plmn = "502151"
+operator = "Baraka Telecom Sdn Bhd"
+brand = "SalamFone"
+bands = "MVNO"
+
+[[operators]]
+mnc = "152"
+plmn = "502152"
+operator = "YTL Communications Sdn Bhd"
+brand = "Yes"
+bands = "WiMAX 2300 / TD-LTE 2300 / TD-LTE 2600"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["YES"]
+profile_names = []
+
+[[operators]]
+mnc = "153"
+plmn = "502153"
+operator = "Webe Digital Sdn Bhd"
+brand = "unifi"
+bands = "WiMAX 2300 / LTE 850 / TD-LTE 2300"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffffffffffffff"
+gid2 = "ffffffffffffffffffffffffffffff"
+profile_provider_names = ["unifi"]
+profile_names = []
+
+[[operators]]
+mnc = "154"
+plmn = "502154"
+operator = "Talk Focus Sdn Bhd"
+brand = "Tron"
+bands = "MVNO"
+
+[[operators]]
+mnc = "155"
+plmn = "502155"
+operator = "Clixster Mobile Sdn Bhd"
+brand = "Clixster"
+bands = "MVNO"
+
+[[operators]]
+mnc = "156"
+plmn = "502156"
+operator = "Altel Communications Sdn Bhd"
+brand = "Altel"
+bands = "MVNO"
+
+[[operators]]
+mnc = "157"
+plmn = "502157"
+operator = "Telekomunikasi Indonesia International (M) Sdn Bhd"
+brand = "Telin"
+bands = "MVNO"
+
+[[operators]]
+mnc = "16"
+plmn = "50216"
+operator = "DiGi Telecommunications"
+brand = "DiGi"
+tadig = "MYSMT"
+bands = "GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Digi"]
+profile_names = []
+
+[[operators]]
+mnc = "17"
+plmn = "50217"
+operator = "Maxis Communications Berhad"
+brand = "Maxis"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 2600"
+
+[[operators]]
+mnc = "18"
+plmn = "50218"
+operator = "U Mobile Sdn Bhd"
+brand = "U Mobile"
+tadig = "MYSMI"
+bands = "UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "ffff"
+gid2 = "ffffff"
+profile_provider_names = ["U Mobile"]
+profile_names = []
+
+[[operators]]
+mnc = "19"
+plmn = "50219"
+operator = "Celcom Axiata Berhad"
+brand = "Celcom"
+tadig = "MYSCC"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "0001"
+gid2 = "0002"
+profile_provider_names = ["Tune Talk"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffff"
+gid2 = "ffffff"
+profile_provider_names = ["Celcom"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = ["Spark"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = ["MalaysiaYoodo"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = ["MY_ONEXOX"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = ["CelcomDigi"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["TuneTalk"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["XOX"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["GlobalData"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Tunetalk"]
+profile_names = []
+
+[[operators]]
+mnc = "20"
+plmn = "50220"
+operator = "Electcoms Berhad"
+brand = "Electcoms"
+bands = "DMR"

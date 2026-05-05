@@ -1,0 +1,12 @@
+mcc = "638"
+country = "Djibouti"
+iso = "DJ"
+region = "Africa"
+
+[[operators]]
+mnc = "01"
+plmn = "63801"
+operator = "Djibouti Telecom SA"
+brand = "Evatis"
+tadig = "DJIDJ"
+bands = "GSM 900 / UMTS 2100 / LTE 800 / LTE 1800"

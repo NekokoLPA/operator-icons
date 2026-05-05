@@ -1,0 +1,38 @@
+mcc = "738"
+country = "Guyana"
+iso = "GY"
+region = "South and Central America"
+
+[[operators]]
+mnc = "002"
+plmn = "738002"
+operator = "Guyana Telephone & Telegraph Co."
+brand = "GT&T Cellink Plus"
+bands = "GSM 900 / GSM 1800 / UMTS 850 / LTE 700"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = ""
+profile_provider_names = ["ONE"]
+profile_names = []
+
+[[operators]]
+mnc = "003"
+plmn = "738003"
+operator = "Quark Communications Inc."
+brand = ""
+bands = "TD-LTE"
+
+[[operators]]
+mnc = "01"
+plmn = "73801"
+operator = "U-Mobile (Cellular) Inc."
+brand = "Digicel"
+tadig = "GUYUM"
+bands = "GSM 900 / UMTS 850"
+
+[[operators]]
+mnc = "05"
+plmn = "73805"
+operator = "eGovernment Unit, Ministry of the Presidency"
+brand = ""

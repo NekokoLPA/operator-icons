@@ -1,0 +1,245 @@
+mcc = "724"
+country = "Brazil"
+iso = "BR"
+region = "South and Central America"
+
+[[operators]]
+mnc = "00"
+plmn = "72400"
+operator = "NII Holdings, Inc."
+brand = "Nextel"
+bands = "iDEN 850"
+
+[[operators]]
+mnc = "01"
+plmn = "72401"
+operator = "SISTEER DO BRASIL TELECOMUNICAÇÔES"
+brand = ""
+bands = "MVNO"
+
+[[operators]]
+mnc = "02"
+plmn = "72402"
+operator = "Telecom Italia Mobile"
+brand = "TIM"
+tadig = "BRARN"
+bands = "GSM 900 / GSM 1800 / UMTS 850 / UMTS 900 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2100 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffff"
+gid2 = "ffffffffffffffffff"
+profile_provider_names = ["TIM"]
+profile_names = []
+
+[[operators]]
+mnc = "03"
+plmn = "72403"
+operator = "Telecom Italia Mobile"
+brand = "TIM"
+tadig = "BRASP"
+bands = "GSM 900 / GSM 1800 / UMTS 850 / UMTS 900 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2100 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffff"
+gid2 = "ffffffffffffffffff"
+profile_provider_names = ["TIM"]
+profile_names = []
+
+[[operators]]
+mnc = "04"
+plmn = "72404"
+operator = "Telecom Italia Mobile"
+brand = "TIM"
+tadig = "BRACS"
+bands = "GSM 900 / GSM 1800 / UMTS 850 / UMTS 900 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2100 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffff"
+gid2 = "ffffffffffffffffff"
+profile_provider_names = ["TIM"]
+profile_names = []
+
+[[operators]]
+mnc = "05"
+plmn = "72405"
+operator = "Claro"
+brand = "Claro"
+tadig = "BRACL"
+bands = "GSM 900 / GSM 1800 / UMTS 850 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2600"
+
+[[operators]]
+mnc = "06"
+plmn = "72406"
+operator = "Telefônica Brasil S.A."
+brand = "Vivo"
+tadig = "BRAV2"
+bands = "GSM 850 / GSM 1800 / UMTS 850 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2600"
+
+[[operators]]
+mnc = "10"
+plmn = "72410"
+operator = "Telefônica Brasil S.A."
+brand = "Vivo"
+tadig = "BRAV1"
+bands = "GSM 850 / GSM 1800 / UMTS 850 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2600"
+
+[[operators]]
+mnc = "11"
+plmn = "72411"
+operator = "Telefônica Brasil S.A."
+brand = "Vivo"
+tadig = "BRAV3"
+bands = "GSM 850 / GSM 1800 / UMTS 850 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2600"
+
+[[operators]]
+mnc = "15"
+plmn = "72415"
+operator = "Sercomtel Celular"
+brand = "Sercomtel"
+bands = "GSM 900 / GSM 1800 / UMTS 850"
+
+[[operators]]
+mnc = "16"
+plmn = "72416"
+operator = "Brasil Telecom GSM"
+brand = "Brasil Telecom GSM"
+tadig = "BRABT"
+bands = "GSM 1800 / UMTS 2100"
+
+[[operators]]
+mnc = "17"
+plmn = "72417"
+operator = "Surf Telecom"
+brand = "Surf Telecom"
+bands = "MVNO"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffff"
+gid2 = "ffffffffffffffffff"
+profile_provider_names = ["Chip Virtual"]
+profile_names = []
+
+[[operators]]
+mnc = "18"
+plmn = "72418"
+operator = "Datora (Vodafone)"
+brand = "datora"
+bands = "MVNO"
+
+[[operators]]
+mnc = "23"
+plmn = "72423"
+operator = "Telefônica Brasil S.A."
+brand = "Vivo"
+tadig = "BRATC"
+bands = "GSM 850 / GSM 1800 / UMTS 850 / UMTS 2100 / LTE 1800 / LTE 2600"
+
+[[operators]]
+mnc = "24"
+plmn = "72424"
+operator = "Amazonia Celular"
+brand = ""
+
+[[operators]]
+mnc = "28"
+plmn = "72428"
+operator = ""
+brand = "No name"
+
+[[operators]]
+mnc = "30"
+plmn = "72430"
+operator = "TNL PCS Oi"
+brand = "Oi"
+
+[[operators]]
+mnc = "31"
+plmn = "72431"
+operator = "TNL PCS Oi"
+brand = "Oi"
+tadig = "BRATM"
+bands = "GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100 / LTE 2600"
+
+[[operators]]
+mnc = "32"
+plmn = "72432"
+operator = "Algar Telecom S.A."
+brand = "Algar Telecom"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 700 / LTE 1800"
+
+[[operators.gids]]
+gid1 = "00000000"
+gid2 = "00000000"
+profile_provider_names = ["Algar Telecom"]
+profile_names = []
+
+[[operators]]
+mnc = "33"
+plmn = "72433"
+operator = "Algar Telecom S.A."
+brand = "Algar Telecom"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 700 / LTE 1800"
+
+[[operators.gids]]
+gid1 = "00000000"
+gid2 = "00000000"
+profile_provider_names = ["Algar Telecom"]
+profile_names = []
+
+[[operators]]
+mnc = "34"
+plmn = "72434"
+operator = "Algar Telecom S.A."
+brand = "Algar Telecom"
+tadig = "BRAC4"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 700 / LTE 1800"
+
+[[operators.gids]]
+gid1 = "00000000"
+gid2 = "00000000"
+profile_provider_names = ["Algar Telecom"]
+profile_names = []
+
+[[operators]]
+mnc = "35"
+plmn = "72435"
+operator = "Telcom Telecomunicações"
+brand = ""
+
+[[operators]]
+mnc = "36"
+plmn = "72436"
+operator = "Options Telecomunicações"
+brand = ""
+
+[[operators]]
+mnc = "37"
+plmn = "72437"
+operator = "Unicel"
+brand = "aeiou"
+
+[[operators]]
+mnc = "38"
+plmn = "72438"
+operator = "Claro"
+brand = "Claro"
+
+[[operators]]
+mnc = "39"
+plmn = "72439"
+operator = "NII Holdings, Inc."
+brand = "Nextel"
+bands = "UMTS 2100 / LTE 1800 / LTE 2100"
+
+[[operators]]
+mnc = "54"
+plmn = "72454"
+operator = "PORTO SEGURO TELECOMUNICAÇÔES"
+brand = "Conecta"
+bands = "MVNO"
+
+[[operators]]
+mnc = "99"
+plmn = "72499"
+operator = ""
+brand = "Local"

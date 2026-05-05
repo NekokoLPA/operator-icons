@@ -1,0 +1,19 @@
+mcc = "626"
+country = "Sao Tome and Principe"
+iso = "ST"
+region = "Africa"
+
+[[operators]]
+mnc = "01"
+plmn = "62601"
+operator = "Companhia Santomese de Telecomunicaçôe"
+brand = "CSTmovel"
+tadig = "STPST"
+bands = "GSM 900 / UMTS 2100"
+
+[[operators]]
+mnc = "02"
+plmn = "62602"
+operator = "Unitel Sao Tome and Principe"
+brand = "Unitel STP"
+bands = "GSM 900 / UMTS 2100"

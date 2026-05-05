@@ -1,0 +1,25 @@
+mcc = "346"
+country = "Cayman Islands (UK)"
+iso = "KY"
+region = "North America and the Caribbean"
+
+[[operators]]
+mnc = "001"
+plmn = "346001"
+operator = "WestTel Ltd."
+brand = "Logic"
+
+[[operators]]
+mnc = "050"
+plmn = "346050"
+operator = "Digicel Cayman Ltd."
+brand = "Digicel"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+
+[[operators]]
+mnc = "140"
+plmn = "346140"
+operator = "Cable & Wireless (Cayman Islands) Limited"
+brand = "FLOW"
+tadig = "CYMCW"
+bands = "GSM 850 / GSM 1900 / UMTS 850 / LTE 700 / LTE 1900"

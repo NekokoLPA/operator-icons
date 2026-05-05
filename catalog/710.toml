@@ -1,0 +1,27 @@
+mcc = "710"
+country = "Nicaragua"
+iso = "NI"
+region = "South and Central America"
+
+[[operators]]
+mnc = "21"
+plmn = "71021"
+operator = "Empresa Nicaragüense de Telecomunicaciones, S.A. (ENITEL) (América Móvil)"
+brand = "Claro"
+tadig = "NICEN"
+bands = "GSM 1900 / UMTS 850 / LTE 1700"
+
+[[operators]]
+mnc = "30"
+plmn = "71030"
+operator = "Telefonía Celular de Nicaragua, S.A. (Telefónica, S.A.)"
+brand = "movistar"
+bands = "GSM 850 / GSM 1900 / UMTS 850 / LTE 1900"
+
+[[operators]]
+mnc = "73"
+plmn = "71073"
+operator = "Servicios de Comunicaciones S.A."
+brand = "Claro"
+tadig = "NICSC"
+bands = "GSM 1900 / UMTS 850"

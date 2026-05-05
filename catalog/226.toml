@@ -1,0 +1,96 @@
+mcc = "226"
+country = "Romania"
+iso = "RO"
+region = "Europe"
+
+[[operators]]
+mnc = "01"
+plmn = "22601"
+operator = "Vodafone România"
+brand = "Vodafone"
+tadig = "ROMMF"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / TD-LTE 2600 / 5G 3500"
+
+[[operators]]
+mnc = "02"
+plmn = "22602"
+operator = "Telekom Romania"
+brand = "Clicknet Mobile"
+bands = "CDMA 420"
+
+[[operators]]
+mnc = "03"
+plmn = "22603"
+operator = "Telekom Romania"
+brand = "Telekom"
+tadig = "ROMCS"
+bands = "GSM 900 / GSM 1800 / LTE 800 / LTE 1800 / LTE 2600"
+
+[[operators]]
+mnc = "04"
+plmn = "22604"
+operator = "Telekom Romania"
+brand = "Cosmote/Zapp"
+bands = "CDMA 450"
+
+[[operators]]
+mnc = "05"
+plmn = "22605"
+operator = "RCS&RDS"
+brand = "Digi.Mobil"
+bands = "UMTS 900 / UMTS 2100 / LTE 900 / LTE 2100 / TD-LTE 2600 / 5G 3500"
+
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = ["Digi.Mobil RO"]
+profile_names = []
+
+[[operators]]
+mnc = "06"
+plmn = "22606"
+operator = "Telekom Romania"
+brand = "Telekom/Zapp"
+bands = "UMTS 900 / UMTS 2100"
+
+[[operators]]
+mnc = "10"
+plmn = "22610"
+operator = "Orange România"
+brand = "Orange"
+tadig = "ROMMR"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500"
+
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = ["Orange"]
+profile_names = []
+
+[[operators]]
+mnc = "11"
+plmn = "22611"
+operator = "Enigma-System"
+brand = ""
+bands = "MVNO"
+
+[[operators]]
+mnc = "15"
+plmn = "22615"
+operator = "Idilis"
+brand = "Idilis"
+bands = "WiMAX / TD-LTE 2600"
+
+[[operators]]
+mnc = "16"
+plmn = "22616"
+operator = "Lycamobile Romania"
+brand = "Lycamobile"
+bands = "MVNO"
+
+[[operators]]
+mnc = "19"
+plmn = "22619"
+operator = "Căile Ferate Române"
+brand = "CFR"
+bands = "GSM-R 900"

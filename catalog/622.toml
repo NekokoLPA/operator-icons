@@ -1,0 +1,34 @@
+mcc = "622"
+country = "Chad"
+iso = "TD"
+region = "Africa"
+
+[[operators]]
+mnc = "01"
+plmn = "62201"
+operator = "Bharti Airtel SA"
+brand = "Airtel"
+tadig = "TCDCT"
+bands = "GSM 900 / UMTS 900 / UMTS 2100 / LTE 1800"
+
+[[operators]]
+mnc = "02"
+plmn = "62202"
+operator = "SotelTchad"
+brand = "Tawali"
+bands = "CDMA2000"
+
+[[operators]]
+mnc = "03"
+plmn = "62203"
+operator = "Millicom"
+brand = "Tigo"
+tadig = "TCDML"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 2600"
+
+[[operators]]
+mnc = "07"
+plmn = "62207"
+operator = "SotelTchad"
+brand = "Salam"
+bands = "GSM 900 / GSM 1800"

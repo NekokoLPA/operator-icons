@@ -1,0 +1,41 @@
+mcc = "416"
+country = "Jordan"
+iso = "JO"
+region = "Asia and the Middle East"
+
+[[operators]]
+mnc = "01"
+plmn = "41601"
+operator = "Jordan Mobile Telephone Services"
+brand = "zain JO"
+tadig = "JORFL"
+bands = "GSM 900 / LTE 1800"
+
+[[operators]]
+mnc = "02"
+plmn = "41602"
+operator = "XPress Telecom"
+brand = "XPress Telecom"
+bands = "iDEN 800"
+
+[[operators]]
+mnc = "03"
+plmn = "41603"
+operator = "Umniah Mobile Company"
+brand = "Umniah"
+tadig = "JORUM"
+bands = "GSM 1800 / LTE 1800 / LTE 3500"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["UMNIAH"]
+profile_names = []
+
+[[operators]]
+mnc = "77"
+plmn = "41677"
+operator = "Petra Jordanian Mobile Telecommunications Company (MobileCom)"
+brand = "Orange"
+tadig = "JORMC"
+bands = "GSM 900 / LTE 1800"

@@ -1,0 +1,11 @@
+mcc = "544"
+country = "American Samoa (USA)"
+iso = "AS"
+region = "Oceania"
+
+[[operators]]
+mnc = "11"
+plmn = "54411"
+operator = "Bluesky"
+brand = "Bluesky"
+bands = "GSM 850 / GSM 1900 / UMTS 850 / LTE 700 / LTE 1700"

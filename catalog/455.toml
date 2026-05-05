@@ -1,0 +1,93 @@
+mcc = "455"
+country = "Macau (China)"
+iso = "MO"
+region = "Asia and the Middle East"
+
+[[operators]]
+mnc = "00"
+plmn = "45500"
+operator = "Smartone – Comunicações Móveis, S.A."
+brand = "SmarTone"
+tadig = "MACSM"
+bands = "UMTS 2100 / LTE 1800"
+
+[[operators]]
+mnc = "01"
+plmn = "45501"
+operator = "Companhia de Telecomunicações de Macau, S.A.R.L."
+brand = "CTM"
+tadig = "MACCT"
+bands = "LTE 1800"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["CTM"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["BillionConnect"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Trip"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["AIRSIMe"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffff"
+gid2 = "ffffffffffffffffff"
+profile_provider_names = ["CITIC Telecom"]
+profile_names = []
+
+[[operators]]
+mnc = "02"
+plmn = "45502"
+operator = "China Telecom (Macau) Company Limited"
+brand = "China Telecom"
+bands = "CDMA 800"
+
+[[operators]]
+mnc = "03"
+plmn = "45503"
+operator = "Hutchison Telephone (Macau), Limitada"
+brand = "3"
+tadig = "MACHT"
+bands = "GSM 900 / GSM 1800"
+
+[[operators]]
+mnc = "04"
+plmn = "45504"
+operator = "Companhia de Telecomunicações de Macau, S.A.R.L."
+brand = "CTM"
+bands = "UMTS 2100"
+
+[[operators]]
+mnc = "05"
+plmn = "45505"
+operator = "Hutchison Telephone (Macau), Limitada"
+brand = "3"
+bands = "UMTS 900 / UMTS 2100 / LTE 1800"
+
+[[operators]]
+mnc = "06"
+plmn = "45506"
+operator = "Smartone – Comunicações Móveis, S.A."
+brand = "SmarTone"
+bands = "UMTS 2100"
+
+[[operators]]
+mnc = "07"
+plmn = "45507"
+operator = "China Telecom (Macau) Limitada"
+brand = "China Telecom"
+bands = "LTE 1800"

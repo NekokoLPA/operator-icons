@@ -1,0 +1,11 @@
+mcc = "554"
+country = "Tokelau"
+iso = "TK"
+region = "Oceania"
+
+[[operators]]
+mnc = "01"
+plmn = "55401"
+operator = "Teletok"
+brand = ""
+bands = "LTE 700"

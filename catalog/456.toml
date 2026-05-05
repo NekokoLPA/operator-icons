@@ -1,0 +1,95 @@
+mcc = "456"
+country = "Cambodia"
+iso = "KH"
+region = "Asia and the Middle East"
+
+[[operators]]
+mnc = "01"
+plmn = "45601"
+operator = "CamGSM / The Royal Group"
+brand = "Cellcard"
+tadig = "KHMGM"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = ""
+profile_provider_names = ["CellCard"]
+profile_names = []
+
+[[operators]]
+mnc = "02"
+plmn = "45602"
+operator = "Smart Axiata Co. Ltd"
+brand = "Smart"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+
+[[operators]]
+mnc = "03"
+plmn = "45603"
+operator = "Cambodia Advance Communications Co. Ltd"
+brand = "qb"
+bands = "GSM 1800 / UMTS 2100"
+
+[[operators]]
+mnc = "04"
+plmn = "45604"
+operator = "Cambodia Advance Communications Co. Ltd"
+brand = "qb"
+tadig = "KHMCC"
+bands = "GSM 1800 / UMTS 2100"
+
+[[operators]]
+mnc = "05"
+plmn = "45605"
+operator = "Smart Axiata Co. Ltd"
+brand = "Smart"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100"
+
+[[operators]]
+mnc = "06"
+plmn = "45606"
+operator = "Smart Axiata Co. Ltd"
+brand = "Smart"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Smart"]
+profile_names = []
+
+[[operators]]
+mnc = "08"
+plmn = "45608"
+operator = "Viettel"
+brand = "Metfone"
+tadig = "KHMVC"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
+
+[[operators.gids]]
+gid1 = "000000a1"
+gid2 = "00000000"
+profile_provider_names = ["Metfone"]
+profile_names = []
+
+[[operators]]
+mnc = "09"
+plmn = "45609"
+operator = "Viettel"
+brand = "Metfone"
+bands = "GSM 900 / GSM 1800"
+
+[[operators]]
+mnc = "11"
+plmn = "45611"
+operator = "SEATEL Cambodia"
+brand = "SEATEL"
+bands = "LTE 850"
+
+[[operators]]
+mnc = "18"
+plmn = "45618"
+operator = "The Royal Group"
+brand = "Cellcard"
+bands = "GSM 900 / GSM 1800 / UMTS 2100"

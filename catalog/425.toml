@@ -1,0 +1,294 @@
+mcc = "425"
+country = "Israel"
+iso = "IL"
+region = "Asia and the Middle East"
+
+[[operators]]
+mnc = "01"
+plmn = "42501"
+operator = "Partner Communications Company Ltd."
+brand = "Partner"
+tadig = "ISR01"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["Partner"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["eSIM"]
+profile_names = []
+
+[[operators]]
+mnc = "02"
+plmn = "42502"
+operator = "Cellcom Israel Ltd."
+brand = "Cellcom"
+tadig = "ISRCL"
+bands = "GSM 1800 / UMTS 850 / UMTS 2100 / LTE 1800"
+
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = ["GOLAN T"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = ["Cellcom"]
+profile_names = []
+
+[[operators]]
+mnc = "03"
+plmn = "42503"
+operator = "Pelephone Communications Ltd."
+brand = "Pelephone"
+tadig = "ISRPL"
+bands = "UMTS 850 / UMTS 2100 / LTE 1800"
+
+[[operators.gids]]
+gid1 = "25ffffff"
+gid2 = "46ffffff"
+profile_provider_names = ["Pelephone"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "25ffffff"
+gid2 = "46ffffff"
+profile_provider_names = ["Global"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "25ffffff"
+gid2 = "46ffffff"
+profile_provider_names = ["Rami Levy"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "3597bfd533ffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["DENT"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = ["tgt"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["eSIM"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["Yesim"]
+profile_names = []
+
+[[operators]]
+mnc = "04"
+plmn = "42504"
+operator = "Globalsim Ltd"
+brand = ""
+
+[[operators]]
+mnc = "05"
+plmn = "42505"
+operator = "Palestine Cellular Communications, Ltd."
+brand = "Jawwal"
+tadig = "PSEJE"
+bands = "GSM 900"
+
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = ["JAWWAL-PS"]
+profile_names = []
+
+[[operators]]
+mnc = "06"
+plmn = "42506"
+operator = "Wataniya Palestine Mobile Telecommunications Company"
+brand = "Wataniya"
+bands = "GSM 900 / GSM 1800"
+
+[[operators]]
+mnc = "07"
+plmn = "42507"
+operator = "Hot Mobile Ltd."
+brand = "Hot Mobile"
+tadig = "ISRMS"
+bands = "iDEN 800 / UMTS 2100 / LTE 1800"
+
+[[operators.gids]]
+gid1 = "39ffffff"
+gid2 = "ffffffff"
+profile_provider_names = ["HOT mobile"]
+profile_names = []
+
+[[operators]]
+mnc = "08"
+plmn = "42508"
+operator = "Golan Telecom Ltd."
+brand = "Golan Telecom"
+bands = "UMTS 2100 / LTE 1800"
+
+[[operators]]
+mnc = "09"
+plmn = "42509"
+operator = "Marathon 018 Xphone Ltd."
+brand = "We4G"
+bands = "LTE 1800"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["wecom"]
+profile_names = []
+
+[[operators]]
+mnc = "10"
+plmn = "42510"
+operator = "Partner Communications Company Ltd."
+brand = "Partner"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800"
+
+[[operators]]
+mnc = "11"
+plmn = "42511"
+operator = "365 Telecom"
+brand = ""
+bands = "MVNO"
+
+[[operators]]
+mnc = "12"
+plmn = "42512"
+operator = "Free Telecom"
+brand = "x2one"
+bands = "MVNO"
+
+[[operators.gids]]
+gid1 = "2fffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["Widely-Mobile"]
+profile_names = []
+
+[[operators]]
+mnc = "13"
+plmn = "42513"
+operator = "Ituran Cellular Communications"
+brand = ""
+
+[[operators]]
+mnc = "14"
+plmn = "42514"
+operator = "Alon Cellular Ltd."
+brand = "Youphone"
+bands = "MVNO"
+
+[[operators]]
+mnc = "15"
+plmn = "42515"
+operator = "Home Cellular Ltd."
+brand = "Home Cellular"
+bands = "MVNO"
+
+[[operators]]
+mnc = "16"
+plmn = "42516"
+operator = "Rami Levy Communications Ltd."
+brand = "Rami Levy"
+bands = "MVNO"
+
+[[operators]]
+mnc = "17"
+plmn = "42517"
+operator = "Gale Phone"
+brand = "Sipme"
+bands = "MVNO"
+
+[[operators]]
+mnc = "18"
+plmn = "42518"
+operator = "Cellact Communications Ltd."
+brand = "Cellact Communications"
+bands = "MVNO"
+
+[[operators]]
+mnc = "19"
+plmn = "42519"
+operator = "019 Communication Services Ltd. / TELZAR"
+brand = "019 Mobile"
+bands = "MVNO"
+
+[[operators]]
+mnc = "20"
+plmn = "42520"
+operator = "Bezeq The Israeli Telecommunication Corp Ltd."
+brand = "Bezeq"
+
+[[operators]]
+mnc = "21"
+plmn = "42521"
+operator = "B.I.P. Communications Ltd."
+brand = "Bezeq International"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["xphone"]
+profile_names = []
+
+[[operators]]
+mnc = "23"
+plmn = "42523"
+operator = "Beezz Communication Solutions Ltd."
+brand = ""
+
+[[operators]]
+mnc = "24"
+plmn = "42524"
+operator = "Partner Communications Company Ltd."
+brand = "012 Mobile"
+bands = "MVNO"
+
+[[operators]]
+mnc = "25"
+plmn = "42525"
+operator = "Israel Ministry of Defense"
+brand = "IMOD"
+bands = "LTE"
+
+[[operators]]
+mnc = "26"
+plmn = "42526"
+operator = "LB Annatel Ltd."
+brand = "Annatel"
+bands = "MVNO"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["Annatel"]
+profile_names = []
+
+[[operators]]
+mnc = "28"
+plmn = "42528"
+operator = "PHI Networks"
+brand = ""
+bands = "LTE 1800"
+
+[[operators]]
+mnc = "29"
+plmn = "42529"
+operator = "CG Networks"
+brand = ""

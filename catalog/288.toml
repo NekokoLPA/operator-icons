@@ -1,0 +1,32 @@
+mcc = "288"
+country = "Faroe Islands"
+iso = "FO"
+region = "Europe"
+
+[[operators]]
+mnc = "01"
+plmn = "28801"
+operator = "Faroese Telecom"
+brand = "Faroese Telecom"
+tadig = "FROFT"
+bands = "GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Foroya Tele"]
+profile_names = []
+
+[[operators]]
+mnc = "02"
+plmn = "28802"
+operator = "Vodafone Faroe Islands"
+brand = "Hey"
+tadig = "FROKA"
+bands = "GSM 900 / UMTS 2100 / LTE 1800"
+
+[[operators]]
+mnc = "03"
+plmn = "28803"
+operator = "Tosa Sp/F"
+brand = ""

@@ -1,0 +1,19 @@
+mcc = "363"
+country = "Aruba"
+iso = "AW"
+region = "North America and the Caribbean"
+
+[[operators]]
+mnc = "01"
+plmn = "36301"
+operator = "Servicio di Telecomunicacion di Aruba"
+brand = "SETAR"
+bands = "GSM 900 / GSM 1800 / GSM 1900 / UMTS 2100 / LTE 1800 / TDMA 800"
+
+[[operators]]
+mnc = "02"
+plmn = "36302"
+operator = "Digicel Aruba"
+brand = "Digicel"
+tadig = "ABWDC"
+bands = "GSM 900 / GSM 1800 / UMTS 2100"

@@ -1,0 +1,26 @@
+mcc = "610"
+country = "Mali"
+iso = "ML"
+region = "Africa"
+
+[[operators]]
+mnc = "01"
+plmn = "61001"
+operator = "Malitel SA"
+brand = "Malitel"
+bands = "GSM 900 / UMTS 2100 / LTE"
+
+[[operators]]
+mnc = "02"
+plmn = "61002"
+operator = "Orange Mali SA"
+brand = "Orange"
+tadig = "MLI02"
+bands = "GSM 900 / UMTS 2100 / LTE"
+
+[[operators]]
+mnc = "03"
+plmn = "61003"
+operator = "Alpha Telecommunication Mali S.A."
+brand = "Telecel"
+bands = "GSM 900 / GSM 1800 / UMTS 2100"

@@ -1,0 +1,52 @@
+mcc = "338"
+country = "Jamaica"
+iso = "JM"
+region = "North America and the Caribbean"
+
+[[operators]]
+mnc = "020"
+plmn = "338020"
+operator = "LIME (Cable & Wireless)"
+brand = "FLOW"
+
+[[operators]]
+mnc = "040"
+plmn = "338040"
+operator = "Symbiote Investment Limited"
+brand = "Caricel"
+bands = "LTE"
+
+[[operators]]
+mnc = "050"
+plmn = "338050"
+operator = ""
+brand = "Digicel Bermuda"
+tadig = "JAMDC"
+bands = "GSM 1900 / UMTS 850 / UMTS 1900 / LTE 700"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["DIGICEL"]
+profile_names = []
+
+[[operators]]
+mnc = "070"
+plmn = "338070"
+operator = "Oceanic Digital Jamaica Limited"
+brand = "Claro"
+bands = "GSM / UMTS / CDMA"
+
+[[operators]]
+mnc = "110"
+plmn = "338110"
+operator = "Cable & Wireless Communications"
+brand = "FLOW"
+
+[[operators]]
+mnc = "180"
+plmn = "338180"
+operator = "Cable & Wireless Communications"
+brand = "FLOW"
+tadig = "JAMCW"
+bands = "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 700 / LTE 1700 / LTE 1900"

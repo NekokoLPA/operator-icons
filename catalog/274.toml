@@ -1,0 +1,100 @@
+mcc = "274"
+country = "Iceland"
+iso = "IS"
+region = "Europe"
+
+[[operators]]
+mnc = "01"
+plmn = "27401"
+operator = "Iceland Telecom"
+brand = "Síminn"
+tadig = "ISLPS"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800"
+
+[[operators]]
+mnc = "02"
+plmn = "27402"
+operator = "Og fjarskipti hf"
+brand = "Vodafone"
+tadig = "ISLTL"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800"
+
+[[operators]]
+mnc = "03"
+plmn = "27403"
+operator = "Og fjarskipti hf"
+brand = "Vodafone"
+
+[[operators]]
+mnc = "04"
+plmn = "27404"
+operator = "IMC Island ehf"
+brand = "Viking"
+tadig = "ISLVW"
+bands = "GSM 1800"
+
+[[operators]]
+mnc = "05"
+plmn = "27405"
+operator = "Halló Frjáls fjarskipti hf."
+brand = ""
+bands = "GSM 1800"
+
+[[operators]]
+mnc = "06"
+plmn = "27406"
+operator = "Núll níu ehf"
+brand = ""
+
+[[operators]]
+mnc = "07"
+plmn = "27407"
+operator = "IceCell ehf"
+brand = "IceCell"
+bands = "GSM 1800"
+
+[[operators]]
+mnc = "08"
+plmn = "27408"
+operator = "Iceland Telecom"
+brand = "On-waves"
+bands = "GSM 900 / GSM 1800"
+
+[[operators]]
+mnc = "11"
+plmn = "27411"
+operator = "Nova ehf"
+brand = "Nova"
+tadig = "ISLNO"
+bands = "UMTS 2100 / LTE 1800"
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = ["NOVA"]
+profile_names = []
+
+[[operators]]
+mnc = "12"
+plmn = "27412"
+operator = "IP fjarskipti"
+brand = "Tal"
+bands = "MVNO"
+
+[[operators]]
+mnc = "16"
+plmn = "27416"
+operator = "Tismi BV"
+brand = ""
+
+[[operators]]
+mnc = "22"
+plmn = "27422"
+operator = "Landhelgisgæslan (Icelandic Coast Guard)"
+brand = ""
+
+[[operators]]
+mnc = "31"
+plmn = "27431"
+operator = "Iceland Telecom"
+brand = "Síminn"

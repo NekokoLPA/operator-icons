@@ -1,0 +1,29 @@
+mcc = "633"
+country = "Seychelles"
+iso = "SC"
+region = "Africa"
+
+[[operators]]
+mnc = "01"
+plmn = "63301"
+operator = "Cable & Wireless Seychelles"
+brand = "Cable & Wireless"
+tadig = "SYCCW"
+bands = "GSM 900 / UMTS"
+
+[[operators]]
+mnc = "02"
+plmn = "63302"
+operator = "Mediatech International"
+brand = "Mediatech"
+bands = "GSM 1800"
+
+[[operators]]
+mnc = "10"
+plmn = "63310"
+operator = "Telecom Seychelles Ltd"
+brand = "Airtel"
+tadig = "SYCAT"
+bands = "GSM 900 / UMTS 2100 / LTE 800"
+icon = "airtel"
+icon_scope = "worldwide"

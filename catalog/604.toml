@@ -1,0 +1,71 @@
+mcc = "604"
+country = "Morocco"
+iso = "MA"
+region = "Africa"
+
+[[operators]]
+mnc = "00"
+plmn = "60400"
+operator = "Médi Télécom"
+brand = "Orange Morocco"
+tadig = "MARMT"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "01"
+gid2 = ""
+profile_provider_names = ["Orange MA"]
+profile_names = []
+
+[[operators]]
+mnc = "01"
+plmn = "60401"
+operator = "Ittissalat Al-Maghrib (Maroc Telecom)"
+brand = "IAM"
+tadig = "MARM1"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "02"
+gid2 = "ff"
+profile_provider_names = ["Maroc Telecom"]
+profile_names = []
+
+[[operators]]
+mnc = "02"
+plmn = "60402"
+operator = "Wana Corporate"
+brand = "INWI"
+tadig = "MARM3"
+bands = "GSM 900 / GSM 1800"
+
+[[operators.gids]]
+gid1 = "0f"
+gid2 = "02"
+profile_provider_names = ["INWI"]
+profile_names = []
+
+[[operators]]
+mnc = "04"
+plmn = "60404"
+operator = "Al Houria Telecom"
+brand = ""
+
+[[operators]]
+mnc = "05"
+plmn = "60405"
+operator = "Wana Corporate"
+brand = "INWI"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
+
+[[operators]]
+mnc = "06"
+plmn = "60406"
+operator = "Ittissalat Al-Maghrib (Maroc Telecom)"
+brand = "IAM"
+
+[[operators]]
+mnc = "99"
+plmn = "60499"
+operator = "Al Houria Telecom"
+brand = ""

@@ -1,0 +1,11 @@
+mcc = "658"
+country = "Saint Helena, Ascension and Tristan da Cunha"
+iso = "SH"
+region = "Africa"
+
+[[operators]]
+mnc = "01"
+plmn = "65801"
+operator = "Sure South Atlantic Ltd."
+brand = "Sure"
+bands = "GSM 900 / GSM 1800 / LTE 1800"

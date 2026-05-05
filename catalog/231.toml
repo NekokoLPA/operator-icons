@@ -1,0 +1,110 @@
+mcc = "231"
+country = "Slovakia"
+iso = "SK"
+region = "Europe"
+
+[[operators]]
+mnc = "01"
+plmn = "23101"
+operator = "Orange Slovensko"
+brand = "Orange"
+tadig = "SVKGT"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = ["Orange"]
+profile_names = []
+
+[[operators]]
+mnc = "02"
+plmn = "23102"
+operator = "Slovak Telekom"
+brand = "Telekom"
+tadig = "SVKET"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / TD-LTE 3700"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffff"
+gid2 = ""
+profile_provider_names = ["Telekom SK"]
+profile_names = []
+
+[[operators]]
+mnc = "03"
+plmn = "23103"
+operator = "SWAN Mobile, a.s."
+brand = "4ka"
+bands = "LTE 1800 / TD-LTE 3500 / TD-LTE 3700"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["4KA"]
+profile_names = []
+
+[[operators]]
+mnc = "04"
+plmn = "23104"
+operator = "Slovak Telekom"
+brand = "Telekom"
+bands = "GSM 900 / GSM 1800 / UMTS 2100"
+
+[[operators]]
+mnc = "05"
+plmn = "23105"
+operator = "Orange Slovensko"
+brand = "Orange"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100"
+
+[[operators]]
+mnc = "06"
+plmn = "23106"
+operator = "O2 Slovakia"
+brand = "O2"
+tadig = "SVKO2"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / TD-LTE 3500 / TD-LTE 3700"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["Radost"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["O2 SK"]
+profile_names = []
+
+[[operators]]
+mnc = "07"
+plmn = "23107"
+operator = "Towercom, a. s."
+brand = ""
+
+[[operators]]
+mnc = "08"
+plmn = "23108"
+operator = "Uniphone, s.r.o."
+brand = ""
+
+[[operators]]
+mnc = "09"
+plmn = "23109"
+operator = "DSI DATA, a.s."
+brand = ""
+
+[[operators]]
+mnc = "10"
+plmn = "23110"
+operator = "HMZ RÁDIOKOMUNIKÁCIE, spol. s r.o."
+brand = ""
+
+[[operators]]
+mnc = "99"
+plmn = "23199"
+operator = "Železnice Slovenskej Republiky"
+brand = "ŽSR"
+bands = "GSM-R"

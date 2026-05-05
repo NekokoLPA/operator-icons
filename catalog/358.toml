@@ -1,0 +1,12 @@
+mcc = "358"
+country = "Saint Lucia"
+iso = "LC"
+region = "North America and the Caribbean"
+
+[[operators]]
+mnc = "110"
+plmn = "358110"
+operator = "Cable &  Wireless"
+brand = "FLOW"
+tadig = "LCACW"
+bands = "GSM 850 / LTE 700"

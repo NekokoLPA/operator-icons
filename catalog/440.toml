@@ -1,0 +1,375 @@
+mcc = "440"
+country = "Japan"
+iso = "JP"
+region = "Asia and the Middle East"
+
+[[operators]]
+mnc = "00"
+plmn = "44000"
+operator = "SoftBank Corp."
+brand = "Y!Mobile"
+bands = "UMTS 1800"
+
+[[operators]]
+mnc = "01"
+plmn = "44001"
+operator = "UQ Communications Inc."
+brand = "UQ WiMAX"
+bands = "WiMAX 2500 / TD-LTE 2500"
+
+[[operators]]
+mnc = "02"
+plmn = "44002"
+operator = "Hanshin Cable Engineering Co., Ltd."
+brand = ""
+bands = "WiMAX 2500"
+
+[[operators]]
+mnc = "03"
+plmn = "44003"
+operator = "Internet Initiative Japan Inc."
+brand = "IIJmio"
+bands = "MVNO"
+icon = "iijmio"
+icon_scope = "440"
+
+[[operators.gids]]
+gid1 = "f3000010"
+gid2 = "ffffff"
+profile_provider_names = ["IIJ"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "f3000013"
+gid2 = "ffffff"
+profile_provider_names = ["IIJ"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = ["infra"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ff"
+gid2 = "ff"
+profile_provider_names = ["tgt"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["BillionConnect"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["IIJmio"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Trip"]
+profile_names = []
+
+[[operators]]
+mnc = "04"
+plmn = "44004"
+operator = "Japan Radio Company, Ltd."
+brand = ""
+
+[[operators]]
+mnc = "05"
+plmn = "44005"
+operator = "Wireless City Planning Inc."
+brand = ""
+bands = "TD-LTE 2500"
+
+[[operators]]
+mnc = "06"
+plmn = "44006"
+operator = "SAKURA Internet Inc."
+brand = ""
+
+[[operators]]
+mnc = "07"
+plmn = "44007"
+operator = "LTE-X, Inc."
+brand = ""
+bands = "MVNO"
+
+[[operators]]
+mnc = "08"
+plmn = "44008"
+operator = "Panasonic Systems Solutions Japan Co., Ltd."
+brand = ""
+
+[[operators]]
+mnc = "09"
+plmn = "44009"
+operator = "Marubeni Wireless Communications Inc."
+brand = ""
+bands = "MVNO"
+
+[[operators]]
+mnc = "10"
+plmn = "44010"
+operator = "NTT DoCoMo, Inc."
+brand = "NTT docomo"
+tadig = "JPNDO"
+bands = "UMTS 850 / UMTS 1800 / UMTS 2100 / LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 3500"
+
+[[operators.gids]]
+gid1 = "00ffff"
+gid2 = "ffffff"
+profile_provider_names = ["docomo"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "01ffff"
+gid2 = "ffffff"
+profile_provider_names = ["docomo"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffff"
+gid2 = "ffffff"
+profile_provider_names = ["docomo"]
+profile_names = []
+
+[[operators]]
+mnc = "11"
+plmn = "44011"
+operator = "Rakuten Mobile Network, Inc."
+brand = ""
+bands = "1700"
+
+[[operators]]
+mnc = "12"
+plmn = "44012"
+operator = "Cable media waiwai Co., Ltd."
+brand = ""
+
+[[operators]]
+mnc = "20"
+plmn = "44020"
+operator = "SoftBank Corp."
+brand = "SoftBank"
+tadig = "JPNJP"
+bands = "UMTS 900 / UMTS 2100 / LTE 700 / LTE 900 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 3500"
+
+[[operators.gids]]
+gid1 = "00ffff"
+gid2 = "ffffff"
+profile_provider_names = ["SoftBank"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "16ffff"
+gid2 = "ffffff"
+profile_provider_names = ["Y!mobile"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "3597bfd533ffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["BillionConnect"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "48ffff"
+gid2 = "ffffff"
+profile_provider_names = ["LINEMO"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["BillionConnect"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Trip"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["SoftBank"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Waysim"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Dosirak"]
+profile_names = []
+
+[[operators]]
+mnc = "21"
+plmn = "44021"
+operator = "SoftBank Corp."
+brand = "SoftBank"
+bands = "UMTS 900 / UMTS 2100 / LTE 700 / LTE 900 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 3500"
+
+[[operators]]
+mnc = "50"
+plmn = "44050"
+operator = "KDDI Corporation"
+brand = "au"
+bands = "CDMA2000 850 / CDMA2000 2100 / LTE 700 / LTE 850 / LTE 1500 / LTE 2100 / TD-LTE 3500"
+
+[[operators]]
+mnc = "51"
+plmn = "44051"
+operator = "KDDI Corporation"
+brand = "au"
+tadig = "JPNKI"
+bands = "CDMA2000 850 / CDMA2000 2100 / LTE 700 / LTE 850 / LTE 1500 / LTE 2100 / TD-LTE 3500"
+
+[[operators.gids]]
+gid1 = "10"
+gid2 = "00"
+profile_provider_names = ["au"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "20"
+gid2 = "00"
+profile_provider_names = ["UQ mobile"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "20ff"
+gid2 = "ffff"
+profile_provider_names = ["UQ mobile"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "21"
+gid2 = "00"
+profile_provider_names = ["KDDI"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "22"
+gid2 = "00"
+profile_provider_names = ["J:COM"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "23"
+gid2 = "00"
+profile_provider_names = ["KDDI"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "24"
+gid2 = "00"
+profile_provider_names = ["BIGLOBE"]
+profile_names = []
+
+[[operators.gids]]
+gid1 = "26"
+gid2 = "00"
+profile_provider_names = ["povo"]
+profile_names = []
+
+[[operators]]
+mnc = "52"
+plmn = "44052"
+operator = "KDDI Corporation"
+brand = "au"
+bands = "CDMA2000 850 / CDMA2000 2100 / LTE 700 / LTE 850 / LTE 1500 / LTE 2100 / TD-LTE 3500"
+
+[[operators]]
+mnc = "53"
+plmn = "44053"
+operator = "KDDI Corporation"
+brand = "au"
+bands = "CDMA2000 850 / CDMA2000 2100 / LTE 700 / LTE 850 / LTE 1500 / LTE 2100 / TD-LTE 3500"
+
+[[operators]]
+mnc = "54"
+plmn = "44054"
+operator = "KDDI Corporation"
+brand = "au"
+bands = "CDMA2000 850 / CDMA2000 2100 / LTE 700 / LTE 850 / LTE 1500 / LTE 2100 / TD-LTE 3500"
+
+[[operators.gids]]
+gid1 = "20"
+gid2 = "00"
+profile_provider_names = ["UQ mobile"]
+profile_names = []
+
+[[operators]]
+mnc = "70"
+plmn = "44070"
+operator = "KDDI Corporation"
+brand = "au"
+bands = "CDMA2000 850 / CDMA2000 2100 / LTE 700 / LTE 850 / LTE 1500 / LTE 2100 / TD-LTE 3500"
+
+[[operators]]
+mnc = "71"
+plmn = "44071"
+operator = "KDDI Corporation"
+brand = "au"
+bands = "CDMA2000 850 / CDMA2000 2100 / LTE 700 / LTE 850 / LTE 1500 / LTE 2100 / TD-LTE 3500"
+
+[[operators]]
+mnc = "72"
+plmn = "44072"
+operator = "KDDI Corporation"
+brand = "au"
+bands = "CDMA2000 850 / CDMA2000 2100 / LTE 700 / LTE 850 / LTE 1500 / LTE 2100 / TD-LTE 3500"
+
+[[operators]]
+mnc = "73"
+plmn = "44073"
+operator = "KDDI Corporation"
+brand = "au"
+bands = "CDMA2000 850 / CDMA2000 2100 / LTE 700 / LTE 850 / LTE 1500 / LTE 2100 / TD-LTE 3500"
+
+[[operators]]
+mnc = "74"
+plmn = "44074"
+operator = "KDDI Corporation"
+brand = "au"
+bands = "CDMA2000 850 / CDMA2000 2100 / LTE 700 / LTE 850 / LTE 1500 / LTE 2100 / TD-LTE 3500"
+
+[[operators]]
+mnc = "75"
+plmn = "44075"
+operator = "KDDI Corporation"
+brand = "au"
+bands = "CDMA2000 850 / CDMA2000 2100 / LTE 700 / LTE 850 / LTE 1500 / LTE 2100 / TD-LTE 3500"
+
+[[operators]]
+mnc = "76"
+plmn = "44076"
+operator = "KDDI Corporation"
+brand = "au"
+bands = "CDMA2000 850 / CDMA2000 2100 / LTE 700 / LTE 850 / LTE 1500 / LTE 2100 / TD-LTE 3500"
+
+[[operators]]
+mnc = "78"
+plmn = "44078"
+operator = "Okinawa Cellular Telephone"
+brand = "au"
+bands = "CDMA2000 850 / CDMA2000 2100"
+
+[[operators]]
+mnc = "91"
+plmn = "44091"
+operator = "Tokyo Organising Committee of the Olympic and Paralympic Games"
+brand = ""

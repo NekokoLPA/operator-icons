@@ -1,0 +1,165 @@
+mcc = "466"
+country = "Taiwan"
+iso = "TW"
+region = "Asia and the Middle East"
+
+[[operators]]
+mnc = "01"
+plmn = "46601"
+operator = "Far EasTone Telecommunications Co Ltd"
+brand = "FarEasTone"
+tadig = "TWNFE"
+bands = "UMTS 2100 / LTE 700 / LTE 1800 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["FET Taiwan"]
+profile_names = []
+
+[[operators]]
+mnc = "02"
+plmn = "46602"
+operator = "Far EasTone Telecommunications Co Ltd"
+brand = "FarEasTone"
+bands = "GSM 900"
+
+[[operators]]
+mnc = "03"
+plmn = "46603"
+operator = "Far EasTone Telecommunications Co Ltd"
+brand = "FarEasTone"
+bands = "UMTS 2100"
+
+[[operators]]
+mnc = "05"
+plmn = "46605"
+operator = "Asia Pacific Telecom"
+brand = "APTG"
+bands = "LTE 700 / LTE 900 / TD-LTE 2600"
+
+[[operators.gids]]
+gid1 = "0affffffffffffff"
+gid2 = "ff"
+profile_provider_names = ["APT Taiwan"]
+profile_names = []
+
+[[operators]]
+mnc = "06"
+plmn = "46606"
+operator = "Far EasTone Telecommunications Co Ltd"
+brand = "FarEasTone"
+bands = "GSM 1800"
+
+[[operators]]
+mnc = "07"
+plmn = "46607"
+operator = "Far EasTone Telecommunications Co Ltd"
+brand = "FarEasTone"
+bands = "WiMAX 2600"
+
+[[operators]]
+mnc = "09"
+plmn = "46609"
+operator = "Vmax Telecom"
+brand = "VMAX"
+bands = "WiMAX 2600"
+
+[[operators]]
+mnc = "10"
+plmn = "46610"
+operator = "Global Mobile Corp."
+brand = "G1"
+bands = "WiMAX 2600"
+
+[[operators]]
+mnc = "11"
+plmn = "46611"
+operator = "LDTA/Chunghwa Telecom"
+brand = "Chunghwa LDM"
+bands = "GSM 1800"
+
+[[operators]]
+mnc = "12"
+plmn = "46612"
+operator = "Ambit Microsystems"
+brand = ""
+bands = "LTE 700 / LTE 900"
+
+[[operators]]
+mnc = "56"
+plmn = "46656"
+operator = "First International Telecom"
+brand = "FITEL"
+bands = "WiMAX 2600 / PHS"
+
+[[operators]]
+mnc = "68"
+plmn = "46668"
+operator = "Tatung InfoComm"
+brand = ""
+bands = "WiMAX 2600"
+
+[[operators]]
+mnc = "88"
+plmn = "46688"
+operator = "Far EasTone Telecommunications Co Ltd"
+brand = "FarEasTone"
+bands = "GSM 1800"
+
+[[operators]]
+mnc = "89"
+plmn = "46689"
+operator = "Taiwan Star Telecom"
+brand = "T Star"
+tadig = "TWNTG"
+bands = "UMTS 2100 / LTE 900 / LTE 2600"
+
+[[operators]]
+mnc = "90"
+plmn = "46690"
+operator = "Taiwan Star Telecom"
+brand = "T Star"
+bands = "LTE 900"
+
+[[operators]]
+mnc = "92"
+plmn = "46692"
+operator = "Chunghwa Telecom"
+brand = "Chunghwa"
+tadig = "TWNLD"
+bands = "UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["CHT Taiwan"]
+profile_names = []
+
+[[operators]]
+mnc = "93"
+plmn = "46693"
+operator = "Mobitai Communications"
+brand = "MobiTai"
+bands = "GSM 900"
+
+[[operators]]
+mnc = "97"
+plmn = "46697"
+operator = "Taiwan Mobile Co. Ltd"
+brand = "Taiwan Mobile"
+tadig = "TWNPC"
+bands = "UMTS 2100 / LTE 700 / LTE 1800"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["Taiwan Mobile"]
+profile_names = []
+
+[[operators]]
+mnc = "99"
+plmn = "46699"
+operator = "TransAsia Telecoms"
+brand = "TransAsia"
+bands = "GSM 900"

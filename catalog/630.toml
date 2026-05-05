@@ -1,0 +1,60 @@
+mcc = "630"
+country = "Democratic Republic of the Congo"
+iso = "CD"
+region = "Africa"
+
+[[operators]]
+mnc = "01"
+plmn = "63001"
+operator = "Vodacom Congo RDC sprl"
+brand = "Vodacom"
+tadig = "CODVC"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / TD-LTE 3500 / WiMAX 3500"
+
+[[operators]]
+mnc = "02"
+plmn = "63002"
+operator = "Airtel sprl"
+brand = "Airtel"
+tadig = "CODCT"
+bands = "GSM 900 / UMTS 2100"
+
+[[operators]]
+mnc = "05"
+plmn = "63005"
+operator = "Supercell SPRL"
+brand = "Supercell"
+bands = "GSM 900 / GSM 1800"
+
+[[operators]]
+mnc = "86"
+plmn = "63086"
+operator = "Orange RDC sarl"
+brand = "Orange RDC"
+tadig = "CODOR"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / TD-LTE 2600"
+
+[[operators]]
+mnc = "88"
+plmn = "63088"
+operator = "Yozma Timeturns sprl"
+brand = "YTT"
+bands = "GSM 900 / GSM 1800"
+
+[[operators]]
+mnc = "89"
+plmn = "63089"
+operator = "Orange RDC sarl"
+brand = "Orange RDC"
+tadig = "CODSA"
+bands = "GSM 900 / GSM 1800 / UMTS 2100"
+
+[[operators]]
+mnc = "90"
+plmn = "63090"
+operator = "Africell RDC sprl"
+brand = "Africell"
+tadig = "CODAC"
+bands = "GSM 900 / GSM 1800"
+icon = "africell"
+icon_scope = "630"

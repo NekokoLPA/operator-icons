@@ -1,0 +1,55 @@
+mcc = "744"
+country = "Paraguay"
+iso = "PY"
+region = "South and Central America"
+
+[[operators]]
+mnc = "01"
+plmn = "74401"
+operator = "Hola Paraguay S.A."
+brand = "VOX"
+tadig = "PRYVX"
+bands = "GSM 1900 / UMTS 900 / UMTS 1900 / LTE 1700"
+
+[[operators]]
+mnc = "02"
+plmn = "74402"
+operator = "AMX Paraguay S.A."
+brand = "Claro"
+tadig = "PRYHT"
+bands = "GSM 1900 / UMTS 1900 / LTE 1700"
+
+[[operators]]
+mnc = "03"
+plmn = "74403"
+operator = "Compañia Privada de Comunicaciones S.A."
+brand = ""
+
+[[operators]]
+mnc = "04"
+plmn = "74404"
+operator = "Telefónica Celular Del Paraguay S.A. (Telecel)"
+brand = "Tigo"
+tadig = "PRYTC"
+bands = "GSM 850 / UMTS 850 / LTE 1700"
+
+[[operators]]
+mnc = "05"
+plmn = "74405"
+operator = "Núcleo S.A. (TIM)"
+brand = "Personal"
+tadig = "PRYNP"
+bands = "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 1900"
+
+[[operators.gids]]
+gid1 = "ffffffff"
+gid2 = "ffffffff"
+profile_provider_names = ["Personal Paraguay"]
+profile_names = []
+
+[[operators]]
+mnc = "06"
+plmn = "74406"
+operator = "Copaco S.A."
+brand = "Copaco"
+bands = "GSM 1800 / LTE 1700"

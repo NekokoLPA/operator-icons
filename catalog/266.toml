@@ -1,0 +1,38 @@
+mcc = "266"
+country = "Gibraltar (UK)"
+iso = "GI"
+region = "Europe"
+
+[[operators]]
+mnc = "01"
+plmn = "26601"
+operator = "Gibtelecom"
+brand = "GibTel"
+tadig = "GIBGT"
+bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 2600"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffff"
+gid2 = "ffffffffffffffff"
+profile_provider_names = ["GIBTEL"]
+profile_names = []
+
+[[operators]]
+mnc = "03"
+plmn = "26603"
+operator = "GibFibre Ltd"
+brand = "Gibfibrespeed"
+
+[[operators]]
+mnc = "06"
+plmn = "26606"
+operator = "CTS Gibraltar"
+brand = "CTS Mobile"
+bands = "UMTS 2100"
+
+[[operators]]
+mnc = "09"
+plmn = "26609"
+operator = "Eazitelecom"
+brand = "Shine"
+bands = "GSM 1800 / UMTS 2100"

@@ -1,0 +1,54 @@
+mcc = "257"
+country = "Belarus"
+iso = "BY"
+region = "Europe"
+
+[[operators]]
+mnc = "01"
+plmn = "25701"
+operator = "A1 Belarus"
+brand = "A1"
+tadig = "BLRMD"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100"
+
+[[operators.gids]]
+gid1 = "ffffffffffffffffffff"
+gid2 = "ffffffffffffffffffff"
+profile_provider_names = ["A1BY"]
+profile_names = []
+
+[[operators]]
+mnc = "02"
+plmn = "25702"
+operator = "Mobile TeleSystems"
+brand = "MTS"
+tadig = "BLR02"
+bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100"
+
+[[operators]]
+mnc = "03"
+plmn = "25703"
+operator = "BelCel"
+brand = "DIALLOG"
+bands = "CDMA 450"
+
+[[operators]]
+mnc = "04"
+plmn = "25704"
+operator = "Belarusian Telecommunications Network"
+brand = "life:)"
+bands = "GSM 900 / GSM 1800 / UMTS 2100"
+
+[[operators]]
+mnc = "05"
+plmn = "25705"
+operator = "Beltelecom"
+brand = "byfly"
+bands = "WiMAX 3500"
+
+[[operators]]
+mnc = "06"
+plmn = "25706"
+operator = "Belorussian Cloud Technologies"
+brand = "beCloud"
+bands = "LTE 1800 / LTE 2600"
