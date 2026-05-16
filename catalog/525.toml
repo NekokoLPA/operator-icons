@@ -68,14 +68,6 @@ profile_provider_names = []
 profile_names = ["Singtel"]
 
 [[operators]]
-mnc = "02"
-plmn = "52502"
-operator = "Singapore Telecom"
-brand = "SingTel-G18"
-tadig = "SGPML"
-bands = "GSM 1800"
-
-[[operators]]
 mnc = "03"
 plmn = "52503"
 operator = "M1 Limited"
@@ -168,32 +160,6 @@ profile_provider_names = ["UNICOM SG"]
 profile_names = ["UNICOM SG"]
 
 [[operators]]
-mnc = "06"
-plmn = "52506"
-operator = "StarHub Mobile"
-brand = "StarHub"
-
-[[operators]]
-mnc = "07"
-plmn = "52507"
-operator = "Singapore Telecom"
-brand = "SingTel"
-
-[[operators]]
-mnc = "08"
-plmn = "52508"
-operator = "StarHub Mobile"
-brand = "StarHub"
-tadig = "SGPMM"
-
-[[operators]]
-mnc = "09"
-plmn = "52509"
-operator = "Liberty Wireless Pte Ltd"
-brand = "Circles.Life"
-bands = "MVNO"
-
-[[operators]]
 mnc = "10"
 plmn = "52510"
 operator = "TPG Telecom Pte Ltd"
@@ -213,27 +179,3 @@ gid1 = "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
 gid2 = "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
 profile_provider_names = ["SIMBA"]
 profile_names = ["Simba_Telecom_Singapore_MI_5G_AP_v01.04.01"]
-
-[[operators]]
-mnc = "11"
-plmn = "52511"
-operator = "M1 Limited"
-brand = "M1"
-
-[[operators]]
-mnc = "12"
-plmn = "52512"
-operator = "GRID Communications Pte Ltd."
-brand = "Grid"
-bands = "iDEN 800"
-
-[[operators]]
-mnc = "016"
-plmn = "525016"
-brand = "eSIM.sm"
-
-[[operators.gids]]
-gid1 = ""
-gid2 = ""
-profile_provider_names = ["eSIM.sm"]
-profile_names = []

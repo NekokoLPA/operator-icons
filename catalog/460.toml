@@ -91,40 +91,6 @@ profile_provider_names = ["SakiMobi"]
 profile_names = []
 
 [[operators]]
-mnc = "04"
-plmn = "46004"
-operator = "Global Star Satellite"
-brand = "China Mobile"
-
-[[operators]]
-mnc = "05"
-plmn = "46005"
-operator = "China Telecom"
-brand = "China Telecom"
-bands = "CDMA2000 800 / LTE 850 / LTE 1800 / LTE 2100 / TD-LTE 2300 / TD-LTE 2500"
-
-[[operators]]
-mnc = "06"
-plmn = "46006"
-operator = "China Unicom"
-brand = "China Unicom"
-bands = "GSM 900 / GSM 1800 / UMTS 2100"
-
-[[operators]]
-mnc = "07"
-plmn = "46007"
-operator = "China Mobile"
-brand = "China Mobile"
-tadig = "CHNTD"
-bands = "GSM 900 / GSM 1800 / TD-SCDMA 1900 / TD-SCDMA 2000 / TD-LTE 1900 / TD-LTE 2300 / TD-LTE 2500"
-
-[[operators]]
-mnc = "08"
-plmn = "46008"
-operator = "China Mobile"
-brand = "China Mobile"
-
-[[operators]]
 mnc = "09"
 plmn = "46009"
 operator = "China Unicom"
@@ -158,10 +124,3 @@ gid1 = ""
 gid2 = ""
 profile_provider_names = ["eSIM", "Simlessly"]
 profile_names = []
-
-[[operators]]
-mnc = "20"
-plmn = "46020"
-operator = "China Tietong"
-brand = "China Tietong"
-bands = "GSM-R"

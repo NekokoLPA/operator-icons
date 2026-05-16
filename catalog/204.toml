@@ -4,26 +4,6 @@ iso = "NL"
 region = "Europe"
 
 [[operators]]
-mnc = "01"
-plmn = "20401"
-operator = "RadioAccess Network Services"
-brand = ""
-
-[[operators]]
-mnc = "02"
-plmn = "20402"
-operator = "Tele2 Nederland B.V."
-brand = "Tele2"
-bands = "LTE 800 / LTE 2600"
-
-[[operators]]
-mnc = "03"
-plmn = "20403"
-operator = "Voiceworks B.V."
-brand = "Voiceworks"
-bands = "MVNE / PrivateGSM 1800"
-
-[[operators]]
 mnc = "04"
 plmn = "20404"
 operator = "Vodafone Libertel B.V."
@@ -74,19 +54,6 @@ gid1 = "6764ffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["Airalo", "Carrier"]
 profile_names = ["Cloud9_GlobalPlus_T01"]
-
-[[operators]]
-mnc = "05"
-plmn = "20405"
-operator = "Elephant Talk Communications Premium Rate Services"
-brand = ""
-
-[[operators]]
-mnc = "06"
-plmn = "20406"
-operator = "Mundio Mobile (Netherlands) Ltd"
-brand = "Vectone Mobile"
-bands = "MVNO"
 
 [[operators]]
 mnc = "07"
@@ -149,45 +116,6 @@ profile_provider_names = ["LycaMobile"]
 profile_names = ["LYC39298_8K_GEN_NLD_V1.0_V1.8.0_DI_SMENU_SIMFILES_20250219", "LYC38853_5K_GEN_NLD_V1.0_V1.8.0_DI_SMENU_SIMFILES_20241018", "LYC37686_10K_GEN_NLD_V1.0_V1.4.0_DI_SMENU_SIMFILES_20230727"]
 
 [[operators]]
-mnc = "10"
-plmn = "20410"
-operator = "KPN B.V."
-brand = "KPN"
-bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
-
-[[operators]]
-mnc = "11"
-plmn = "20411"
-operator = "VoipIT B.V."
-brand = ""
-
-[[operators]]
-mnc = "12"
-plmn = "20412"
-operator = "KPN Mobile The Netherlands B.V."
-brand = "Telfort"
-bands = "MVNO"
-
-[[operators]]
-mnc = "13"
-plmn = "20413"
-operator = "Unica Installatietechniek B.V."
-brand = ""
-
-[[operators]]
-mnc = "14"
-plmn = "20414"
-operator = "6GMOBILE B.V."
-brand = ""
-
-[[operators]]
-mnc = "15"
-plmn = "20415"
-operator = "Ziggo B.V."
-brand = "Ziggo"
-bands = "LTE 2600"
-
-[[operators]]
 mnc = "16"
 plmn = "20416"
 operator = "Odido"
@@ -208,152 +136,3 @@ gid1 = "ff"
 gid2 = "ff"
 profile_provider_names = ["Odido"]
 profile_names = ["Odido"]
-
-[[operators]]
-mnc = "17"
-plmn = "20417"
-operator = "Intercity Mobile Communications B.V."
-brand = "Intercity Zakelijk"
-bands = "MVNE"
-
-[[operators.gids]]
-gid1 = "ffffffff"
-gid2 = "ffffffff"
-profile_provider_names = []
-profile_names = ["Lebara"]
-
-[[operators]]
-mnc = "18"
-plmn = "20418"
-operator = "UPC Nederland B.V."
-brand = "upc"
-bands = "MVNO"
-
-[[operators]]
-mnc = "19"
-plmn = "20419"
-operator = "Mixe Communication Solutions B.V."
-brand = ""
-
-[[operators]]
-mnc = "20"
-plmn = "20420"
-operator = "Odido"
-brand = "Odido"
-tadig = "NLDDT"
-bands = "GSM 900 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600"
-
-[[operators]]
-mnc = "21"
-plmn = "20421"
-operator = "ProRail B.V."
-brand = ""
-bands = "GSM-R 900"
-
-[[operators]]
-mnc = "22"
-plmn = "20422"
-operator = "Ministerie van Defensie"
-brand = ""
-
-[[operators]]
-mnc = "23"
-plmn = "20423"
-operator = "Wyless Nederland B.V."
-brand = ""
-bands = "MVNE"
-
-[[operators]]
-mnc = "24"
-plmn = "20424"
-operator = "Private Mobility Nederland B.V."
-brand = ""
-
-[[operators]]
-mnc = "25"
-plmn = "20425"
-operator = "CapX B.V."
-brand = ""
-bands = "PrivateGSM 1800"
-
-[[operators]]
-mnc = "26"
-plmn = "20426"
-operator = "SpeakUp B.V."
-brand = ""
-
-[[operators]]
-mnc = "27"
-plmn = "20427"
-operator = "Breezz Nederland B.V."
-brand = ""
-
-[[operators]]
-mnc = "28"
-plmn = "20428"
-operator = "Lancelot B.V."
-brand = ""
-
-[[operators]]
-mnc = "29"
-plmn = "20429"
-operator = "Private Mobile Ltd"
-brand = ""
-
-[[operators]]
-mnc = "60"
-plmn = "20460"
-operator = "Nextgen Mobile Ltd"
-brand = ""
-
-[[operators]]
-mnc = "61"
-plmn = "20461"
-operator = "BodyTrace Netherlands B.V."
-brand = ""
-bands = "MVNO"
-
-[[operators]]
-mnc = "62"
-plmn = "20462"
-operator = "Voxbone mobile"
-brand = "Voxbone"
-bands = "MVNO"
-
-[[operators]]
-mnc = "64"
-plmn = "20464"
-operator = "Zetacom B.V."
-brand = ""
-
-[[operators]]
-mnc = "65"
-plmn = "20465"
-operator = "AGMS Netherlands B.V."
-brand = ""
-
-[[operators]]
-mnc = "66"
-plmn = "20466"
-operator = "Utility Connect B.V."
-brand = ""
-bands = "CDMA 450"
-
-[[operators]]
-mnc = "67"
-plmn = "20467"
-operator = "Koning en Hartman B.V."
-brand = ""
-bands = "PrivateGSM 1800"
-
-[[operators]]
-mnc = "68"
-plmn = "20468"
-operator = "Roamware (Netherlands) B.V."
-brand = ""
-
-[[operators]]
-mnc = "69"
-plmn = "20469"
-operator = "KPN Mobile The Netherlands B.V."
-brand = ""

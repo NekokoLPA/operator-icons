@@ -99,27 +99,6 @@ profile_provider_names = ["Willkommen"]
 profile_names = ["pre green", "post green", "eSIM TEF POSTPAID_GREEN V5", "OneSIM green TUAK FB"]
 
 [[operators]]
-mnc = "04"
-plmn = "26204"
-operator = "Vodafone D2 GmbH"
-brand = "Vodafone"
-bands = "GSM 900 / GSM 1800 / UMTS 2100"
-
-[[operators]]
-mnc = "05"
-plmn = "26205"
-operator = "Telefónica Germany GmbH & Co. oHG"
-brand = "O2"
-bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100"
-
-[[operators]]
-mnc = "06"
-plmn = "26206"
-operator = "Telekom Deutschland GmbH"
-brand = "Telekom"
-bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2600"
-
-[[operators]]
 mnc = "07"
 plmn = "26207"
 operator = "Telefónica Germany GmbH & Co. oHG"
@@ -136,48 +115,6 @@ profile_provider_names = ["Willkommen"]
 profile_names = ["post blue", "post blue Klarmobil", "pre blue"]
 
 [[operators]]
-mnc = "08"
-plmn = "26208"
-operator = "Telefónica Germany GmbH & Co. oHG"
-brand = "O2"
-bands = "GSM 900 / GSM 1800 / UMTS 2100"
-
-[[operators]]
-mnc = "09"
-plmn = "26209"
-operator = "Vodafone D2 GmbH"
-brand = "Vodafone"
-bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 2600"
-
-[[operators]]
-mnc = "10"
-plmn = "26210"
-operator = "DB Netz AG"
-brand = ""
-bands = "GSM-R"
-
-[[operators]]
-mnc = "11"
-plmn = "26211"
-operator = "Telefónica Germany GmbH & Co. oHG"
-brand = "O2"
-bands = "GSM 900 / GSM 1800 / UMTS 2100"
-
-[[operators]]
-mnc = "12"
-plmn = "26212"
-operator = "sipgate GmbH"
-brand = "Simquadrat"
-bands = "MVNO"
-
-[[operators]]
-mnc = "13"
-plmn = "26213"
-operator = "Mobilcom Multimedia"
-brand = ""
-bands = "UMTS 2100"
-
-[[operators]]
 mnc = "14"
 plmn = "26214"
 operator = "Group 3G UMTS"
@@ -191,59 +128,6 @@ gid1 = "ffffffff"
 gid2 = "ffffffff"
 profile_provider_names = ["Lebara"]
 profile_names = ["Lebara"]
-
-[[operators]]
-mnc = "15"
-plmn = "26215"
-brand = "Airdata"
-bands = "TD-SCDMA"
-
-[[operators]]
-mnc = "16"
-plmn = "26216"
-operator = "Telogic Germany GmbH"
-brand = ""
-bands = "MVNO"
-
-[[operators]]
-mnc = "17"
-plmn = "26217"
-operator = "Telefónica Germany GmbH & Co. oHG"
-brand = "O2"
-
-[[operators]]
-mnc = "18"
-plmn = "26218"
-operator = "NetCologne"
-brand = ""
-bands = "MVNO"
-
-[[operators]]
-mnc = "19"
-plmn = "26219"
-operator = "Inquam Deutschland"
-brand = ""
-bands = "CDMA 450"
-
-[[operators]]
-mnc = "20"
-plmn = "26220"
-operator = "Voiceworks GmbH"
-brand = "Voiceworks"
-bands = "MVNE"
-
-[[operators]]
-mnc = "21"
-plmn = "26221"
-operator = "Multiconnect GmbH"
-brand = ""
-
-[[operators]]
-mnc = "22"
-plmn = "26222"
-operator = "sipgate Wireless GmbH"
-brand = ""
-bands = "MVNO"
 
 [[operators]]
 mnc = "23"
@@ -275,37 +159,6 @@ profile_provider_names = []
 profile_names = ["eSIM.me"]
 
 [[operators]]
-mnc = "25"
-plmn = "26225"
-brand = ""
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = []
-profile_names = ["MTEL Germany"]
-
-[[operators]]
-mnc = "33"
-plmn = "26233"
-operator = "sipgate GmbH"
-brand = "simquadrat"
-bands = "MVNO"
-
-[[operators]]
-mnc = "41"
-plmn = "26241"
-operator = "First Telecom GmbH"
-brand = ""
-
-[[operators]]
-mnc = "42"
-plmn = "26242"
-operator = "Chaos Computer Club"
-brand = "CCC Event"
-bands = "GSM 1800"
-
-[[operators]]
 mnc = "43"
 plmn = "26243"
 operator = "Lycamobile"
@@ -325,73 +178,3 @@ gid1 = "ffffffff"
 gid2 = "ffffffff"
 profile_provider_names = ["LycaMobile"]
 profile_names = ["LycaMobile Germany"]
-
-[[operators]]
-mnc = "60"
-plmn = "26260"
-operator = "DB Telematik"
-brand = ""
-bands = "GSM-R 900"
-
-[[operators]]
-mnc = "71"
-plmn = "26271"
-operator = "GSMK"
-brand = ""
-
-[[operators]]
-mnc = "72"
-plmn = "26272"
-operator = "Ericsson GmbH"
-brand = ""
-
-[[operators]]
-mnc = "73"
-plmn = "26273"
-operator = "Nokia"
-brand = ""
-
-[[operators]]
-mnc = "74"
-plmn = "26274"
-operator = "Qualcomm CDMA Technologies GmbH"
-brand = ""
-
-[[operators]]
-mnc = "75"
-plmn = "26275"
-operator = "Core Network Dynamics GmbH"
-brand = ""
-
-[[operators]]
-mnc = "76"
-plmn = "26276"
-operator = "Siemens AG"
-brand = ""
-bands = "GSM 900"
-
-[[operators]]
-mnc = "77"
-plmn = "26277"
-operator = "Telefónica Germany GmbH & Co. oHG"
-brand = "O2"
-bands = "GSM 900"
-
-[[operators]]
-mnc = "78"
-plmn = "26278"
-operator = "Telekom Deutschland GmbH"
-brand = "Telekom"
-
-[[operators]]
-mnc = "79"
-plmn = "26279"
-operator = "ng4T GmbH"
-brand = ""
-
-[[operators]]
-mnc = "92"
-plmn = "26292"
-operator = "Nash Technologies"
-brand = ""
-bands = "GSM 1800 / UMTS 2100"

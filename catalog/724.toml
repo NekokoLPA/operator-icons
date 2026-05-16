@@ -4,20 +4,6 @@ iso = "BR"
 region = "South and Central America"
 
 [[operators]]
-mnc = "00"
-plmn = "72400"
-operator = "NII Holdings, Inc."
-brand = "Nextel"
-bands = "iDEN 850"
-
-[[operators]]
-mnc = "01"
-plmn = "72401"
-operator = "SISTEER DO BRASIL TELECOMUNICAÇÔES"
-brand = ""
-bands = "MVNO"
-
-[[operators]]
 mnc = "02"
 plmn = "72402"
 operator = "Telecom Italia Mobile"
@@ -82,14 +68,6 @@ profile_provider_names = ["CLARO BR"]
 profile_names = ["BRAMCL005891V2.00_AMDOCS_MINHA_CLARO", "BRAMCL005891V2.00_AMDOCS", "BRAMCL004891V2.00_5GSA_AMDOCS", "BRAMCL005891V2.00_AMDOCS_FLEX", "ClaroBR"]
 
 [[operators]]
-mnc = "06"
-plmn = "72406"
-operator = "Telefônica Brasil S.A."
-brand = "Vivo"
-tadig = "BRAV2"
-bands = "GSM 850 / GSM 1800 / UMTS 850 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2600"
-
-[[operators]]
 mnc = "10"
 plmn = "72410"
 operator = "Telefônica Brasil S.A."
@@ -122,21 +100,6 @@ profile_provider_names = ["Operadora", "Vivo"]
 profile_names = ["BASE Region - Unified Profile R8", "RJ State - Profile 5G SA - RI 4 digits", "ES State - Unified Profile R8", "NE Region - Profile 5G SA - RI 4 digits", "BASE Region - Profile 5G SA - RI 4", "NE Region - MVNO R8", "NE Region - Unified Profile R8", "PAMA Region - Unified Profile R8", "RJ State - Unified Profile R8"]
 
 [[operators]]
-mnc = "15"
-plmn = "72415"
-operator = "Sercomtel Celular"
-brand = "Sercomtel"
-bands = "GSM 900 / GSM 1800 / UMTS 850"
-
-[[operators]]
-mnc = "16"
-plmn = "72416"
-operator = "Brasil Telecom GSM"
-brand = "Brasil Telecom GSM"
-tadig = "BRABT"
-bands = "GSM 1800 / UMTS 2100"
-
-[[operators]]
 mnc = "17"
 plmn = "72417"
 operator = "Surf Telecom"
@@ -152,32 +115,6 @@ profile_provider_names = ["Chip Virtual"]
 profile_names = ["Surf"]
 
 [[operators]]
-mnc = "18"
-plmn = "72418"
-operator = "Datora (Vodafone)"
-brand = "datora"
-bands = "MVNO"
-
-[[operators]]
-mnc = "23"
-plmn = "72423"
-operator = "Telefônica Brasil S.A."
-brand = "Vivo"
-tadig = "BRATC"
-bands = "GSM 850 / GSM 1800 / UMTS 850 / UMTS 2100 / LTE 1800 / LTE 2600"
-
-[[operators]]
-mnc = "24"
-plmn = "72424"
-operator = "Amazonia Celular"
-brand = ""
-
-[[operators]]
-mnc = "28"
-plmn = "72428"
-brand = "No name"
-
-[[operators]]
 mnc = "29"
 plmn = "72429"
 brand = "Unifique"
@@ -189,20 +126,6 @@ gid1 = ""
 gid2 = ""
 profile_provider_names = ["Unifique"]
 profile_names = ["Unifique_default"]
-
-[[operators]]
-mnc = "30"
-plmn = "72430"
-operator = "TNL PCS Oi"
-brand = "Oi"
-
-[[operators]]
-mnc = "31"
-plmn = "72431"
-operator = "TNL PCS Oi"
-brand = "Oi"
-tadig = "BRATM"
-bands = "GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100 / LTE 2600"
 
 [[operators]]
 mnc = "32"
@@ -251,55 +174,6 @@ profile_provider_names = ["Algar Telecom"]
 profile_names = ["07.01.T01"]
 
 [[operators]]
-mnc = "35"
-plmn = "72435"
-operator = "Telcom Telecomunicações"
-brand = ""
-
-[[operators]]
-mnc = "36"
-plmn = "72436"
-operator = "Options Telecomunicações"
-brand = ""
-
-[[operators]]
-mnc = "37"
-plmn = "72437"
-operator = "Unicel"
-brand = "aeiou"
-
-[[operators]]
-mnc = "38"
-plmn = "72438"
-operator = "Claro"
-brand = "Claro"
-
-[[operators]]
-mnc = "39"
-plmn = "72439"
-operator = "NII Holdings, Inc."
-brand = "Nextel"
-bands = "UMTS 2100 / LTE 1800 / LTE 2100"
-
-[[operators]]
-mnc = "40"
-plmn = "72440"
-brand = "Airalo"
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffff"
-gid2 = "ffffffffffffffffff"
-profile_provider_names = ["Airalo"]
-profile_names = ["03.01"]
-
-[[operators]]
-mnc = "54"
-plmn = "72454"
-operator = "PORTO SEGURO TELECOMUNICAÇÔES"
-brand = "Conecta"
-bands = "MVNO"
-
-[[operators]]
 mnc = "77"
 plmn = "72477"
 brand = "Brisanet"
@@ -311,8 +185,3 @@ gid1 = ""
 gid2 = ""
 profile_provider_names = ["Brisanet"]
 profile_names = ["89557788000007405872", "89557788000018447129"]
-
-[[operators]]
-mnc = "99"
-plmn = "72499"
-brand = "Local"

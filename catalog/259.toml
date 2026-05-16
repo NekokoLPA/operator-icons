@@ -20,33 +20,6 @@ profile_provider_names = ["Orange"]
 profile_names = ["Orange eSIM MID"]
 
 [[operators]]
-mnc = "02"
-plmn = "25902"
-brand = "Moldcell"
-tadig = "MDAMC"
-bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2600"
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = []
-profile_names = ["Moldcell"]
-
-[[operators]]
-mnc = "03"
-plmn = "25903"
-operator = "Moldtelecom"
-brand = "Unité"
-bands = "CDMA 450"
-
-[[operators]]
-mnc = "04"
-plmn = "25904"
-operator = "Eventis Telecom"
-brand = "Eventis"
-bands = "GSM 900 / GSM 1800"
-
-[[operators]]
 mnc = "05"
 plmn = "25905"
 operator = "Moldtelecom"
@@ -66,17 +39,3 @@ gid1 = "none"
 gid2 = "none"
 profile_provider_names = []
 profile_names = ["MoldTelecom_eSIMCons_4GLTEProfile_MLU00268_Qty_100001", "Moldtelecom_eUICC_v01.13_Order01"]
-
-[[operators]]
-mnc = "15"
-plmn = "25915"
-operator = "Interdnestrcom"
-brand = "IDC"
-bands = "LTE 800"
-
-[[operators]]
-mnc = "99"
-plmn = "25999"
-operator = "Moldtelecom"
-brand = "Unité"
-bands = "UMTS 2100"

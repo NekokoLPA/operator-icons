@@ -76,55 +76,6 @@ profile_provider_names = ["SCT"]
 profile_names = ["HongKongSCT"]
 
 [[operators]]
-mnc = "02"
-plmn = "20802"
-operator = "Orange S.A."
-brand = "Orange"
-bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100"
-
-[[operators]]
-mnc = "03"
-plmn = "20803"
-operator = "MobiquiThings"
-brand = "MobiquiThings"
-bands = "MVNO"
-
-[[operators]]
-mnc = "04"
-plmn = "20804"
-operator = "Societe d'ingenierie systeme telecom et reseaux"
-brand = "Sisteer"
-bands = "MVNO"
-
-[[operators]]
-mnc = "05"
-plmn = "20805"
-operator = "Globalstar Europe"
-brand = ""
-bands = "Satellite"
-
-[[operators]]
-mnc = "06"
-plmn = "20806"
-operator = "Globalstar Europe"
-brand = ""
-bands = "Satellite"
-
-[[operators]]
-mnc = "07"
-plmn = "20807"
-operator = "Globalstar Europe"
-brand = ""
-bands = "Satellite"
-
-[[operators]]
-mnc = "08"
-plmn = "20808"
-operator = "Altice"
-brand = "SFR"
-bands = "MVNO"
-
-[[operators]]
 mnc = "09"
 plmn = "20809"
 operator = "Altice"
@@ -174,34 +125,6 @@ profile_provider_names = ["RégloMobile"]
 profile_names = ["REGLO Mobile"]
 
 [[operators]]
-mnc = "11"
-plmn = "20811"
-operator = "Altice"
-brand = "SFR"
-bands = "UMTS 2100"
-
-[[operators]]
-mnc = "12"
-plmn = "20812"
-operator = "Truphone France"
-brand = "Truphone"
-bands = "MVNO"
-
-[[operators]]
-mnc = "13"
-plmn = "20813"
-operator = "Altice"
-brand = "SFR"
-bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100"
-
-[[operators]]
-mnc = "14"
-plmn = "20814"
-operator = "SNCF Réseau"
-brand = "SNCF Réseau"
-bands = "GSM-R"
-
-[[operators]]
 mnc = "15"
 plmn = "20815"
 operator = "Iliad"
@@ -216,33 +139,6 @@ gid1 = "ffffffff"
 gid2 = "ffffffff"
 profile_provider_names = ["Free"]
 profile_names = ["Free Mobile"]
-
-[[operators]]
-mnc = "16"
-plmn = "20816"
-operator = "Iliad"
-brand = "Free Mobile"
-bands = "UMTS 900 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2600"
-
-[[operators]]
-mnc = "17"
-plmn = "20817"
-operator = "Local Exchange Global Operation Services"
-brand = "LEGOS"
-
-[[operators]]
-mnc = "18"
-plmn = "20818"
-operator = "Voxbone mobile"
-brand = "Voxbone"
-bands = "MVNO"
-
-[[operators]]
-mnc = "19"
-plmn = "20819"
-operator = "Haute-Garonne numérique"
-brand = ""
-bands = "LTE"
 
 [[operators]]
 mnc = "20"
@@ -267,34 +163,6 @@ profile_provider_names = ["Bouygues Telecom"]
 profile_names = ["Bouygues Telecom"]
 
 [[operators]]
-mnc = "21"
-plmn = "20821"
-operator = "Bouygues Telecom"
-brand = "Bouygues"
-bands = "GSM 900 / GSM 1800 / UMTS 2100 / UMTS 900"
-
-[[operators]]
-mnc = "22"
-plmn = "20822"
-operator = "Transatel"
-brand = "Transatel Mobile"
-bands = "MVNO"
-
-[[operators]]
-mnc = "23"
-plmn = "20823"
-operator = "Syndicat mixte ouvert Charente Numérique"
-brand = ""
-bands = "TD-LTE"
-
-[[operators]]
-mnc = "24"
-plmn = "20824"
-operator = "MobiquiThings"
-brand = "MobiquiThings"
-bands = "MVNO"
-
-[[operators]]
 mnc = "25"
 plmn = "20825"
 operator = "LycaMobile"
@@ -316,73 +184,6 @@ profile_provider_names = ["LycaMobile"]
 profile_names = ["LycaMobile"]
 
 [[operators]]
-mnc = "26"
-plmn = "20826"
-operator = "Euro-Information Telecom SAS"
-brand = "NRJ Mobile"
-bands = "MVNO"
-
-[[operators]]
-mnc = "27"
-plmn = "20827"
-operator = "Coriolis Telecom"
-brand = ""
-bands = "MVNO"
-
-[[operators]]
-mnc = "28"
-plmn = "20828"
-operator = "Airbus Defence and Space SAS"
-brand = ""
-
-[[operators.gids]]
-gid1 = "4e524a31ffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = []
-profile_names = ["Airmob_OAS0015_15K_DualIMSI_eSIM"]
-
-[[operators]]
-mnc = "29"
-plmn = "20829"
-operator = "Cubic télécom France"
-brand = ""
-bands = "MVNO"
-
-[[operators]]
-mnc = "30"
-plmn = "20830"
-operator = "Syma Mobile"
-brand = ""
-bands = "MVNO"
-
-[[operators]]
-mnc = "31"
-plmn = "20831"
-operator = "Mundio Mobile"
-brand = "Vectone Mobile"
-bands = "MVNO"
-
-[[operators]]
-mnc = "32"
-plmn = "20832"
-operator = "Orange S.A."
-brand = "Orange"
-
-[[operators]]
-mnc = "33"
-plmn = "20833"
-operator = "Département des Pyrénées-Atlantiques"
-brand = ""
-bands = "WiMAX"
-
-[[operators]]
-mnc = "34"
-plmn = "20834"
-operator = "Cellhire France"
-brand = ""
-bands = "MVNO"
-
-[[operators]]
 mnc = "38"
 plmn = "20838"
 operator = "Lebara"
@@ -395,96 +196,3 @@ gid1 = ""
 gid2 = ""
 profile_provider_names = ["Lebara"]
 profile_names = ["Lebara"]
-
-[[operators]]
-mnc = "50"
-plmn = "20850"
-operator = "EDF"
-brand = ""
-
-[[operators]]
-mnc = "70"
-plmn = "20870"
-operator = "Weaccess group"
-brand = ""
-
-[[operators]]
-mnc = "86"
-plmn = "20886"
-operator = "SEM@FOR77"
-brand = ""
-
-[[operators]]
-mnc = "87"
-plmn = "20887"
-operator = "Régie autonome des transports parisiens"
-brand = "RATP"
-
-[[operators]]
-mnc = "88"
-plmn = "20888"
-operator = "Bouygues Telecom"
-brand = "Bouygues"
-bands = "GSM 900 / GSM 1800"
-
-[[operators]]
-mnc = "89"
-plmn = "20889"
-operator = "Fondation b-com"
-brand = ""
-
-[[operators]]
-mnc = "90"
-plmn = "20890"
-operator = "Images & Réseaux"
-brand = ""
-
-[[operators]]
-mnc = "91"
-plmn = "20891"
-operator = "Orange S.A."
-brand = ""
-
-[[operators]]
-mnc = "92"
-plmn = "20892"
-operator = "Association Plate-forme Télécom"
-brand = "Com4Innov"
-bands = "TD-LTE 2300 / LTE 2600"
-
-[[operators]]
-mnc = "93"
-plmn = "20893"
-operator = "Thales Communications & Security SAS"
-brand = ""
-
-[[operators]]
-mnc = "94"
-plmn = "20894"
-operator = "Halys"
-brand = ""
-
-[[operators]]
-mnc = "95"
-plmn = "20895"
-operator = "Orange S.A."
-brand = ""
-
-[[operators]]
-mnc = "96"
-plmn = "20896"
-operator = "Région Bourgogne-Franche-Comté"
-brand = ""
-bands = "LTE"
-
-[[operators]]
-mnc = "97"
-plmn = "20897"
-operator = "Thales Communications & Security SAS"
-brand = ""
-
-[[operators]]
-mnc = "98"
-plmn = "20898"
-operator = "Société Air France"
-brand = ""

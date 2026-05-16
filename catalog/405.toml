@@ -4,326 +4,6 @@ iso = "IN"
 region = "Asia and the Middle East"
 
 [[operators]]
-mnc = "01"
-plmn = "40501"
-operator = "Andhra Pradesh and Telangana"
-brand = "Reliance"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "03"
-plmn = "40503"
-operator = "Bihar"
-brand = "Reliance"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "04"
-plmn = "40504"
-operator = "Chennai"
-brand = "Reliance"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "05"
-plmn = "40505"
-operator = "Delhi & NCR"
-brand = "Reliance"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "06"
-plmn = "40506"
-operator = "Gujarat"
-brand = "Reliance"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "07"
-plmn = "40507"
-operator = "Haryana"
-brand = "Reliance"
-bands = "GSM"
-
-[[operators]]
-mnc = "08"
-plmn = "40508"
-operator = "Himachal Pradesh"
-brand = "Reliance"
-bands = "GSM"
-
-[[operators]]
-mnc = "09"
-plmn = "40509"
-operator = "Jammu & Kashmir"
-brand = "Reliance"
-bands = "GSM 1800 / UMTS 2100"
-
-[[operators]]
-mnc = "10"
-plmn = "40510"
-operator = "Karnataka"
-brand = "Reliance"
-bands = "GSM"
-
-[[operators]]
-mnc = "11"
-plmn = "40511"
-operator = "Kerala"
-brand = "Reliance"
-bands = "GSM"
-
-[[operators]]
-mnc = "12"
-plmn = "40512"
-operator = "Kolkata"
-brand = "Reliance"
-bands = "GSM"
-
-[[operators]]
-mnc = "13"
-plmn = "40513"
-operator = "Maharashtra & Goa"
-brand = "Reliance"
-bands = "GSM"
-
-[[operators]]
-mnc = "14"
-plmn = "40514"
-operator = "Madhya Pradesh"
-brand = "Reliance"
-bands = "GSM"
-
-[[operators]]
-mnc = "15"
-plmn = "40515"
-operator = "Mumbai"
-brand = "Reliance"
-bands = "GSM 1800 / UMTS 2100"
-
-[[operators]]
-mnc = "17"
-plmn = "40517"
-operator = "Orissa"
-brand = "Reliance"
-bands = "GSM"
-
-[[operators]]
-mnc = "18"
-plmn = "40518"
-operator = "Punjab"
-brand = "Reliance"
-bands = "GSM"
-
-[[operators]]
-mnc = "19"
-plmn = "40519"
-operator = "Rajasthan"
-brand = "Reliance"
-bands = "GSM"
-
-[[operators]]
-mnc = "20"
-plmn = "40520"
-operator = "Tamil Nadu"
-brand = "Reliance"
-bands = "GSM"
-
-[[operators]]
-mnc = "21"
-plmn = "40521"
-operator = "Uttar Pradesh (East)"
-brand = "Reliance"
-bands = "GSM"
-
-[[operators]]
-mnc = "22"
-plmn = "40522"
-operator = "Uttar Pradesh (West)"
-brand = "Reliance"
-bands = "GSM"
-
-[[operators]]
-mnc = "23"
-plmn = "40523"
-operator = "West Bengal"
-brand = "Reliance"
-bands = "GSM"
-
-[[operators]]
-mnc = "025"
-plmn = "405025"
-operator = "Andhra Pradesh and Telangana"
-brand = "TATA DOCOMO"
-tadig = "INDT0"
-bands = "CDMA 2000 / GSM 1800 / UMTS 2100"
-
-[[operators]]
-mnc = "026"
-plmn = "405026"
-operator = "Assam"
-brand = "TATA DOCOMO"
-bands = "CDMA 2000"
-
-[[operators]]
-mnc = "027"
-plmn = "405027"
-operator = "Bihar/Jharkhand"
-brand = "TATA DOCOMO"
-tadig = "INDTB"
-bands = "CDMA 2000 / GSM 1800"
-
-[[operators]]
-mnc = "028"
-plmn = "405028"
-operator = "Chennai"
-brand = "TATA DOCOMO"
-bands = "CDMA 2000 / GSM 1800"
-
-[[operators]]
-mnc = "029"
-plmn = "405029"
-operator = "Delhi"
-brand = "TATA DOCOMO"
-tadig = "INDTD"
-bands = "CDMA 2000"
-
-[[operators]]
-mnc = "030"
-plmn = "405030"
-operator = "Gujarat"
-brand = "TATA DOCOMO"
-tadig = "INDTG"
-bands = "CDMA 2000 / GSM 1800 / UMTS 2100"
-
-[[operators]]
-mnc = "031"
-plmn = "405031"
-operator = "Haryana"
-brand = "TATA DOCOMO"
-tadig = "INDTH"
-bands = "CDMA 2000 / GSM 1800 / UMTS 2100"
-
-[[operators]]
-mnc = "032"
-plmn = "405032"
-operator = "Himachal Pradesh"
-brand = "TATA DOCOMO"
-tadig = "INDT4"
-bands = "CDMA 2000 / GSM 1800 / UMTS 2100"
-
-[[operators]]
-mnc = "033"
-plmn = "405033"
-operator = "Jammu & Kashmir"
-brand = "TATA DOCOMO"
-bands = "CDMA 2000"
-
-[[operators]]
-mnc = "034"
-plmn = "405034"
-operator = "Karnataka"
-brand = "TATA DOCOMO"
-tadig = "INDT1"
-bands = "CDMA 2000 / GSM 1800 / UMTS 2100"
-
-[[operators]]
-mnc = "035"
-plmn = "405035"
-operator = "Kerala"
-brand = "TATA DOCOMO"
-tadig = "INDT3"
-bands = "CDMA 2000 / GSM 1800 / UMTS 2100"
-
-[[operators]]
-mnc = "036"
-plmn = "405036"
-operator = "Kolkata"
-brand = "TATA DOCOMO"
-tadig = "INDTK"
-bands = "CDMA 2000 / GSM 1800"
-
-[[operators]]
-mnc = "037"
-plmn = "405037"
-operator = "Maharashtra & Goa"
-brand = "TATA DOCOMO"
-tadig = "INDT6"
-bands = "CDMA 2000 / GSM 1800 / UMTS 2100"
-
-[[operators]]
-mnc = "038"
-plmn = "405038"
-operator = "Madhya Pradesh"
-brand = "TATA DOCOMO"
-tadig = "INDT5"
-bands = "CDMA 2000 / GSM 1800 / UMTS 2100"
-
-[[operators]]
-mnc = "039"
-plmn = "405039"
-operator = "Mumbai"
-brand = "TATA DOCOMO"
-tadig = "INDTM"
-bands = "CDMA 2000 / GSM 1800"
-
-[[operators]]
-mnc = "041"
-plmn = "405041"
-operator = "Orissa"
-brand = "TATA DOCOMO"
-tadig = "INDTO"
-bands = "CDMA 2000 / GSM 1800"
-
-[[operators]]
-mnc = "042"
-plmn = "405042"
-operator = "Punjab"
-brand = "TATA DOCOMO"
-tadig = "INDTP"
-bands = "CDMA 2000 / GSM 1800 / UMTS 2100"
-
-[[operators]]
-mnc = "043"
-plmn = "405043"
-operator = "Rajasthan"
-brand = "TATA DOCOMO"
-tadig = "INDTR"
-bands = "CDMA 2000 / GSM 1800 / UMTS 2100"
-
-[[operators]]
-mnc = "044"
-plmn = "405044"
-operator = "Tamil Nadu including Chennai"
-brand = "TATA DOCOMO"
-tadig = "INDT2"
-bands = "CDMA 2000 / GSM 1800"
-
-[[operators]]
-mnc = "045"
-plmn = "405045"
-operator = "Uttar Pradesh (E)"
-brand = "TATA DOCOMO"
-tadig = "INDT7"
-bands = "CDMA 2000 / GSM 1800"
-
-[[operators]]
-mnc = "046"
-plmn = "405046"
-operator = "Uttar Pradesh (W) & Uttarakhand"
-brand = "TATA DOCOMO"
-tadig = "INDT8"
-bands = "CDMA 2000 / GSM 1800 / UMTS 2100"
-
-[[operators]]
-mnc = "047"
-plmn = "405047"
-operator = "West Bengal"
-brand = "TATA DOCOMO"
-tadig = "INDT9"
-bands = "CDMA 2000 / GSM 1800"
-
-[[operators]]
 mnc = "51"
 plmn = "40551"
 operator = "West Bengal"
@@ -356,14 +36,6 @@ profile_provider_names = []
 profile_names = []
 
 [[operators]]
-mnc = "53"
-plmn = "40553"
-operator = "Orissa"
-brand = "AirTel"
-tadig = "IND11"
-bands = "GSM"
-
-[[operators]]
 mnc = "54"
 plmn = "40554"
 operator = "Uttar Pradesh (East)"
@@ -380,28 +52,6 @@ profile_provider_names = []
 profile_names = ["8991542277704479998F", "8991542277702272205F", "8991542077701069416F", "8991541977700827915F"]
 
 [[operators]]
-mnc = "55"
-plmn = "40555"
-operator = "Jammu & Kashmir"
-brand = "Airtel"
-bands = "GSM 900 / UTMS 2100"
-
-[[operators]]
-mnc = "56"
-plmn = "40556"
-operator = "Assam"
-brand = "AirTel"
-tadig = "IND15"
-bands = "GSM 900 / GSM 1800"
-
-[[operators]]
-mnc = "66"
-plmn = "40566"
-operator = "Uttar Pradesh (West)"
-brand = "Vodafone India"
-bands = "GSM 900 / GSM 1800"
-
-[[operators]]
 mnc = "67"
 plmn = "40567"
 operator = "West Bengal"
@@ -414,14 +64,6 @@ gid1 = "ff"
 gid2 = "ff"
 profile_provider_names = ["Vi"]
 profile_names = ["VIL_PR_PROD_GND_RB_2"]
-
-[[operators]]
-mnc = "70"
-plmn = "40570"
-operator = "Bihar & Jharkhand"
-brand = "IDEA"
-tadig = "INDIB"
-bands = "GSM 1800"
 
 [[operators]]
 mnc = "75"
@@ -450,223 +92,6 @@ profile_provider_names = ["Vi"]
 profile_names = []
 
 [[operators]]
-mnc = "750"
-plmn = "405750"
-operator = "Jammu & Kashmir"
-brand = "Vodafone India"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "751"
-plmn = "405751"
-operator = "Assam"
-brand = "Vodafone India"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "752"
-plmn = "405752"
-operator = "Bihar & Jharkhand"
-brand = "Vodafone India"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "753"
-plmn = "405753"
-operator = "Orissa"
-brand = "Vodafone India"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "754"
-plmn = "405754"
-operator = "Himachal Pradesh"
-brand = "Vodafone India"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "755"
-plmn = "405755"
-operator = "North East"
-brand = "Vodafone India"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "756"
-plmn = "405756"
-operator = "Madhya Pradesh & Chhattisgarh"
-brand = "Vodafone India"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "799"
-plmn = "405799"
-operator = "Mumbai"
-brand = "IDEA"
-tadig = "INDIM"
-bands = "GSM 900 / GSM 1800"
-
-[[operators]]
-mnc = "800"
-plmn = "405800"
-operator = "Delhi & NCR"
-brand = "AIRCEL"
-tadig = "IND19"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "801"
-plmn = "405801"
-operator = "Andhra Pradesh and Telangana"
-brand = "AIRCEL"
-tadig = "IND23"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "802"
-plmn = "405802"
-operator = "Gujarat"
-brand = "AIRCEL"
-tadig = "IND28"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "803"
-plmn = "405803"
-operator = "Karnataka"
-brand = "AIRCEL"
-tadig = "IND22"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "804"
-plmn = "405804"
-operator = "Maharashtra & Goa"
-brand = "AIRCEL"
-tadig = "IND24"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "805"
-plmn = "405805"
-operator = "Mumbai"
-brand = "AIRCEL"
-tadig = "IND21"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "806"
-plmn = "405806"
-operator = "Rajasthan"
-brand = "AIRCEL"
-tadig = "IND26"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "807"
-plmn = "405807"
-operator = "Haryana"
-brand = "AIRCEL"
-tadig = "IND29"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "808"
-plmn = "405808"
-operator = "Madhya Pradesh"
-brand = "AIRCEL"
-tadig = "IND27"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "809"
-plmn = "405809"
-operator = "Kerala"
-brand = "AIRCEL"
-tadig = "IND20"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "810"
-plmn = "405810"
-operator = "Uttar Pradesh (East)"
-brand = "AIRCEL"
-tadig = "IND17"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "811"
-plmn = "405811"
-operator = "Uttar Pradesh (West)"
-brand = "AIRCEL"
-tadig = "IND18"
-bands = "GSM"
-
-[[operators]]
-mnc = "812"
-plmn = "405812"
-operator = "Punjab"
-brand = "AIRCEL"
-tadig = "IND25"
-bands = "GSM"
-
-[[operators]]
-mnc = "818"
-plmn = "405818"
-operator = "Uttar Pradesh (West)"
-brand = "Uninor"
-bands = "GSM"
-
-[[operators]]
-mnc = "819"
-plmn = "405819"
-operator = "Andhra Pradesh and Telangana"
-brand = "Uninor"
-bands = "GSM"
-
-[[operators]]
-mnc = "820"
-plmn = "405820"
-operator = "Karnataka"
-brand = "Uninor"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "821"
-plmn = "405821"
-operator = "Kerala"
-brand = "Uninor"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "822"
-plmn = "405822"
-operator = "Kolkata"
-brand = "Uninor"
-bands = "GSM"
-
-[[operators]]
-mnc = "824"
-plmn = "405824"
-operator = "Assam"
-brand = "Videocon Datacom"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "827"
-plmn = "405827"
-operator = "Gujarat"
-brand = "Videocon Datacom"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "834"
-plmn = "405834"
-operator = "Madhya Pradesh"
-brand = "Videocon Datacom"
-bands = "GSM 1800"
-
-[[operators]]
 mnc = "840"
 plmn = "405840"
 operator = "West Bengal"
@@ -683,34 +108,6 @@ profile_provider_names = ["Jio"]
 profile_names = ["89918400400734447829", "89918400400734165819"]
 
 [[operators]]
-mnc = "844"
-plmn = "405844"
-operator = "Delhi & NCR"
-brand = "Uninor"
-bands = "GSM"
-
-[[operators]]
-mnc = "845"
-plmn = "405845"
-operator = "Assam"
-brand = "IDEA"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "846"
-plmn = "405846"
-operator = "Jammu & Kashmir"
-brand = "IDEA"
-bands = "GSM 1800 / UTMS 2100"
-
-[[operators]]
-mnc = "847"
-plmn = "405847"
-operator = "Karnataka"
-brand = "IDEA"
-bands = "GSM 1800"
-
-[[operators]]
 mnc = "848"
 plmn = "405848"
 operator = "Kolkata"
@@ -725,28 +122,6 @@ gid1 = "ff"
 gid2 = "ff"
 profile_provider_names = ["Vi"]
 profile_names = []
-
-[[operators]]
-mnc = "849"
-plmn = "405849"
-operator = "North East"
-brand = "IDEA"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "850"
-plmn = "405850"
-operator = "Orissa"
-brand = "IDEA"
-tadig = "INDIO"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "851"
-plmn = "405851"
-operator = "Punjab"
-brand = "IDEA"
-bands = "GSM 1800"
 
 [[operators]]
 mnc = "852"
@@ -797,14 +172,6 @@ profile_provider_names = ["Jio"]
 profile_names = ["89918540400983842341", "89918540400864376674"]
 
 [[operators]]
-mnc = "855"
-plmn = "405855"
-operator = "Assam"
-brand = "Jio"
-tadig = "INDJ3"
-bands = "LTE 850 / LTE 1800 / TD-LTE 2300"
-
-[[operators]]
 mnc = "856"
 plmn = "405856"
 operator = "Bihar"
@@ -835,29 +202,6 @@ gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["Jio"]
 profile_names = ["89918570400836313121", "89918570400801050419", "89918570400796389970"]
-
-[[operators]]
-mnc = "858"
-plmn = "405858"
-operator = "Haryana"
-brand = "Jio"
-tadig = "INDJ6"
-bands = "LTE 850 / LTE 1800 / TD-LTE 2300"
-
-[[operators]]
-mnc = "859"
-plmn = "405859"
-operator = "Himachal Pradesh"
-brand = "Jio"
-tadig = "INDJ7"
-bands = "LTE 850 / LTE 1800 / TD-LTE 2300"
-
-[[operators]]
-mnc = "860"
-plmn = "405860"
-operator = "Jammu & Kashmir"
-brand = "Jio"
-bands = "LTE 850 / LTE 1800 / TD-LTE 2300"
 
 [[operators]]
 mnc = "861"
@@ -924,14 +268,6 @@ profile_provider_names = ["Jio"]
 profile_names = ["89918640401153811123", "89918640401154666872"]
 
 [[operators]]
-mnc = "865"
-plmn = "405865"
-operator = "North East"
-brand = "Jio"
-tadig = "INDJO"
-bands = "LTE 850 / LTE 1800 / TD-LTE 2300"
-
-[[operators]]
 mnc = "866"
 plmn = "405866"
 operator = "Orissa"
@@ -946,14 +282,6 @@ gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["Jio"]
 profile_names = []
-
-[[operators]]
-mnc = "867"
-plmn = "405867"
-operator = "Punjab"
-brand = "Jio"
-tadig = "INDJQ"
-bands = "LTE 850 / LTE 1800 / TD-LTE 2300"
 
 [[operators]]
 mnc = "868"
@@ -1004,28 +332,6 @@ profile_provider_names = ["Jio"]
 profile_names = []
 
 [[operators]]
-mnc = "871"
-plmn = "405871"
-operator = "Uttar Pradesh (East)"
-brand = "Jio"
-tadig = "INDJU"
-bands = "LTE 850 / LTE 1800 / TD-LTE 2300"
-
-[[operators]]
-mnc = "872"
-plmn = "405872"
-operator = "Delhi"
-brand = "Jio"
-tadig = "INDJV"
-bands = "LTE 850 / LTE 1800 / TD-LTE 2300"
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = []
-profile_names = ["89918720400698828199", "89918720400714004114", "89918720400787695772"]
-
-[[operators]]
 mnc = "873"
 plmn = "405873"
 operator = "Kolkata"
@@ -1040,101 +346,3 @@ gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["Jio"]
 profile_names = ["89918730400325048995"]
-
-[[operators]]
-mnc = "874"
-plmn = "405874"
-operator = "Mumbai"
-brand = "Jio"
-tadig = "INDJX"
-bands = "LTE 850 / LTE 1800 / TD-LTE 2300"
-
-[[operators]]
-mnc = "875"
-plmn = "405875"
-operator = "Assam"
-brand = "Uninor"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "880"
-plmn = "405880"
-operator = "West Bengal"
-brand = "Uninor"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "881"
-plmn = "405881"
-operator = "Assam"
-brand = "S Tel"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "908"
-plmn = "405908"
-operator = "Andhra Pradesh and Telangana"
-brand = "IDEA"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "909"
-plmn = "405909"
-operator = "Delhi"
-brand = "IDEA"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "910"
-plmn = "405910"
-operator = "Haryana"
-brand = "IDEA"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "911"
-plmn = "405911"
-operator = "Maharashtra"
-brand = "IDEA"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "912"
-plmn = "405912"
-operator = "Andhra Pradesh and Telangana"
-brand = "Etisalat DB(cheers)"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "913"
-plmn = "405913"
-operator = "Delhi & NCR"
-brand = "Etisalat DB(cheers)"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "914"
-plmn = "405914"
-operator = "Gujarat"
-brand = "Etisalat DB(cheers)"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "917"
-plmn = "405917"
-operator = "Kerala"
-brand = "Etisalat DB(cheers)"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "927"
-plmn = "405927"
-operator = "Gujarat"
-brand = "Uninor"
-
-[[operators]]
-mnc = "929"
-plmn = "405929"
-operator = "Maharashtra"
-brand = "Uninor"
-bands = "GSM 1800"

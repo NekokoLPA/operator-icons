@@ -4,27 +4,6 @@ iso = "UZ"
 region = "Asia and the Middle East"
 
 [[operators]]
-mnc = "01"
-plmn = "43401"
-operator = "Buztel"
-brand = ""
-bands = "GSM 900 / GSM 1800"
-
-[[operators]]
-mnc = "02"
-plmn = "43402"
-operator = "Uzmacom"
-brand = ""
-bands = "GSM 900 / GSM 1800"
-
-[[operators]]
-mnc = "03"
-plmn = "43403"
-operator = "Uzbektelekom"
-brand = "UzMobile"
-bands = "CDMA2000 450"
-
-[[operators]]
 mnc = "04"
 plmn = "43404"
 operator = "Unitel LLC"
@@ -63,20 +42,6 @@ profile_provider_names = ["Ucell"]
 profile_names = ["Ucell"]
 
 [[operators]]
-mnc = "06"
-plmn = "43406"
-operator = "RUBICON WIRELESS COMMUNICATION"
-brand = "Perfectum Mobile"
-bands = "CDMA2000 800"
-
-[[operators]]
-mnc = "07"
-plmn = "43407"
-operator = "Universal Mobile Systems"
-brand = "UMS"
-bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800"
-
-[[operators]]
 mnc = "08"
 plmn = "43408"
 operator = "Uzbektelekom"
@@ -90,13 +55,6 @@ gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffffff"
 profile_provider_names = ["Uztelecom"]
 profile_names = ["000035", "000034", "000036"]
-
-[[operators]]
-mnc = "09"
-plmn = "43409"
-operator = "OOO «Super iMAX»"
-brand = "EVO"
-bands = "LTE 2300"
 
 [[operators]]
 mnc = "10"

@@ -20,12 +20,6 @@ profile_provider_names = ["Beeline KG"]
 profile_names = ["SkyMobile_BeelineKG_VGKG00037", "SkyMobile_BeelineKG_1.0_oasis00018_10k", "SkyMobile_IZI_PROD_oasisizi0001_SHA", "SkyMobile_BeelineKG_1.0_oasis00004_5k", "SkyMobile_BeelineKG_VGKG00031"]
 
 [[operators]]
-mnc = "03"
-plmn = "43703"
-operator = "7 Mobile"
-brand = ""
-
-[[operators]]
 mnc = "05"
 plmn = "43705"
 operator = "Alfa Telecom CJSC"
@@ -54,16 +48,3 @@ gid1 = "ff"
 gid2 = "00"
 profile_provider_names = ["NUR_Telecom"]
 profile_names = ["NUR_Telecom"]
-
-[[operators]]
-mnc = "10"
-plmn = "43710"
-operator = "Saima Telecom"
-brand = ""
-bands = "LTE 2600"
-
-[[operators]]
-mnc = "11"
-plmn = "43711"
-operator = "iTel"
-brand = ""

@@ -4,13 +4,6 @@ iso = "UY"
 region = "South and Central America"
 
 [[operators]]
-mnc = "00"
-plmn = "74800"
-operator = "Administración Nacional de Telecomunicaciones"
-brand = "Antel"
-bands = "TDMA"
-
-[[operators]]
 mnc = "01"
 plmn = "74801"
 operator = "Administración Nacional de Telecomunicaciones"
@@ -24,12 +17,6 @@ gid1 = "ffffffff"
 gid2 = "ffffffff"
 profile_provider_names = ["AntelUruguay"]
 profile_names = ["CE HERCULES PROD (NO PHYSICAL)"]
-
-[[operators]]
-mnc = "03"
-plmn = "74803"
-operator = "Administración Nacional de Telecomunicaciones"
-brand = "Antel"
 
 [[operators]]
 mnc = "07"
@@ -46,11 +33,3 @@ gid1 = "01"
 gid2 = ""
 profile_provider_names = []
 profile_names = ["HERCULES PROFILE PRODUCTION - ES2+"]
-
-[[operators]]
-mnc = "10"
-plmn = "74810"
-operator = "AM Wireless Uruguay S.A."
-brand = "Claro"
-tadig = "URYAM"
-bands = "GSM 1900 / UMTS 1900 / LTE 1700"

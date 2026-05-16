@@ -20,14 +20,6 @@ profile_provider_names = ["Lao Telecom"]
 profile_names = ["Profile Name"]
 
 [[operators]]
-mnc = "02"
-plmn = "45702"
-operator = "Enterprise of Telecommunications Lao"
-brand = "ETL"
-tadig = "LAOET"
-bands = "GSM 900 / GSM 1800 / UMTS 2100"
-
-[[operators]]
 mnc = "03"
 plmn = "45703"
 operator = "Star Telecom Co., Ltd"

@@ -4,21 +4,6 @@ iso = "ZW"
 region = "Africa"
 
 [[operators]]
-mnc = "01"
-plmn = "64801"
-operator = "Net*One Cellular (Pvt) Ltd"
-brand = "Net*One"
-bands = "GSM 900 / LTE 1800"
-
-[[operators]]
-mnc = "03"
-plmn = "64803"
-operator = "Telecel Zimbabwe (PVT) Ltd"
-brand = "Telecel"
-tadig = "ZWEN3"
-bands = "GSM 900"
-
-[[operators]]
 mnc = "04"
 plmn = "64804"
 operator = "Econet Wireless"

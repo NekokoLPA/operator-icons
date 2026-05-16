@@ -4,13 +4,6 @@ iso = "ID"
 region = "Oceania"
 
 [[operators]]
-mnc = "00"
-plmn = "51000"
-operator = "PT Pasifik Satelit Nusantara (ACeS)"
-brand = "PSN"
-bands = "Satellite"
-
-[[operators]]
 mnc = "01"
 plmn = "51001"
 operator = "PT Indonesian Satellite Corporation Tbk (INDOSAT)"
@@ -25,28 +18,6 @@ gid1 = ""
 gid2 = ""
 profile_provider_names = ["INDOSAT", "IOH"]
 profile_names = ["Indosat_eSIM", "CITIC_PROFILE_51001"]
-
-[[operators]]
-mnc = "03"
-plmn = "51003"
-operator = "PT Indosat Tbk"
-brand = "StarOne"
-bands = "CDMA 800"
-
-[[operators]]
-mnc = "07"
-plmn = "51007"
-operator = "PT Telkom"
-brand = "TelkomFlexi"
-bands = "CDMA 800"
-
-[[operators]]
-mnc = "08"
-plmn = "51008"
-operator = "PT Natrindo Telepon Seluler"
-brand = "AXIS"
-tadig = "IDNLT"
-bands = "GSM 1800 / UMTS 2100"
 
 [[operators]]
 mnc = "09"
@@ -96,49 +67,6 @@ profile_provider_names = ["XL Axiata"]
 profile_names = ["XL Postpaid eSIM", "XL Prepaid eSIM"]
 
 [[operators]]
-mnc = "20"
-plmn = "51020"
-operator = "PT Telkom Indonesia Tbk"
-brand = "TELKOMMobile"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "21"
-plmn = "51021"
-operator = "PT Indonesian Satellite Corporation Tbk (INDOSAT)"
-brand = "IM3"
-tadig = "IDNIM"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "27"
-plmn = "51027"
-operator = "PT Sampoerna Telekomunikasi Indonesia"
-brand = "Net 1"
-bands = "LTE 450"
-
-[[operators]]
-mnc = "28"
-plmn = "51028"
-operator = "PT Mobile-8 Telecom"
-brand = "Fren/Hepi"
-bands = "LTE 850 / TD-LTE 2300"
-
-[[operators]]
-mnc = "78"
-plmn = "51078"
-operator = "PT Berca Hardayaperkasa"
-brand = "Hinet"
-bands = "TD-LTE 2300"
-
-[[operators]]
-mnc = "88"
-plmn = "51088"
-operator = "PT Internux"
-brand = "BOLT! 4G LTE"
-bands = "TD-LTE 2300"
-
-[[operators]]
 mnc = "89"
 plmn = "51089"
 operator = "PT Hutchison CP Telecommunications"
@@ -153,10 +81,3 @@ gid1 = ""
 gid2 = ""
 profile_provider_names = ["3SinyalKuatHemat"]
 profile_names = ["3_eSIM"]
-
-[[operators]]
-mnc = "99"
-plmn = "51099"
-operator = "PT Bakrie Telecom"
-brand = "Esia"
-bands = "CDMA 800"

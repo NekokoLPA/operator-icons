@@ -4,19 +4,6 @@ iso = "SI"
 region = "Europe"
 
 [[operators]]
-mnc = "10"
-plmn = "29310"
-operator = "SŽ - Infrastruktura, d.o.o."
-brand = ""
-bands = "GSM-R"
-
-[[operators]]
-mnc = "20"
-plmn = "29320"
-operator = "COMPATEL Ltd"
-brand = ""
-
-[[operators]]
 mnc = "40"
 plmn = "29340"
 operator = "A1 Slovenija"
@@ -47,17 +34,3 @@ gid1 = "ff"
 gid2 = "ff"
 profile_provider_names = ["Telekom Slovenije"]
 profile_names = ["Telekom Slovenije"]
-
-[[operators]]
-mnc = "64"
-plmn = "29364"
-operator = "T-2 d.o.o."
-brand = "T-2"
-bands = "UMTS 2100"
-
-[[operators]]
-mnc = "70"
-plmn = "29370"
-operator = "Tušmobil d.o.o."
-brand = "Telemach"
-bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800"

@@ -4,12 +4,6 @@ iso = "BE"
 region = "Europe"
 
 [[operators]]
-mnc = "00"
-plmn = "20600"
-operator = "Belgacom Mobile"
-brand = "Proximus"
-
-[[operators]]
 mnc = "01"
 plmn = "20601"
 operator = "Belgacom Mobile"
@@ -62,53 +56,6 @@ profile_provider_names = ["Firsty", "BICS", "NOMAD", "ORBITMOBILE"]
 profile_names = ["Firsty", "BICS", "NOMAD", "ORBITMOBILE", "Kite"]
 
 [[operators]]
-mnc = "02"
-plmn = "20602"
-operator = "Infrabel"
-brand = ""
-bands = "GSM-R"
-
-[[operators]]
-mnc = "05"
-plmn = "20605"
-operator = "Telenet"
-brand = "Telenet"
-bands = "MVNO"
-
-[[operators.gids]]
-gid1 = "a7ffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = []
-profile_names = ["Telenet eSIM"]
-
-[[operators]]
-mnc = "06"
-plmn = "20606"
-operator = "Lycamobile sprl"
-brand = "Lycamobile"
-bands = "MVNO"
-
-[[operators]]
-mnc = "07"
-plmn = "20607"
-operator = "Mundio Mobile Belgium nv"
-brand = "Vectone Mobile"
-bands = "MVNO"
-
-[[operators]]
-mnc = "08"
-plmn = "20608"
-operator = "Nethys"
-brand = ""
-
-[[operators]]
-mnc = "09"
-plmn = "20609"
-operator = "Voxbone mobile"
-brand = "Voxbone"
-bands = "MVNO"
-
-[[operators]]
 mnc = "10"
 plmn = "20610"
 operator = "Orange S.A."
@@ -138,18 +85,6 @@ profile_provider_names = ["Digi BE"]
 profile_names = ["Digi BE"]
 
 [[operators]]
-mnc = "15"
-plmn = "20615"
-operator = "Elephant Talk Communications Schweiz GmbH"
-brand = ""
-
-[[operators]]
-mnc = "16"
-plmn = "20616"
-operator = "NextGen Mobile Ltd."
-brand = ""
-
-[[operators]]
 mnc = "20"
 plmn = "20620"
 operator = "Telenet"
@@ -176,13 +111,6 @@ gid1 = "ffffffffffffffffffff"
 gid2 = ""
 profile_provider_names = ["LycaMobile"]
 profile_names = ["LycaMobile"]
-
-[[operators]]
-mnc = "25"
-plmn = "20625"
-operator = "Dense Air Belgium SPRL"
-brand = ""
-bands = "TD-LTE 2600"
 
 [[operators]]
 mnc = "28"
@@ -215,30 +143,3 @@ gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["BICS"]
 profile_names = ["BICS", "Firsty"]
-
-[[operators]]
-mnc = "30"
-plmn = "20630"
-operator = "Unleashed NV"
-brand = "Mobile Vikings"
-bands = "MVNO"
-
-[[operators]]
-mnc = "33"
-plmn = "20633"
-operator = "Ericsson NV"
-brand = ""
-
-[[operators]]
-mnc = "40"
-plmn = "20640"
-operator = "JOIN Experience (Belgium)"
-brand = "JOIN"
-bands = "MVNO"
-
-[[operators]]
-mnc = "50"
-plmn = "20650"
-operator = "IP Nexia"
-brand = ""
-bands = "MVNO"

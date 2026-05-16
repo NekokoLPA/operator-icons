@@ -4,13 +4,6 @@ iso = "KP"
 region = "Asia and the Middle East"
 
 [[operators]]
-mnc = "05"
-plmn = "46705"
-operator = "Cheo Technology Jv Company"
-brand = "Koryolink"
-bands = "UMTS 2100"
-
-[[operators]]
 mnc = "06"
 plmn = "46706"
 operator = "Cheo Technology Jv Company"
@@ -24,15 +17,3 @@ gid1 = ""
 gid2 = ""
 profile_provider_names = ["eSIM"]
 profile_names = []
-
-[[operators]]
-mnc = "89"
-plmn = "46789"
-brand = ""
-
-[[operators]]
-mnc = "193"
-plmn = "467193"
-operator = "Korea Posts and Telecommunications Corporation"
-brand = "SunNet"
-bands = "GSM 900"

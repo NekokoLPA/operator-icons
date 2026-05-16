@@ -4,27 +4,6 @@ iso = "GB"
 region = "Europe"
 
 [[operators]]
-mnc = "00"
-plmn = "23400"
-operator = "BT Group"
-brand = "BT"
-bands = "GSM 900 / GSM 1800 / UMTS 2100"
-
-[[operators]]
-mnc = "01"
-plmn = "23401"
-operator = "Mundio Mobile Limited"
-brand = "Vectone Mobile"
-bands = "MVNO"
-
-[[operators]]
-mnc = "02"
-plmn = "23402"
-operator = "Telefónica Europe"
-brand = "O2 (UK)"
-bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2300 / 5G 3500"
-
-[[operators]]
 mnc = "03"
 plmn = "23403"
 operator = "Guernsey Airtel Ltd"
@@ -32,45 +11,6 @@ brand = "Airtel-Vodafone"
 bands = "GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800"
 icon = "airtel"
 icon_scope = "234"
-
-[[operators]]
-mnc = "04"
-plmn = "23404"
-operator = "FMS Solutions Ltd"
-brand = "FMS Solutions Ltd"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "05"
-plmn = "23405"
-operator = "COLT Mobile Telecommunications Limited"
-brand = ""
-
-[[operators]]
-mnc = "06"
-plmn = "23406"
-operator = "Internet Computer Bureau Limited"
-brand = ""
-
-[[operators]]
-mnc = "07"
-plmn = "23407"
-operator = "Vodafone"
-brand = "Vodafone UK"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "08"
-plmn = "23408"
-operator = "BT OnePhone (UK) Ltd"
-brand = "BT OnePhone"
-bands = "MVNO"
-
-[[operators]]
-mnc = "09"
-plmn = "23409"
-operator = "Tismi BV"
-brand = ""
 
 [[operators]]
 mnc = "10"
@@ -121,34 +61,6 @@ profile_provider_names = ["O2-UK"]
 profile_names = ["O2 - UK"]
 
 [[operators]]
-mnc = "11"
-plmn = "23411"
-operator = "Telefónica Europe"
-brand = "O2 (UK)"
-bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / TD-LTE 2300 / 5G 3500"
-
-[[operators]]
-mnc = "12"
-plmn = "23412"
-operator = "Network Rail Infrastructure Ltd"
-brand = "Railtrack"
-bands = "GSM-R"
-
-[[operators]]
-mnc = "13"
-plmn = "23413"
-operator = "Network Rail Infrastructure Ltd"
-brand = "Railtrack"
-bands = "GSM-R"
-
-[[operators]]
-mnc = "14"
-plmn = "23414"
-operator = "Hay Systems Ltd"
-brand = "Hay Systems Ltd"
-bands = "GSM 1800"
-
-[[operators]]
 mnc = "15"
 plmn = "23415"
 operator = "Vodafone"
@@ -189,19 +101,6 @@ profile_provider_names = []
 profile_names = ["Vodafone UK eSIM"]
 
 [[operators]]
-mnc = "16"
-plmn = "23416"
-operator = "TalkTalk Communications Limited"
-brand = "Talk Talk"
-bands = "MVNO"
-
-[[operators]]
-mnc = "17"
-plmn = "23417"
-operator = "FleXtel Limited"
-brand = ""
-
-[[operators]]
 mnc = "18"
 plmn = "23418"
 operator = "Cloud 9 Mobile Communications PLC"
@@ -215,13 +114,6 @@ gid1 = "6764ffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["Airalo"]
 profile_names = ["Cloud9_Prime_Airalo_T01"]
-
-[[operators]]
-mnc = "19"
-plmn = "23419"
-operator = "Teleware plc"
-brand = "Private Mobile Networks PMN"
-bands = "GSM 1800"
 
 [[operators]]
 mnc = "20"
@@ -270,31 +162,6 @@ profile_provider_names = ["3UK"]
 profile_names = ["3UK"]
 
 [[operators]]
-mnc = "21"
-plmn = "23421"
-operator = "LogicStar Ltd"
-brand = ""
-
-[[operators]]
-mnc = "22"
-plmn = "23422"
-operator = "Telesign Mobile Limited"
-brand = ""
-
-[[operators]]
-mnc = "23"
-plmn = "23423"
-operator = "Icron Network Limited"
-brand = ""
-
-[[operators]]
-mnc = "24"
-plmn = "23424"
-operator = "Stour Marine Limited"
-brand = "Greenfone"
-bands = "MVNO"
-
-[[operators]]
 mnc = "25"
 plmn = "23425"
 operator = "Truphone"
@@ -323,26 +190,6 @@ gid1 = ""
 gid2 = ""
 profile_provider_names = ["LycaMobile"]
 profile_names = ["LYC37481C_2k_GBR_V8.0_V8.12.0_DI_SMENU_SIMFILES_20230307", "LYC37655_10K_GEN_GBR_V1.0_V1.6.0_DI_SMENU_SIMFILES_20240109", "LYC37649_10K_GEN_GBR_V1.0_V1.4.0_DI_SMENU_SIMFILES_20230701", "LYC37656_10K_GEN_GBR_V1.0_V1.6.0_DI_SMENU_SIMFILES_20240110", "LYC37636_10K_GEN_GBR_V1.0_V1.2.0_DI_SMENU_SIMFILES_20230516"]
-
-[[operators]]
-mnc = "27"
-plmn = "23427"
-operator = "Teleena UK Limited"
-brand = ""
-bands = "MVNE"
-
-[[operators]]
-mnc = "28"
-plmn = "23428"
-operator = "Marathon Telecom Limited"
-brand = ""
-bands = "UMTS 2100"
-
-[[operators]]
-mnc = "29"
-plmn = "23429"
-operator = "(aq) Limited"
-brand = "aql"
 
 [[operators]]
 mnc = "30"
@@ -397,20 +244,6 @@ profile_provider_names = []
 profile_names = ["LycaMobile"]
 
 [[operators]]
-mnc = "31"
-plmn = "23431"
-operator = "EE"
-brand = "T-Mobile UK"
-bands = "GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 3500"
-
-[[operators]]
-mnc = "32"
-plmn = "23432"
-operator = "EE"
-brand = "T-Mobile UK"
-bands = "GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 3500"
-
-[[operators]]
 mnc = "33"
 plmn = "23433"
 operator = "EE"
@@ -427,44 +260,6 @@ profile_provider_names = ["CTExcel", "CMLink", "eSIM"]
 profile_names = ["CTExcel eSIM", "CMI eSIM", "eSIM"]
 
 [[operators]]
-mnc = "34"
-plmn = "23434"
-operator = "EE"
-brand = "Orange"
-bands = "GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600"
-
-[[operators]]
-mnc = "35"
-plmn = "23435"
-operator = "JSC Ingenium (UK) Limited"
-brand = ""
-
-[[operators]]
-mnc = "36"
-plmn = "23436"
-operator = "Sure Isle of Man Ltd."
-brand = "Sure Mobile"
-bands = "GSM 900 / GSM 1800 / LTE 800 / LTE 1800 / LTE 2100"
-
-[[operators]]
-mnc = "37"
-plmn = "23437"
-operator = "Synectiv Ltd"
-brand = ""
-
-[[operators]]
-mnc = "38"
-plmn = "23438"
-operator = "Virgin Media"
-brand = "Virgin Mobile"
-
-[[operators]]
-mnc = "39"
-plmn = "23439"
-operator = "Gamma Telecom Holdings Ltd."
-brand = ""
-
-[[operators]]
 mnc = "40"
 plmn = "23440"
 brand = "spusu"
@@ -478,11 +273,6 @@ profile_provider_names = ["spusu"]
 profile_names = ["spusu eSIM"]
 icon = "spusu"
 icon_scope = "worldwide"
-
-[[operators]]
-mnc = "43"
-plmn = "23443"
-brand = ""
 
 [[operators]]
 mnc = "50"
@@ -507,33 +297,6 @@ profile_provider_names = ["JT"]
 profile_names = ["JT_IOS_T01", "Jersey_Telecom_UK_v01.01.00"]
 
 [[operators]]
-mnc = "51"
-plmn = "23451"
-operator = "UK Broadband Limited"
-brand = "Relish"
-bands = "TD-LTE 3500 / TD-LTE 3700"
-
-[[operators]]
-mnc = "52"
-plmn = "23452"
-operator = "Shyam Telecom UK Ltd"
-brand = ""
-
-[[operators]]
-mnc = "53"
-plmn = "23453"
-operator = "Limitless Mobile Ltd"
-brand = ""
-bands = "MVNO"
-
-[[operators]]
-mnc = "54"
-plmn = "23454"
-operator = "The Carphone Warehouse Limited"
-brand = "iD Mobile"
-bands = "MVNO"
-
-[[operators]]
 mnc = "55"
 plmn = "23455"
 operator = "Sure (Guernsey) Limited"
@@ -553,12 +316,6 @@ gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["s-imsy"]
 profile_names = []
-
-[[operators]]
-mnc = "56"
-plmn = "23456"
-operator = "CESG"
-brand = ""
 
 [[operators]]
 mnc = "57"
@@ -679,59 +436,6 @@ gid1 = "6554726176656c53494dffffffffff"
 gid2 = "ffffffffffffffffffffffffffffff"
 profile_provider_names = ["eTravelSIM"]
 profile_names = []
-
-[[operators]]
-mnc = "59"
-plmn = "23459"
-operator = "Limitless Mobile Ltd"
-brand = ""
-bands = "MVNO"
-
-[[operators]]
-mnc = "70"
-plmn = "23470"
-operator = "AMSUK Ltd."
-brand = ""
-
-[[operators]]
-mnc = "71"
-plmn = "23471"
-operator = "Home Office"
-brand = ""
-
-[[operators]]
-mnc = "72"
-plmn = "23472"
-operator = "Hanhaa Limited"
-brand = "Hanhaa Mobile"
-bands = "MVNO"
-
-[[operators]]
-mnc = "73"
-plmn = "23473"
-operator = "Bluewave Communications Ltd."
-brand = ""
-bands = "TD-LTE 3500"
-
-[[operators]]
-mnc = "76"
-plmn = "23476"
-operator = "BT Group"
-brand = "BT"
-bands = "GSM 900 / GSM 1800"
-
-[[operators]]
-mnc = "78"
-plmn = "23478"
-operator = "Airwave Solutions Ltd"
-brand = "Airwave"
-bands = "TETRA"
-
-[[operators]]
-mnc = "86"
-plmn = "23486"
-operator = "EE"
-brand = ""
 
 [[operators]]
 mnc = "87"

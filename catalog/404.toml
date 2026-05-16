@@ -4,51 +4,6 @@ iso = "IN"
 region = "Asia and the Middle East"
 
 [[operators]]
-mnc = "01"
-plmn = "40401"
-operator = "Haryana"
-brand = "Vodafone India"
-bands = "GSM 900"
-
-[[operators]]
-mnc = "02"
-plmn = "40402"
-operator = "Punjab"
-brand = "AirTel"
-tadig = "INDA9"
-bands = "GSM 900"
-
-[[operators]]
-mnc = "03"
-plmn = "40403"
-operator = "Himachal Pradesh"
-brand = "AirTel"
-tadig = "INDBL"
-bands = "GSM 900"
-
-[[operators]]
-mnc = "04"
-plmn = "40404"
-operator = "Delhi & NCR"
-brand = "IDEA"
-tadig = "INDID"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "05"
-plmn = "40405"
-operator = "Gujarat"
-brand = "Vodafone India"
-tadig = "INDF1"
-bands = "GSM 900"
-
-[[operators.gids]]
-gid1 = "ff"
-gid2 = "ff"
-profile_provider_names = []
-profile_names = ["VIL_PR_PROD_GND_GJ_2"]
-
-[[operators]]
 mnc = "07"
 plmn = "40407"
 operator = "Andhra Pradesh and Telangana"
@@ -63,49 +18,6 @@ gid1 = "ff"
 gid2 = "ff"
 profile_provider_names = ["Vi"]
 profile_names = []
-
-[[operators]]
-mnc = "09"
-plmn = "40409"
-operator = "Assam"
-brand = "Reliance"
-bands = "GSM 900"
-
-[[operators]]
-mnc = "10"
-plmn = "40410"
-operator = "Delhi & NCR"
-brand = "AirTel"
-tadig = "INDAT"
-bands = "GSM 900"
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = []
-profile_names = ["8991102277717119260F"]
-
-[[operators]]
-mnc = "11"
-plmn = "40411"
-operator = "Delhi & NCR"
-brand = "Vodafone India"
-tadig = "INDE1"
-bands = "GSM 900 / GSM 1800"
-
-[[operators.gids]]
-gid1 = "ff"
-gid2 = "ff"
-profile_provider_names = []
-profile_names = ["VIL_PR_PROD_GND_DL_1"]
-
-[[operators]]
-mnc = "12"
-plmn = "40412"
-operator = "Haryana"
-brand = "IDEA"
-tadig = "INDEH"
-bands = "GSM 900"
 
 [[operators]]
 mnc = "13"
@@ -123,14 +35,6 @@ profile_provider_names = ["Vi"]
 profile_names = ["VIL_PR_PROD_GND_AP_1"]
 
 [[operators]]
-mnc = "14"
-plmn = "40414"
-operator = "Punjab"
-brand = "IDEA"
-tadig = "INDSP"
-bands = "GSM 900 / GSM 1800"
-
-[[operators]]
 mnc = "15"
 plmn = "40415"
 operator = "Uttar Pradesh (East)"
@@ -144,29 +48,6 @@ gid1 = "ff"
 gid2 = "ff"
 profile_provider_names = ["Vi"]
 profile_names = []
-
-[[operators]]
-mnc = "16"
-plmn = "40416"
-operator = "North East"
-brand = "Airtel"
-tadig = "IND16"
-bands = "GSM 900"
-
-[[operators]]
-mnc = "17"
-plmn = "40417"
-operator = "West Bengal"
-brand = "AIRCEL"
-tadig = "IND03"
-bands = "GSM 900 / GSM 1800"
-
-[[operators]]
-mnc = "18"
-plmn = "40418"
-operator = "Himachal Pradesh"
-brand = "Reliance"
-bands = "GSM 900"
 
 [[operators]]
 mnc = "19"
@@ -185,27 +66,6 @@ profile_provider_names = ["Vi"]
 profile_names = []
 
 [[operators]]
-mnc = "20"
-plmn = "40420"
-operator = "Mumbai"
-brand = "Vodafone India"
-tadig = "INDHM"
-bands = "GSM 900 / UMTS 2100"
-
-[[operators.gids]]
-gid1 = "ff"
-gid2 = "ff"
-profile_provider_names = []
-profile_names = ["VIL_PO_PROD_GND_MU_4"]
-
-[[operators]]
-mnc = "21"
-plmn = "40421"
-operator = "Mumbai"
-brand = "Loop Mobile"
-bands = "GSM 900"
-
-[[operators]]
 mnc = "22"
 plmn = "40422"
 operator = "Maharashtra & Goa"
@@ -220,22 +80,6 @@ gid1 = "ff"
 gid2 = "ff"
 profile_provider_names = ["Vi"]
 profile_names = ["ID_PR_PROD_GND_MH_1"]
-
-[[operators]]
-mnc = "24"
-plmn = "40424"
-operator = "Gujarat"
-brand = "IDEA"
-tadig = "INDBI"
-bands = "GSM 900"
-
-[[operators]]
-mnc = "25"
-plmn = "40425"
-operator = "Bihar"
-brand = "AIRCEL"
-tadig = "IND04"
-bands = "GSM 900 / GSM 1800"
 
 [[operators]]
 mnc = "27"
@@ -254,80 +98,6 @@ profile_provider_names = ["Vi"]
 profile_names = []
 
 [[operators]]
-mnc = "28"
-plmn = "40428"
-operator = "Orissa"
-brand = "AIRCEL"
-tadig = "IND05"
-bands = "GSM 900"
-
-[[operators]]
-mnc = "29"
-plmn = "40429"
-operator = "Assam"
-brand = "AIRCEL"
-tadig = "IND06"
-bands = "GSM 900"
-
-[[operators]]
-mnc = "30"
-plmn = "40430"
-operator = "Kolkata"
-brand = "Vodafone India"
-tadig = "INDCC"
-bands = "GSM 900 / GSM 1800"
-
-[[operators.gids]]
-gid1 = "ff"
-gid2 = "ff"
-profile_provider_names = []
-profile_names = ["VIL_PR_PROD_GND_KOL_1"]
-
-[[operators]]
-mnc = "31"
-plmn = "40431"
-operator = "Kolkata"
-brand = "AirTel"
-tadig = "INDMT"
-bands = "GSM 900"
-
-[[operators]]
-mnc = "34"
-plmn = "40434"
-operator = "Haryana"
-brand = "cellone"
-bands = "GSM 900 / UMTS 2100"
-
-[[operators]]
-mnc = "35"
-plmn = "40435"
-operator = "Himachal Pradesh"
-brand = "Aircel"
-tadig = "IND02"
-bands = "GSM 900 / GSM 1800"
-
-[[operators]]
-mnc = "36"
-plmn = "40436"
-operator = "Bihar & Jharkhand"
-brand = "Reliance"
-bands = "GSM 900"
-
-[[operators]]
-mnc = "37"
-plmn = "40437"
-operator = "Jammu & Kashmir"
-brand = "Aircel"
-bands = "GSM 900 / UMTS 2100"
-
-[[operators]]
-mnc = "38"
-plmn = "40438"
-operator = "Assam"
-brand = "cellone"
-bands = "GSM 900 / UMTS 2100"
-
-[[operators]]
 mnc = "40"
 plmn = "40440"
 operator = "Chennai"
@@ -341,22 +111,6 @@ gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = []
 profile_names = ["8991402277705690907F"]
-
-[[operators]]
-mnc = "41"
-plmn = "40441"
-operator = "Chennai"
-brand = "Aircel"
-tadig = "INDRC"
-bands = "GSM 900"
-
-[[operators]]
-mnc = "42"
-plmn = "40442"
-operator = "Tamil Nadu"
-brand = "Aircel"
-tadig = "INDAC"
-bands = "GSM 900"
 
 [[operators]]
 mnc = "43"
@@ -373,14 +127,6 @@ gid1 = "ff"
 gid2 = "ff"
 profile_provider_names = ["Vi"]
 profile_names = []
-
-[[operators]]
-mnc = "44"
-plmn = "40444"
-operator = "Karnataka"
-brand = "IDEA"
-tadig = "INDSK"
-bands = "GSM 900 / LTE 1800"
 
 [[operators]]
 mnc = "45"
@@ -415,13 +161,6 @@ profile_provider_names = ["Vi"]
 profile_names = []
 
 [[operators]]
-mnc = "48"
-plmn = "40448"
-operator = "Unknown"
-brand = "Dishnet Wireless"
-bands = "GSM 900"
-
-[[operators]]
 mnc = "49"
 plmn = "40449"
 operator = "Andhra Pradesh and Telangana"
@@ -436,77 +175,6 @@ gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = []
 profile_names = ["8991492277710451403F"]
-
-[[operators]]
-mnc = "50"
-plmn = "40450"
-operator = "North East"
-brand = "Reliance"
-bands = "GSM 900"
-
-[[operators]]
-mnc = "51"
-plmn = "40451"
-operator = "Himachal Pradesh"
-brand = "cellone"
-bands = "GSM 900 / UMTS 2100"
-
-[[operators]]
-mnc = "52"
-plmn = "40452"
-operator = "Orissa"
-brand = "Reliance"
-bands = "GSM 900"
-
-[[operators]]
-mnc = "53"
-plmn = "40453"
-operator = "Punjab"
-brand = "cellone"
-bands = "GSM 900 / UMTS 2100"
-
-[[operators]]
-mnc = "54"
-plmn = "40454"
-operator = "Uttar Pradesh (West)"
-brand = "cellone"
-bands = "GSM 900 / UTMS 2100"
-
-[[operators]]
-mnc = "55"
-plmn = "40455"
-operator = "Uttar Pradesh (East)"
-brand = "cellone"
-bands = "GSM 900 / UTMS 2100"
-
-[[operators]]
-mnc = "56"
-plmn = "40456"
-operator = "Uttar Pradesh (West)"
-brand = "IDEA"
-tadig = "INDEU"
-bands = "GSM 900"
-
-[[operators]]
-mnc = "57"
-plmn = "40457"
-operator = "Gujarat"
-brand = "cellone"
-bands = "GSM 900 / UMTS 2100"
-
-[[operators]]
-mnc = "58"
-plmn = "40458"
-operator = "Madhya Pradesh & Chhattisgarh"
-brand = "cellone"
-bands = "GSM 900 / UMTS 2100"
-
-[[operators]]
-mnc = "59"
-plmn = "40459"
-operator = "Rajasthan"
-brand = "cellone"
-bands = "GSM 900 / UMTS 2100"
 
 [[operators]]
 mnc = "60"
@@ -524,51 +192,6 @@ profile_provider_names = ["Vi"]
 profile_names = []
 
 [[operators]]
-mnc = "62"
-plmn = "40462"
-operator = "Jammu & Kashmir"
-brand = "cellone"
-bands = "GSM 900 / UMTS 2100"
-
-[[operators]]
-mnc = "64"
-plmn = "40464"
-operator = "Chennai"
-brand = "cellone"
-bands = "GSM 900 / UMTS 2100"
-
-[[operators]]
-mnc = "66"
-plmn = "40466"
-operator = "Maharashtra & Goa"
-brand = "cellone"
-bands = "GSM 900 / UMTS 2100"
-
-[[operators]]
-mnc = "67"
-plmn = "40467"
-operator = "Madhya Pradesh & Chhattisgarh"
-brand = "Reliance"
-tadig = "INDRM"
-bands = "GSM 900 / UMTS 2100"
-
-[[operators]]
-mnc = "68"
-plmn = "40468"
-operator = "Delhi & NCR"
-brand = "DOLPHIN"
-tadig = "INDDL"
-bands = "GSM 900 / UMTS 2100"
-
-[[operators]]
-mnc = "69"
-plmn = "40469"
-operator = "Mumbai"
-brand = "DOLPHIN"
-tadig = "INDMB"
-bands = "GSM 900 / UMTS 2100"
-
-[[operators]]
 mnc = "70"
 plmn = "40470"
 operator = "Rajasthan"
@@ -582,56 +205,6 @@ gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = []
 profile_names = ["8991702277704386835F", "8991702277705269758F"]
-
-[[operators]]
-mnc = "71"
-plmn = "40471"
-operator = "Karnataka (Bangalore)"
-brand = "cellone"
-bands = "GSM 900 / UMTS 2100"
-
-[[operators]]
-mnc = "72"
-plmn = "40472"
-operator = "Kerala"
-brand = "cellone"
-bands = "GSM 900 / UMTS 2100"
-
-[[operators]]
-mnc = "73"
-plmn = "40473"
-operator = "Andhra Pradesh and Telangana"
-brand = "cellone"
-bands = "GSM 900 / UMTS 2100"
-
-[[operators]]
-mnc = "74"
-plmn = "40474"
-operator = "West Bengal"
-brand = "cellone"
-tadig = "INDWB"
-bands = "GSM 900 / UMTS 2100"
-
-[[operators]]
-mnc = "75"
-plmn = "40475"
-operator = "Bihar"
-brand = "cellone"
-bands = "GSM 900 / UMTS 2100"
-
-[[operators]]
-mnc = "76"
-plmn = "40476"
-operator = "Orissa"
-brand = "cellone"
-bands = "GSM 900 / UMTS 2100"
-
-[[operators]]
-mnc = "77"
-plmn = "40477"
-operator = "North East"
-brand = "cellone"
-bands = "GSM 900 / UMTS 2100"
 
 [[operators]]
 mnc = "78"
@@ -648,61 +221,6 @@ gid1 = "ff"
 gid2 = "ff"
 profile_provider_names = ["Vi"]
 profile_names = ["ID_PR_PROD_GND_MP_1"]
-
-[[operators]]
-mnc = "79"
-plmn = "40479"
-operator = "Andaman Nicobar"
-brand = "cellone"
-bands = "GSM 900 / UMTS 2100"
-
-[[operators]]
-mnc = "80"
-plmn = "40480"
-operator = "Tamil Nadu"
-brand = "cellone"
-bands = "GSM 900 / UMTS 2100"
-
-[[operators]]
-mnc = "81"
-plmn = "40481"
-operator = "Kolkata"
-brand = "cellone"
-bands = "GSM 900 / UMTS 2100"
-
-[[operators]]
-mnc = "82"
-plmn = "40482"
-operator = "Himachal Pradesh"
-brand = "IDEA"
-tadig = "INDIH"
-
-[[operators]]
-mnc = "83"
-plmn = "40483"
-operator = "Kolkata"
-brand = "Reliance"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "84"
-plmn = "40484"
-operator = "Chennai"
-brand = "Vodafone India"
-bands = "GSM 1800"
-
-[[operators.gids]]
-gid1 = "ff"
-gid2 = "ff"
-profile_provider_names = []
-profile_names = ["VIL_PR_PROD_GND_CHN_1"]
-
-[[operators]]
-mnc = "85"
-plmn = "40485"
-operator = "West Bengal"
-brand = "Reliance"
-bands = "GSM 1800"
 
 [[operators]]
 mnc = "86"
@@ -741,12 +259,6 @@ profile_provider_names = ["Vi"]
 profile_names = ["ID_PR_PROD_GND_RJ_1"]
 
 [[operators]]
-mnc = "88"
-plmn = "40488"
-operator = "Vodafone Punjab"
-brand = "Vodafone India"
-
-[[operators]]
 mnc = "89"
 plmn = "40489"
 operator = "Uttar Pradesh (East)"
@@ -776,14 +288,6 @@ gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = []
 profile_names = ["8991902277707060690F"]
-
-[[operators]]
-mnc = "91"
-plmn = "40491"
-operator = "Kolkata"
-brand = "AIRCEL"
-tadig = "IND09"
-bands = "GSM 900"
 
 [[operators]]
 mnc = "92"
@@ -818,35 +322,6 @@ profile_provider_names = []
 profile_names = ["8991932277708771984F", "8991932277708900070F", "8991932277708826945F"]
 
 [[operators]]
-mnc = "94"
-plmn = "40494"
-operator = "Tamil Nadu"
-brand = "AirTel"
-tadig = "INDA4"
-
-[[operators]]
-mnc = "95"
-plmn = "40495"
-operator = "Kerala"
-brand = "AirTel"
-tadig = "INDA7"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "96"
-plmn = "40496"
-operator = "Haryana"
-brand = "AirTel"
-tadig = "INDA5"
-bands = "GSM 1800"
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = []
-profile_names = ["8991962277703275778F"]
-
-[[operators]]
 mnc = "97"
 plmn = "40497"
 operator = "Uttar Pradesh (West)"
@@ -860,16 +335,3 @@ gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = []
 profile_names = ["8991972177701698930F", "8991972277702110412F", "8991972177701851521F", "8991972177701520258F"]
-
-[[operators]]
-mnc = "98"
-plmn = "40498"
-operator = "Gujarat"
-brand = "AirTel"
-tadig = "INDA3"
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = []
-profile_names = ["8991982277706376017F"]

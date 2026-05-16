@@ -4,29 +4,6 @@ iso = "PE"
 region = "South and Central America"
 
 [[operators]]
-mnc = "06"
-plmn = "71606"
-operator = "Telefónica del Perú S.A.A."
-brand = "Movistar"
-tadig = "PERMO"
-bands = "CDMA2000 850 / GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 700 / LTE 1700"
-
-[[operators]]
-mnc = "07"
-plmn = "71607"
-operator = "Entel Perú S.A."
-brand = "Entel"
-bands = "iDEN"
-
-[[operators]]
-mnc = "10"
-plmn = "71610"
-operator = "América Móvil Perú"
-brand = "Claro"
-tadig = "PERTM"
-bands = "GSM 1900 / UMTS 850 / LTE 700 / LTE 1900 / TD-LTE 3500"
-
-[[operators]]
 mnc = "15"
 plmn = "71615"
 operator = "Viettel Peru S.A.C."
@@ -41,13 +18,6 @@ gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["BITEL"]
 profile_names = []
-
-[[operators]]
-mnc = "17"
-plmn = "71617"
-operator = "Entel Perú S.A."
-brand = "Entel"
-bands = "UMTS 1900 / LTE 1700 / TD-LTE 2300"
 
 [[operators]]
 mnc = "20"

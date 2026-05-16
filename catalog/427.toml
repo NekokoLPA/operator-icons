@@ -40,17 +40,3 @@ gid1 = "ff"
 gid2 = "ff"
 profile_provider_names = ["Vodafone Qatar", "Vodafone"]
 profile_names = ["Vodafone Qatar e-Sim", "Vodafone e-Sim"]
-
-[[operators]]
-mnc = "05"
-plmn = "42705"
-operator = "Ministry of Interior"
-brand = "Ministry of Interior"
-bands = "TETRA 380"
-
-[[operators]]
-mnc = "06"
-plmn = "42706"
-operator = "Ministry of Interior"
-brand = "Ministry of Interior"
-bands = "LTE"

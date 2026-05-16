@@ -20,13 +20,6 @@ profile_provider_names = ["Yettel eSIM"]
 profile_names = ["Yettel SRB"]
 
 [[operators]]
-mnc = "02"
-plmn = "22002"
-operator = "Telenor Montenegro"
-brand = "Telenor"
-bands = "GSM 900 / GSM 1800 / UMTS 2100"
-
-[[operators]]
 mnc = "03"
 plmn = "22003"
 operator = "Telekom Srbija"
@@ -48,13 +41,6 @@ profile_provider_names = ["Globaltel"]
 profile_names = ["Globaltel"]
 
 [[operators]]
-mnc = "04"
-plmn = "22004"
-operator = "T-Mobile Montenegro LLC"
-brand = "T-Mobile"
-bands = "GSM"
-
-[[operators]]
 mnc = "05"
 plmn = "22005"
 operator = "VIP Mobile"
@@ -69,24 +55,3 @@ gid1 = ""
 gid2 = ""
 profile_provider_names = ["A1 SRB"]
 profile_names = ["A1RS Prepaid eSIM", "Procescom_MultiIMSI"]
-
-[[operators]]
-mnc = "07"
-plmn = "22007"
-operator = "Orion Telekom"
-brand = ""
-bands = "CDMA 450"
-
-[[operators]]
-mnc = "09"
-plmn = "22009"
-operator = "MUNDIO MOBILE d.o.o."
-brand = "Vectone Mobile"
-bands = "MVNO"
-
-[[operators]]
-mnc = "11"
-plmn = "22011"
-operator = "GLOBALTEL d.o.o."
-brand = "GLOBALTEL"
-bands = "MVNO"

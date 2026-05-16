@@ -36,30 +36,6 @@ profile_provider_names = ["activ"]
 profile_names = ["50173", "50220", "50172", "50157", "50221", "50158", "50204", "50082", "50126", "50222", "50219", "50223", "50255"]
 
 [[operators]]
-mnc = "07"
-plmn = "40107"
-operator = "Altel"
-brand = "Altel"
-bands = "UMTS 850 / GSM 1800 / LTE 1800"
-
-[[operators]]
-mnc = "08"
-plmn = "40108"
-brand = "Kazakhtelecom"
-bands = "CDMA2000 800 / CDMA2000 450"
-
-[[operators]]
-mnc = "10"
-plmn = "40110"
-brand = ""
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = []
-profile_names = ["Rakuten 5G"]
-
-[[operators]]
 mnc = "77"
 plmn = "40177"
 operator = "MTS"

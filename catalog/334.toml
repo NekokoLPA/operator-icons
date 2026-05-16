@@ -4,19 +4,6 @@ iso = "MX"
 region = "North America and the Caribbean"
 
 [[operators]]
-mnc = "001"
-plmn = "334001"
-operator = "Comunicaciones Digitales Del Norte, S.A. de C.V."
-brand = ""
-
-[[operators]]
-mnc = "010"
-plmn = "334010"
-operator = "AT&T Mexico"
-brand = "AT&T"
-bands = "iDEN 800"
-
-[[operators]]
 mnc = "020"
 plmn = "334020"
 operator = "América Móvil"
@@ -55,13 +42,6 @@ profile_provider_names = ["Airalo", "Movistar Mexico", "DUA", "weex", "Connect",
 profile_names = ["Generic Voucher", "Hercules Profile", "128.UV3", "128.EA1", "128.EW1"]
 
 [[operators]]
-mnc = "040"
-plmn = "334040"
-operator = "AT&T Mexico"
-brand = "Unefon"
-bands = "CDMA2000 800 / CDMA2000 1900"
-
-[[operators]]
 mnc = "050"
 plmn = "334050"
 operator = "AT&T Mexico"
@@ -96,58 +76,6 @@ gid1 = "ffffffffffffffffff"
 gid2 = "ffffffffffffffffff"
 profile_provider_names = ["ATTMexico"]
 profile_names = ["Condesa_1.0", "AT&T"]
-
-[[operators]]
-mnc = "060"
-plmn = "334060"
-operator = "Servicios de Acceso Inalambrico, S.A. de C.V."
-brand = ""
-
-[[operators]]
-mnc = "066"
-plmn = "334066"
-operator = "Telefonos de México, S.A.B. de C.V."
-brand = ""
-
-[[operators]]
-mnc = "070"
-plmn = "334070"
-operator = "AT&T Mexico"
-brand = "Unefon"
-
-[[operators]]
-mnc = "080"
-plmn = "334080"
-operator = "AT&T Mexico"
-brand = "Unefon"
-
-[[operators]]
-mnc = "090"
-plmn = "334090"
-operator = "AT&T Mexico"
-brand = "AT&T"
-tadig = "MEXN3"
-bands = "UMTS 1700 / LTE 850 / LTE 1700"
-
-[[operators]]
-mnc = "100"
-plmn = "334100"
-operator = "Telecomunicaciones de México"
-brand = ""
-
-[[operators]]
-mnc = "110"
-plmn = "334110"
-operator = "Maxcom Telecomunicaciones, S.A.B. de C.V."
-brand = ""
-bands = "MVNO"
-
-[[operators]]
-mnc = "120"
-plmn = "334120"
-operator = "Quickly Phone, S.A. de C.V."
-brand = ""
-bands = "MVNO"
 
 [[operators]]
 mnc = "130"
@@ -250,26 +178,3 @@ gid1 = "414c54414e"
 gid2 = "0567"
 profile_provider_names = ["Inphonity"]
 profile_names = ["11208.04_Inphonity"]
-
-[[operators]]
-mnc = "150"
-plmn = "334150"
-operator = "Ultravisión, S.A. de C.V."
-brand = "Ultranet"
-bands = "LTE 2600"
-
-[[operators]]
-mnc = "160"
-plmn = "334160"
-brand = ""
-
-[[operators]]
-mnc = "170"
-plmn = "334170"
-brand = ""
-
-[[operators.gids]]
-gid1 = "4f58494f2e696fffffffffffffffffff"
-gid2 = "ffffffffffffffffffffffffffffffff"
-profile_provider_names = []
-profile_names = ["OXIO_334140_MI_CP_AD_v05.00.00_PROD"]

@@ -4,13 +4,6 @@ iso = "VE"
 region = "South and Central America"
 
 [[operators]]
-mnc = "01"
-plmn = "73401"
-operator = "Corporacion Digitel C.A."
-brand = "Digitel"
-bands = "GSM 900"
-
-[[operators]]
 mnc = "02"
 plmn = "73402"
 operator = "Corporacion Digitel C.A."
@@ -24,27 +17,6 @@ gid1 = ""
 gid2 = ""
 profile_provider_names = ["Digitel"]
 profile_names = ["Digitel"]
-
-[[operators]]
-mnc = "03"
-plmn = "73403"
-operator = "Galaxy Entertainment de Venezuela C.A."
-brand = "DirecTV"
-bands = "LTE 2600"
-
-[[operators]]
-mnc = "04"
-plmn = "73404"
-operator = "Telefónica Móviles Venezuela"
-brand = "movistar"
-tadig = "VENMS"
-bands = "GSM 850 / GSM 1900 / UMTS 1900 / LTE 1700"
-
-[[operators.gids]]
-gid1 = "01"
-gid2 = ""
-profile_provider_names = []
-profile_names = ["TMV Virtual Profile", "TMV Physical Profile"]
 
 [[operators]]
 mnc = "06"

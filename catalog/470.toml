@@ -72,13 +72,6 @@ profile_provider_names = ["Teletalk"]
 profile_names = ["Teletalk General 02"]
 
 [[operators]]
-mnc = "05"
-plmn = "47005"
-operator = "Pacific Bangladesh Telecom Limited"
-brand = "Citycell"
-bands = "CDMA 800"
-
-[[operators]]
 mnc = "07"
 plmn = "47007"
 operator = "Bharti Airtel Bangladesh Ltd."
@@ -92,17 +85,3 @@ gid1 = "ffffffff"
 gid2 = "ffffffff"
 profile_provider_names = ["Airtel"]
 profile_names = ["Airtel eSIM"]
-
-[[operators]]
-mnc = "09"
-plmn = "47009"
-operator = "Bangladesh Internet Exchange Limited (BIEL)"
-brand = "ollo"
-bands = "LTE 800 / LTE 2600 / WiMAX 3500"
-
-[[operators]]
-mnc = "10"
-plmn = "47010"
-operator = "Banglalion Communications Ltd."
-brand = "Banglalion"
-bands = "TD-LTE 2600 / WiMAX 3500"

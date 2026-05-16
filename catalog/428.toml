@@ -46,20 +46,6 @@ profile_provider_names = ["UNITEL"]
 profile_names = ["UNITEL"]
 
 [[operators]]
-mnc = "91"
-plmn = "42891"
-operator = "Skytel LLC"
-brand = "Skytel"
-bands = "CDMA2000 800 / UMTS 2100"
-
-[[operators]]
-mnc = "98"
-plmn = "42898"
-operator = "G-Mobile LLC"
-brand = "G-Mobile"
-bands = "CDMA2000 450 / UMTS 2100"
-
-[[operators]]
 mnc = "99"
 plmn = "42899"
 operator = "Mobicom Corporation"

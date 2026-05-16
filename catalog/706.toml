@@ -4,22 +4,6 @@ iso = "SV"
 region = "South and Central America"
 
 [[operators]]
-mnc = "01"
-plmn = "70601"
-operator = "CTE Telecom Personal, S.A. de C.V."
-brand = "Claro"
-tadig = "SLVTP"
-bands = "GSM 1900 / UMTS 1900"
-
-[[operators]]
-mnc = "02"
-plmn = "70602"
-operator = "Digicel, S.A. de C.V."
-brand = "Digicel"
-tadig = "SLVDC"
-bands = "GSM 900 / UMTS 900"
-
-[[operators]]
 mnc = "03"
 plmn = "70603"
 operator = "Telemovil El Salvador S.A."
@@ -56,10 +40,3 @@ gid1 = "00"
 gid2 = ""
 profile_provider_names = ["Movistar"]
 profile_names = ["128LTE.U5"]
-
-[[operators]]
-mnc = "05"
-plmn = "70605"
-operator = "INTELFON, S.A. de C.V."
-brand = "RED"
-bands = "iDEN"

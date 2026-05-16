@@ -20,20 +20,6 @@ profile_provider_names = ["FET Taiwan"]
 profile_names = ["Far EasTone Telecom"]
 
 [[operators]]
-mnc = "02"
-plmn = "46602"
-operator = "Far EasTone Telecommunications Co Ltd"
-brand = "FarEasTone"
-bands = "GSM 900"
-
-[[operators]]
-mnc = "03"
-plmn = "46603"
-operator = "Far EasTone Telecommunications Co Ltd"
-brand = "FarEasTone"
-bands = "UMTS 2100"
-
-[[operators]]
 mnc = "05"
 plmn = "46605"
 operator = "Asia Pacific Telecom"
@@ -47,69 +33,6 @@ gid1 = "0affffffffffffff"
 gid2 = "ff"
 profile_provider_names = ["APT Taiwan"]
 profile_names = ["APT"]
-
-[[operators]]
-mnc = "06"
-plmn = "46606"
-operator = "Far EasTone Telecommunications Co Ltd"
-brand = "FarEasTone"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "07"
-plmn = "46607"
-operator = "Far EasTone Telecommunications Co Ltd"
-brand = "FarEasTone"
-bands = "WiMAX 2600"
-
-[[operators]]
-mnc = "09"
-plmn = "46609"
-operator = "Vmax Telecom"
-brand = "VMAX"
-bands = "WiMAX 2600"
-
-[[operators]]
-mnc = "10"
-plmn = "46610"
-operator = "Global Mobile Corp."
-brand = "G1"
-bands = "WiMAX 2600"
-
-[[operators]]
-mnc = "11"
-plmn = "46611"
-operator = "LDTA/Chunghwa Telecom"
-brand = "Chunghwa LDM"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "12"
-plmn = "46612"
-operator = "Ambit Microsystems"
-brand = ""
-bands = "LTE 700 / LTE 900"
-
-[[operators]]
-mnc = "56"
-plmn = "46656"
-operator = "First International Telecom"
-brand = "FITEL"
-bands = "WiMAX 2600 / PHS"
-
-[[operators]]
-mnc = "68"
-plmn = "46668"
-operator = "Tatung InfoComm"
-brand = ""
-bands = "WiMAX 2600"
-
-[[operators]]
-mnc = "88"
-plmn = "46688"
-operator = "Far EasTone Telecommunications Co Ltd"
-brand = "FarEasTone"
-bands = "GSM 1800"
 
 [[operators]]
 mnc = "89"
@@ -126,13 +49,6 @@ gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = []
 profile_names = ["ESIM4G"]
-
-[[operators]]
-mnc = "90"
-plmn = "46690"
-operator = "Taiwan Star Telecom"
-brand = "T Star"
-bands = "LTE 900"
 
 [[operators]]
 mnc = "92"
@@ -186,10 +102,3 @@ gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["Taiwan Mobile"]
 profile_names = ["N56901R5", "Taiwan Mobile", "N56701R5", "R56901R4", "P56901R5", "R56701R4"]
-
-[[operators]]
-mnc = "99"
-plmn = "46699"
-operator = "TransAsia Telecoms"
-brand = "TransAsia"
-bands = "GSM 900"

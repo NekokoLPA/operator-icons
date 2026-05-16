@@ -20,13 +20,6 @@ profile_provider_names = ["JAZZ PAK"]
 profile_names = []
 
 [[operators]]
-mnc = "02"
-plmn = "41002"
-operator = "PTCL"
-brand = "3G EVO / CharJi 4G"
-bands = "CDMA2000 1900 / TD-LTE 1900"
-
-[[operators]]
 mnc = "03"
 plmn = "41003"
 operator = "Pakistan Telecommunication Mobile Ltd"
@@ -56,39 +49,3 @@ gid1 = ""
 gid2 = ""
 profile_provider_names = ["ZONG"]
 profile_names = ["cmpak"]
-
-[[operators]]
-mnc = "05"
-plmn = "41005"
-operator = "SCO Mobile Ltd"
-brand = "SCO Mobile"
-bands = "GSM 900 / GSM 1800"
-
-[[operators]]
-mnc = "06"
-plmn = "41006"
-operator = "Telenor Pakistan"
-brand = "Telenor"
-tadig = "PAKTP"
-bands = "GSM 900 / GSM 1800 / UMTS 850 / UMTS 2100 / LTE 850 / LTE 1800"
-
-[[operators.gids]]
-gid1 = "ffffff"
-gid2 = "ffffff"
-profile_provider_names = []
-profile_names = ["Telenor"]
-
-[[operators]]
-mnc = "07"
-plmn = "41007"
-operator = "WaridTel"
-brand = "Jazz"
-tadig = "PAKWA"
-bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
-
-[[operators]]
-mnc = "08"
-plmn = "41008"
-operator = "SCO Mobile Ltd"
-brand = "SCO Mobile"
-bands = "GSM 900 / GSM 1800"

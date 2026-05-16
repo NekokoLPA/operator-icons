@@ -4,21 +4,6 @@ iso = "LI"
 region = "Europe"
 
 [[operators]]
-mnc = "01"
-plmn = "29501"
-operator = "Swisscom Schweiz AG"
-brand = "Swisscom"
-bands = "GSM 900 / GSM 1800 / LTE 1800"
-
-[[operators]]
-mnc = "02"
-plmn = "29502"
-operator = "Salt Liechtenstein AG"
-brand = "7acht"
-tadig = "LIEVE"
-bands = "GSM 1800 / UMTS 2100 / LTE 1800"
-
-[[operators]]
 mnc = "05"
 plmn = "29505"
 operator = "Telecom Liechtenstein AG"
@@ -45,46 +30,3 @@ gid1 = "ffffff"
 gid2 = "ffffff"
 profile_provider_names = []
 profile_names = []
-
-[[operators]]
-mnc = "06"
-plmn = "29506"
-operator = "Cubic Telecom AG"
-brand = "Cubic Telecom"
-bands = "MVNO"
-
-[[operators]]
-mnc = "07"
-plmn = "29507"
-operator = "First Mobile AG"
-brand = ""
-bands = "MVNO"
-
-[[operators]]
-mnc = "09"
-plmn = "29509"
-operator = "EMnify GmbH"
-brand = ""
-bands = "MVNO"
-
-[[operators]]
-mnc = "10"
-plmn = "29510"
-operator = "Soracom LI Ltd."
-brand = ""
-bands = "MVNO"
-
-[[operators]]
-mnc = "11"
-plmn = "29511"
-operator = "DIMOCO Messaging AG"
-brand = ""
-bands = "MVNO"
-
-[[operators]]
-mnc = "77"
-plmn = "29577"
-operator = "Alpcom AG"
-brand = "Alpmobil"
-tadig = "LIETG"
-bands = "GSM 900"

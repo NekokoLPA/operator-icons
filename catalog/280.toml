@@ -20,20 +20,6 @@ profile_provider_names = ["Cytamobile-Vodafone"]
 profile_names = ["Airport_campaign", "Prepaid_eSIM"]
 
 [[operators]]
-mnc = "02"
-plmn = "28002"
-operator = "Cyprus Telecommunications Authority"
-brand = "Cytamobile-Vodafone"
-
-[[operators]]
-mnc = "10"
-plmn = "28010"
-operator = "Monaco Telecom"
-brand = "Epic"
-tadig = "CYPSC"
-bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800"
-
-[[operators]]
 mnc = "20"
 plmn = "28020"
 operator = "PrimeTel PLC"
@@ -48,17 +34,3 @@ gid1 = ""
 gid2 = ""
 profile_provider_names = ["Primetel"]
 profile_names = ["Primetel eSIM"]
-
-[[operators]]
-mnc = "22"
-plmn = "28022"
-operator = "Lemontel Ltd"
-brand = "lemontel"
-bands = "MVNO"
-
-[[operators]]
-mnc = "23"
-plmn = "28023"
-operator = "Mundio Mobile Cyprus Ltd."
-brand = "Vectone Mobile"
-bands = "MVNO"

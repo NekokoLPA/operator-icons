@@ -32,32 +32,6 @@ profile_provider_names = ["Tuenti Argentina"]
 profile_names = ["Hercules"]
 
 [[operators]]
-mnc = "020"
-plmn = "722020"
-operator = "NII Holdings"
-brand = "Nextel"
-bands = "iDEN 800"
-
-[[operators]]
-mnc = "034"
-plmn = "722034"
-operator = "Telecom Personal S.A."
-brand = "Personal"
-
-[[operators]]
-mnc = "040"
-plmn = "722040"
-operator = "TE.SA.M Argentina S.A."
-brand = "Globalstar"
-
-[[operators]]
-mnc = "070"
-plmn = "722070"
-operator = "Telefónica Móviles Argentina S.A."
-brand = "Movistar"
-bands = "GSM 1900"
-
-[[operators]]
 mnc = "310"
 plmn = "722310"
 operator = "AMX Argentina S.A."
@@ -72,31 +46,3 @@ gid1 = ""
 gid2 = ""
 profile_provider_names = ["Claro"]
 profile_names = ["B11.60"]
-
-[[operators]]
-mnc = "320"
-plmn = "722320"
-operator = "AMX Argentina S.A."
-brand = "Claro"
-bands = "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 1700"
-
-[[operators]]
-mnc = "330"
-plmn = "722330"
-operator = "AMX Argentina S.A."
-brand = "Claro"
-bands = "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 1700"
-
-[[operators]]
-mnc = "341"
-plmn = "722341"
-operator = "Telecom Personal S.A."
-brand = "Personal"
-bands = "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 700 / LTE 1700 / LTE 2600"
-
-[[operators]]
-mnc = "350"
-plmn = "722350"
-operator = "Hutchison Telecommunications Argentina S.A."
-brand = "PORT-HABLE"
-bands = "GSM 900"

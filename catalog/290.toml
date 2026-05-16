@@ -18,10 +18,3 @@ gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["Tusass"]
 profile_names = ["Tusass"]
-
-[[operators]]
-mnc = "02"
-plmn = "29002"
-operator = "inu:it a/s"
-brand = "Nuuk TV"
-bands = "TD-LTE 2500"

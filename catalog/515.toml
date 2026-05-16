@@ -4,13 +4,6 @@ iso = "PH"
 region = "Oceania"
 
 [[operators]]
-mnc = "01"
-plmn = "51501"
-operator = "Globe Telecom via Innove Communications"
-brand = "Islacom"
-bands = "GSM 900"
-
-[[operators]]
 mnc = "02"
 plmn = "51502"
 operator = "Globe Telecom"
@@ -43,34 +36,6 @@ profile_provider_names = ["SMART", "TNT", "KiQ"]
 profile_names = ["Operational", "SMART", "89630324227000237665", "TNT"]
 
 [[operators]]
-mnc = "05"
-plmn = "51505"
-operator = "Digital Telecommunications Philippines"
-brand = "Sun Cellular"
-tadig = "PHLDG"
-bands = "GSM 1800 / UMTS 2100"
-
-[[operators]]
-mnc = "11"
-plmn = "51511"
-operator = "PLDT via ACeS Philippines"
-brand = ""
-
-[[operators]]
-mnc = "18"
-plmn = "51518"
-operator = "PLDT via Smart's Connectivity Unlimited Resources Enterprise"
-brand = "Cure"
-bands = "GSM 900 / UMTS 2100"
-
-[[operators]]
-mnc = "24"
-plmn = "51524"
-operator = "ABS-CBN Convergence with Globe Telecom"
-brand = "ABS-CBN Mobile"
-bands = "MVNO"
-
-[[operators]]
 mnc = "66"
 plmn = "51566"
 brand = "DITO"
@@ -82,10 +47,3 @@ gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["DITO"]
 profile_names = ["DITO_51566_005", "DITO_51566_004"]
-
-[[operators]]
-mnc = "88"
-plmn = "51588"
-operator = "Next Mobile Inc."
-brand = ""
-bands = "iDEN"

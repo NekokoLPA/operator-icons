@@ -36,13 +36,6 @@ profile_provider_names = ["MTS.BY"]
 profile_names = ["MTS.BY"]
 
 [[operators]]
-mnc = "03"
-plmn = "25703"
-operator = "BelCel"
-brand = "DIALLOG"
-bands = "CDMA 450"
-
-[[operators]]
 mnc = "04"
 plmn = "25704"
 operator = "Belarusian Telecommunications Network"
@@ -56,17 +49,3 @@ gid1 = ""
 gid2 = ""
 profile_provider_names = ["Life"]
 profile_names = ["Life BLR LTE COMM 01", "Life BLR LTE COMM 02"]
-
-[[operators]]
-mnc = "05"
-plmn = "25705"
-operator = "Beltelecom"
-brand = "byfly"
-bands = "WiMAX 3500"
-
-[[operators]]
-mnc = "06"
-plmn = "25706"
-operator = "Belorussian Cloud Technologies"
-brand = "beCloud"
-bands = "LTE 1800 / LTE 2600"

@@ -50,11 +50,3 @@ gid1 = ""
 gid2 = ""
 profile_provider_names = ["TurkTelekom"]
 profile_names = ["TurkTelekom"]
-
-[[operators]]
-mnc = "04"
-plmn = "28604"
-operator = "Aycell"
-brand = "Aycell"
-tadig = "TURAC"
-bands = "GSM 1800"

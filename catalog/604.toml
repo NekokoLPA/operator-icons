@@ -50,28 +50,3 @@ gid1 = "0f"
 gid2 = "02"
 profile_provider_names = ["INWI"]
 profile_names = ["eSIM"]
-
-[[operators]]
-mnc = "04"
-plmn = "60404"
-operator = "Al Houria Telecom"
-brand = ""
-
-[[operators]]
-mnc = "05"
-plmn = "60405"
-operator = "Wana Corporate"
-brand = "INWI"
-bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
-
-[[operators]]
-mnc = "06"
-plmn = "60406"
-operator = "Ittissalat Al-Maghrib (Maroc Telecom)"
-brand = "IAM"
-
-[[operators]]
-mnc = "99"
-plmn = "60499"
-operator = "Al Houria Telecom"
-brand = ""

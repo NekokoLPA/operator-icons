@@ -4,27 +4,6 @@ iso = "MY"
 region = "Oceania"
 
 [[operators]]
-mnc = "01"
-plmn = "50201"
-operator = "Telekom Malaysia Bhd"
-brand = "ATUR 450"
-bands = "CDMA2000 450"
-
-[[operators]]
-mnc = "10"
-plmn = "50210"
-operator = "Maxis, DiGi, Celcom, XOX"
-brand = ""
-bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2600"
-
-[[operators]]
-mnc = "11"
-plmn = "50211"
-operator = "Telekom Malaysia Bhd"
-brand = "TM Homeline"
-bands = "CDMA2000 850 / LTE 850"
-
-[[operators]]
 mnc = "12"
 plmn = "50212"
 operator = "Maxis Communications Berhad"
@@ -41,20 +20,6 @@ profile_provider_names = ["Maxis", "CMLink"]
 profile_names = ["eSIM 5GSA", "Maxis"]
 
 [[operators]]
-mnc = "13"
-plmn = "50213"
-operator = "Celcom Axiata Berhad"
-brand = "Celcom"
-tadig = "MYSMR"
-bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2600"
-
-[[operators]]
-mnc = "14"
-plmn = "50214"
-operator = "Telekom Malaysia Berhad for PSTN SMS"
-brand = ""
-
-[[operators]]
 mnc = "16"
 plmn = "50216"
 operator = "DiGi Telecommunications"
@@ -69,13 +34,6 @@ gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["Digi"]
 profile_names = ["eSIM_MASS_USIM_1.0"]
-
-[[operators]]
-mnc = "17"
-plmn = "50217"
-operator = "Maxis Communications Berhad"
-brand = "Maxis"
-bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 2600"
 
 [[operators]]
 mnc = "18"
@@ -134,27 +92,6 @@ profile_provider_names = ["TuneTalk", "XOX", "GlobalData", "Tunetalk"]
 profile_names = ["TuneTalk_T01", "XOX_T01", "TuneTalk", "Tunetalk", "GlobalData"]
 
 [[operators]]
-mnc = "20"
-plmn = "50220"
-operator = "Electcoms Berhad"
-brand = "Electcoms"
-bands = "DMR"
-
-[[operators]]
-mnc = "150"
-plmn = "502150"
-operator = "Tune Talk Sdn Bhd"
-brand = "Tune Talk"
-bands = "MVNO"
-
-[[operators]]
-mnc = "151"
-plmn = "502151"
-operator = "Baraka Telecom Sdn Bhd"
-brand = "SalamFone"
-bands = "MVNO"
-
-[[operators]]
 mnc = "152"
 plmn = "502152"
 operator = "YTL Communications Sdn Bhd"
@@ -189,31 +126,3 @@ gid1 = "ffffffffffffffffffffffffffffff"
 gid2 = "ffffffffffffffffffffffffffffff"
 profile_provider_names = ["unifi"]
 profile_names = ["TEST_Telekom_Malaysia_5G_DI_v01.00.00"]
-
-[[operators]]
-mnc = "154"
-plmn = "502154"
-operator = "Talk Focus Sdn Bhd"
-brand = "Tron"
-bands = "MVNO"
-
-[[operators]]
-mnc = "155"
-plmn = "502155"
-operator = "Clixster Mobile Sdn Bhd"
-brand = "Clixster"
-bands = "MVNO"
-
-[[operators]]
-mnc = "156"
-plmn = "502156"
-operator = "Altel Communications Sdn Bhd"
-brand = "Altel"
-bands = "MVNO"
-
-[[operators]]
-mnc = "157"
-plmn = "502157"
-operator = "Telekomunikasi Indonesia International (M) Sdn Bhd"
-brand = "Telin"
-bands = "MVNO"

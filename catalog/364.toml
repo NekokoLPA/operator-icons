@@ -18,11 +18,3 @@ gid1 = "ffffffff"
 gid2 = "ffffffff"
 profile_provider_names = ["Liberty BTC"]
 profile_names = ["8901391290001789887F", "8901391290001519151F"]
-
-[[operators]]
-mnc = "49"
-plmn = "36449"
-operator = "Cable Bahamas Ltd"
-brand = "Aliv"
-tadig = "BHSNC"
-bands = "UMTS 850 / LTE 700 / LTE 1700"

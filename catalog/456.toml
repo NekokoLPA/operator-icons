@@ -20,35 +20,6 @@ profile_provider_names = ["CellCard"]
 profile_names = ["CellCard"]
 
 [[operators]]
-mnc = "02"
-plmn = "45602"
-operator = "Smart Axiata Co. Ltd"
-brand = "Smart"
-bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
-
-[[operators]]
-mnc = "03"
-plmn = "45603"
-operator = "Cambodia Advance Communications Co. Ltd"
-brand = "qb"
-bands = "GSM 1800 / UMTS 2100"
-
-[[operators]]
-mnc = "04"
-plmn = "45604"
-operator = "Cambodia Advance Communications Co. Ltd"
-brand = "qb"
-tadig = "KHMCC"
-bands = "GSM 1800 / UMTS 2100"
-
-[[operators]]
-mnc = "05"
-plmn = "45605"
-operator = "Smart Axiata Co. Ltd"
-brand = "Smart"
-bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2100"
-
-[[operators]]
 mnc = "06"
 plmn = "45606"
 operator = "Smart Axiata Co. Ltd"
@@ -78,24 +49,3 @@ gid1 = "000000a1"
 gid2 = "00000000"
 profile_provider_names = ["Metfone"]
 profile_names = ["VTC 26.0"]
-
-[[operators]]
-mnc = "09"
-plmn = "45609"
-operator = "Viettel"
-brand = "Metfone"
-bands = "GSM 900 / GSM 1800"
-
-[[operators]]
-mnc = "11"
-plmn = "45611"
-operator = "SEATEL Cambodia"
-brand = "SEATEL"
-bands = "LTE 850"
-
-[[operators]]
-mnc = "18"
-plmn = "45618"
-operator = "The Royal Group"
-brand = "Cellcard"
-bands = "GSM 900 / GSM 1800 / UMTS 2100"

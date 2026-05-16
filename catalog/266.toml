@@ -18,23 +18,3 @@ gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["GIBTEL"]
 profile_names = ["GIBTEL"]
-
-[[operators]]
-mnc = "03"
-plmn = "26603"
-operator = "GibFibre Ltd"
-brand = "Gibfibrespeed"
-
-[[operators]]
-mnc = "06"
-plmn = "26606"
-operator = "CTS Gibraltar"
-brand = "CTS Mobile"
-bands = "UMTS 2100"
-
-[[operators]]
-mnc = "09"
-plmn = "26609"
-operator = "Eazitelecom"
-brand = "Shine"
-bands = "GSM 1800 / UMTS 2100"

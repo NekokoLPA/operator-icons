@@ -4,44 +4,6 @@ iso = "CO"
 region = "South and Central America"
 
 [[operators]]
-mnc = "001"
-plmn = "732001"
-operator = "Colombia Telecomunicaciones S.A. ESP"
-brand = "movistar"
-
-[[operators]]
-mnc = "002"
-plmn = "732002"
-operator = "Edatel S.A. ESP"
-brand = "Edatel"
-
-[[operators]]
-mnc = "003"
-plmn = "732003"
-operator = "LLEIDA S.A.S."
-brand = ""
-
-[[operators]]
-mnc = "004"
-plmn = "732004"
-operator = "COMPATEL COLOMBIA SAS"
-brand = ""
-
-[[operators]]
-mnc = "020"
-plmn = "732020"
-operator = "Une EPM Telecomunicaciones S.A. E.S.P."
-brand = "Tigo"
-bands = "LTE 2600"
-
-[[operators]]
-mnc = "099"
-plmn = "732099"
-operator = "Empresas Municipales de Cali"
-brand = "EMCALI"
-bands = "GSM 900"
-
-[[operators]]
 mnc = "101"
 plmn = "732101"
 operator = "COMCEL S.A."
@@ -56,20 +18,6 @@ gid1 = ""
 gid2 = ""
 profile_provider_names = ["Claro Colombia"]
 profile_names = ["Claro Colombia Hercules"]
-
-[[operators]]
-mnc = "102"
-plmn = "732102"
-operator = "Bellsouth Colombia"
-brand = ""
-bands = "GSM 850 / GSM 1900 / CDMA 850"
-
-[[operators]]
-mnc = "103"
-plmn = "732103"
-operator = "Colombia Móvil S.A. ESP"
-brand = "Tigo"
-bands = "GSM 1900 / UMTS 2100 / LTE 1700 / LTE 2600"
 
 [[operators]]
 mnc = "111"
@@ -116,19 +64,6 @@ profile_provider_names = ["Jetpac", "Connect"]
 profile_names = ["Telna_IMSI21_Connect_v04.22.01"]
 
 [[operators]]
-mnc = "130"
-plmn = "732130"
-operator = "Avantel S.A.S"
-brand = "AVANTEL"
-bands = "iDEN / UMTS 1700 / LTE 1700"
-
-[[operators]]
-mnc = "142"
-plmn = "732142"
-operator = "Une EPM Telecomunicaciones S.A. E.S.P."
-brand = ""
-
-[[operators]]
 mnc = "154"
 plmn = "732154"
 operator = "Virgin Mobile Colombia S.A.S."
@@ -144,19 +79,6 @@ profile_provider_names = ["Virgin Mobile"]
 profile_names = ["01.E0"]
 
 [[operators]]
-mnc = "165"
-plmn = "732165"
-operator = "Colombia Móvil S.A. ESP"
-brand = ""
-
-[[operators]]
-mnc = "176"
-plmn = "732176"
-operator = "DirecTV Colombia Ltda"
-brand = ""
-bands = "TD-LTE 2600"
-
-[[operators]]
 mnc = "187"
 plmn = "732187"
 operator = "Empresa de Telecomunicaciones de Bogotá S.A. ESP"
@@ -170,42 +92,6 @@ gid1 = ""
 gid2 = ""
 profile_provider_names = ["ETB"]
 profile_names = []
-
-[[operators]]
-mnc = "199"
-plmn = "732199"
-operator = "SUMA Movil SAS"
-brand = ""
-
-[[operators]]
-mnc = "208"
-plmn = "732208"
-operator = "UFF Movil SAS"
-brand = ""
-
-[[operators]]
-mnc = "210"
-plmn = "732210"
-operator = "Hablame Colombia SAS ESP"
-brand = ""
-
-[[operators]]
-mnc = "220"
-plmn = "732220"
-operator = "Libre Tecnologias SAS"
-brand = ""
-
-[[operators]]
-mnc = "230"
-plmn = "732230"
-operator = "Setroc Mobile Group SAS"
-brand = ""
-
-[[operators]]
-mnc = "240"
-plmn = "732240"
-operator = "Logistica Flash Colombia SAS"
-brand = ""
 
 [[operators]]
 mnc = "360"

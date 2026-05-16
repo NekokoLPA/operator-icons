@@ -17,11 +17,3 @@ gid1 = ""
 gid2 = ""
 profile_provider_names = ["SETAR"]
 profile_names = []
-
-[[operators]]
-mnc = "02"
-plmn = "36302"
-operator = "Digicel Aruba"
-brand = "Digicel"
-tadig = "ABWDC"
-bands = "GSM 900 / GSM 1800 / UMTS 2100"

@@ -20,21 +20,6 @@ profile_provider_names = ["my.t"]
 profile_names = ["MyT_Mauritius_eSIM_Consumer_Prepaid_v02.00.00", "MyT_Mauritius_eSIM_Consumer_Postpaid_v02.01.00"]
 
 [[operators]]
-mnc = "02"
-plmn = "61702"
-operator = "Mahanagar Telephone Mauritius Limited (MTML)"
-brand = "MOKOZE / AZU"
-bands = "CDMA2000"
-
-[[operators]]
-mnc = "03"
-plmn = "61703"
-operator = "Mahanagar Telephone Mauritius Limited (MTML)"
-brand = "CHILI"
-tadig = "MUSMT"
-bands = "GSM 900 / UMTS 2100 / LTE 1800"
-
-[[operators]]
 mnc = "10"
 plmn = "61710"
 operator = "Emtel Ltd."

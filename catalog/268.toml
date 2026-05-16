@@ -71,13 +71,6 @@ profile_provider_names = ["LycaMobile"]
 profile_names = ["LycaMobile"]
 
 [[operators]]
-mnc = "05"
-plmn = "26805"
-operator = "Oniway - Inforcomunicaçôes, S.A."
-brand = ""
-bands = "UMTS 2100"
-
-[[operators]]
 mnc = "06"
 plmn = "26806"
 operator = "Telecomunicações Móveis Nacionais"
@@ -92,48 +85,3 @@ gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["MEO", "UZO"]
 profile_names = ["MEO", "UZO"]
-
-[[operators]]
-mnc = "07"
-plmn = "26807"
-operator = "Mundio Mobile (Portugal) Limited"
-brand = "Vectone Mobile"
-bands = "MVNO"
-
-[[operators]]
-mnc = "11"
-plmn = "26811"
-operator = "Compatel, Limited"
-brand = ""
-
-[[operators]]
-mnc = "12"
-plmn = "26812"
-operator = "Infraestruturas de Portugal, S.A."
-brand = ""
-bands = "GSM-R"
-
-[[operators]]
-mnc = "13"
-plmn = "26813"
-operator = "G9Telecom, S.A."
-brand = ""
-
-[[operators]]
-mnc = "21"
-plmn = "26821"
-operator = "Zapp Portugal"
-brand = "Zapp"
-bands = "CDMA2000 450"
-
-[[operators]]
-mnc = "80"
-plmn = "26880"
-operator = "Telecomunicações Móveis Nacionais"
-brand = "MEO"
-
-[[operators]]
-mnc = "91"
-plmn = "26891"
-operator = "Vodafone Portugal"
-brand = "Vodafone"

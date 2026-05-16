@@ -4,13 +4,6 @@ iso = "TZ"
 region = "Africa"
 
 [[operators]]
-mnc = "01"
-plmn = "64001"
-operator = "Rural NetCo Limited"
-brand = ""
-bands = "UMTS 900"
-
-[[operators]]
 mnc = "02"
 plmn = "64002"
 operator = "MIC Tanzania Limited"
@@ -25,76 +18,3 @@ gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["Yas"]
 profile_names = ["profilename"]
-
-[[operators]]
-mnc = "03"
-plmn = "64003"
-operator = "Zanzibar Telecom Ltd"
-brand = "Zantel"
-tadig = "TZAZN"
-bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
-
-[[operators]]
-mnc = "04"
-plmn = "64004"
-operator = "Vodacom Tanzania Limited"
-brand = "Vodacom"
-tadig = "TZAVC"
-bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
-
-[[operators]]
-mnc = "05"
-plmn = "64005"
-operator = "Bharti Airtel"
-brand = "Airtel"
-tadig = "TZACT"
-bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 700"
-
-[[operators]]
-mnc = "06"
-plmn = "64006"
-operator = "Dovetel Limited"
-brand = "Sasatel (Dovetel)"
-bands = "CDMA 800"
-
-[[operators]]
-mnc = "07"
-plmn = "64007"
-operator = "Tanzania Telecommunication Company LTD (TTCL)"
-brand = "TTCL Mobile"
-bands = "CDMA 800 / UMTS 2100 / LTE 1800 / TD-LTE 2300"
-
-[[operators]]
-mnc = "08"
-plmn = "64008"
-operator = "Benson Informatics Limited"
-brand = "Smart"
-tadig = "TZAYA"
-bands = "TD-LTE 2300"
-
-[[operators]]
-mnc = "09"
-plmn = "64009"
-operator = "Viettel Tanzania Limited"
-brand = "Halotel"
-tadig = "TZAVG"
-bands = "GSM 900 / GSM 1800 / UMTS 2100"
-
-[[operators]]
-mnc = "11"
-plmn = "64011"
-operator = "Smile Telecoms Holdings Ltd."
-brand = "SmileCom"
-bands = "LTE 800"
-
-[[operators]]
-mnc = "12"
-plmn = "64012"
-operator = "MyCell Limited"
-brand = ""
-
-[[operators]]
-mnc = "13"
-plmn = "64013"
-operator = "Wiafrica Tanzania Limited"
-brand = "Cootel"

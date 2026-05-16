@@ -4,13 +4,6 @@ iso = "NZ"
 region = "Oceania"
 
 [[operators]]
-mnc = "00"
-plmn = "53000"
-operator = "Telecom New Zealand"
-brand = "Telecom"
-bands = "AMPS 800 / TDMA 800"
-
-[[operators]]
 mnc = "01"
 plmn = "53001"
 operator = "Vodafone New Zealand"
@@ -39,27 +32,6 @@ profile_provider_names = []
 profile_names = ["One NZ"]
 
 [[operators]]
-mnc = "02"
-plmn = "53002"
-operator = "Telecom New Zealand"
-brand = "Telecom"
-bands = "CDMA2000 800"
-
-[[operators]]
-mnc = "03"
-plmn = "53003"
-operator = "Woosh Wireless"
-brand = "Woosh"
-bands = "UMTS-TDD 2000"
-
-[[operators]]
-mnc = "04"
-plmn = "53004"
-operator = "TelstraClear New Zealand"
-brand = "Vodafone"
-bands = "UMTS 2100"
-
-[[operators]]
 mnc = "05"
 plmn = "53005"
 operator = "Spark New Zealand"
@@ -74,19 +46,6 @@ gid1 = "42ffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["Skinny", "Spark"]
 profile_names = ["Skinny", "Spark eSIM"]
-
-[[operators]]
-mnc = "06"
-plmn = "53006"
-operator = "Spark New Zealand"
-brand = "Skinny"
-bands = "MVNO"
-
-[[operators]]
-mnc = "07"
-plmn = "53007"
-operator = "Bluereach Limited"
-brand = ""
 
 [[operators]]
 mnc = "24"

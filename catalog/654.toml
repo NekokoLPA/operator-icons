@@ -4,14 +4,6 @@ iso = "KM"
 region = "Africa"
 
 [[operators]]
-mnc = "01"
-plmn = "65401"
-operator = "Comores Telecom"
-brand = "HURI"
-tadig = "COMHR"
-bands = "GSM 900 / UMTS 900"
-
-[[operators]]
 mnc = "02"
 plmn = "65402"
 operator = "Telecom Malagasy (Telma)"

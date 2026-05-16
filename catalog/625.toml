@@ -4,14 +4,6 @@ iso = "CV"
 region = "Africa"
 
 [[operators]]
-mnc = "01"
-plmn = "62501"
-operator = "CVMóvel, S.A."
-brand = "CVMOVEL"
-tadig = "CPVCV"
-bands = "GSM 900 / UMTS 2100 / LTE 800"
-
-[[operators]]
 mnc = "02"
 plmn = "62502"
 operator = "UNITEL T+ TELECOMUNICACÕES, S.A."

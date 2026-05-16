@@ -4,14 +4,6 @@ iso = "DK"
 region = "Europe"
 
 [[operators]]
-mnc = "01"
-plmn = "23801"
-operator = "TDC A/S"
-brand = "TDC"
-tadig = "DNKTD"
-bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
-
-[[operators]]
 mnc = "02"
 plmn = "23802"
 operator = "Telenor Denmark"
@@ -32,25 +24,6 @@ gid1 = "ff"
 gid2 = "ff"
 profile_provider_names = ["Lebara"]
 profile_names = ["Lebara"]
-
-[[operators]]
-mnc = "03"
-plmn = "23803"
-operator = "Syniverse Technologies"
-brand = ""
-
-[[operators]]
-mnc = "04"
-plmn = "23804"
-operator = "NextGen Mobile Ltd T/A CardBoardFish"
-brand = ""
-
-[[operators]]
-mnc = "05"
-plmn = "23805"
-operator = "Dansk Beredskabskommunikation A/S"
-brand = "TetraNet"
-bands = "TETRA"
 
 [[operators]]
 mnc = "06"
@@ -75,40 +48,6 @@ profile_provider_names = ["OiSTER"]
 profile_names = ["ESIM_DK.42.27_QR_DIGITAL"]
 
 [[operators]]
-mnc = "07"
-plmn = "23807"
-operator = "Mundio Mobile (Denmark) Limited"
-brand = "Vectone Mobile"
-bands = "MVNO"
-
-[[operators]]
-mnc = "08"
-plmn = "23808"
-operator = "Voxbone mobile"
-brand = "Voxbone"
-bands = "MVNO"
-
-[[operators]]
-mnc = "09"
-plmn = "23809"
-operator = "Dansk Beredskabskommunikation A/S"
-brand = "SINE"
-bands = "TETRA"
-
-[[operators]]
-mnc = "10"
-plmn = "23810"
-operator = "TDC A/S"
-brand = "TDC"
-
-[[operators]]
-mnc = "11"
-plmn = "23811"
-operator = "Dansk Beredskabskommunikation A/S"
-brand = "SINE"
-bands = "TETRA"
-
-[[operators]]
 mnc = "12"
 plmn = "23812"
 operator = "Lycamobile Denmark Ltd"
@@ -128,118 +67,3 @@ gid1 = "ffffffffffffffffffff"
 gid2 = ""
 profile_provider_names = ["LycaMobile"]
 profile_names = ["LycaMobile"]
-
-[[operators]]
-mnc = "13"
-plmn = "23813"
-operator = "Compatel Limited"
-brand = ""
-
-[[operators]]
-mnc = "14"
-plmn = "23814"
-operator = "Monty UK Global Limited"
-brand = ""
-
-[[operators]]
-mnc = "15"
-plmn = "23815"
-operator = "Ice Danmark ApS"
-brand = "Net 1"
-bands = "LTE 450"
-
-[[operators]]
-mnc = "16"
-plmn = "23816"
-operator = "Tismi B.V."
-brand = ""
-
-[[operators]]
-mnc = "17"
-plmn = "23817"
-operator = "Gotanet AB"
-brand = ""
-
-[[operators]]
-mnc = "18"
-plmn = "23818"
-operator = "Cubic Telecom"
-brand = ""
-
-[[operators]]
-mnc = "20"
-plmn = "23820"
-operator = "Telia"
-brand = "Telia"
-tadig = "DNKIA"
-bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
-
-[[operators]]
-mnc = "23"
-plmn = "23823"
-operator = "Banedanmark"
-brand = "GSM-R DK"
-bands = "GSM-R"
-
-[[operators]]
-mnc = "25"
-plmn = "23825"
-operator = "SMS Provider Corp."
-brand = "Viahub"
-bands = "MVNO"
-
-[[operators]]
-mnc = "28"
-plmn = "23828"
-operator = "LINK Mobile A/S"
-brand = ""
-
-[[operators]]
-mnc = "30"
-plmn = "23830"
-operator = "Interactive digital media GmbH"
-brand = ""
-
-[[operators]]
-mnc = "40"
-plmn = "23840"
-operator = "Ericsson Danmark A/S"
-brand = ""
-
-[[operators]]
-mnc = "42"
-plmn = "23842"
-operator = "Greenwave Mobile IoT ApS"
-brand = ""
-
-[[operators]]
-mnc = "43"
-plmn = "23843"
-operator = "MobiWeb Limited"
-brand = ""
-
-[[operators]]
-mnc = "66"
-plmn = "23866"
-operator = "TT-Netværket P/S"
-brand = ""
-bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600"
-
-[[operators]]
-mnc = "73"
-plmn = "23873"
-operator = "Onomondo ApS"
-brand = ""
-
-[[operators]]
-mnc = "77"
-plmn = "23877"
-operator = "Telenor Denmark"
-brand = "Telenor"
-bands = "GSM 900 / GSM 1800"
-
-[[operators]]
-mnc = "96"
-plmn = "23896"
-operator = "Telia Danmark"
-brand = "Telia"

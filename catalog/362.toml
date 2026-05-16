@@ -4,90 +4,6 @@ iso = "BQ/CW/SX"
 region = "North America and the Caribbean"
 
 [[operators]]
-mnc = "31"
-plmn = "36231"
-operator = "Eutel N.V."
-brand = ""
-bands = "GSM"
-
-[[operators]]
-mnc = "33"
-plmn = "36233"
-operator = "WICC N.V."
-brand = ""
-bands = "GSM"
-
-[[operators]]
-mnc = "51"
-plmn = "36251"
-operator = "Telcell N.V."
-brand = "Telcell"
-tadig = "ANTTC"
-bands = "GSM 900 / UMTS 2100 / LTE 1800"
-
-[[operators]]
-mnc = "54"
-plmn = "36254"
-operator = "East Caribbean Cellular"
-brand = "ECC"
-bands = "GSM 900 / GSM 1800"
-
-[[operators]]
-mnc = "59"
-plmn = "36259"
-operator = "United Telecommunication Service N.V. (UTS)"
-brand = "Chippie"
-bands = "GSM 900 / GSM 1800"
-
-[[operators]]
-mnc = "60"
-plmn = "36260"
-operator = "United Telecommunication Service N.V. (UTS)"
-brand = "Chippie"
-bands = "UMTS 2100 / LTE 1800"
-
-[[operators]]
-mnc = "63"
-plmn = "36263"
-operator = "CSC N.V."
-brand = ""
-
-[[operators]]
-mnc = "68"
-plmn = "36268"
-operator = "Curaçao Telecom N.V."
-brand = "Digicel"
-bands = "UMTS 2100 / LTE 1800"
-
-[[operators]]
-mnc = "69"
-plmn = "36269"
-operator = "Curaçao Telecom N.V."
-brand = "Digicel"
-tadig = "ANTCT"
-bands = "GSM 900 / GSM 1800"
-
-[[operators]]
-mnc = "74"
-plmn = "36274"
-operator = "PCS N.V."
-brand = ""
-
-[[operators]]
-mnc = "76"
-plmn = "36276"
-operator = "Antiliano Por N.V."
-brand = "Digicel"
-bands = "GSM 900 / UMTS 2100 / LTE 1800"
-
-[[operators]]
-mnc = "78"
-plmn = "36278"
-operator = "Telefonia Bonairiano N.V."
-brand = "Telbo"
-bands = "UMTS 900 / LTE 1800"
-
-[[operators]]
 mnc = "91"
 plmn = "36291"
 operator = "United Telecommunication Service N.V. (UTS)"
@@ -101,17 +17,3 @@ gid1 = ""
 gid2 = ""
 profile_provider_names = ["Liberty FLOW DC"]
 profile_names = []
-
-[[operators]]
-mnc = "94"
-plmn = "36294"
-operator = "Bòbò Frus N.V."
-brand = "Bayòs"
-bands = "TDMA PCS"
-
-[[operators]]
-mnc = "95"
-plmn = "36295"
-operator = "E.O.C.G. Wireless"
-brand = "MIO"
-bands = "CDMA2000 850"

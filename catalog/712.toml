@@ -20,13 +20,6 @@ profile_provider_names = ["Kolbi ICE"]
 profile_names = ["Perfil eSIM masivo para celulares"]
 
 [[operators]]
-mnc = "02"
-plmn = "71202"
-operator = "Instituto Costarricense de Electricidad"
-brand = "Kölbi ICE"
-bands = "GSM 1800 / UMTS 850 / LTE 1800 / LTE 2600"
-
-[[operators]]
 mnc = "03"
 plmn = "71203"
 operator = "Claro CR Telecomunicaciones (Aló)"
@@ -57,10 +50,3 @@ gid1 = "00"
 gid2 = ""
 profile_provider_names = ["Liberty CR"]
 profile_names = ["8950604508412850026F", "8950604508502480213F", "8950604508502496441F"]
-
-[[operators]]
-mnc = "20"
-plmn = "71220"
-operator = "Virtualis S.A."
-brand = "fullmóvil"
-bands = "MVNO"

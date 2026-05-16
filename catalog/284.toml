@@ -49,30 +49,3 @@ gid1 = ""
 gid2 = ""
 profile_provider_names = ["Yettel BG"]
 profile_names = ["Yettel eSIM"]
-
-[[operators]]
-mnc = "07"
-plmn = "28407"
-operator = "НАЦИОНАЛНА КОМПАНИЯ ЖЕЛЕЗОПЪТНА ИНФРАСТРУКТУРА"
-brand = "НКЖИ"
-bands = "GSM-R"
-
-[[operators]]
-mnc = "09"
-plmn = "28409"
-operator = "COMPATEL LIMITED"
-brand = ""
-
-[[operators]]
-mnc = "11"
-plmn = "28411"
-operator = "Bulsatcom"
-brand = ""
-bands = "LTE 1800"
-
-[[operators]]
-mnc = "13"
-plmn = "28413"
-operator = "Ti.com JSC"
-brand = "Ти.ком"
-bands = "LTE 1800"

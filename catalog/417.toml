@@ -33,9 +33,3 @@ gid1 = "ffffffff"
 gid2 = "ffffffff"
 profile_provider_names = ["MTN"]
 profile_names = ["MTN_HBSYMT020024_PROFILE_41702"]
-
-[[operators]]
-mnc = "09"
-plmn = "41709"
-operator = "Syrian Telecom"
-brand = ""

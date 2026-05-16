@@ -76,12 +76,6 @@ profile_provider_names = ["eSIM", "Yesim"]
 profile_names = ["S11 Applet 2.0 Pelephone Privileges", "Nexuce Test 03", "S11 Applet 2.0 PLMN List", "eSIM", "S11 Applet 2.0"]
 
 [[operators]]
-mnc = "04"
-plmn = "42504"
-operator = "Globalsim Ltd"
-brand = ""
-
-[[operators]]
 mnc = "05"
 plmn = "42505"
 operator = "Palestine Cellular Communications, Ltd."
@@ -129,13 +123,6 @@ profile_provider_names = ["HOT mobile"]
 profile_names = ["HOT mobile", "Hot Mobile HM_3.00"]
 
 [[operators]]
-mnc = "08"
-plmn = "42508"
-operator = "Golan Telecom Ltd."
-brand = "Golan Telecom"
-bands = "UMTS 2100 / LTE 1800"
-
-[[operators]]
 mnc = "09"
 plmn = "42509"
 operator = "Marathon 018 Xphone Ltd."
@@ -149,20 +136,6 @@ gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["wecom"]
 profile_names = ["wecom"]
-
-[[operators]]
-mnc = "10"
-plmn = "42510"
-operator = "Partner Communications Company Ltd."
-brand = "Partner"
-bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800"
-
-[[operators]]
-mnc = "11"
-plmn = "42511"
-operator = "365 Telecom"
-brand = ""
-bands = "MVNO"
 
 [[operators]]
 mnc = "12"
@@ -180,47 +153,6 @@ profile_provider_names = ["Widely-Mobile"]
 profile_names = ["Widely_Mobile_SI_eSIM-Free_Telecom_2025-06-15_OAS00009_Qty1000", "WidelyMobile_eUICC_v01.00_Order02.4_Tripletel_5000", "WidelyMobile_SI_eSIM_Tripletel_2025-07-09_OAS00010_Qty_5K"]
 
 [[operators]]
-mnc = "13"
-plmn = "42513"
-operator = "Ituran Cellular Communications"
-brand = ""
-
-[[operators]]
-mnc = "14"
-plmn = "42514"
-operator = "Alon Cellular Ltd."
-brand = "Youphone"
-bands = "MVNO"
-
-[[operators]]
-mnc = "15"
-plmn = "42515"
-operator = "Home Cellular Ltd."
-brand = "Home Cellular"
-bands = "MVNO"
-
-[[operators]]
-mnc = "16"
-plmn = "42516"
-operator = "Rami Levy Communications Ltd."
-brand = "Rami Levy"
-bands = "MVNO"
-
-[[operators]]
-mnc = "17"
-plmn = "42517"
-operator = "Gale Phone"
-brand = "Sipme"
-bands = "MVNO"
-
-[[operators]]
-mnc = "18"
-plmn = "42518"
-operator = "Cellact Communications Ltd."
-brand = "Cellact Communications"
-bands = "MVNO"
-
-[[operators]]
 mnc = "19"
 plmn = "42519"
 operator = "019 Communication Services Ltd. / TELZAR"
@@ -236,12 +168,6 @@ profile_provider_names = ["019Mobile"]
 profile_names = ["019Mobile Esim"]
 
 [[operators]]
-mnc = "20"
-plmn = "42520"
-operator = "Bezeq The Israeli Telecommunication Corp Ltd."
-brand = "Bezeq"
-
-[[operators]]
 mnc = "21"
 plmn = "42521"
 operator = "B.I.P. Communications Ltd."
@@ -254,26 +180,6 @@ gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["xphone"]
 profile_names = ["Activate eSIM eSIM from xphone is ready for this iPhone"]
-
-[[operators]]
-mnc = "23"
-plmn = "42523"
-operator = "Beezz Communication Solutions Ltd."
-brand = ""
-
-[[operators]]
-mnc = "24"
-plmn = "42524"
-operator = "Partner Communications Company Ltd."
-brand = "012 Mobile"
-bands = "MVNO"
-
-[[operators]]
-mnc = "25"
-plmn = "42525"
-operator = "Israel Ministry of Defense"
-brand = "IMOD"
-bands = "LTE"
 
 [[operators]]
 mnc = "26"
@@ -295,16 +201,3 @@ gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["Annatel"]
 profile_names = ["Annatel_Israel_SI_v01.03.01"]
-
-[[operators]]
-mnc = "28"
-plmn = "42528"
-operator = "PHI Networks"
-brand = ""
-bands = "LTE 1800"
-
-[[operators]]
-mnc = "29"
-plmn = "42529"
-operator = "CG Networks"
-brand = ""

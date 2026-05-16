@@ -36,13 +36,6 @@ profile_provider_names = ["Bakcell"]
 profile_names = ["Bakcell_Azerbaijan_v01.01.01"]
 
 [[operators]]
-mnc = "03"
-plmn = "40003"
-operator = "CATEL"
-brand = "FONEX"
-bands = "CDMA 450"
-
-[[operators]]
 mnc = "04"
 plmn = "40004"
 operator = "Azerfon"
@@ -57,17 +50,3 @@ gid1 = "ff"
 gid2 = "ff"
 profile_provider_names = ["Azerfon"]
 profile_names = ["Azerfon_Azerbaijan_v01.01.00"]
-
-[[operators]]
-mnc = "05"
-plmn = "40005"
-operator = "Special State Protection Service of the Republic of Azerbaijan"
-brand = ""
-bands = "TETRA?"
-
-[[operators]]
-mnc = "06"
-plmn = "40006"
-operator = "Nakhtel LLC"
-brand = "Naxtel"
-bands = "CDMA 800 / LTE 800 / LTE 900 / LTE 1800"

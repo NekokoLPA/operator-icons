@@ -20,13 +20,6 @@ profile_provider_names = ["Vodafone ES"]
 profile_names = ["Vodafone ES eSIM"]
 
 [[operators]]
-mnc = "02"
-plmn = "21402"
-operator = "Alta Tecnologia en Comunicacions SL"
-brand = "Altecom/Fibracat"
-bands = "TD-LTE 2600"
-
-[[operators]]
 mnc = "03"
 plmn = "21403"
 operator = "Orange Espagne S.A.U"
@@ -133,99 +126,6 @@ icon = "movistar"
 icon_scope = "214"
 
 [[operators]]
-mnc = "08"
-plmn = "21408"
-brand = "Euskaltel"
-bands = "MVNO"
-
-[[operators]]
-mnc = "09"
-plmn = "21409"
-operator = "Orange Espagne S.A.U"
-brand = "Orange"
-bands = "MVNO"
-
-[[operators]]
-mnc = "10"
-plmn = "21410"
-operator = "ZINNIA TELECOMUNICACIONES, S.L.U."
-brand = ""
-
-[[operators]]
-mnc = "11"
-plmn = "21411"
-operator = "TELECOM CASTILLA-LA MANCHA, S.A."
-brand = ""
-
-[[operators]]
-mnc = "12"
-plmn = "21412"
-operator = "SAC CONVERGENT AGGREGATION SERVICES, S.L.U."
-brand = ""
-
-[[operators]]
-mnc = "13"
-plmn = "21413"
-operator = "SYMA MOBILE ESPAÑA, S.L."
-brand = ""
-bands = "MVNO"
-
-[[operators]]
-mnc = "14"
-plmn = "21414"
-operator = "Incotel Servicioz Avanzados SL"
-brand = ""
-
-[[operators]]
-mnc = "15"
-plmn = "21415"
-operator = "BT Group España Compañia de Servicios Globales de Telecomunicaciones S.A.U."
-brand = "BT"
-bands = "MVNO"
-
-[[operators]]
-mnc = "16"
-plmn = "21416"
-operator = "R Cable y Telecomunicaciones Galicia S.A."
-brand = "TeleCable"
-bands = "MVNO"
-
-[[operators]]
-mnc = "17"
-plmn = "21417"
-operator = "R Cable y Telecomunicaciones Galicia S.A."
-brand = "Móbil R"
-bands = "MVNO"
-
-[[operators]]
-mnc = "18"
-plmn = "21418"
-operator = "Vodafone Spain"
-brand = "ONO"
-bands = "MVNO"
-
-[[operators]]
-mnc = "19"
-plmn = "21419"
-operator = "Orange España Virtual Sl."
-brand = "Simyo"
-bands = "MVNO"
-
-[[operators]]
-mnc = "20"
-plmn = "21420"
-operator = "Fonyou Telecom S.L."
-brand = "Fonyou"
-bands = "MVNO"
-
-[[operators]]
-mnc = "21"
-plmn = "21421"
-operator = "Orange Espagne S.A.U."
-brand = "Jazztel"
-bands = "MVNO"
-
-[[operators]]
 mnc = "22"
 plmn = "21422"
 operator = "Best Spain Telecom"
@@ -241,79 +141,6 @@ profile_provider_names = ["Digi.Mobil"]
 profile_names = ["Digi.Mobil"]
 
 [[operators]]
-mnc = "23"
-plmn = "21423"
-operator = "Xfera Moviles S.A.U."
-brand = ""
-
-[[operators]]
-mnc = "24"
-plmn = "21424"
-operator = "VODAFONE ESPAÑA, S.A.U."
-brand = ""
-bands = "MVNO"
-
-[[operators]]
-mnc = "25"
-plmn = "21425"
-operator = "LycaMobile S.L."
-brand = "Lycamobile"
-bands = "MVNO"
-
-[[operators]]
-mnc = "26"
-plmn = "21426"
-operator = "Lleida Networks Serveis Telemátics, SL"
-brand = ""
-
-[[operators]]
-mnc = "27"
-plmn = "21427"
-operator = "SCN Truphone, S.L."
-brand = "Truphone"
-bands = "MVNO"
-
-[[operators]]
-mnc = "28"
-plmn = "21428"
-operator = "Consorcio de Telecomunicaciones Avanzadas, S.A."
-brand = "Murcia4G"
-bands = "TD-LTE 2600"
-
-[[operators]]
-mnc = "29"
-plmn = "21429"
-operator = "Xfera Moviles S.A.U."
-brand = ""
-bands = "TD-LTE 3500"
-
-[[operators]]
-mnc = "30"
-plmn = "21430"
-operator = "Compatel Limited"
-brand = ""
-
-[[operators]]
-mnc = "31"
-plmn = "21431"
-operator = "Red Digital De Telecomunicaciones de las Islas Baleares, S.L."
-brand = ""
-
-[[operators]]
-mnc = "32"
-plmn = "21432"
-operator = "Telefónica Móviles España"
-brand = "Tuenti"
-bands = "MVNO"
-
-[[operators]]
-mnc = "33"
-plmn = "21433"
-operator = "Xfera Móviles, S.A.U."
-brand = ""
-bands = "WiMAX"
-
-[[operators]]
 mnc = "34"
 plmn = "21434"
 operator = "Aire Networks del Mediterráneo, S.L.U."
@@ -327,36 +154,3 @@ gid1 = "01"
 gid2 = ""
 profile_provider_names = ["mobile"]
 profile_names = ["AireNetworksIPP"]
-
-[[operators]]
-mnc = "35"
-plmn = "21435"
-operator = "INGENIUM OUTSOURCING SERVICES, S.L."
-brand = ""
-bands = "MVNO"
-
-[[operators]]
-mnc = "36"
-plmn = "21436"
-operator = "ALAI OPERADOR DE TELECOMUNICACIONES, S.L"
-brand = ""
-bands = "MVNO"
-
-[[operators]]
-mnc = "37"
-plmn = "21437"
-operator = "Vodafone Spain"
-brand = ""
-
-[[operators]]
-mnc = "38"
-plmn = "21438"
-operator = "Telefónica Móviles España, S.A.U."
-brand = ""
-
-[[operators]]
-mnc = "51"
-plmn = "21451"
-operator = "Administrador de Infraestructuras Ferroviarias"
-brand = "ADIF"
-bands = "GSM-R"

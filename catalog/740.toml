@@ -18,26 +18,3 @@ gid1 = "01"
 gid2 = ""
 profile_provider_names = ["Movistar Ecuador"]
 profile_names = []
-
-[[operators]]
-mnc = "01"
-plmn = "74001"
-operator = "CONECEL S.A."
-brand = "Claro"
-tadig = "ECUPG"
-bands = "GSM 850 / UMTS 850 / UMTS 1900 / LTE 1700"
-
-[[operators]]
-mnc = "02"
-plmn = "74002"
-operator = "Corporación Nacional de Telecomunicaciones (CNT EP)"
-brand = "CNT Mobile"
-tadig = "ECUAL"
-bands = "GSM 1900 / UMTS 1900 / LTE 1700"
-
-[[operators]]
-mnc = "03"
-plmn = "74003"
-operator = "Otecel S.A."
-brand = "Tuenti"
-bands = "MVNO"

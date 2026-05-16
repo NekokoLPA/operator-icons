@@ -51,20 +51,6 @@ profile_provider_names = ["4KA"]
 profile_names = ["Swan eSIM"]
 
 [[operators]]
-mnc = "04"
-plmn = "23104"
-operator = "Slovak Telekom"
-brand = "Telekom"
-bands = "GSM 900 / GSM 1800 / UMTS 2100"
-
-[[operators]]
-mnc = "05"
-plmn = "23105"
-operator = "Orange Slovensko"
-brand = "Orange"
-bands = "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100"
-
-[[operators]]
 mnc = "06"
 plmn = "23106"
 operator = "O2 Slovakia"
@@ -79,34 +65,3 @@ gid1 = "ffffffffffffffffffff"
 gid2 = "ffffffffffffffffffff"
 profile_provider_names = ["Radost", "O2 SK"]
 profile_names = ["O2 SK eSIM"]
-
-[[operators]]
-mnc = "07"
-plmn = "23107"
-operator = "Towercom, a. s."
-brand = ""
-
-[[operators]]
-mnc = "08"
-plmn = "23108"
-operator = "Uniphone, s.r.o."
-brand = ""
-
-[[operators]]
-mnc = "09"
-plmn = "23109"
-operator = "DSI DATA, a.s."
-brand = ""
-
-[[operators]]
-mnc = "10"
-plmn = "23110"
-operator = "HMZ RÁDIOKOMUNIKÁCIE, spol. s r.o."
-brand = ""
-
-[[operators]]
-mnc = "99"
-plmn = "23199"
-operator = "Železnice Slovenskej Republiky"
-brand = "ŽSR"
-bands = "GSM-R"

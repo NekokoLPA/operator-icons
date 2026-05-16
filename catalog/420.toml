@@ -112,10 +112,3 @@ gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["RedbullMobile"]
 profile_names = ["ES2plus use case"]
-
-[[operators]]
-mnc = "21"
-plmn = "42021"
-operator = "Saudi Railways GSM"
-brand = "RGSM"
-bands = "GSM-R 900"

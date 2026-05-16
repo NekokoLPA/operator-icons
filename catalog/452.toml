@@ -60,13 +60,6 @@ profile_provider_names = ["VINAPHONE"]
 profile_names = ["VNPT eSIM 01"]
 
 [[operators]]
-mnc = "03"
-plmn = "45203"
-operator = "S-Telecom"
-brand = "S-Fone"
-bands = "CDMA2000 800"
-
-[[operators]]
 mnc = "04"
 plmn = "45204"
 operator = "Viettel Telecom"
@@ -103,20 +96,6 @@ gid1 = "ffffffff"
 gid2 = "ffffffff"
 profile_provider_names = ["Vietnamobile"]
 profile_names = ["profilename", "Vietnamobile", "KGVNVM020002_VietnaMobile KG eSIM"]
-
-[[operators]]
-mnc = "06"
-plmn = "45206"
-operator = "EVN Telecom"
-brand = "EVNTelecom"
-bands = "CDMA2000 450"
-
-[[operators]]
-mnc = "07"
-plmn = "45207"
-operator = "GTEL Mobile JSC"
-brand = "Gmobile"
-bands = "GSM 1800"
 
 [[operators]]
 mnc = "08"

@@ -20,13 +20,6 @@ profile_provider_names = ["Epic Communications Limited"]
 profile_names = []
 
 [[operators]]
-mnc = "11"
-plmn = "27811"
-operator = "YOM Ltd."
-brand = ""
-bands = "MVNO"
-
-[[operators]]
 mnc = "21"
 plmn = "27821"
 operator = "Mobile Communications Limited"
@@ -41,12 +34,6 @@ gid1 = ""
 gid2 = ""
 profile_provider_names = ["gomobile"]
 profile_names = ["GO eSIM"]
-
-[[operators]]
-mnc = "30"
-plmn = "27830"
-operator = "Mobile Communications Limited"
-brand = "GO"
 
 [[operators]]
 mnc = "77"

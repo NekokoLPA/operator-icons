@@ -18,31 +18,3 @@ gid1 = ""
 gid2 = ""
 profile_provider_names = ["NT"]
 profile_names = ["Profile Name"]
-
-[[operators]]
-mnc = "02"
-plmn = "42902"
-operator = "Ncell Pvt. Ltd."
-brand = "Ncell"
-tadig = "NPLM2"
-bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = []
-profile_names = ["Ncell eSIM"]
-
-[[operators]]
-mnc = "03"
-plmn = "42903"
-operator = "United Telecom Limited"
-brand = "UTL"
-bands = "CDMA2000 800"
-
-[[operators]]
-mnc = "04"
-plmn = "42904"
-operator = "Smart Telecom Pvt. Ltd. (STPL)"
-brand = "SmartCell"
-bands = "GSM 900 / LTE 1800"

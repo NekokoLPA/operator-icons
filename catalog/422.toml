@@ -42,12 +42,6 @@ profile_provider_names = ["Ooredoo"]
 profile_names = []
 
 [[operators]]
-mnc = "04"
-plmn = "42204"
-operator = "Oman Telecommunications Company"
-brand = "Omantel"
-
-[[operators]]
 mnc = "06"
 plmn = "42206"
 brand = "Vodafone Oman"

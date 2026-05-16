@@ -4,13 +4,6 @@ iso = "TT"
 region = "North America and the Caribbean"
 
 [[operators]]
-mnc = "12"
-plmn = "37412"
-operator = "TSTT"
-brand = "bmobile"
-bands = "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 1900 / TD-LTE 2500 / 5G 2500"
-
-[[operators]]
 mnc = "130"
 plmn = "374130"
 operator = "Digicel (Trinidad & Tobago) Limited"
@@ -25,10 +18,3 @@ gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["DIGICEL"]
 profile_names = []
-
-[[operators]]
-mnc = "140"
-plmn = "374140"
-operator = "LaqTel Ltd."
-brand = "Laqtel"
-bands = "CDMA"

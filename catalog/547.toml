@@ -4,27 +4,6 @@ iso = "PF"
 region = "Oceania"
 
 [[operators]]
-mnc = "05"
-plmn = "54705"
-operator = "VITI"
-brand = "Ora"
-bands = "WiMAX / LTE 800 / LTE 2600"
-
-[[operators]]
-mnc = "10"
-plmn = "54710"
-operator = "Mara Telecom"
-brand = ""
-bands = "GSM 900"
-
-[[operators]]
-mnc = "15"
-plmn = "54715"
-operator = "Pacific Mobile Telecom"
-brand = "Vodafone"
-bands = "GSM 900 / UMTS 900 / UMTS 2100"
-
-[[operators]]
 mnc = "20"
 plmn = "54720"
 operator = "Onati S.A.S."

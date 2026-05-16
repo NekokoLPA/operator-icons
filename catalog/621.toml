@@ -4,13 +4,6 @@ iso = "NG"
 region = "Africa"
 
 [[operators]]
-mnc = "00"
-plmn = "62100"
-operator = "Capcom"
-brand = ""
-bands = "LTE 1900"
-
-[[operators]]
 mnc = "20"
 plmn = "62120"
 operator = "Bharti Airtel Limited"
@@ -25,41 +18,6 @@ gid1 = ""
 gid2 = ""
 profile_provider_names = ["Airtel Nigeria", "AirTel Nigeria"]
 profile_names = ["Nigeria_VoLTE_v3", "Nokia6", "Airtel_Nigeria_Consumer"]
-
-[[operators]]
-mnc = "22"
-plmn = "62122"
-operator = "InterC Network Ltd."
-brand = "InterC"
-bands = "LTE 800"
-
-[[operators]]
-mnc = "24"
-plmn = "62124"
-operator = "Spectranet"
-brand = ""
-bands = "TD-LTE 2300"
-
-[[operators]]
-mnc = "25"
-plmn = "62125"
-operator = "Visafone Communications Ltd."
-brand = "Visafone"
-bands = "CDMA2000 800 / CDMA2000 1900"
-
-[[operators]]
-mnc = "26"
-plmn = "62126"
-operator = "Swift"
-brand = ""
-bands = "TD-LTE 2300"
-
-[[operators]]
-mnc = "27"
-plmn = "62127"
-operator = "Smile Communications Nigeria"
-brand = "Smile"
-bands = "LTE 800"
 
 [[operators]]
 mnc = "30"
@@ -84,14 +42,6 @@ profile_provider_names = ["MTN Nigeria"]
 profile_names = ["MTN_NG_ESIM_GD"]
 
 [[operators]]
-mnc = "40"
-plmn = "62140"
-operator = "Nigerian Mobile Telecommunications Limited"
-brand = "Ntel"
-tadig = "NGANT"
-bands = "LTE 900 / LTE 1800"
-
-[[operators]]
 mnc = "50"
 plmn = "62150"
 operator = "Globacom Ltd"
@@ -106,14 +56,6 @@ gid1 = "ffffffffffffffff"
 gid2 = "ffffffffffffffff"
 profile_provider_names = ["Glo Nigeria"]
 profile_names = ["GLON0013.01_eSIM_20240626_USIM4GProduct_without_CX"]
-
-[[operators]]
-mnc = "60"
-plmn = "62160"
-operator = "Emerging Markets Telecommunication Services Ltd."
-brand = "9mobile"
-tadig = "NGAEM"
-bands = "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800"
 
 [[operators]]
 mnc = "74"

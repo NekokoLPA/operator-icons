@@ -52,84 +52,6 @@ profile_provider_names = ["Salt"]
 profile_names = ["Salt-eSIM"]
 
 [[operators]]
-mnc = "05"
-plmn = "22805"
-operator = "Comfone AG"
-brand = ""
-
-[[operators]]
-mnc = "06"
-plmn = "22806"
-operator = "SBB AG"
-brand = "SBB-CFF-FFS"
-bands = "GSM-R 900"
-
-[[operators]]
-mnc = "07"
-plmn = "22807"
-operator = "IN&Phone SA"
-brand = "IN&Phone"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "08"
-plmn = "22808"
-operator = "TelCommunication Services AG"
-brand = "Tele4u"
-bands = "GSM 1800"
-
-[[operators]]
-mnc = "09"
-plmn = "22809"
-operator = "Comfone AG"
-brand = ""
-
-[[operators]]
-mnc = "10"
-plmn = "22810"
-operator = "Stadt Polizei Zürich"
-brand = ""
-
-[[operators]]
-mnc = "11"
-plmn = "22811"
-operator = "Swisscom Broadcast AG"
-brand = ""
-
-[[operators]]
-mnc = "12"
-plmn = "22812"
-operator = "Sunrise Communications AG"
-brand = "Sunrise"
-
-[[operators]]
-mnc = "50"
-plmn = "22850"
-operator = "3G Mobile AG"
-brand = ""
-bands = "UMTS 2100"
-
-[[operators]]
-mnc = "51"
-plmn = "22851"
-operator = "relario AG"
-brand = ""
-bands = "MVNO"
-
-[[operators]]
-mnc = "52"
-plmn = "22852"
-operator = "Barablu"
-brand = "Barablu"
-
-[[operators]]
-mnc = "53"
-plmn = "22853"
-operator = "UPC Schweiz GmbH"
-brand = "upc cablecom"
-bands = "MVNO"
-
-[[operators]]
 mnc = "54"
 plmn = "22854"
 operator = "Lycamobile AG"
@@ -151,24 +73,6 @@ profile_provider_names = ["LycaMobile"]
 profile_names = ["LycaMobile"]
 
 [[operators]]
-mnc = "55"
-plmn = "22855"
-operator = "WeMobile SA"
-brand = ""
-
-[[operators]]
-mnc = "56"
-plmn = "22856"
-operator = "SMSRelay AG"
-brand = ""
-
-[[operators]]
-mnc = "57"
-plmn = "22857"
-operator = "Mitto AG"
-brand = ""
-
-[[operators]]
 mnc = "58"
 plmn = "22858"
 operator = "Beeone Communications SA"
@@ -184,56 +88,6 @@ profile_provider_names = ["eSIM"]
 profile_names = []
 
 [[operators]]
-mnc = "59"
-plmn = "22859"
-operator = "Mundio Mobile Limited"
-brand = "Vectone"
-bands = "MVNO"
-
-[[operators]]
-mnc = "60"
-plmn = "22860"
-operator = "Sunrise Communications AG"
-brand = "Sunrise"
-
-[[operators]]
-mnc = "61"
-plmn = "22861"
-operator = "Compatel Ltd."
-brand = ""
-
-[[operators]]
-mnc = "62"
-plmn = "22862"
-operator = "Telecom26 AG"
-brand = ""
-bands = "MVNO"
-
-[[operators]]
-mnc = "63"
-plmn = "22863"
-operator = "Fink Telecom Services"
-brand = "FTS"
-
-[[operators]]
-mnc = "64"
-plmn = "22864"
-operator = "Nth AG"
-brand = ""
-bands = "MVNO"
-
-[[operators]]
-mnc = "65"
-plmn = "22865"
-brand = ""
-
-[[operators.gids]]
-gid1 = "ffffffffffffffffffff"
-gid2 = "ffffffffffffffffffff"
-profile_provider_names = []
-profile_names = ["0007_Nexphone_v01.01.00"]
-
-[[operators]]
 mnc = "71"
 plmn = "22871"
 brand = "spusu"
@@ -245,9 +99,3 @@ gid1 = "0052"
 gid2 = ""
 profile_provider_names = ["spusu"]
 profile_names = ["spusu eSIM"]
-
-[[operators]]
-mnc = "99"
-plmn = "22899"
-operator = "Swisscom Broadcast AG"
-brand = ""

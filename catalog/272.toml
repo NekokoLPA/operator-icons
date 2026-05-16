@@ -52,46 +52,6 @@ profile_provider_names = ["eir", "GoMoWorld", "GoMo"]
 profile_names = ["GoMoWorld", "eir", "GoMo"]
 
 [[operators]]
-mnc = "04"
-plmn = "27204"
-operator = "Access Telecom"
-brand = ""
-
-[[operators]]
-mnc = "05"
-plmn = "27205"
-operator = "Hutchison 3G Ireland limited"
-brand = "3"
-tadig = "IRLH3"
-bands = "UMTS 2100 / LTE 800 / LTE 1800"
-
-[[operators]]
-mnc = "07"
-plmn = "27207"
-operator = "Eir Group plc"
-brand = "Eir"
-bands = "GSM 900 / GSM 1800 / UMTS 2100"
-
-[[operators]]
-mnc = "08"
-plmn = "27208"
-operator = "Eir Group plc"
-brand = "Eir"
-
-[[operators]]
-mnc = "09"
-plmn = "27209"
-operator = "Clever Communications Ltd."
-brand = ""
-
-[[operators]]
-mnc = "11"
-plmn = "27211"
-operator = "Liffey Telecom"
-brand = "Tesco Mobile"
-bands = "MVNO"
-
-[[operators]]
 mnc = "13"
 plmn = "27213"
 operator = "Lycamobile"
@@ -113,40 +73,6 @@ profile_provider_names = ["LycaMobile"]
 profile_names = ["LycaMobile"]
 
 [[operators]]
-mnc = "15"
-plmn = "27215"
-operator = "UPC"
-brand = "Virgin Mobile"
-bands = "MVNO"
-
-[[operators]]
-mnc = "16"
-plmn = "27216"
-operator = "Carphone Warehouse"
-brand = "Carphone Warehouse"
-bands = "MVNO"
-
-[[operators]]
-mnc = "17"
-plmn = "27217"
-operator = "Hutchison 3G Ireland limited"
-brand = "3"
-
-[[operators]]
-mnc = "18"
-plmn = "27218"
-operator = "Cubic Telecom Limited"
-brand = ""
-bands = "MVNO"
-
-[[operators]]
-mnc = "21"
-plmn = "27221"
-operator = "Net Feasa Limited"
-brand = ""
-bands = "MVNO"
-
-[[operators]]
 mnc = "25"
 plmn = "27225"
 brand = "Sky IE"
@@ -158,14 +84,3 @@ gid1 = "0d"
 gid2 = "ff"
 profile_provider_names = ["Sky IE"]
 profile_names = ["Sky IE"]
-
-[[operators]]
-mnc = "68"
-plmn = "27268"
-brand = "NLLP"
-
-[[operators.gids]]
-gid1 = "ffffffffffffffff"
-gid2 = "ffffffffffffffff"
-profile_provider_names = ["NLLP"]
-profile_names = []

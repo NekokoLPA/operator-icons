@@ -20,26 +20,6 @@ profile_provider_names = ["Yettel HU", "Telenor HU"]
 profile_names = ["Yettel HU", "Yettel eSIM"]
 
 [[operators]]
-mnc = "02"
-plmn = "21602"
-operator = "MVM Net Ltd."
-brand = ""
-bands = "LTE 450"
-
-[[operators]]
-mnc = "03"
-plmn = "21603"
-operator = "DIGI Telecommunication Ltd."
-brand = "DIGI"
-bands = "LTE 1800 / TD-LTE 3700"
-
-[[operators]]
-mnc = "04"
-plmn = "21604"
-operator = "Invitech ICT Services Ltd."
-brand = ""
-
-[[operators]]
 mnc = "30"
 plmn = "21630"
 operator = "Magyar Telekom Plc"
@@ -70,17 +50,3 @@ gid1 = "ff"
 gid2 = "ff"
 profile_provider_names = ["Vodafone HU"]
 profile_names = ["Vodafone HU eSIM"]
-
-[[operators]]
-mnc = "71"
-plmn = "21671"
-operator = "UPC Hungary Ltd."
-brand = "upc"
-bands = "MVNO"
-
-[[operators]]
-mnc = "99"
-plmn = "21699"
-operator = "Magyar Államvasutak"
-brand = "MAV GSM-R"
-bands = "GSM-R 900"

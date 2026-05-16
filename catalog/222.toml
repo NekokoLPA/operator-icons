@@ -50,36 +50,6 @@ profile_provider_names = ["Bondio", "H3"]
 profile_names = ["H3", "Cloud9_Global_Airalo", "lambda_dynamic", "single_imsi_dynamic"]
 
 [[operators]]
-mnc = "02"
-plmn = "22202"
-brand = "Elsacom"
-bands = "Satellite (Globalstar)"
-
-[[operators]]
-mnc = "04"
-plmn = "22204"
-brand = "Intermatica"
-
-[[operators]]
-mnc = "05"
-plmn = "22205"
-brand = "Telespazio"
-
-[[operators]]
-mnc = "06"
-plmn = "22206"
-operator = "Vodafone Italia S.p.A."
-brand = "Vodafone"
-bands = "5G 3500"
-
-[[operators]]
-mnc = "07"
-plmn = "22207"
-operator = "Noverca"
-brand = "Kena Mobile"
-bands = "MVNO"
-
-[[operators]]
 mnc = "08"
 plmn = "22208"
 operator = "Fastweb S.p.A."
@@ -117,27 +87,6 @@ profile_provider_names = ["ho.Mobile"]
 profile_names = ["eSIM ho.Mobile"]
 
 [[operators]]
-mnc = "30"
-plmn = "22230"
-operator = "Rete Ferroviaria Italiana"
-brand = "RFI"
-bands = "GSM-R 900"
-
-[[operators]]
-mnc = "33"
-plmn = "22233"
-operator = "Poste Mobile S.p.A."
-brand = "Poste Mobile"
-bands = "MVNO"
-
-[[operators]]
-mnc = "34"
-plmn = "22234"
-operator = "BT Italia"
-brand = "BT Italia"
-bands = "MVNO"
-
-[[operators]]
 mnc = "35"
 plmn = "22235"
 operator = "Lycamobile"
@@ -157,52 +106,6 @@ gid1 = "ffffffffffffffffffff"
 gid2 = ""
 profile_provider_names = ["LycaMobile"]
 profile_names = ["LycaMobile"]
-
-[[operators]]
-mnc = "36"
-plmn = "22236"
-operator = "Digi Italy S.r.l."
-brand = "Digi Mobil"
-bands = "MVNO"
-
-[[operators]]
-mnc = "37"
-plmn = "22237"
-operator = "Wind Tre"
-brand = "3 Italia"
-
-[[operators]]
-mnc = "38"
-plmn = "22238"
-operator = "Linkem S.p.A."
-brand = "LINKEM"
-bands = "TD-LTE 3500"
-
-[[operators]]
-mnc = "39"
-plmn = "22239"
-operator = "SMS Italia S.r.l."
-brand = "SMS Italia"
-
-[[operators]]
-mnc = "43"
-plmn = "22243"
-operator = "Telecom Italia S.p.A."
-brand = "TIM"
-bands = "5G 3500"
-
-[[operators]]
-mnc = "47"
-plmn = "22247"
-operator = "Tiscali S.p.A."
-brand = "Tiscali"
-bands = "TD-LTE 3500"
-
-[[operators]]
-mnc = "48"
-plmn = "22248"
-operator = "Telecom Italia S.p.A."
-brand = "TIM"
 
 [[operators]]
 mnc = "49"
@@ -251,12 +154,6 @@ profile_provider_names = ["CoopVoce"]
 profile_names = ["eSIM CoopVoce"]
 
 [[operators]]
-mnc = "54"
-plmn = "22254"
-brand = "Plintron"
-bands = "MVNO"
-
-[[operators]]
 mnc = "56"
 plmn = "22256"
 operator = "Mass Response GMBH"
@@ -276,12 +173,6 @@ gid1 = "c7ff"
 gid2 = ""
 profile_provider_names = ["spusu"]
 profile_names = ["spusu eSIM"]
-
-[[operators]]
-mnc = "77"
-plmn = "22277"
-brand = "IPSE 2000"
-bands = "UMTS 2100"
 
 [[operators]]
 mnc = "88"
@@ -304,18 +195,3 @@ gid1 = "ffffffffff"
 gid2 = "0000000000"
 profile_provider_names = ["Windtre"]
 profile_names = ["W3 GA", "W3 SOST"]
-
-[[operators]]
-mnc = "98"
-plmn = "22298"
-operator = "BLU S.p.A."
-brand = "BLU"
-bands = "GSM 900"
-
-[[operators]]
-mnc = "99"
-plmn = "22299"
-operator = "Wind Tre"
-brand = "3 Italia"
-tadig = "ITAH3"
-bands = "UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600"

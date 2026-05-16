@@ -4,27 +4,6 @@ iso = "PW"
 region = "Oceania"
 
 [[operators]]
-mnc = "01"
-plmn = "55201"
-operator = "Palau National Communications Corp."
-brand = "PNCC"
-bands = "GSM 900 / UMTS 900 / LTE 700"
-
-[[operators]]
-mnc = "02"
-plmn = "55202"
-operator = "Palau Equipment Company Inc."
-brand = "PT Waves"
-bands = "GSM 900"
-
-[[operators]]
-mnc = "80"
-plmn = "55280"
-operator = "Palau Mobile Corporation"
-brand = "Palau Mobile"
-bands = "GSM 1800"
-
-[[operators]]
 mnc = "99"
 plmn = "55299"
 operator = "Palau Mobile Communications Inc."

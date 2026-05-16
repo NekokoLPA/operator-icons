@@ -56,10 +56,3 @@ gid1 = ""
 gid2 = ""
 profile_provider_names = ["A1 Croatia"]
 profile_names = ["Prepaid eSIM"]
-
-[[operators]]
-mnc = "12"
-plmn = "21912"
-operator = "TELE FOCUS d.o.o."
-brand = ""
-bands = "MVNO"
